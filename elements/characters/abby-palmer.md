@@ -40,6 +40,8 @@ Through Eddie, she met Doogan. The three of them clicked immediately—Eddie's e
 
 She's the one who keeps everything running. She coordinates schedules, manages communications, handles client relations when Eddie oversells, and cleans up the inevitable messes. She's also the one who notices when Doogan's falling apart or when Eddie's avoiding something.
 
+She knows how to cook—and quite well—but doesn't particularly enjoy doing it. When the team gathers at her and Eddie's place, it's usually takeout (Thai, Italian, whatever Eddie orders). She saves her actual cooking for special occasions or when she's stress-baking (which she'll deny doing). *(Established in Episode 1, Scene 2)*
+
 Her friendship with Daphne predates the business—they met at a charity event years ago and bonded immediately. Daphne doesn't know she was Patient Zero, the first rebound job that proved the concept. Abby suspects but has never confirmed it, and the guys have never admitted it. It's the elephant in the room of their friendship.
 
 ---
@@ -54,6 +56,42 @@ Her friendship with Daphne predates the business—they met at a charity event y
   - Even her "loungewear" is coordinated (Eddie calls it "aggressive comfort")
   - Loves designer handbags and shoes (Eddie teases her about her closet being "retail therapy headquarters")
   - Always looks camera-ready even at 7 AM (which drives Eddie crazy with admiration)
+  
+### Fashion Anti-Patterns (CRITICAL FOR WRITERS)
+Abby's wardrobe reflects her upper-middle-class upbringing and impeccable taste. These are HARD RULES:
+
+**NEVER dress Abby in:**
+- ❌ Yoga pants (she owns them; she doesn't wear them around company)
+- ❌ Athleisure or activewear as casual wear
+- ❌ Sweatshirts, hoodies, or college gear
+- ❌ Anything mass-market or fast fashion
+- ❌ Schlubby, mismatched, or "didn't try" outfits
+
+**AT-HOME elevated style:**
+- ✅ Silk blouses in champagne, cream, soft metallics
+- ✅ Tailored linen pants or cigarette pants
+- ✅ Designer cashmere (but worn properly, not sloppy)
+- ✅ Delicate gold jewelry even at home
+- ✅ Bare feet on nice floors, or designer slides
+
+**The Leslie Mann principle:** Even in domestic scenes, she looks effortlessly put-together in a way that seems natural but is actually curated.
+
+### Home Environment Rules
+Abby's home reflects her taste. The Palmer house is NEVER:
+- ❌ "Lived-in" messy (mail stacks, old newspapers)
+- ❌ Cluttered with tchotchkes
+- ❌ Wedding photos on the fridge
+- ❌ Mismatched appliances
+- ❌ Dated fixtures or builder-grade finishes
+
+**The Palmer kitchen/home IS:**
+- ✅ Modern, stylish, curated
+- ✅ White quartz or marble countertops
+- ✅ Brushed nickel or brass fixtures
+- ✅ Fresh flowers (always)
+- ✅ Quality cookware displayed deliberately
+- ✅ Clean surfaces, styled vignettes
+- ✅ Designer touches that say "money and taste"
 - **Presence:** Confident, elegant, but also approachable—she can work a room or curl up on the couch with equal ease
 - **Distinctive Features:**
   - Killer smile that lights up her whole face

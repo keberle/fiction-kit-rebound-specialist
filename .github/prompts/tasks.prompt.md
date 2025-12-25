@@ -1,6 +1,6 @@
 # Draft Tasks — Actionable Work Items
 
-You are converting the structural plan into a set of actionable tasks.
+You are converting the structural plan into a set of actionable tasks with checkbox tracking.
 
 Each task must be small, clear, and directly tied to files in:
 - /elements (characters, tone, world, themes, etc.)
@@ -11,9 +11,10 @@ Each task must be small, clear, and directly tied to files in:
 ## Instructions
 
 - Read plan.md from the current draft folder.
-- Break the plan into discrete tasks.
+- Break the plan into discrete tasks with checkbox format.
 - Each task must:
   - Have a stable ID in the form `T###` (e.g., T001)
+  - Use checkbox format: `- [ ]` for incomplete, `- [X]` for complete
   - Reference specific files or directories
   - Describe the exact change required
   - Include acceptance criteria
@@ -37,16 +38,49 @@ Each task must be small, clear, and directly tied to files in:
 
 ---
 
-## Output Format
+## Checkbox Task Format
 
-**Task List:**
+**REQUIRED Format:**
+```text
+- [ ] **T###: [Task Name]** — [Brief description]
+  - **Files/Directories Affected:** [list]
+  - **Action:** [what to do]
+  - **Acceptance Criteria:** [bullet list of requirements]
+  - **Dependencies:** [prerequisite tasks]
+```
 
-For each task:
+**Examples:**
+```text
+- [ ] **T001: Setup Episode Structure** — Create episode file and metadata
+  - **Files/Directories Affected:** `content/episodes/episode-01-title.md`
+  - **Action:** Create new file with episode metadata header
+  - **Acceptance Criteria:**
+    - File created with proper title, episode number, and status
+    - Metadata includes theme and target word count
+  - **Dependencies:** None
 
-- **Task ID:**
-- **Task Name:**  
-- **Files/Directories Affected:**  
-- **Action:**  
-  (Rewrite, add, delete, rename, restructure, update metadata, etc.)
-- **Acceptance Criteria:**  
-- **Dependencies:** (optional)
+- [X] **T002: Write Opening Scene** — Draft the prologue scene
+  - **Files/Directories Affected:** `content/episodes/episode-01-title.md`
+  - **Action:** Add scene content (400-600 words)
+  - **Acceptance Criteria:**
+    - Scene establishes premise and character
+    - POV and tone guidelines followed
+    - Dialogue-driven as specified
+  - **Dependencies:** T001
+```
+
+## Task Summary Table
+
+Include a summary table showing:
+```text
+| Task ID | Task Name | Type | Status | Dependencies |
+|---------|-----------|------|---------|--------------|
+| T001 | Setup | Setup | ⏳ Pending | None |
+| T002 | Scene 1 | Draft | ✅ Complete | T001 |
+| T003 | Scene 2 | Draft | ⏳ Pending | T002 |
+```
+
+**Status Icons:**
+- ✅ Complete (task marked `[X]`)
+- ⏳ Pending (task marked `[ ]`)
+- 🚫 Blocked (dependencies incomplete)

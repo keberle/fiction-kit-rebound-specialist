@@ -14,7 +14,13 @@
 **Protagonist / "Rebound Specialist"**  
 Doogan is the reluctant star of an underground consulting operation that specializes in emotional transitions. Sometimes he's hired by worried friends to help someone damaged get back into dating. Other times it's a manager who needs their client distracted during a crucial project. Occasionally it's family members staging an intervention of the heart. Part emotional therapist, part con artist, and part hopeless romantic, he's the guy who genuinely understands people—and uses that gift in morally questionable ways.
 
-He's the beating heart of the operation, the one who actually connects with the targets (never "clients"—the clients are the ones who hire them). While Eddie handles logistics and Abby manages damage control, Doogan is the artist who reads people, adapts on the fly, and makes the impossible seem effortless. Whether the target is a heartbroken woman, a commitment-phobic man, or a celebrity spiraling after a breakup, Doogan becomes exactly what they need in that moment.
+He's the beating heart of the operation, the one who actually connects with the targets (never "clients"—the clients are the ones who hire them). While Eddie handles logistics and Abby manages damage control, Doogan is the artist who reads people, adapts on the fly, and makes the impossible seem effortless. He becomes exactly what his targets need in that moment.
+
+**Business Rules (Non-Negotiable):**
+- **Target Demographics:** Doogan ONLY works with heterosexual women as targets
+- **Age Parameters:** Targets must be well over 18 and age-appropriate (not senior citizens)
+- **Boundaries:** These are hard lines that Eddie and the team would never consider crossing—they're fundamental to how Doogan operates and who he can help
+- **Rationale:** Doogan's gift is understanding and connecting with women in emotional transition. These parameters define the scope of what he does and who he can genuinely help. *(Established throughout series)*
 
 ---
 
@@ -47,6 +53,7 @@ The money's good enough to quiet most of his doubts. The work keeps him distract
 - **Clothing Style:** Effortlessly casual but deliberate—worn-in jeans, tailored blazers over vintage t-shirts, always looks like he dressed without thinking but actually considers every choice
 - **Presence:** Has the Matthew McConaughey slouch—relaxed, approachable, "I've got all the time in the world for you"—but can snap to sharp focus when he's reading someone
 - **Car:** Drives a beat-up 1970 Mercury Cougar XR-7 convertible that looks almost as bad as it runs—faded paint, torn top, temperamental engine—but it's his and he loves it
+- **Covert Earpiece:** Wears a nearly invisible, military-grade communications device sourced by Baxter through questionably legal channels—comparable to CIA/Secret Service equipment. It's so small and flesh-toned that it's virtually undetectable even at close range. Uses bone conduction technology, allowing him to hear without traditional speakers. Doogan wears it almost constantly (except during intimate moments, sleeping, or showering), keeping him connected to the team—primarily Baxter—during operations. *(Established in Episode 1, Scene 2)*
 - **Distinctive Features:** 
   - A faint scar through his left eyebrow (origin unknown—he gives a different story every time)
   - Slight Southern lilt to his voice that gets stronger when he's being sincere
@@ -80,7 +87,7 @@ He blends Southern charm ("Now, darlin', let me ask you something...") with shar
 
 **Eddie Katz** – His business partner and the only person who makes him laugh at the absurdity of their operation. Eddie provides comic relief to Doogan's brooding. They balance each other—Eddie's all surface, Doogan's all depth. Eddie's constantly trying to convince him to upgrade the Cougar ("We can afford a car that doesn't require a prayer to start, you know"), but Doogan won't budge.
 
-**The Targets** – He connects with them genuinely, which is the problem. Whether it's a heartbroken actress, a divorced dad, or a commitment-phobe of any gender, he sees them, understands them, and gives them what they need in that moment. The line between performance and reality dissolves for him every single time.
+**The Targets** – He connects with them genuinely, which is the problem. Whether it's a heartbroken actress, a woman navigating a difficult divorce, or a commitment-phobe trying to move on, he sees them, understands them, and gives them what they need in that moment. The line between performance and reality dissolves for him every single time.
 
 **The Clients** – The people who hire them (friends, managers, family) often become complications. They have their own agendas, their own guilt, their own reasons for manipulating someone they claim to care about. Doogan judges them even as he takes their money.
 
@@ -115,7 +122,7 @@ Doogan's humor is wry, self-aware, and tinged with melancholy. He makes sardonic
 - [The First Job](../events/the-first-job.md) – Establishes his methodology and his conflict with the work
 - Future episodes will explore:
   - A job that goes wrong when he falls too hard
-  - A male target that forces him to examine his own emotional patterns
+  - A target whose situation mirrors his own past in uncomfortable ways
   - A client whose motives are darker than advertised
   - Abby discovering something about his past
   - A former target recognizing him

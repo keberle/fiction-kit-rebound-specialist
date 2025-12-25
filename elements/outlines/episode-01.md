@@ -5,8 +5,7 @@
 **Theme:** Doogan’s strange little business works—until it doesn’t.
 **Summary:** Doogan executes a clean “rebound” breakup, gets handed a new client (Sebastian LeClere) and a new target (Annabelle Anders), and clocks that the story they’re being sold doesn’t match the woman he meets. He gets in anyway. He wakes up with a badge in his face and a dead woman beside him.
 **Hook / Cold Open:** A breakup that feels weirdly… successful.
-**End-Button / Cliffhanger:** Doogan wakes up in a fog; Annabelle is dead.
----
+**End-Button / Cliffhanger:** Doogan wakes up in a fog; Annabelle is dead.**Setting Notes:** All scenes follow Southern California cultural norms (see `elements/setting.md`): car culture dominates, rideshare (Uber/Lyft) is standard, valet parking common at nice venues, no one hails taxis, locals use "the" before freeway numbers.---
 
 ## **1. Prologue — “The Dumping”**
 Purpose:
@@ -28,49 +27,69 @@ Doogan clocks the waiter’s "check?" gesture and playfully redirects—exit on 
 
 ## **2. Valet — Sweet Goodbye**
 Purpose:
-Show Doogan’s exit ritual (valet → Cougar), his small decency, and Eddie’s “handler” energy.  This is also a chance to show that Doogan has some ethics, despite the unethical nature of his business.
+Show Doogan's exit ritual (valet → Cougar), his small decency, and Eddie's "handler" energy. This is also a chance to show that Doogan has some ethics, despite the unethical nature of his business. **Establishes Doogan's military-grade covert earpiece that he wears almost constantly.**
 
 Beats:
 - Walk-and-talk to valet. Doogan tips, opens doors, says goodbye like it matters.
 - Nearby: a young couple implodes; the woman storms off.
-- Doogan to the young man: “The trick is knowing when to follow and when not to follow.” (This is a follow-her moment.)
+- Doogan to the young man: "The trick is knowing when to follow and when not to follow." (This is a follow-her moment.)
 - The 1970 Mercury Cougar convertible arrives—battered, beloved.
-- In-car call: Eddie checks in (earpiece tech from Baxter). Dinner invite; Doogan declines.
-- Eddie pitches two other jobs; Doogan finds them repugnant. The third is “less bad,” briefing tomorrow.
+- **Earpiece introduction:** Reveal Doogan's nearly invisible, CIA-level communications device (Baxter sourced it through questionably legal channels). Establish that Doogan wears it almost constantly—team can reach him anytime except when sleeping, showering, or intimate. Uses bone conduction, virtually undetectable.
+- In-car call: Eddie checks in through the earpiece. Dinner invite; Doogan initially declines.
+- Eddie pitches two jobs; Doogan rejects both.
+- Eddie mentions there's a third job—rich guy, office situation, usual thing—wants to discuss in person (not seeking Abby's input—she'll give it anyway).
+- Eddie bribes with Thai food (ordering takeout).
+- Doogan accepts the dinner invitation.
 
 Turn:
-Doogan tries to come down from the job; Eddie pulls him right back into the machine.
+Doogan tries to come down from the job; Eddie pulls him back in—but this time with an in-person meeting.
 
 Button:
-Cougar rolls into the night; Eddie’s “tomorrow” hangs there.
+Doogan heading to Eddie and Abby's place. "Which meant Abby would be there. Which meant she'd give us her take on it whether we wanted it or not. That usually meant trouble." **Earpiece stays in—always connected.**
 
 ---
 
-## **3. The New Client — Eddie's Briefing**
+## **3. Eddie & Abby's Kitchen — The New Client Briefing**
 Purpose:
-Introduce the trio dynamic (talent/handler/conscience) and tee up the job.
+First in-person introduction to Eddie and Abby, establish trio dynamic, tee up the Sebastian job.
 
-Beats:
-- Eddie briefs the client: Sebastian LeClere wants a clean break with his receptionist.
-- Doogan wants to say no; Eddie pushes need + money.
-- Abby drops in, judges them both, lands one clean line about the kind of men who hire them.
-- Eddie schedules the meet at Duke's Coffee (over-branded strip-mall "Hawaii"). Business casual. Maybe not the Cougar.
-- Doogan deflects. He's not ditching the car.
+How it plays:
+- Doogan arrives at Eddie and Abby's place (their home).
+- Scene set in their kitchen over Thai food.
+- First time audience meets Eddie and Abby in person.
+- Eddie briefs the Sebastian LeClere case: wealthy client, receptionist situation, wants clean break.
+- Doogan asks questions; Eddie provides details: Annabelle Anders, late twenties, Sebastian says she's pulling away.
+- Doogan's skeptical—something feels off about taking the job.
+- Abby teases both of them about the ethics of the business.
+- Abby points out they always meet these sketchy clients at obscure coffee places like Duke's Coffee.
+- Eddie confirms the meeting: tomorrow, Duke's Coffee, 10 AM, business casual.
+- Cougar joke/comment from Abby or Eddie.
+- Doogan reluctantly agrees to at least hear Sebastian out.
 
 Turn:
-Doogan agrees to hear Sebastian out—reluctantly.
+Doogan agrees to meet the client—reluctantly.
 
 Button:
-Abby’s “stay away from my friends” line lands; Eddie/Doogan exchange a look.
+Abby's sharp observation about their "sketchy client protocol" lands. Sets up Scene 4 (morning run).
+
+This scene tells the audience:
+**The trio's dynamics—Eddie the salesman, Doogan the reluctant artist, Abby the sharp conscience. Also establishes the Sebastian job details that were withheld in Scene 2.**
+
+Notes:
+- This is where all the Sebastian/Annabelle details get revealed
+- Abby's presence adds moral weight and comedy
+- Kitchen setting makes it domestic, intimate—contrasts with the sleazy work
+- Three-way banter should feel lived-in, comfortable
+- Scene must not repeat beats from Scene 2—it's the REVEAL of job details, not a summary
 
 ---
 
-## **4. Morning Run — Baxter in the Ear** [INDIRECT: Phone/earpiece conversation]
+## **4. Morning Run — Baxter in the Ear**
 Purpose:  
-Introduce Baxter, his dynamic with Doogan, and deliver backstory through dialogue. Also: locate Annabelle for the meet-cute.
+Introduce Baxter, his dynamic with Doogan, and deliver backstory through dialogue. Also: locate Annabelle for the meet-cute. **Demonstrates the earpiece in operational use.**
 
 How it plays:  
-- Doogan's morning run through the neighborhood. Earpiece tech (Baxter's design).
+- Doogan's morning run through the neighborhood. **Earpiece active—Baxter on comms (established in Scene 2).**
 - Baxter on comms: enthusiastic, a little starstruck, rapid-fire intel delivery.
 - Baxter is running searches on Annabelle Anders—she's weirdly hard to pin down online.
 - Doogan asks clarifying questions; Baxter bounces between browser tabs and databases.
@@ -87,6 +106,7 @@ How it plays:
 - Doogan deflects with humor: "The trick is not thinking about it too hard."
 - **Baxter** (suddenly excited): "Oh! Got something. I posed as a cosmetic company rep—got added to her Snapchat."
 - Annabelle shares her location; Instagram shows she frequents a specific spot.
+- And she has a white teacup poodle dog.  "Of course."
 - **Baxter**: "Farmer's Market. Saturday mornings. She posts from there constantly."
 - Doogan clocks the intel as he approaches the coffeehouse for the client meet.
 
@@ -94,20 +114,22 @@ This scene tells the audience:
 **Baxter idolizes Doogan, the business has comedic-cynical origins, and the team's research methods bend rules.**
 
 Notes:  
+- This scene should feel like a Sorkin single shot dialog sequence from shows like West Wing and Studio 60 but with Doogan running and Baxter talking in his ear instead.
 - Keep Baxter earnest and tech-focused; he's the kid who wants to impress the legend.
 - The first job story should feel like a fond memory with an edge of "we probably shouldn't have done that."
 - Doogan arrives at the coffeehouse as the scene ends, transitioning smoothly into the client meet.
 
 ---
 
-## **5. Coffeehouse Meet — "Sebastian LeClere"** [DIRECT: Doogan present]
+## **5. Coffeehouse Meet — "Sebastian LeClere"**
 Purpose:  
 Introduce the villain persona and give Doogan his first "something's off" moment.
 
 How it plays:  
 - Doogan arrives in running gear at Duke's Coffee.
 - Eddie and Sebastian are already at a table—Eddie waves him over.
-- Doogan claims the running gear is cover for a "chance" bump-in later.
+- Eddie comments on the lack of business casual
+- Doogan points out that his car is at home at least but then clarifies that the running gear is cover for a "chance" bump-in later.
 - Sebastian is impressed… but doesn't know basic details about his own receptionist.
 - Sebastian is too polished. Too rehearsed. Doogan feels it and hates that he can't name it.
 - Sebastian says he isn't married; he just can't have office mess.
@@ -146,7 +168,7 @@ Note:
 
 ## **7. The Meet Cute Debrief — Looking for more background information** 
 Purpose:  
-Let Doogan articulate the mismatch: Sebastian's story doesn't fit Annabelle.
+Let Doogan articulate the mismatch: Sebastian's story doesn't fit Annabelle.  It just doesn't fit.
 
 How it plays:
 - Doogan has just come from the farmer's market and goes to see Eddie and ask why there's so little background work yet.

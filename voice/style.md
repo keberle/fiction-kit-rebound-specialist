@@ -3,6 +3,8 @@
 ## Overview
 This style guide distills the signature techniques of Gregory McDonald, author of the *Fletch* novels, for use in LLM‑driven fiction. It is designed to be modular and reusable, ensuring a consistent, immersive, and witty narrative voice.
 
+**CRITICAL POV NOTE:** The Fletch novels are written in **third-person close**, NOT first-person. They create an intensely intimate first-person *feel* through dialogue dominance, behavioral focus, and tight psychic distance—but use third-person pronouns ("Fletch said," "He walked," "Doogan noticed").
+
 ---
 
 # Core Principles
@@ -42,10 +44,39 @@ This style guide distills the signature techniques of Gregory McDonald, author o
 - Move quickly — start late, end early.  
 - Minimal exposition; let the reader infer.
 
+### Scene Opening Rules (CRITICAL)
+Gregory McDonald NEVER opens with:
+- ❌ Metaphorical atmosphere descriptions ("The kitchen smelled of lemongrass and poor decisions")
+- ❌ Lyrical "setting the mood" prose
+- ❌ Character introspection or inner thoughts
+- ❌ Weather or time-of-day descriptions
+- ❌ "Establishing shot" descriptions before dialogue
+
+Gregory McDonald ALWAYS opens with:
+- ✅ Dialogue already in progress
+- ✅ A character mid-action
+- ✅ Someone entering a space where conversation starts immediately
+- ✅ The reader dropped into an existing situation
+
+**The Eavesdropper Test:** Can the reader feel like they're overhearing a conversation that started before they arrived? If yes, good. If the scene "sets up" before things happen, rewrite the opening.
+
+**Example Anti-Pattern to Avoid:**
+> "The evening light slanted through the kitchen windows, casting long shadows across the marble countertops as Doogan pushed open the door."
+
+**Correct McDonald Opening:**
+> "—so I told him, I said look, you want the premium service, you pay the premium price, that's how this works—" Eddie was waving a spring roll for emphasis when Doogan walked in.
+
 ## 8. Characterization Through Speech
 - Characters are defined by how they speak and interact.  
 - Each voice must be distinct in rhythm, vocabulary, and worldview.  
 - Avoid physical description unless essential.
+
+## 9. Third-Person Close (The McDonald Technique)
+- Use third-person pronouns: "Doogan said," "He noticed," "His thumb traced circles"
+- Stay extremely close to the protagonist's consciousness—no authorial distance
+- Show what the protagonist sees, hears, notices—in the order he notices it
+- NEVER use "He thought" or "He felt"—show through action and dialogue
+- The effect is first-person intimacy with third-person flexibility
 
 ---
 
@@ -66,13 +97,21 @@ This style guide distills the signature techniques of Gregory McDonald, author o
 - No adverbs.  
 - Minimal adjectives.
 
+## Third-Person Pronouns
+- Use "he," "his," "him" for the protagonist
+- Use "Doogan" when needed for clarity or rhythm
+- Avoid overusing the character name—pronouns keep the prose flowing
+- NEVER use first-person ("I," "my," "me") in narrative prose
+
 ## Avoid
 - Explaining jokes.  
 - Characters stating their feelings.  
 - Excessive physical description.  
 - Dream sequences.  
 - Flashbacks (unless essential).  
-- “As you know, Bob” exposition.
+- "As you know, Bob" exposition.
+- First-person narration.
+- Interior monologue ("He thought...", "He wondered...").
 
 ---
 
@@ -93,6 +132,7 @@ Before finalizing any scene, ask:
 5. Is there wit or tension?  
 6. Could a reader follow this with no dialogue tags?  
 7. Does it move?
+8. Is it in third-person close (no "I" or "my")?
 
 ---
 
@@ -113,6 +153,7 @@ Before finalizing any scene, ask:
 
 | Element      | McDonald Influence         |
 |--------------|---------------------------|
+| POV          | Third-person close        |
 | Dialogue %   | 80–90%                    |
 | Tags         | Minimal/none              |
 | Description  | Sparse, functional        |
@@ -121,6 +162,7 @@ Before finalizing any scene, ask:
 | Exposition   | Through dialogue          |
 | Scenes       | Start late, end early     |
 | Monologues   | Rare, only when earned    |
+| Interiority  | None (show, don't tell)   |
 
 ---
 
@@ -131,9 +173,11 @@ This blueprint defines *how stories are told*, not just the voice they’re told
 ---
 
 ## 1. Protagonist‑Centric POV (The Fletch Rule)
-- The story is always filtered through the protagonist’s experience.  
+- **Third-person close** for all scenes where the protagonist is present.
+- The story is always filtered through the protagonist's experience.  
 - The reader learns information when the protagonist learns it.  
-- Avoid villain POV, omniscient narration, or cutaways revealing information the protagonist shouldn’t know.
+- Avoid villain POV, omniscient narration, or cutaways revealing information the protagonist shouldn't know.
+- Emergency cutaway scenes (extremely rare) use third-person limited objective: no interiority, procedural only.
 
 ---
 

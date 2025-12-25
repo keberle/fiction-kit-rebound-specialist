@@ -1,5 +1,10 @@
 # Notes for the story
 
+## Communications Technology
+- **Doogan's Covert Earpiece:** Doogan wears a nearly invisible, military-grade communications device sourced by Baxter through questionably legal channels (gray-market intelligence equipment dealers found on encrypted forums). Comparable to CIA/Secret Service equipment. Flesh-toned, uses bone conduction technology, practically undetectable even at close range. Doogan wears it almost constantly—only removes it when sleeping, showering, or during intimate moments. This allows Baxter (and the team) to maintain near-constant communication during operations, providing real-time intel, warnings, and coordination. *(Established in Episode 1, Scene 2)*
+- **Operational Implications:** Unless explicitly stated otherwise, assume the team has audio access to Doogan during operations. Baxter can feed him background information, Eddie can provide tactical advice, and Abby can intervene if things go sideways. The device's invisibility is crucial—targets never realize Doogan is receiving external guidance.
+- **Comedy/Tension Potential:** The earpiece creates opportunities for the team to overhear private moments, for device malfunctions at critical times, for discovery threats, and for Doogan having to maintain composure while receiving unexpected information.
+
 ## The Wine Connection
 - The "Woodmark Vineyards" wine that Annabelle got from a client recently is the same "Woodmark" wine that Nurse Nancy happens to have and Doogan is blacked out both times from it
 - Eventually, it is confirmed that the drug in the wine is a new variation of Nexapan, a sedative that is specifically intended for oral use and alcohol actually increases its rate of absorbtion

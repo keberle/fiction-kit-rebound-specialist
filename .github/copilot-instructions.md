@@ -62,8 +62,15 @@ Draft work happens in artifact stages. Keep a clean separation of intent vs exec
 
 ## 7) File & Naming Conventions
 - Draft folders: `drafts/###-kebab-case-name/`.
-- Scene/episode filenames: kebab-case; follow `voice/format.md` and the existing `content/` layout.
+- Episode directories: `content/episodes/episode-##-kebab-case-title/`
+- Scene filenames: `##-kebab-case-scene-name.md` (numbered sequentially, e.g., `01-the-dumping.md`, `02-valet-sweet-goodbye.md`)
+- Compiled output: `output/episode-##-kebab-case-title.md` (single file combining all scenes)
 - Never invent new directories if `voice/format.md` already defines the structure.
+
+## 7a) Episode Compilation
+- Individual scene files in `content/episodes/episode-##-name/` are the working source files.
+- When all scenes for an episode are finalized, compile them into a single markdown file in `output/` using the compile prompt.
+- The compiled output is the "published" version; scene files remain for editing.
 
 ## 8) Internet / External Research Policy
 - Default: do not browse the internet.

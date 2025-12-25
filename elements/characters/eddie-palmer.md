@@ -17,6 +17,12 @@ Eddie is Doogan's best friend and the entrepreneurial force who transformed Doog
 
 He's the one who saw the money in what Doogan does naturally. He packages the service, finds the clients, negotiates the fees, and smooth-talks their way out of complications. Every job requires his particular gift: the ability to make people feel like they're getting the deal of a lifetime even when they're paying premium prices.
 
+**Client Vetting & Boundaries:**
+Eddie thoroughly vets all potential jobs before presenting them to Doogan. He understands and respects Doogan's operational parameters:
+- **Target Demographics:** Only heterosexual women
+- **Age Appropriateness:** Well over 18, not senior citizens
+- **Non-Negotiable Lines:** Eddie would never pitch a job outside these boundaries—they're fundamental to the business model and Doogan's capabilities
+
 Despite running what amounts to an emotional manipulation service, Eddie genuinely cares about Doogan and Abby. They're his real family. The business is just how he takes care of them.
 
 ---
@@ -70,6 +76,28 @@ Eddie talks fast—Vince Vaughn motor-mouth fast. He's got the rapid-fire, strea
 He uses sports metaphors, sales terminology, and pop culture references interchangeably. He punctuates stories with "right?" and "you know what I mean?" and keeps talking before you can answer. He's the guy who starts three sentences before finishing the first one, but somehow it all tracks.
 
 When he's with Abby, the banter is machine-gun fast. When he's with Baxter, he's the mentor dropping wisdom. When he's with his mother, he's gentle and patient. When he's working a client, he's all confidence and controlled chaos. And when he's alone with Doogan and things get real, the motor slows down and you see the guy beneath the pitch.
+
+### Motor-Mouth Dialogue Rules (CRITICAL FOR WRITERS)
+Eddie's dialogue follows Vince Vaughn's signature comedic style from films like *Swingers*, *Wedding Crashers*, and *Old School*. These are NON-NEGOTIABLE patterns:
+
+1. **Already Talking** — Eddie is often mid-sentence when scenes begin. He doesn't wait for scenes to establish before he starts. The reader enters his conversation in progress.
+
+2. **Never Lets Others Finish** — He steamrolls other characters mid-sentence. Uses em-dashes to cut people off. Finishes their thoughts (wrongly), then continues his own.
+
+3. **Tangent Architecture** — His tangents ALWAYS circle back to land where he intended. Structure: main point → tangent A → tangent B → callback to tangent A → landing on original point.
+
+4. **Multiple Unfinished Threads** — Starts new sentences before finishing the current one. Listeners have to follow three conversational threads at once.
+
+5. **Self-Interrupting Rhetorical Questions** — "You know what I mean? Of course you do, you're smart, that's why I'm telling you this—"
+
+6. **The Pause Is Earned** — When Eddie stops talking or speaks slowly, it MEANS something. Reserve this for emotional weight.
+
+**ANTI-PATTERNS (Never Do These):**
+- ❌ Structured back-and-forth dialogue where Eddie waits his turn
+- ❌ Short, punchy responses (that's Doogan's rhythm)
+- ❌ Eddie entering a scene and waiting to be addressed
+- ❌ Eddie asking a question and waiting for an answer before continuing
+- ❌ Neat, one-thought-at-a-time sentences
 
 **Sample Quotes:**
 

@@ -99,6 +99,53 @@ His humor is dry and strategic—used to disarm, distract, or ingratiate. Rarely
 
 ---
 
+## What Team Knows & When (Timeline-Based Information Flow)
+
+**CRITICAL FOR WRITERS:** This section tracks what Doogan, Eddie, Abby, and Baxter know about Sebastian/Albert/John at each stage of the story. Characters can ONLY reference information they've learned by that point.
+
+### Episode 1, Scene 2 (Eddie's Phone Call to Doogan)
+**What Eddie Knows:**
+- Client's name: "Sebastian LeClere"
+- Client contacted them directly (not through referral)
+- Client appears wealthy and polished
+- Client has "a situation with his receptionist"
+- Target's name: "Annabelle Anders"
+- Basic target details: late twenties, pretty, smart
+- Sebastian says she's pulling away
+
+**What Eddie DOES NOT Know:**
+- Sebastian's occupation or business (not revealed until Scene 5 meeting)
+- Sebastian's real identity or background
+- Whether "Sebastian LeClere" is even real
+- Any details about wealth source, hometown, education
+
+**Writing Rule:** Eddie can only describe Sebastian as "wealthy guy" with vague descriptors like "polished" or "discreet." NO specifics about business, real estate, old money, or occupation until Scene 5.
+
+### Episode 1, Scene 5 (Coffeehouse Meeting)
+**What Team Learns:**
+- Sebastian claims to run a medical billing company (Emergence Medical Billing)
+- He's not married
+- He doesn't want "office mess"
+- He doesn't know basic details about Annabelle (coffee preference, weekend activities)
+- He's "too polished, too rehearsed" (Doogan's observation)
+
+**What Team Still DOES NOT Know:**
+- The medical billing company is fake
+- Sebastian LeClere is a false identity
+- His real business involves insurance/medical fraud
+- He has other personas (Albert Stans, John Wipple)
+
+### Episode 2+ (Investigation Reveals)
+**Gradual Discovery:**
+- Abby recognizes "Albert Stans" from separate investigation
+- Team realizes Sebastian and Albert are the same person
+- Documentary reveals he was involved in wine label fraud
+- Real name "John Wipple" revealed only at climax
+
+**Writing Rule:** Information flow must match investigation timeline. Characters learn through research, observation, and gradual revelation—never through omniscient narration.
+
+---
+
 ## Motivations
 - **Surface Level:** Wealth, power, and the thrill of deception
 - **Deeper Level:** Proving his superiority over a world that dismissed him

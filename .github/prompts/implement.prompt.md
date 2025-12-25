@@ -15,35 +15,59 @@ This stage is the execution engine of the draft flow.
    - `elements/tone.md`
    - `elements/pov.md`
    - `elements/**` (characters, setting, conflict, plot, episodes, continuity)
-  - `elements/notes.md` (additional continuity notes / seeded clues)
+   - `elements/notes.md` (additional continuity notes / seeded clues)
+   - `elements/events/**` (canonical past event details - REQUIRED for backstory scenes)
    - `elements/checklist.md`
    - Episode/Chapter outline
    - `voice/format.md` (for file structure rules)
+   - `content/episodes/` (for loading prior scenes in the episode to ensure continuity)
+
+   **CRITICAL: DO NOT INVENT DETAILS**
+   - Use ONLY canonical details from element files
+   - Do not invent character physical traits, cars, clothing, habits, backstory not in `elements/characters/`
+   - Do not invent setting details not in `elements/setting.md`
+   - When information is missing, stay vague or generic
+   - Invented details create continuity problems
+
+   **CRITICAL: RESEARCH/INVESTIGATION SCENES**
+   - When characters research or investigate other characters, check element files for what is discoverable
+   - Do NOT invent employers, companies, social media profiles, or background data
+   - If information isn't in element files, the research comes up EMPTY
+   - Check "What Team Knows & When" sections in character files for timeline-aware information
+   - Mystery/antagonist characters are often SUPPOSED to be hard to research—honor that
+   - "Can't find anything useful" is often the CORRECT research result
 
 2. **Read and interpret `tasks.md`**
-   - Identify each task as:
+   - Parse task list with checkbox format (`- [ ]` for incomplete, `- [X]` for complete)
+   - Identify each task type:
      - **Add a scene** → use `addscene.prompt.md`
      - **Edit an existing scene** → use `editscene.prompt.md`
      - **Delete/rename/move** → apply internal file‑operation rules
      - **Non‑scene element updates** → apply changes directly
+   - Track progress by updating checkboxes in `tasks.md` as work completes
 
 3. **Delegate work to specialized prompts**
-   - For **new scenes**, call `addscene.prompt.md` with:
+   - For **new scenes**, you MUST use `addscene.prompt.md` with:
      - Task description
-       - voice/style.md and voice/format.md
-       - elements/tone.md and elements/pov.md
+     - voice/style.md and voice/format.md
+     - elements/tone.md and elements/pov.md
      - elements/notes.md
-     - All relevant element files
-       - elements/checklist.md
+     - **ALL character files for characters appearing in scene** from `elements/characters/<name>.md`
+     - **ALL event files for past events referenced in scene** from `elements/events/<event-name>.md`
+     - elements/checklist.md
      - Outline context
+     - **CRITICAL:** `addscene.prompt.md` requires loading character AND event files BEFORE writing. Follow its pre-writing workflow.
+     - **CRITICAL:** Verify scene opening passes McDonald Eavesdropper Test (see voice/style.md §7)
+     - **CRITICAL:** Check character files for anti-pattern sections (Fashion Anti-Patterns, Motor-Mouth Rules, Home Environment Rules)
+     - **CRITICAL:** Use canonical event details from event files—do not invent or alter past events
    - For **scene edits**, call `editscene.prompt.md` with:
      - Original scene file
      - Task description
-       - voice/style.md and voice/format.md
-       - elements/tone.md and elements/pov.md
+     - voice/style.md and voice/format.md
+     - elements/tone.md and elements/pov.md
      - elements/notes.md
-     - All relevant element files
-       - elements/checklist.md
+     - **ALL character files for characters appearing in scene** from `elements/characters/<name>.md`
+     - elements/checklist.md
      - Outline context
 
 4. **Enforce global constraints**
@@ -53,21 +77,40 @@ This stage is the execution engine of the draft flow.
    - Follow directory and naming rules from `format.md`
    - Ensure all rewritten or new scenes match the story’s voice, tone, and pacing
 
-5. **Produce updated file contents**
+5. **Track task completion and produce updated files**
+   - Mark completed tasks as `[X]` in `tasks.md`
    - Rewrite or update existing files
    - Create new files or directories
    - Delete or rename files as required
-   - Output only the final updated files and file operations
+   - Output both the updated `tasks.md` and final content files
 
 ---
 
 ## File Operation Rules
 
 ### Add a Scene
-- Use `addscene.prompt.md`
-- Create the new file under the appropriate directory as defined by voice/format.md and the existing /content layout (e.g., content/episodes/, content/scenes/).
+- **MUST use `addscene.prompt.md`** - this is non-negotiable
+- **BEFORE delegating to addscene.prompt.md:**
+  1. **Identify all characters who appear in the scene**
+  2. **Load their character files from `elements/characters/<name>.md`**
+  3. **List all previous scenes in the episode** (if this is not the first scene)
+  4. **Read ALL previous scene files** in `content/episodes/episode-##-<name>/` that come before this scene number
+  5. **Create continuity notes**: what details have been established, what secrets exist, what characters know/don't know
+  6. **Pass character files + previous scene summaries + continuity notes** to addscene.prompt.md along with task details
+- Create the new file under the appropriate directory as defined by voice/format.md and the existing /content layout (e.g., content/episodes/, content/scenes/)
 - Filename must be descriptive and in kebab-case
 - Ensure the scene fits the episode flow and continuity
+- **addscene.prompt.md will enforce its pre-writing workflow** (character file loading, existing content cross-checking, detail verification)
+
+**CRITICAL CONTINUITY ENFORCEMENT:**
+When creating Scene 2 or later in an episode:
+- ❌ DO NOT delegate to addscene.prompt.md without reading previous scenes first
+- ❌ DO NOT assume details—verify them by reading the actual scene files
+- ✅ Read Scene 1, Scene 2, ... Scene N-1 before writing Scene N
+- ✅ Note all character names, pet names, vehicle descriptions, clothing details
+- ✅ Note all secrets that must stay secret
+- ✅ Note all information characters have/haven't learned
+- ✅ Provide this context when delegating to addscene.prompt.md
 
 ### Edit a Scene
 - Use `editscene.prompt.md`
@@ -87,7 +130,12 @@ This stage is the execution engine of the draft flow.
 
 ## Output Format
 
-For each changed file, output:
+**ALWAYS start by updating the tasks.md file to mark completed tasks with `[X]`:**
+
+### drafts/###-name/tasks.md
+<updated tasks.md with completed checkboxes marked>
+
+For each changed file, then output:
 
 ### path/to/file.md
 <new file content>
@@ -125,16 +173,26 @@ For newly created files:
 
 ---
 
+## Task Completion Rules
+
+- **Before starting any task**: Verify it shows `- [ ]` (incomplete) in tasks.md
+- **After completing any task**: Update tasks.md to mark it `- [X]` (complete)
+- **For each task**: Report progress: "Completed T###: [Task Name]"
+- **Skip already completed tasks**: If a task shows `- [X]`, do not redo it unless explicitly requested
+
+---
+
 ## QA Gate (after implementation)
 
 - After all changes, run a final pass to verify:
-   - continuity across touched scenes
-   - checklist compliance (elements/checklist.md)
-   - serial episode hooks/ending buttons where applicable
-- If issues are found, fix them and re-check.
+   - All completed tasks are marked `[X]` in tasks.md
+   - Continuity across touched scenes
+   - Checklist compliance (elements/checklist.md)
+   - Serial episode hooks/ending buttons where applicable
+- If issues are found, fix them and re-check
 
 ---
 
 ## Goal
 
-Produce a coherent, voice‑consistent, continuity‑safe set of updated files that fully implement the tasks for this draft cycle, using specialized prompts for scene creation and editing, and acting as the orchestrator for all file operations.
+Produce a coherent, voice‑consistent, continuity‑safe set of updated files that fully implement the tasks for this draft cycle, with accurate task completion tracking in tasks.md, using specialized prompts for scene creation and editing, and acting as the orchestrator for all file operations.

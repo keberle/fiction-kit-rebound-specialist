@@ -38,6 +38,7 @@ Serial fiction is a storytelling format where a larger narrative is divided into
 
 ### The Protagonist-Centric Rule
 - Serial mysteries must maintain **fair play**: reader discovers clues when the protagonist discovers them.
+- **Third-person close POV:** Use "Doogan said," "He noticed"—never first-person ("I," "my").
 - Never cut away to villain scenes, omniscient reveals, or events the protagonist can't witness.
 - Maintain tension by keeping the protagonist (and reader) in the dark until information arrives naturally.
 
@@ -63,6 +64,26 @@ If a scene absolutely must occur without the protagonist:
 - Keep it objective and procedural (no interiority)
 - Never reveal information the protagonist shouldn't know
 - Use only for logistical/bureaucratic necessity 
+## Content Organization
+
+### Episode Structure
+- Each episode has its own directory: `content/episodes/episode-##-kebab-case-title/`
+- Scenes are individual files within the episode directory: `##-kebab-case-scene-name.md`
+- Scene files are numbered sequentially (01, 02, 03, etc.) to maintain correct order
+- Scene filenames use kebab-case for descriptive names
+
+### Compilation Process
+- Scene files in episode directories are working source files for editing
+- When episode is ready for "publication," all scene files are compiled into a single markdown file
+- Compiled output goes to: `output/episode-##-kebab-case-title.md`
+- Compilation preserves scene breaks and metadata
+
+### Scene File Format
+- Each scene file contains:
+  - Scene heading: `## Scene # — Title`
+  - Scene content (prose)
+  - Scene break marker: `---` (triple dash on its own line)
+
 ## Technical Rules & Formatting
 
 - **Dialogue Formatting:** Standard quotation marks; new speaker = new paragraph. Use tags or action beats as needed for clarity; do not tag every line.

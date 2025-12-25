@@ -14,3 +14,19 @@ The culture of Pacific Point is a fusion of artistic creativity and upscale soph
 
 ## Atmosphere
 Life in Pacific Point moves at a relaxed yet purposeful pace. The rhythmic sound of waves crashing against the shore harmonizes with distant laughter from beach bonfires. At night, the city glows softly under starlit skies, with ocean breezes carrying the scent of salt and jasmine. It’s a place where dreams feel tangible, and every corner whispers a story waiting to unfold.
+## Cultural Details
+
+### Transportation & Car Culture
+- **Driving is essential:** Nearly everyone drives their own car. Public transit exists but is rarely used except by those without other options.
+- **Valet parking:** Common at nicer restaurants, hotels, and venues. Tips expected.
+- **Rideshare dominance:** Uber and Lyft are the default for anyone without a car or drinking. Hailing traditional taxis is virtually unheard of—this isn't New York.
+- **Freeway references:** Locals use "the" before freeway numbers ("the 101," "the 405," "the PCH").
+- **Traffic reality:** Rush hour runs 7-10 AM and 3-7 PM, but traffic can happen anytime. Commute times are long but considered normal.
+- **Parking:** Always a consideration. Street parking, meters, lots, structures—everyone has strategies.
+
+### Social Norms
+- **Casual sophistication:** Even upscale venues have a relaxed vibe. Dress codes exist but lean toward "elevated casual."
+- **Outdoor living:** Year-round sunshine means outdoor dining, rooftop bars, and beach gatherings are standard.
+- **Wellness culture:** Juice bars, farmers' markets, yoga studios, hiking trails—health and fitness are woven into daily life.
+- **Industry presence:** Entertainment industry is everywhere; actors waiting tables, writers at coffee shops, producers at farmer's markets.
+- **Late dining:** Dinner reservations at 8 or 9 PM are common; the city runs later than many other U.S. metros.

@@ -35,6 +35,8 @@ Hank is the usual, back of the phone book attorney.  He'd be an "ambulance chase
 ### Claire Rogers
 The prologue rebound target, dumping Doogan in the opening scene.  She's smart, beautiful, in her early 40's and not lacking in the confidence and effortless beauty she has been blessed with.   Although Doogan knows that she is an attorney and that she works for the government, he doesn't know much more about her work than that.  He spent more time getting to know here as a person.
 
+**Vehicle:** Silver BMW sedan *(Established in Episode 1, Scene 2)*
+
 ### Sebastian LeClere
 <!-- Reference: characters/villain.md -->
 <!-- Portrait: characters/villain.jpg -->
@@ -42,7 +44,7 @@ Sebastian LeClere is hiring Eddie and Doogan to provide a convenient rebound for
 
 ### Annabelle Anders
 <!-- Portrait: characters/annabelle-anders.jpg -->
-The receptionist that Sebastian hires Eddie and Doogan to rebound.  She's young and lives up to some of the stereotypes of her generation, excessive social media and some superficial habits but he's smarter than most and already frustrated with the young men in her age group who simply cannot keep up with her wit.  But in Doogan she sees someone who check that 6's (6 foot tall, 6 figures, 6 pack) and his quick wit is an unlikely combination.  Is he that less than 1% of guys who really achieve all of that and can keep up with Annabelle?  It too tempting for her not to find out, even if it means taking a chance and trusting a stranger.
+The receptionist that Sebastian hires Eddie and Doogan to rebound.  She's a 5' 2", brunette who is definitely more cute than sexy.  She's young and lives up to many of the stereotypes of her generation, excessive social media and some superficial habits but she's smarter than most and already frustrated with the young men in her age group who simply cannot keep up with her wit.  But in Doogan she sees someone who check that 6's (6 foot tall, 6 figures, 6 pack) and his quick wit is an unlikely combination.  Is he that less than 1% of guys who really achieve all of that and can keep up with Annabelle?  It too tempting for her not to find out, even if it means taking a chance and trusting a stranger.
 
 ### Detective Peter Finch
 Detective Finch accompanies Martines the first time he "magically" appears to interogate Doogan.  He's an older, more worn down police officer who assumes anyone who isn't a cop is probably guilty of something.
