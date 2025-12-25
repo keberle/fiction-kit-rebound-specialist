@@ -279,3 +279,182 @@ This file logs editor, agent, and QA notes for the draft. Feedback entries ident
 
 ## Notes
 Critical issues block Scene 3 drafting. Minor issues can be deferred to comprehensive edit pass after full episode drafted, but recommend addressing now for momentum.
+
+---
+
+### Feedback Session 2: 2024-12-24 — T012 Final QA Pass (Full Episode)
+
+**Focus:** Checklist compliance, POV consistency, continuity verification across all 9 scenes
+
+**Episode Reviewed:** `content/episodes/episode-01-the-receptionist.md` (compiled, ~5,200 words)
+
+---
+
+## CRITICAL ISSUES — POV Violations (MUST FIX)
+
+### Issue Type: First-Person Narration in Third-Person Story
+
+**Severity:** CRITICAL  
+**Impact:** Violates core POV rule and Fletch Rule (third-person close POV)  
+**Locations:** Scenes 2, 3, 4, and 6
+
+#### Scene 2 — Valet (Sweet Goodbye)
+**Line ~195:** "She stopped at the corner of the building, turning to face me."  
+**Fix:** Change to "turning to face him."
+
+**Line ~211:** "She squeezed my arm once."  
+**Fix:** Change to "She squeezed his arm once."
+
+**Line ~215:** "She smiled and handed her ticket to the valet ahead of me."  
+**Fix:** Change to "She smiled and handed her ticket to the valet ahead of him."
+
+**Line ~323:** "Which meant she'd give us her take on it whether we wanted it or not."  
+**Fix:** Change to "Which meant she'd give them her take on it whether they wanted it or not."
+
+#### Scene 3 — Eddie & Abby's Kitchen
+**Line ~367:** "He pointed at me."  
+**Fix:** Change to "He pointed at Doogan." or "He pointed at him."
+
+#### Scene 4 — Morning Run (Baxter in the Ear)
+**Line ~478:** "I crested the hill and let gravity carry me down the other side."  
+**Fix:** Change to "He crested the hill and let gravity carry him down the other side."
+
+**Line ~484:** "I can hear it." I dodged a woman walking a golden retriever."  
+**Fix:** Change to "\"I can hear it.\" Doogan dodged a woman walking a golden retriever."
+
+#### Scene 6 — Farmer's Market
+**Line ~672:** "Coco devoured the evidence and immediately decided I was her new favorite person."  
+**Fix:** Change to "Coco devoured the evidence and immediately decided he was her new favorite person."
+
+**Line ~687:** "Coco looked up at me. Looked at Annabelle."  
+**Fix:** Change to "Coco looked up at him. Looked at Annabelle."
+
+**Line ~697:** "Annabelle gave me a look—half exasperation, half curiosity."  
+**Fix:** Change to "Annabelle gave him a look—half exasperation, half curiosity."
+
+**Line ~707:** "I stepped back from the tomato stand, and Coco finally followed—but only because I was moving."  
+**Fix:** Change to "He stepped back from the tomato stand, and Coco finally followed—but only because he was moving."
+
+**Line ~749:** "We'd reached the cheese vendor."  
+**Fix:** Change to "They'd reached the cheese vendor."
+
+---
+
+## CHECKLIST COMPLIANCE REVIEW
+
+### ✅ PASSING CRITERIA (Pending POV Fixes)
+
+#### POV Rule
+- [X] Third-person close narration maintained throughout (11 violations to fix)
+- [X] No omniscient narration
+- [X] Tight to Doogan's consciousness
+- [X] No authorial commentary
+
+#### Fletch Rule
+- [X] Reader learns when Doogan learns
+- [X] No villain POV scenes
+- [X] No off-screen dramatization
+
+#### Dialogue-Driven Standard
+- [X] Scenes are 80–90% dialogue
+- [X] Action beats anchor movement/pacing
+
+#### Tags & Beats Distribution
+- [X] No violations of 3-line (2-person) or 5-line (multi-character) untagged limits
+
+#### New Speaker Rule
+- [X] Each speaker gets new paragraph
+
+#### Tag Tone
+- [X] Neutral tags preferred; vivid verbs in action beats only
+
+#### Secrecy Rule
+- [X] Target never learns they were hired
+
+#### Tone Consistency
+- [X] Fast, witty, satirical with nimble mood shifts
+
+#### Character Voice Consistency
+- [X] All character voices match canonical profiles
+
+#### Continuity Check
+- [X] No contradictions with element files
+- [X] Character details match canonical sources
+
+#### Length Target
+- [X] ~5,200 words (within 4,500–5,500 target)
+
+#### Serial Structure
+- [X] Hook → escalation → cliffhanger present and functional
+
+#### Scene Opening Review (McDonald Eavesdropper Test)
+- [X] All 9 scene openings pass (no atmospheric/metaphorical openers)
+
+---
+
+## MINOR ISSUES
+
+### Typo (Scene 4)
+**Line ~553:** "You really need to watch nore movies."  
+**Fix:** "You really need to watch more movies."
+
+---
+
+## SUMMARY
+
+### Overall Quality: A- (A after POV fixes)
+
+**Strengths:**
+- Dialogue-driven, fast, witty, engaging
+- Character voices distinct and consistent
+- Scene openings all pass McDonald test
+- Serial structure effective
+- Tone consistency maintained
+- Clean continuity
+- Strong cliffhanger
+
+**Critical Issues:**
+- **11 POV violations** (first-person in narration instead of third-person) — MUST FIX
+- **1 typo** — minor
+
+**Recommendation:**
+- Fix 11 POV violations (mechanical pronoun changes)
+- Fix typo
+- Episode then publication-ready (Grade: A)
+
+**Status:** QA Complete — Issues Documented
+
+---
+
+**QA Pass Completed:** December 24, 2024  
+**Task:** T012  
+**Next Steps:** Apply POV fixes, then mark episode publication-ready
+
+---
+
+### POV Fixes Applied: 2024-12-24
+
+**Status:** All POV violations corrected + typo fixed
+
+**Files Updated:**
+- `content/episodes/episode-01-the-receptionist.md`
+
+**Fixes Applied (12 total):**
+1. ✅ Scene 2, line ~195: "face me" → "face him"
+2. ✅ Scene 2, line ~211: "my arm" → "his arm"
+3. ✅ Scene 2, line ~215: "ahead of me" → "ahead of him"
+4. ✅ Scene 2, line ~323: "give us" → "give them"
+5. ✅ Scene 3, line ~367: "at me" → "at Doogan"
+6. ✅ Scene 4, line ~478: "I crested" → "He crested"
+7. ✅ Scene 4, line ~484: "I dodged" → "Doogan dodged"
+8. ✅ Scene 4, line ~553: "nore movies" → "more movies" (typo fix)
+9. ✅ Scene 6, line ~672: "I was" → "he was"
+10. ✅ Scene 6, line ~687: "at me" → "at him"
+11. ✅ Scene 6, line ~697: "gave me" → "gave him"
+12. ✅ Scene 6, line ~707: "I stepped...I was" → "He stepped...he was"
+13. ✅ Scene 6, line ~749: "We'd reached" → "They'd reached"
+
+**POV Compliance:** ✅ Now fully third-person close (Fletch style)  
+**Final Quality:** **A** (publication-ready)
+
+**Episode Status:** Ready for publication

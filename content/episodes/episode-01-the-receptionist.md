@@ -1,16 +1,14 @@
-<div style="text-align: center; margin-top: 40%; font-size: 2em;">
+# Episode 01 — The Receptionist
 
-# Episode 1: The Receptionist
+**Status:** draft-complete  
+**Word Count:** ~5,200 words  
+**Series:** The Rebound Specialist  
+**Author:** [TK]  
+**Date:** December 24, 2024
 
-**Fiction Kit: Rebound Specialist**
+---
 
-*Episode 1*
-
-</div>
-
-<div class="page"/>
-
-## Scene 1
+## Scene 1 — The Dumping
 
 The candle between them flickered. Claire set down her wine glass with the kind of precision lawyers use when they're about to deliver bad news.
 
@@ -174,11 +172,11 @@ The waiter returned with the check. Claire reached for it out of politeness, but
 
 He stood too, folding the pen in with the signed receipt into the leather check folder. The smile came easy. Easier than it should have.
 
-"Come on," he said. "I'll walk you out."/
+"Come on," he said. "I'll walk you out."
 
-<div class="page"/>
+---
 
-## Scene 2
+## Scene 2 — Valet (Sweet Goodbye)
 
 The night air was warm as they stepped outside toward the valet station. Claire walked close enough that their shoulders almost touched. Old habit.
 
@@ -190,7 +188,7 @@ The night air was warm as they stepped outside toward the valet station. Claire 
 
 "And yet you curved me."
 
-She stopped at the corner of the building, turning to face me. "I didn't curve you. I'm releasing you back into the wild."
+She stopped at the corner of the building, turning to face him. "I didn't curve you. I'm releasing you back into the wild."
 
 "Like a rehabilitated sea turtle."
 
@@ -206,11 +204,11 @@ The valet stand glowed twenty feet ahead. A kid in a red vest was handing keys t
 
 "You don't have to—"
 
-"I know I don't. That's why I'm saying it." She squeezed my arm once. "Take care of yourself, Doogan. Try not to break any hearts."
+"I know I don't. That's why I'm saying it." She squeezed his arm once. "Take care of yourself, Doogan. Try not to break any hearts."
 
 "No promises."
 
-She smiled and handed her ticket to the valet ahead of me.
+She smiled and handed her ticket to the valet ahead of him.
 
 A silver BMW sedan rolled up first. Doogan tipped the kid before he could move and opened her door.
 
@@ -326,15 +324,15 @@ The Cougar rumbled on through the night, the warm air catching his hair, the cit
 
 Eddie and Abby's place. Thai food. A job Eddie wanted to discuss in person.
 
-Which meant Abby would be there. Which meant she'd give us her take on it whether we wanted it or not.
+Which meant Abby would be there. Which meant she'd give them her take on it whether they wanted it or not.
 
 That usually meant trouble.
 
 He turned up the radio and tried not to think about Claire.
 
-<div class="page"/>
+---
 
-## Scene 3
+## Scene 3 — Eddie & Abby's Kitchen
 
 "There he is!" Eddie was already talking before Doogan cleared the doorway. "Fresh from a broken heart, our hero, food's getting cold, we got pad thai, we got drunken noodles, we got spring rolls—Abby insisted on the spring rolls even though nobody ever eats the spring rolls, but that's a whole separate conversation we don't need to have right now."
 
@@ -370,7 +368,7 @@ Abby snorted into her wine glass.
 
 "And you believed him."
 
-"I didn't say I believed him, I said that's what he said. There's a difference. The believing part is Doogan's department." He pointed at me. "That's why we meet in person. So you can do your thing, read the guy, figure out if he's lying or just sad or what."
+"I didn't say I believed him, I said that's what he said. There's a difference. The believing part is Doogan's department." He pointed at Doogan. "That's why we meet in person. So you can do your thing, read the guy, figure out if he's lying or just sad or what."
 
 Doogan pushed noodles around his plate. "Why does an unmarried CEO need us? Can't he just transfer her? Give her a raise and some distance?"
 
@@ -430,9 +428,9 @@ Abby stood and collected plates. "Take the Cougar tomorrow. It'll make you look 
 
 Doogan didn't dignify that with a response.
 
-<div class="page"/>
+---
 
-## Scene 4
+## Scene 4 — Morning Run (Baxter in the Ear)
 
 "—and then I cross-referenced her tagged photos with geo-metadata from her friends' public accounts, which gave me a pattern, and once I had the pattern I could narrow down to like three possible locations, and then I found her dog's Instagram—"
 
@@ -472,7 +470,7 @@ Doogan laughed, breath coming harder on an uphill stretch. "Very differently."
 
 "No, but seriously. How did you find people? How did you get background information?"
 
-"Phonebooks. Libraries. A lot of actually talking to human beings." I crested the hill and let gravity carry me down the other side. "You want to hear about the first job?"
+"Phonebooks. Libraries. A lot of actually talking to human beings." He crested the hill and let gravity carry him down the other side. "You want to hear about the first job?"
 
 "Yes. Obviously yes."
 
@@ -480,7 +478,7 @@ Doogan laughed, breath coming harder on an uphill stretch. "Very differently."
 
 "You can't see my face."
 
-"I can hear it." I dodged a woman walking a golden retriever. "The VP of our fraternity—trust fund kid, everything handed to him—had a problem. He'd been hooking up with a girl from the sister sorority all semester. But he was secretly engaged to some family friend's daughter back home. Wealthy family. Promised him a job after graduation."
+"I can hear it." Doogan dodged a woman walking a golden retriever. "The VP of our fraternity—trust fund kid, everything handed to him—had a problem. He'd been hooking up with a girl from the sister sorority all semester. But he was secretly engaged to some family friend's daughter back home. Wealthy family. Promised him a job after graduation."
 
 "Wait, he was cheating on his fiancée?"
 
@@ -532,7 +530,7 @@ More keyboard sounds. Then: "Oh! Got something. I posed as a cosmetics company r
 
 "I don't know, why?" Baxter was confused by the specific nature of the question.
 
-"You really need to watch nore movies."
+"You really need to watch more movies."
 
 "You say that a lot too." Baxter didn't sound embarrassed. "The point is: farmer's market, Saturday morning, poodle. You've got your meet-cute location."
 
@@ -560,9 +558,9 @@ Doogan slowed to a walk, letting his heart rate settle. Duke's Coffee sat at the
 
 The line went quiet. He pulled the door open and stepped into the air conditioning, scanning for Eddie's inevitable wave.
 
-<div class="page"/>
+---
 
-## Scene 5
+## Scene 5 — Coffeehouse Meet
 
 "—so I told him, I said look, you want the premium service, you pay the premium price, that's how this works—" Eddie was mid-pitch when Doogan walked up to their table, still in running gear.
 
@@ -658,9 +656,9 @@ Eddie grinned. "That's my guy."
 
 It would. Doogan could feel it. But he got in the Cougar anyway and headed toward the market, Sebastian's untouched breakfast and rehearsed smile already fading in the rearview mirror.
 
-<div class="page"/>
+---
 
-## Scene 6
+## Scene 6 — Farmer's Market
 
 The poodle found him before he found her.
 
@@ -668,7 +666,7 @@ Doogan was browsing heirloom tomatoes—or pretending to, since the vendor had b
 
 "Hey there." He crouched down, one hand scratching behind her ears while the other slipped into his pocket. The bacon from Sebastian's plate, fed discreetly while he kept his eyes on the approaching owner.
 
-Coco devoured the evidence and immediately decided I was her new favorite person.
+Coco devoured the evidence and immediately decided he was her new favorite person.
 
 "Coco! Oh my god—" A woman rushed over, embarrassment already coloring her cheeks. Late twenties, dark hair pulled back, Stanford hoodie over yoga pants. "I'm so sorry. She got away from me."
 
@@ -676,7 +674,7 @@ Coco devoured the evidence and immediately decided I was her new favorite person
 
 "She's a menace." Annabelle grabbed the leash, but Coco wasn't budging. "Come on. Let's go."
 
-Coco looked up at me. Looked at Annabelle. Stayed exactly where she was.
+Coco looked up at him. Looked at Annabelle. Stayed exactly where she was.
 
 "She doesn't seem to agree."
 
@@ -684,7 +682,7 @@ Coco looked up at me. Looked at Annabelle. Stayed exactly where she was.
 
 "Maybe she likes tomatoes."
 
-"She hates tomatoes. She hates most vegetables. She's very particular." Annabelle gave me a look—half exasperation, half curiosity. "You must just have one of those faces."
+"She hates tomatoes. She hates most vegetables. She's very particular." Annabelle gave him a look—half exasperation, half curiosity. "You must just have one of those faces."
 
 "That's what my mother always said. Right before she'd add 'and that's not a compliment.'"
 
@@ -692,7 +690,7 @@ She laughed. Surprised, genuine. The tension in her shoulders dropped.
 
 "Sorry. She's usually better behaved. Or at least better at pretending to be behaved."
 
-"Aren't we all?" I stepped back from the tomato stand, and Coco finally followed—but only because I was moving. "She's got good taste, though. These are the best heirlooms in the market."
+"Aren't we all?" He stepped back from the tomato stand, and Coco finally followed—but only because he was moving. "She's got good taste, though. These are the best heirlooms in the market."
 
 "You an expert?"
 
@@ -746,7 +744,7 @@ Coco had started sniffing toward the next stall—a cheese vendor—and Annabell
 
 "I told you. I take produce seriously."
 
-We'd reached the cheese vendor. Coco was straining toward a sample tray, and Annabelle scooped her up before she could cause an incident.
+They'd reached the cheese vendor. Coco was straining toward a sample tray, and Annabelle scooped her up before she could cause an incident.
 
 "She's going to expect this every week now," Annabelle said, settling the dog against her hip. "Running into handsome strangers who let her violate their personal space."
 
@@ -806,9 +804,9 @@ Whatever story he'd sold them, Annabelle Anders wasn't in it.
 
 But Doogan was now.
 
-<div class="page"/>
+---
 
-## Scene 7
+## Scene 7 — The Meet Cute Debrief
 
 "—and you just *left*?"
 
@@ -926,9 +924,9 @@ Doogan was almost to the door when he called after him.
 
 It was. That was the problem.
 
-<div class="page"/>
+---
 
-## Scene 8
+## Scene 8 — Tomato Aisle
 
 "—look, I'm just telling you what he said. He wants a status update. He's paying premium rates and he expects premium turnaround."
 
@@ -1116,9 +1114,9 @@ Baxter came on over the earpiece "she's been all over your instagram."
 
 Doogan reached up in a made a subtle tap on the earpiece.  That was enough for that audience tonight.
 
-<div class="page"/>
+---
 
-## Scene 9
+## Scene 9 — Dinner at Annabelle's
 
 "Sorry about the mess." Annabelle kicked a pair of running shoes under the couch as he followed her inside.
 
@@ -1219,3 +1217,16 @@ Her eyes open. Fixed.
 Dead.
 
 "Hands where I can see them," the detective said.
+
+---
+
+**END EPISODE 01**
+
+---
+
+## Episode Notes
+- **Hook:** Scene 1 establishes Doogan as rebound specialist through seemingly real breakup
+- **Twist:** Scene 2 reveals engineered nature of his work
+- **Escalation:** Scenes 3-8 build meet-cute with Annabelle while layering Sebastian's deception
+- **Cliffhanger:** Scene 9 ends with Annabelle's murder and Doogan as prime suspect
+- **Next Episode Setup:** Doogan must clear his name while investigating Sebastian's true motives
