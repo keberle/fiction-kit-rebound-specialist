@@ -3,11 +3,13 @@
 Quick reference checklist for scenes, voice, and formatting.
 
 ## POV & Information Flow Rules
-- **POV:** Third-person close for all scenes where Doogan is present ("Doogan said," "He noticed," "His thumb traced circles"). NEVER use first-person ("I," "my," "me").
-- **Third-Person Close Feel:** Stay tight to Doogan's consciousness—what he sees, hears, notices—without interior monologue or authorial commentary.
-- **The Fletch Rule:** Reader learns information when Doogan learns it—no villain POV, no omniscient narration.
-- **Off-Screen Events:** Never dramatize scenes where Doogan isn't present. Use indirect delivery: dialogue recounting, Eddie/Baxter briefings, documents, voicemails, interviews, news clips.
-- **Information Flow:** If Doogan didn't witness it, the reader learns about it through reported action, not direct dramatization.
+- **POV (Ensemble Third-Person Close):** Third-person close with a single POV anchor per scene. Default POV is Doogan, but the story may use **team POV scenes** (Eddie/Abby/Baxter) when the team is acting away from Doogan.
+- **No First-Person:** NEVER use first-person ("I," "my," "me") in narrative.
+- **One Head Per Scene:** No head-hopping. Establish the POV character early and stay in that character’s perceptions.
+- **Third-Person Close Feel:** Stay tight to the POV character’s consciousness—what they see, hear, notice—without interior monologue dumps or authorial commentary.
+- **Fair-Play Rule (Team Edition):** The reader learns clues when **a POV character** learns them. Still no villain POV and no omniscient reveals of antagonist actions.
+- **Off-Screen Events:** Never dramatize scenes where **no core POV character** is present. Use indirect delivery (dialogue recounting, briefings, documents, voicemails, interviews, news clips).
+- **Information Flow:** If the POV character didn’t witness it, the reader learns it through reported action, not omniscient narration.
 - **Character Knowledge Boundaries:** Characters can ONLY know what they've been told, researched, or witnessed directly. Never include details about other characters that the POV character couldn't possibly know yet.
 - **Scene Spoiling Prevention:** Each scene should have its own dramatic purpose. Scene A should NOT reveal information that is Scene B's primary purpose to deliver. Tease or set up the next scene without spoiling it.
 
@@ -78,15 +80,16 @@ Quick reference checklist for scenes, voice, and formatting.
 ## Pre-Writing Verification Checklist
 Before writing ANY scene, verify:
 1. ✓ Does the opening pass the McDonald Eavesdropper Test? (No atmospheric openers)
-2. ✓ Is this in third-person close? (No "I" or "my"—use "Doogan," "he," "his")
-3. ✓ What does the POV character know at this point in the timeline?
-4. ✓ Have I checked character files for ALL characters mentioned?
-5. ✓ Have I reviewed anti-pattern sections in character files? (Fashion, Voice, Home Environment)
-6. ✓ Am I inventing any details not in the character files? (If yes, STOP)
-7. ✓ Could this character realistically know this information right now?
-8. ✓ If they know it, did I show where the intel came from?
-9. ✓ Does this scene spoil the next scene's dramatic purpose? (If yes, withhold and tease instead)
-10. ✓ Does each character's dialogue match their Voice & Style section?
-11. ✓ What is THIS scene's unique purpose, and does every beat serve it?
+2. ✓ Is this in third-person close for the scene’s POV character? (No "I" or "my")
+3. ✓ Is the POV anchor clear by paragraph one (and maintained)?
+4. ✓ What does the POV character know at this point in the timeline?
+5. ✓ Have I checked character files for ALL characters mentioned?
+6. ✓ Have I reviewed anti-pattern sections in character files? (Fashion, Voice, Home Environment)
+7. ✓ Am I inventing any details not in the character files? (If yes, STOP)
+8. ✓ Could this character realistically know this information right now?
+9. ✓ If they know it, did I show where the intel came from?
+10. ✓ Does this scene spoil the next scene's dramatic purpose? (If yes, withhold and tease instead)
+11. ✓ Does each character's dialogue match their Voice & Style section?
+12. ✓ What is THIS scene's unique purpose, and does every beat serve it?
 
 Use this checklist while drafting and during final pass edits to keep scenes consistent with series voice and rules.

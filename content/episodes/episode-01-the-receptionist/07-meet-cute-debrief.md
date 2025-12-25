@@ -16,7 +16,7 @@ Eddie stopped. Processed. His face cycled through confusion, skepticism, and fin
 
 "To the farmer's market. Next Saturday."
 
-"Huh." He dropped into a chair. "That's actually better."
+"Huh." He dropped into a chair. "That's better."
 
 "That's the whole point. You don't close too fast. Leave them curious."
 
@@ -30,31 +30,13 @@ Eddie and Doogan exchanged a look. Abby, at the kitchen island with her laptop a
 
 "But isn't that... manipulative?"
 
-Abby snorted. "Welcome to the business model, Baxter."
+Abby snorted. "Welcome to the business."
 
-"It's not manipulation," Eddie said. "It's—"
+Doogan cut in. "What do we have on her?"
 
-"It's manipulation." Abby still hadn't looked up. "It's just manipulation that works. Which, I suppose, is what makes it manipulation."
+"Not much," Baxter said. "Instagram's coffee art and the dog. Weirdly private."
 
-Eddie turned to her. "You want to do this again? Right now?"
-
-"No." She finally met his eyes. "I want to do this *every* time, because the day I stop pointing out how ridiculous this is, I become complicit."
-
-"You're already complicit. You do our books."
-
-"I'm *aware*." She took a sip of wine. "The cognitive dissonance keeps me sharp."
-
-Doogan cut in before this became the argument they'd had a hundred times. "What do we have on her? Background. Patterns."
-
-Baxter's face shifted on screen. "Not much. Social media's basically empty. LinkedIn exists but there's no job listed, no connections. Instagram is coffee art and the dog. She's weirdly private."
-
-"What about Sebastian's company?" Doogan asked. "Anything that puts her at Emergence Medical Billing?"
-
-"Nothing public. No employee directory, no photos, no LinkedIn connection to the company." Baxter shrugged. "But most medical billing companies keep a low profile. Not exactly Instagram material."
-
-Fair point. Nobody posts selfies from cubicles full of insurance claims.
-
-"Transaction patterns?" Eddie leaned forward. "Anything useful?"
+"Transaction patterns?" Eddie leaned forward.
 
 Baxter hesitated. "I mean... technically that's not exactly—"
 
@@ -84,7 +66,7 @@ He shook his head. "That's where it gets weird. The billing address on everythin
 
 Eddie spread his hands. "So? You show up at Gelsons. 'What a coincidence.' Start from there.  At least it gets us on a slightly faster pace than one hour each Saturday."
 
-Abby closed her laptop. "I want it on the record that I think this whole thing is ridiculous. And you—" She pointed at Doogan. "—are going to end up actually liking this woman."
+Abby closed her laptop. "I want it on the record that I think this whole thing is ridiculous. And you—" She pointed at Doogan. "—are going to end up liking this woman."
 
 "I'm not—"
 
@@ -113,7 +95,5 @@ Doogan was almost to the door when he called after him.
 "Basic psychology."
 
 "Still smooth."
-
-It was. That was the problem.
 
 ---

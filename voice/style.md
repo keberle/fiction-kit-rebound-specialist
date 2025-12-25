@@ -172,11 +172,11 @@ This blueprint defines *how stories are told*, not just the voice they’re told
 
 ---
 
-## 1. Protagonist‑Centric POV (The Fletch Rule)
-- **Third-person close** for all scenes where the protagonist is present.
-- The story is always filtered through the protagonist's experience.  
-- The reader learns information when the protagonist learns it.  
-- Avoid villain POV, omniscient narration, or cutaways revealing information the protagonist shouldn't know.
+## 1. Team‑Centric Limited POV (Ensemble Fair-Play)
+- **Third-person close** with one POV anchor per scene.
+- Default POV is Doogan, but the story may cut to Eddie/Abby/Baxter when the team acts away from Doogan.
+- The reader learns information when a POV character learns it.
+- Avoid villain POV and omniscient narration; don’t reveal antagonist actions the team couldn’t know.
 - Emergency cutaway scenes (extremely rare) use third-person limited objective: no interiority, procedural only.
 
 ---
@@ -191,7 +191,7 @@ Use:
 - Bureaucratic summaries  
 - Comedic misunderstandings  
 
-Never dramatize off‑screen events as full scenes.
+Never dramatize off‑screen events as full scenes (off-screen = no POV character present).
 
 ---
 

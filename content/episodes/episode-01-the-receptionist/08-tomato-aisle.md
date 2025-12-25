@@ -32,7 +32,7 @@ He picked up another tomato. Gave it serious consideration. The kind of consider
 
 "You again."
 
-Doogan looked up. She was three feet away, basket in hand—and smiling. Actually smiling, not the guarded expression from the farmer's market.
+Doogan looked up. She was three feet away, basket in hand, smiling.
 
 "Me again." He held up the tomato. "You have an opinion on Romas versus heirloom?"
 
@@ -78,7 +78,7 @@ The pivot caught her off guard. "What?"
 
 "I—Providence, I guess. But I haven't been in—"
 
-In his ear, Baxter's voice cut in, rapid-fire: "Providence is known for their risotto according to this Yelp review—shrimp, I guess—and it's all over their social media."
+In his ear, Baxter's voice cut in: "Providence is known for their risotto according to this Yelp review—shrimp, I guess—and it's all over their social media."
 
 "And at Providence, what do you order?"
 
@@ -92,7 +92,7 @@ She considered. "Hmmm...not sure..."
 
 Her eyes went wide. "How did you—" She stopped. Stared at him. "Okay, that's either really impressive or really creepy."
 
-"Why can't it be both?"
+"I prefer mysterious."
 
 She laughed, actual and unguarded. "You're very strange."
 
@@ -101,8 +101,6 @@ She laughed, actual and unguarded. "You're very strange."
 "That's not better."
 
 "It's more honest."
-
-Something shifted in her expression. Warmer. Interested.
 
 "You know," Doogan said, turning back to the tomatoes, "this place has everything you need for a real risotto. Arborio rice, shallots, decent parmesan." He selected three more tomatoes. "Even the shrimp's not terrible, if you know what to look for."
 
@@ -138,7 +136,7 @@ They were both checked out now, standing in the no-man's-land between the regist
 
 "Is that a yes or a no?"
 
-She bit her lower lip. Not weighing whether to trust him—weighing whether to admit she'd been hoping this would happen. "I don't usually..."
+She bit her lower lip. "I don't usually..."
 
 "You don't usually what?"
 
@@ -174,17 +172,9 @@ They walked out into the early evening light. She pointed across the street to a
 
 The light changed. They crossed together.
 
-In his ear, Baxter's voice came through in an awed whisper: "What? How? That doesn't happen to anyone else."
+In his ear, Baxter's voice: "She's been all over your Instagram."
 
-Doogan couldn't answer him. Annabelle was talking about how she'd never gotten the hang of cooking, how her mother had always handled it, how she'd survived on takeout and good intentions since moving here.
-
-Baxter came on over the earpiece "she's been all over your instagram."
-
-"God!  Is everyone a stalker?" Abby's voice interrupted.
-
-"Sorry, Doogan.  They wanted to listen in." Baxter said in a meek tone.
-
-Doogan reached up in a made a subtle tap on the earpiece.  That was enough for that audience tonight.
+Doogan tapped the earpiece once. Enough audience for tonight.
 
 ---
 

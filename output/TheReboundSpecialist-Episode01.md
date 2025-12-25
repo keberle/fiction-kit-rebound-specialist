@@ -1,10 +1,14 @@
-<div style="text-align: center; margin-top: 40%; font-size: 2em;">
+<div style="text-align: center; margin-top: 10%;">
+
+![Cover Art](../content/coverart.jpg)
+
+</div>
+
+<div style="text-align: center; margin-top: 5%; font-size: 2em;">
 
 # Episode 1: The Receptionist
 
-**Fiction Kit: Rebound Specialist**
-
-*Episode 1*
+**The Rebound Specialist**
 
 </div>
 
@@ -32,7 +36,7 @@ Her laugh came quick and genuine. "God, I'm going to miss that."
 
 "The bread basket?"
 
-"The way you do that. Deflect with a joke when something actually matters."
+"The way you do that. Deflect with a joke when something matters."
 
 "Who says this matters?"
 
@@ -50,7 +54,7 @@ Doogan looked down. His thumb was tracing circles on the tablecloth. He stopped.
 
 "Why?"
 
-She smiled—not sad, not apologetic. Proud. "Because three months ago I couldn't get through a deposition without hiding in the bathroom. Now I've got a hearing next week that actually matters and I think I'm going to win."
+She smiled—not sad, not apologetic. Proud. "Because three months ago I couldn't get through a deposition without hiding in the bathroom. Now I've got a hearing next week and I think I'm going to win."
 
 "You're going to destroy them."
 
@@ -58,7 +62,7 @@ She smiled—not sad, not apologetic. Proud. "Because three months ago I couldn'
 
 "I do mean it."
 
-"I know you do. That's the whole point." She traced the rim of her glass. "You made me believe I could do this. And now I actually do. Which means—"
+"I know you do. That's the whole point." She traced the rim of her glass. "You made me believe I could do this. And now I do. Which means—"
 
 "You don't need the training wheels anymore."
 
@@ -70,7 +74,7 @@ She smiled—not sad, not apologetic. Proud. "Because three months ago I couldn'
 
 "Exactly."
 
-She laughed again, and something in his chest tightened. He'd gotten good at making her laugh. Probably too good.
+She laughed again. He'd gotten good at making her laugh. Probably too good.
 
 The waiter materialized. "Can I get you anything else?"
 
@@ -78,9 +82,9 @@ The waiter materialized. "Can I get you anything else?"
 
 "Are you asking as someone who's dumping me, or someone who wants to prolong this?"
 
-"Can't it be both?"
+"A little of both, actually."
 
-"Feels like mixed signals, Counselor."
+"Mixed signals, Counselor."
 
 "I'm a complex person."
 
@@ -136,17 +140,17 @@ The tiramisu arrived. They ate in comfortable silence for a minute.
 
 "You're agreeing with me dumping you." She pointed her fork at him. "That's either very mature or deeply suspicious."
 
-"Can't it be both?"
+"I'm a complicated man."
 
-"Now you're stealing my lines."
+"You're a man who avoids direct answers."
 
 "You won't need them anymore. I'm recycling."
 
 She laughed again—the kind that made her nose wrinkle. "This is why I'm going to miss you. The smile, the jokes, the way you make everything feel lighter even when it shouldn't."
 
-"If you keep talking like that, people will think you actually like me."
+"If you keep talking like that, people will think you like me."
 
-"I do actually like you. That's not why I'm ending this."
+"I do like you. That's not why I'm ending this."
 
 "I know."
 
@@ -172,9 +176,9 @@ The waiter returned with the check. Claire reached for it out of politeness, but
 
 "Good." She stood, picking up her jacket. "Because even though its over, this did matter. You matter. The last three months matter."
 
-He stood too, folding the pen in with the signed receipt into the leather check folder. The smile came easy. Easier than it should have.
+He stood too, folding the pen in with the signed receipt into the leather check folder.
 
-"Come on," he said. "I'll walk you out."/
+"Come on," he said. "I'll walk you out."
 
 <div class="page"/>
 
@@ -190,7 +194,7 @@ The night air was warm as they stepped outside toward the valet station. Claire 
 
 "And yet you curved me."
 
-She stopped at the corner of the building, turning to face me. "I didn't curve you. I'm releasing you back into the wild."
+She stopped at the corner of the building, turning to face him. "I didn't curve you. I'm releasing you back into the wild."
 
 "Like a rehabilitated sea turtle."
 
@@ -206,11 +210,11 @@ The valet stand glowed twenty feet ahead. A kid in a red vest was handing keys t
 
 "You don't have to—"
 
-"I know I don't. That's why I'm saying it." She squeezed my arm once. "Take care of yourself, Doogan. Try not to break any hearts."
+"I know I don't. That's why I'm saying it." She squeezed his arm once. "Take care of yourself, Doogan. Try not to break any hearts."
 
 "No promises."
 
-She smiled and handed her ticket to the valet ahead of me.
+She smiled and handed her ticket to the valet ahead of him.
 
 A silver BMW sedan rolled up first. Doogan tipped the kid before he could move and opened her door.
 
@@ -218,7 +222,7 @@ A silver BMW sedan rolled up first. Doogan tipped the kid before he could move a
 
 "Drive safe, Counselor."
 
-She pulled away smoothly, taillights disappearing into traffic.
+She pulled away. Taillights vanished into traffic.
 
 Doogan told himself it was fine. It was always fine.
 
@@ -234,7 +238,7 @@ The young couple near the valet had escalated. The woman—mid-twenties, dark cu
 
 "Great. Enjoy your car." She turned back to her boyfriend. "We're done."
 
-She stormed off toward the street. The guy stood frozen, watching her go, looking like someone had just explained gravity to him for the first time.
+She stormed off toward the street. The guy stood frozen, watching her go.
 
 Doogan handed his ticket to the valet and stepped closer. "Hey."
 
@@ -254,11 +258,9 @@ The valet handed Doogan the keys with barely concealed judgment. "Nice car."
 
 "She has a good personality."
 
-Doogan tipped him anyway and slid behind the wheel. The leather was warm from sitting. He put the top down—why not—and was reaching for the ignition when the nearly invisible earpiece nestled in his ear canal buzzed.
+Doogan tipped him anyway and slid behind the wheel. The leather was warm from sitting. He put the top down—why not—and was reaching for the ignition when his earpiece buzzed.
 
-The device was Baxter's pride and joy—military-grade comms gear he'd sourced through some gray-market dealer. Practically invisible, bone conduction, undetectable even up close. Doogan wore it constantly.
-
-Eddie's voice came through crisp and clear. "How'd it go?"
+Eddie's voice came through. "How'd it go?"
 
 "She dumped me with grace and poise. Said I helped her believe in herself again."
 
@@ -266,7 +268,11 @@ Eddie's voice came through crisp and clear. "How'd it go?"
 
 "Clean as it gets."
 
-"Perfect. So listen, got a couple things for you."
+"Perfect.  I'll let her sister know and send her our final bill.  She doesn't suspect, does she?"
+
+"No, she doesn't suspect. I'm a professional for a reason." Doogan said, almost reluctantly.
+
+"That's my boy.  So listen, got a couple things for you."
 
 "Eddie."
 
@@ -276,7 +282,7 @@ Eddie's voice came through crisp and clear. "How'd it go?"
 
 "Quit her job and move back to Ohio."
 
-"That might actually be stupid."
+"That might be stupid."
 
 "Right? The friend says she's spiraling—won't leave her apartment, keeps texting the ex, the whole disaster package. She just needs someone to remind her she's desirable before she blows up her whole life."
 
@@ -320,15 +326,7 @@ The light turned green. He gave the engine gas and it caught, rumbling forward.
 
 "Good. See you in twenty." The call clicked off.
 
-He left the earpiece in—Baxter might ping him about something later.
-
-The Cougar rumbled on through the night, the warm air catching his hair, the city lights sliding past like promises.
-
-Eddie and Abby's place. Thai food. A job Eddie wanted to discuss in person.
-
-Which meant Abby would be there. Which meant she'd give us her take on it whether we wanted it or not.
-
-That usually meant trouble.
+The Cougar rumbled through the night. Warm air. City lights.
 
 He turned up the radio and tried not to think about Claire.
 
@@ -338,9 +336,9 @@ He turned up the radio and tried not to think about Claire.
 
 "There he is!" Eddie was already talking before Doogan cleared the doorway. "Fresh from a broken heart, our hero, food's getting cold, we got pad thai, we got drunken noodles, we got spring rolls—Abby insisted on the spring rolls even though nobody ever eats the spring rolls, but that's a whole separate conversation we don't need to have right now."
 
-Their kitchen gleamed—white quartz countertops, brushed nickel fixtures, the kind of carefully curated space that looked effortless but cost serious money. Thai takeout containers lined the marble island like soldiers awaiting inspection.
+The kitchen smelled like peanut sauce and money. Thai takeout containers lined the island. The pendant lights hummed.
 
-"I eat the spring rolls," Abby said, emerging from the hallway. She wore a silk blouse the color of champagne, tailored linen pants, gold jewelry that caught the pendant lights. Even at home, she looked ready for a magazine shoot. She kissed Doogan's cheek and handed him a beer. "Andrews. You survived."
+"I eat the spring rolls," Abby said, emerging from the hallway. She kissed Doogan's cheek and handed him a beer. "Andrews. You survived."
 
 "Barely."
 
@@ -370,7 +368,7 @@ Abby snorted into her wine glass.
 
 "And you believed him."
 
-"I didn't say I believed him, I said that's what he said. There's a difference. The believing part is Doogan's department." He pointed at me. "That's why we meet in person. So you can do your thing, read the guy, figure out if he's lying or just sad or what."
+"I didn't say I believed him, I said that's what he said. There's a difference. The believing part is Doogan's department." He pointed at Doogan. "That's why we meet in person. So you can do your thing, read the guy, figure out if he's lying or just sad or what."
 
 Doogan pushed noodles around his plate. "Why does an unmarried CEO need us? Can't he just transfer her? Give her a raise and some distance?"
 
@@ -408,7 +406,7 @@ Abby's eyebrow went up. "That's where the roof money came from?"
 
 "The point is—" Eddie barreled forward, "—Doogan's gut is an asset, not a veto. You use it to read people, not to avoid meeting them. Sit down with Sebastian. Let him talk. Either he's what he says he is, or he's not, and either way, you'll know in five minutes." He grabbed a spring roll and took a bite. "That's all I'm asking. One meeting."
 
-The Thai food was good. Eddie's pitch was the same as it always was—half logic, half momentum, completely relentless. And he wasn't wrong. Doogan wouldn't know until he sat across from Sebastian LeClere.
+Eddie wasn't wrong. Doogan wouldn't know until he sat across from Sebastian LeClere.
 
 "Fine. One meeting."
 
@@ -462,45 +460,31 @@ The light changed. He picked up the pace again, feet hitting pavement in steady 
 
 "What else do you have on her?"
 
-"That's the weird part." Baxter's voice shifted, a note of frustration creeping in. "For someone with a public profile, there's not much background. Basic employment verification—she does work at LeClere's company, receptionist, like he said. But before that? It's thin. College records, previous jobs, family stuff—either she's really private or someone cleaned up her digital footprint."
+"Not much. Employment checks out—receptionist at LeClere's company. But before that? Thin. Either she's private or someone cleaned up her footprint."
 
-"Or she's just not interesting enough to have left much of a trail."
-
-"Everyone leaves a trail. That's like, the whole point of the internet." A pause. Keyboard clicking. "How did you and Eddie even do this before the internet?"
+"How did you and Eddie do this before the internet?"
 
 Doogan laughed, breath coming harder on an uphill stretch. "Very differently."
 
 "No, but seriously. How did you find people? How did you get background information?"
 
-"Phonebooks. Libraries. A lot of actually talking to human beings." I crested the hill and let gravity carry me down the other side. "You want to hear about the first job?"
+"Phonebooks. Libraries. A lot of talking to human beings." He crested the hill and let gravity carry him down the other side. "You want to hear about the first job?"
 
 "Yes. Obviously yes."
 
-"College. Eddie and I were fraternity brothers—don't make that face."
+"College. Eddie and I were fraternity brothers." He dodged a woman walking a golden retriever. "The VP had a problem—hooking up with a sorority girl while secretly engaged to someone back home. Needed to end things without blowing up his life."
 
-"You can't see my face."
+"That's messy."
 
-"I can hear it." I dodged a woman walking a golden retriever. "The VP of our fraternity—trust fund kid, everything handed to him—had a problem. He'd been hooking up with a girl from the sister sorority all semester. But he was secretly engaged to some family friend's daughter back home. Wealthy family. Promised him a job after graduation."
-
-"Wait, he was cheating on his fiancée?"
-
-"The fiancée didn't know about the sorority girl. The sorority girl didn't know about the fiancée. He needed to end things cleanly without risking the engagement or the career prospects."
-
-"That's... messy."
-
-"Very. And he was panicking." Doogan crested another hill, letting gravity pull him down the other side. "So he came to Eddie—well, Eddie found him, really. Eddie's always had a nose for desperate people with money."
-
-"What did Eddie do?"
-
-"Pitched him a solution. For a price, Doogan would charm the girl, make her grateful for the breakup, make sure she wished the VP well in his marriage." He slowed at a crosswalk, catching his breath. "I thought Eddie was insane. Told him no."
+"Very. Eddie pitched him a solution. For a price, I'd charm the girl, make her grateful for the breakup." He slowed at a crosswalk. "I thought Eddie was insane. Said no."
 
 "But you did it anyway."
 
-"We were broke. Eddie and I—we weren't trust fund kids. We were scraping by while surrounded by wealth. Rent was due. The Cougar needed a new transmission." The light changed. He pushed forward. "So I engineered a few chance encounters. Made her forget about trust fund boy entirely."
+"Rent was due. The Cougar needed a transmission." The light changed. He pushed forward. "Engineered a few chance encounters. Made her forget about trust fund boy."
 
 "And it worked?"
 
-"She told the guy she was grateful they could both move on. Wished him happiness in his marriage." He was breathing harder now, the memory sharp despite the years. "She didn't even seem hurt. Just... relieved someone had actually paid attention to her."
+"She wished him happiness in his marriage. Didn't seem hurt. Just relieved someone had paid attention to her."
 
 "That's kind of amazing."
 
@@ -522,19 +506,11 @@ More keyboard sounds. Then: "Oh! Got something. I posed as a cosmetics company r
 
 "Where is she?"
 
-"Farmer's market. Saturday mornings. She posts from there constantly—and I've got timestamps now. She usually arrives around nine, stays until eleven. There's a pattern." A pause. "Also, she has a white teacup poodle."
+"Farmer's market. Saturday mornings. Nine to eleven." A pause. "Also, she has a white teacup poodle."
 
 "Of course she does."
 
-"Very fluffy. Very photogenic. Very likely to approach strangers for attention based on the behavioral patterns I've observed in her videos."
-
-"You've done behavioral analysis on a poodle?  Its not named 'Precious', is it?"
-
-"I don't know, why?" Baxter was confused by the specific nature of the question.
-
-"You really need to watch nore movies."
-
-"You say that a lot too." Baxter didn't sound embarrassed. "The point is: farmer's market, Saturday morning, poodle. You've got your meet-cute location."
+"Named Coco. Very photogenic."
 
 Doogan was approaching Duke's Coffee now—the strip mall facade visible ahead, morning light catching the windows. Sebastian LeClere and Eddie would be waiting inside.
 
@@ -572,13 +548,13 @@ Eddie stopped. "Business casual?"
 
 The man across from Eddie stood halfway, extending a hand. "Sebastian LeClere. You must be Doogan."
 
-His handshake was firm, practiced. Everything about him was practiced—the tailored shirt, the subtle cologne, the way he sat like he'd rehearsed posture in a mirror. European accent, faint but consistent. Late forties, maybe early fifties, the kind of groomed that cost money to maintain.
+Firm handshake. Tailored shirt. Cologne that cost more than the breakfast. European accent, faint but consistent. Late forties, maybe early fifties.
 
 "Eddie says you're very good at what you do."
 
 "Eddie says a lot of things."
 
-Sebastian smiled. It didn't reach his eyes. "I appreciate discretion. This situation is... delicate."
+Sebastian smiled. "I appreciate discretion. This situation is... delicate."
 
 Doogan signaled the server, ordered coffee. Sebastian's plate sat untouched—bacon, eggs, toast. The bacon glistened under the café lights.
 
@@ -626,37 +602,37 @@ Eddie jumped in. "What Doogan's getting at is, we need to know the situation to 
 
 "For everyone involved."
 
-The coffee was good. Sebastian's rehearsed charm was not. Something about him didn't fit—the polished surface with nothing underneath, like an expensive suit with no body inside it.
+The coffee was good. Something about Sebastian didn't fit—the polished surface with nothing underneath, like an expensive suit on a mannequin.
 
 Doogan stood. "I need to go. Farmer's market opens at nine, and I've got a meet-cute to engineer."
 
-Eddie's eyes went wide. "Wait, we haven't—"
+"Wait, we haven't—"
 
 "I'll handle it." He grabbed a piece of bacon from Sebastian's plate as he passed. "You should eat. You're paying for it."
 
 Outside, the morning air felt cleaner.
 
-Eddie caught up with me at the corner. "That was fast."
+Eddie caught up with him at the corner. "That was fast."
 
 "He doesn't know her. At all."
 
 "So?"
 
-"So why hire us to break up with someone he's never actually dated?" Doogan bit into the bacon. "Something's off."
+"So why hire us to break up with someone he's never dated?" Doogan bit into the bacon. "Something's off."
 
 "You're still doing it, though."
 
-He was. Because Annabelle existed, and whatever Sebastian's angle was, she didn't deserve to be caught in it. And because Eddie was already counting the money in his head, and Abby would want to know how this played out.
+He was. Because Annabelle existed, and whatever Sebastian's angle was, she didn't deserve to be caught in it.
 
 "I'll meet her. See what I see."
 
-Eddie grinned. "That's my guy."
+"That's my guy."
 
 "If this goes sideways—"
 
 "It won't."
 
-It would. Doogan could feel it. But he got in the Cougar anyway and headed toward the market, Sebastian's untouched breakfast and rehearsed smile already fading in the rearview mirror.
+It would. Doogan got in the Cougar and headed toward the market.
 
 <div class="page"/>
 
@@ -666,9 +642,9 @@ The poodle found him before he found her.
 
 Doogan was browsing heirloom tomatoes—or pretending to, since the vendor had been eyeing him for a full minute—when a white ball of fluff appeared at his ankles, nose working overtime.
 
-"Hey there." He crouched down, one hand scratching behind her ears while the other slipped into his pocket. The bacon from Sebastian's plate, fed discreetly while he kept his eyes on the approaching owner.
+"Hey there." He crouched down, one hand scratching behind her ears while the other slipped into his pocket. The bacon from Sebastian's plate, fed while he kept his eyes on the approaching owner.
 
-Coco devoured the evidence and immediately decided I was her new favorite person.
+Coco devoured the evidence and immediately decided he was her new favorite person.
 
 "Coco! Oh my god—" A woman rushed over, embarrassment already coloring her cheeks. Late twenties, dark hair pulled back, Stanford hoodie over yoga pants. "I'm so sorry. She got away from me."
 
@@ -676,7 +652,7 @@ Coco devoured the evidence and immediately decided I was her new favorite person
 
 "She's a menace." Annabelle grabbed the leash, but Coco wasn't budging. "Come on. Let's go."
 
-Coco looked up at me. Looked at Annabelle. Stayed exactly where she was.
+Coco looked up at him. Looked at Annabelle. Stayed exactly where she was.
 
 "She doesn't seem to agree."
 
@@ -684,15 +660,15 @@ Coco looked up at me. Looked at Annabelle. Stayed exactly where she was.
 
 "Maybe she likes tomatoes."
 
-"She hates tomatoes. She hates most vegetables. She's very particular." Annabelle gave me a look—half exasperation, half curiosity. "You must just have one of those faces."
+"She hates tomatoes. She hates most vegetables. She's very particular." Annabelle gave him a look—half exasperation, half curiosity. "You must just have one of those faces."
 
 "That's what my mother always said. Right before she'd add 'and that's not a compliment.'"
 
-She laughed. Surprised, genuine. The tension in her shoulders dropped.
+She laughed.
 
 "Sorry. She's usually better behaved. Or at least better at pretending to be behaved."
 
-"Aren't we all?" I stepped back from the tomato stand, and Coco finally followed—but only because I was moving. "She's got good taste, though. These are the best heirlooms in the market."
+"Aren't we all?" He stepped back from the tomato stand, and Coco finally followed—but only because he was moving. "She's got good taste, though. These are the best heirlooms in the market."
 
 "You an expert?"
 
@@ -702,7 +678,7 @@ She laughed. Surprised, genuine. The tension in her shoulders dropped.
 
 "Depends on the day."
 
-Annabelle smiled. Not the polite kind—the real kind, the one that meant she'd decided he was worth talking to. Coco was still pressed against his leg, apparently convinced they were bonded for life.
+Annabelle smiled. Coco was still pressed against his leg.
 
 "I'm Annabelle."
 
@@ -728,7 +704,7 @@ Annabelle smiled. Not the polite kind—the real kind, the one that meant she'd 
 
 "I contain multitudes."
 
-Coco had started sniffing toward the next stall—a cheese vendor—and Annabelle let herself be pulled along. Doogan fell into step beside them without being asked. The movement felt natural. Easy.
+Coco had started sniffing toward the next stall—a cheese vendor—and Annabelle let herself be pulled along. Doogan fell into step beside them. The movement felt natural.
 
 "So what brings you to the farmer's market?" she asked. "Besides the tomatoes."
 
@@ -738,7 +714,7 @@ Coco had started sniffing toward the next stall—a cheese vendor—and Annabell
 
 "I commit to my routines."
 
-"Clearly." She was studying him now, not quite suspicious but definitely curious. "Most people just grab a smoothie and keep going."
+"Clearly." She was studying him now. "Most people just grab a smoothie and keep going."
 
 "Most people don't appreciate a good heirloom."
 
@@ -746,7 +722,7 @@ Coco had started sniffing toward the next stall—a cheese vendor—and Annabell
 
 "I told you. I take produce seriously."
 
-We'd reached the cheese vendor. Coco was straining toward a sample tray, and Annabelle scooped her up before she could cause an incident.
+They reached the cheese vendor. Coco was straining toward a sample tray, and Annabelle scooped her up before she could cause an incident.
 
 "She's going to expect this every week now," Annabelle said, settling the dog against her hip. "Running into handsome strangers who let her violate their personal space."
 
@@ -760,7 +736,7 @@ We'd reached the cheese vendor. Coco was straining toward a sample tray, and Ann
 
 "Noted."
 
-Annabelle shifted Coco to her other arm. The dog was watching Doogan with total devotion, which was mildly flattering and entirely bought with stolen bacon.
+Annabelle shifted Coco to her other arm. The dog watched Doogan with total devotion.
 
 "I should probably rescue you," she said. "Before she decides you're her new owner."
 
@@ -826,7 +802,7 @@ Eddie stopped. Processed. His face cycled through confusion, skepticism, and fin
 
 "To the farmer's market. Next Saturday."
 
-"Huh." He dropped into a chair. "That's actually better."
+"Huh." He dropped into a chair. "That's better."
 
 "That's the whole point. You don't close too fast. Leave them curious."
 
@@ -840,31 +816,13 @@ Eddie and Doogan exchanged a look. Abby, at the kitchen island with her laptop a
 
 "But isn't that... manipulative?"
 
-Abby snorted. "Welcome to the business model, Baxter."
+Abby snorted. "Welcome to the business."
 
-"It's not manipulation," Eddie said. "It's—"
+Doogan cut in. "What do we have on her?"
 
-"It's manipulation." Abby still hadn't looked up. "It's just manipulation that works. Which, I suppose, is what makes it manipulation."
+"Not much," Baxter said. "Instagram's coffee art and the dog. Weirdly private."
 
-Eddie turned to her. "You want to do this again? Right now?"
-
-"No." She finally met his eyes. "I want to do this *every* time, because the day I stop pointing out how ridiculous this is, I become complicit."
-
-"You're already complicit. You do our books."
-
-"I'm *aware*." She took a sip of wine. "The cognitive dissonance keeps me sharp."
-
-Doogan cut in before this became the argument they'd had a hundred times. "What do we have on her? Background. Patterns."
-
-Baxter's face shifted on screen. "Not much. Social media's basically empty. LinkedIn exists but there's no job listed, no connections. Instagram is coffee art and the dog. She's weirdly private."
-
-"What about Sebastian's company?" Doogan asked. "Anything that puts her at Emergence Medical Billing?"
-
-"Nothing public. No employee directory, no photos, no LinkedIn connection to the company." Baxter shrugged. "But most medical billing companies keep a low profile. Not exactly Instagram material."
-
-Fair point. Nobody posts selfies from cubicles full of insurance claims.
-
-"Transaction patterns?" Eddie leaned forward. "Anything useful?"
+"Transaction patterns?" Eddie leaned forward.
 
 Baxter hesitated. "I mean... technically that's not exactly—"
 
@@ -894,7 +852,7 @@ He shook his head. "That's where it gets weird. The billing address on everythin
 
 Eddie spread his hands. "So? You show up at Gelsons. 'What a coincidence.' Start from there.  At least it gets us on a slightly faster pace than one hour each Saturday."
 
-Abby closed her laptop. "I want it on the record that I think this whole thing is ridiculous. And you—" She pointed at Doogan. "—are going to end up actually liking this woman."
+Abby closed her laptop. "I want it on the record that I think this whole thing is ridiculous. And you—" She pointed at Doogan. "—are going to end up liking this woman."
 
 "I'm not—"
 
@@ -923,8 +881,6 @@ Doogan was almost to the door when he called after him.
 "Basic psychology."
 
 "Still smooth."
-
-It was. That was the problem.
 
 <div class="page"/>
 
@@ -962,7 +918,7 @@ He picked up another tomato. Gave it serious consideration. The kind of consider
 
 "You again."
 
-Doogan looked up. She was three feet away, basket in hand—and smiling. Actually smiling, not the guarded expression from the farmer's market.
+Doogan looked up. She was three feet away, basket in hand, smiling.
 
 "Me again." He held up the tomato. "You have an opinion on Romas versus heirloom?"
 
@@ -1008,7 +964,7 @@ The pivot caught her off guard. "What?"
 
 "I—Providence, I guess. But I haven't been in—"
 
-In his ear, Baxter's voice cut in, rapid-fire: "Providence is known for their risotto according to this Yelp review—shrimp, I guess—and it's all over their social media."
+In his ear, Baxter's voice cut in: "Providence is known for their risotto according to this Yelp review—shrimp, I guess—and it's all over their social media."
 
 "And at Providence, what do you order?"
 
@@ -1022,7 +978,7 @@ She considered. "Hmmm...not sure..."
 
 Her eyes went wide. "How did you—" She stopped. Stared at him. "Okay, that's either really impressive or really creepy."
 
-"Why can't it be both?"
+"I prefer mysterious."
 
 She laughed, actual and unguarded. "You're very strange."
 
@@ -1031,8 +987,6 @@ She laughed, actual and unguarded. "You're very strange."
 "That's not better."
 
 "It's more honest."
-
-Something shifted in her expression. Warmer. Interested.
 
 "You know," Doogan said, turning back to the tomatoes, "this place has everything you need for a real risotto. Arborio rice, shallots, decent parmesan." He selected three more tomatoes. "Even the shrimp's not terrible, if you know what to look for."
 
@@ -1068,7 +1022,7 @@ They were both checked out now, standing in the no-man's-land between the regist
 
 "Is that a yes or a no?"
 
-She bit her lower lip. Not weighing whether to trust him—weighing whether to admit she'd been hoping this would happen. "I don't usually..."
+She bit her lower lip. "I don't usually..."
 
 "You don't usually what?"
 
@@ -1104,17 +1058,9 @@ They walked out into the early evening light. She pointed across the street to a
 
 The light changed. They crossed together.
 
-In his ear, Baxter's voice came through in an awed whisper: "What? How? That doesn't happen to anyone else."
+In his ear, Baxter's voice: "She's been all over your Instagram."
 
-Doogan couldn't answer him. Annabelle was talking about how she'd never gotten the hang of cooking, how her mother had always handled it, how she'd survived on takeout and good intentions since moving here.
-
-Baxter came on over the earpiece "she's been all over your instagram."
-
-"God!  Is everyone a stalker?" Abby's voice interrupted.
-
-"Sorry, Doogan.  They wanted to listen in." Baxter said in a meek tone.
-
-Doogan reached up in a made a subtle tap on the earpiece.  That was enough for that audience tonight.
+Doogan tapped the earpiece once. Enough audience for tonight.
 
 <div class="page"/>
 
@@ -1122,15 +1068,15 @@ Doogan reached up in a made a subtle tap on the earpiece.  That was enough for t
 
 "Sorry about the mess." Annabelle kicked a pair of running shoes under the couch as he followed her inside.
 
-The condo was small but carefully kept—modern furniture, plants on the windowsill, a stack of design magazines on the coffee table. Not messy. Camera ready.
+The condo was small but camera-ready. Plants on the windowsill. Design magazines fanned across the coffee table.
 
 "This is mess?" Doogan set the grocery bag on the kitchen counter. "You should see my place."
 
 "I'm sure it has character."
 
-"That's a polite way of saying 'condemned.'"
+"That's a polite way of describing chaos."
 
-She laughed and opened a cabinet. "So. Utensils. I have a pan, a wooden spoon, and—" She held up a cheese grater. "This."
+She laughed and opened a cabinet. "Utensils. I have a pan, a wooden spoon, and—" She held up a cheese grater. "This."
 
 "That'll do."
 
@@ -1162,13 +1108,13 @@ Doogan took it. Woodmark Vineyards, Napa. The label looked expensive but unfamil
 
 "Still true."
 
-She opened the bottle and poured. The wine was pale gold, catching the light.
+She opened the bottle and poured. The wine was pale gold.
 
 "To coincidences," she said, raising her glass.
 
 "And grocery stores."
 
-They drank. The wine was smooth, it was a chardonay but not a great one.  Doogan might have undersold his wine knowledge a bit. He added rice to the pan, stirred, let it toast.
+They drank. The chardonnay was decent, not great. Doogan might have undersold his wine knowledge. He added rice to the pan, stirred, let it toast.
 
 "This is nice," Annabelle said. "I don't usually—"
 
@@ -1180,15 +1126,41 @@ They drank. The wine was smooth, it was a chardonay but not a great one.  Doogan
 
 "I think it can be a dangerous thing."
 
-"To danger, then?"
+He added the first ladle of stock. The rice absorbed it hungrily.
 
-They both raised their glasses and finished the wine in their glasses.  He added stock, stirred, added more. The risotto was coming together—creamy, rich, almost done. Annabelle refilled their glasses.
+"Can I ask you something?"
+
+"You just did."
+
+She smiled. "Why aren't you married?"
+
+The question landed somewhere unexpected. He stirred the risotto. "Never found the right timing."
+
+"That's not an answer."
+
+"It's the answer I've got."
+
+"Hmm." She refilled their glasses. "My last boyfriend said I was too much work. Too demanding. Too—" She waved a hand. "Everything."
+
+"He sounds like an idiot."
+
+"He was. That's not the point." She set down the bottle. "The point is I believed him. For a while. Then I decided I'd rather be alone than be someone's compromise."
+
+Doogan added more stock. Stirred. The risotto was silky now, coming together.
+
+"That's not nothing."
+
+"That's not a compliment."
+
+"Sure it is." He met her eyes. "Most people settle. You didn't. That takes guts."
+
+Her guard dropped.
 
 "You're good at this."
 
 "Cooking?"
 
-"Everything." She set down her glass and turned him toward her. "The talking. The timing.  Is this why all the podcasts rave about more experienced men?"
+"Everything." She set down her glass and turned him toward her. "The talking. The timing. Is this why all the podcasts rave about more experienced men?"
 
 "Is that another way of saying older?"
 
@@ -1202,15 +1174,41 @@ The risotto could wait.
 
 She led him toward the bedroom. Coco whined from the kitchen.
 
-"She'll survive," Annabelle said giggling as she guided him to her room.
+"She'll survive," Annabelle said.
 
-It got dark.  Too dark.
+The bedroom was dark, the sheets cool. She was warm. She was laughing. She was telling him about her first apartment, the one with the radiator that sounded like a dying animal, and he was telling her about the Cougar's transmission problems, and somehow they were both laughing and then they weren't laughing anymore.
 
-Doogan was awoken by the feeling of someone tapping on his forehead.  Through the dark haze of his vision he did not see the giddy receptionist he was expecting.  Instead, eyes of a very serious man were looking back at him.
+Afterward, she traced patterns on his chest.
 
-"Rough night?" he said, still not smiling as he pointed beside Doogan.
+"This wasn't the plan," she said.
 
-Doogan's vision cleared enough to see what was beside him.
+"Plans change."
+
+"Do they?" She propped herself up on one elbow. "You don't seem like someone whose plans change."
+
+"What do I seem like?"
+
+"Someone who always knows the next move."
+
+He didn't answer. Couldn't, really. Because she was right. And because for the first time in a long time, he didn't know the next move. Didn't want to.
+
+She fell asleep with her head on his shoulder. Her breathing evened out. The room was quiet.
+
+Doogan stared at the ceiling. Sebastian's lies. Annabelle's trust. The math didn't add up, and he couldn't stop running the numbers.
+
+He closed his eyes.
+
+---
+
+Someone tapped his forehead.
+
+Doogan opened his eyes. The room was wrong—too bright, too cold. A man stood over him. Badge. Hard expression.
+
+"Rough night?"
+
+The detective pointed beside him.
+
+Doogan turned his head.
 
 Annabelle. Still. Too still.
 

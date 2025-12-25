@@ -1,7 +1,5 @@
 ## Scene 1 — The Dumping
 
-The candle between them flickered. Claire set down her wine glass with the kind of precision lawyers use when they're about to deliver bad news.
-
 "I think we should stop seeing each other."
 
 Doogan had known it was coming. Had felt it all week. Still landed like a punchline he wasn't ready for.
@@ -20,7 +18,7 @@ Her laugh came quick and genuine. "God, I'm going to miss that."
 
 "The bread basket?"
 
-"The way you do that. Deflect with a joke when something actually matters."
+"The way you do that. Deflect with a joke when something matters."
 
 "Who says this matters?"
 
@@ -38,7 +36,7 @@ Doogan looked down. His thumb was tracing circles on the tablecloth. He stopped.
 
 "Why?"
 
-She smiled—not sad, not apologetic. Proud. "Because three months ago I couldn't get through a deposition without hiding in the bathroom. Now I've got a hearing next week that actually matters and I think I'm going to win."
+She smiled—not sad, not apologetic. Proud. "Because three months ago I couldn't get through a deposition without hiding in the bathroom. Now I've got a hearing next week and I think I'm going to win."
 
 "You're going to destroy them."
 
@@ -46,7 +44,7 @@ She smiled—not sad, not apologetic. Proud. "Because three months ago I couldn'
 
 "I do mean it."
 
-"I know you do. That's the whole point." She traced the rim of her glass. "You made me believe I could do this. And now I actually do. Which means—"
+"I know you do. That's the whole point." She traced the rim of her glass. "You made me believe I could do this. And now I do. Which means—"
 
 "You don't need the training wheels anymore."
 
@@ -58,7 +56,7 @@ She smiled—not sad, not apologetic. Proud. "Because three months ago I couldn'
 
 "Exactly."
 
-She laughed again, and something in his chest tightened. He'd gotten good at making her laugh. Probably too good.
+She laughed again. He'd gotten good at making her laugh. Probably too good.
 
 The waiter materialized. "Can I get you anything else?"
 
@@ -66,9 +64,9 @@ The waiter materialized. "Can I get you anything else?"
 
 "Are you asking as someone who's dumping me, or someone who wants to prolong this?"
 
-"Can't it be both?"
+"A little of both, actually."
 
-"Feels like mixed signals, Counselor."
+"Mixed signals, Counselor."
 
 "I'm a complex person."
 
@@ -124,17 +122,17 @@ The tiramisu arrived. They ate in comfortable silence for a minute.
 
 "You're agreeing with me dumping you." She pointed her fork at him. "That's either very mature or deeply suspicious."
 
-"Can't it be both?"
+"I'm a complicated man."
 
-"Now you're stealing my lines."
+"You're a man who avoids direct answers."
 
 "You won't need them anymore. I'm recycling."
 
 She laughed again—the kind that made her nose wrinkle. "This is why I'm going to miss you. The smile, the jokes, the way you make everything feel lighter even when it shouldn't."
 
-"If you keep talking like that, people will think you actually like me."
+"If you keep talking like that, people will think you like me."
 
-"I do actually like you. That's not why I'm ending this."
+"I do like you. That's not why I'm ending this."
 
 "I know."
 
@@ -160,7 +158,7 @@ The waiter returned with the check. Claire reached for it out of politeness, but
 
 "Good." She stood, picking up her jacket. "Because even though its over, this did matter. You matter. The last three months matter."
 
-He stood too, folding the pen in with the signed receipt into the leather check folder. The smile came easy. Easier than it should have.
+He stood too, folding the pen in with the signed receipt into the leather check folder.
 
 "Come on," he said. "I'll walk you out."
 

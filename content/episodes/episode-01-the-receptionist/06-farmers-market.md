@@ -4,9 +4,9 @@ The poodle found him before he found her.
 
 Doogan was browsing heirloom tomatoes—or pretending to, since the vendor had been eyeing him for a full minute—when a white ball of fluff appeared at his ankles, nose working overtime.
 
-"Hey there." He crouched down, one hand scratching behind her ears while the other slipped into his pocket. The bacon from Sebastian's plate, fed discreetly while he kept his eyes on the approaching owner.
+"Hey there." He crouched down, one hand scratching behind her ears while the other slipped into his pocket. The bacon from Sebastian's plate, fed while he kept his eyes on the approaching owner.
 
-Coco devoured the evidence and immediately decided I was her new favorite person.
+Coco devoured the evidence and immediately decided he was her new favorite person.
 
 "Coco! Oh my god—" A woman rushed over, embarrassment already coloring her cheeks. Late twenties, dark hair pulled back, Stanford hoodie over yoga pants. "I'm so sorry. She got away from me."
 
@@ -14,7 +14,7 @@ Coco devoured the evidence and immediately decided I was her new favorite person
 
 "She's a menace." Annabelle grabbed the leash, but Coco wasn't budging. "Come on. Let's go."
 
-Coco looked up at me. Looked at Annabelle. Stayed exactly where she was.
+Coco looked up at him. Looked at Annabelle. Stayed exactly where she was.
 
 "She doesn't seem to agree."
 
@@ -22,15 +22,15 @@ Coco looked up at me. Looked at Annabelle. Stayed exactly where she was.
 
 "Maybe she likes tomatoes."
 
-"She hates tomatoes. She hates most vegetables. She's very particular." Annabelle gave me a look—half exasperation, half curiosity. "You must just have one of those faces."
+"She hates tomatoes. She hates most vegetables. She's very particular." Annabelle gave him a look—half exasperation, half curiosity. "You must just have one of those faces."
 
 "That's what my mother always said. Right before she'd add 'and that's not a compliment.'"
 
-She laughed. Surprised, genuine. The tension in her shoulders dropped.
+She laughed.
 
 "Sorry. She's usually better behaved. Or at least better at pretending to be behaved."
 
-"Aren't we all?" I stepped back from the tomato stand, and Coco finally followed—but only because I was moving. "She's got good taste, though. These are the best heirlooms in the market."
+"Aren't we all?" He stepped back from the tomato stand, and Coco finally followed—but only because he was moving. "She's got good taste, though. These are the best heirlooms in the market."
 
 "You an expert?"
 
@@ -40,7 +40,7 @@ She laughed. Surprised, genuine. The tension in her shoulders dropped.
 
 "Depends on the day."
 
-Annabelle smiled. Not the polite kind—the real kind, the one that meant she'd decided he was worth talking to. Coco was still pressed against his leg, apparently convinced they were bonded for life.
+Annabelle smiled. Coco was still pressed against his leg.
 
 "I'm Annabelle."
 
@@ -48,7 +48,7 @@ Annabelle smiled. Not the polite kind—the real kind, the one that meant she'd 
 
 "That's unusual."
 
-"Family name. My grandfather's, supposedly. Though my mother also said she was heavily medicated during labor, so the paperwork might be suspect."
+"Family name. Mother was heavily medicated during labor."
 
 "Your mother sounds like a character."
 
@@ -66,7 +66,7 @@ Annabelle smiled. Not the polite kind—the real kind, the one that meant she'd 
 
 "I contain multitudes."
 
-Coco had started sniffing toward the next stall—a cheese vendor—and Annabelle let herself be pulled along. Doogan fell into step beside them without being asked. The movement felt natural. Easy.
+Coco had started sniffing toward the next stall—a cheese vendor—and Annabelle let herself be pulled along. Doogan fell into step beside them. The movement felt natural.
 
 "So what brings you to the farmer's market?" she asked. "Besides the tomatoes."
 
@@ -76,7 +76,7 @@ Coco had started sniffing toward the next stall—a cheese vendor—and Annabell
 
 "I commit to my routines."
 
-"Clearly." She was studying him now, not quite suspicious but definitely curious. "Most people just grab a smoothie and keep going."
+"Clearly." She was studying him now. "Most people just grab a smoothie and keep going."
 
 "Most people don't appreciate a good heirloom."
 
@@ -84,7 +84,7 @@ Coco had started sniffing toward the next stall—a cheese vendor—and Annabell
 
 "I told you. I take produce seriously."
 
-We'd reached the cheese vendor. Coco was straining toward a sample tray, and Annabelle scooped her up before she could cause an incident.
+They reached the cheese vendor. Coco was straining toward a sample tray, and Annabelle scooped her up before she could cause an incident.
 
 "She's going to expect this every week now," Annabelle said, settling the dog against her hip. "Running into handsome strangers who let her violate their personal space."
 
@@ -98,7 +98,7 @@ We'd reached the cheese vendor. Coco was straining toward a sample tray, and Ann
 
 "Noted."
 
-Annabelle shifted Coco to her other arm. The dog was watching Doogan with total devotion, which was mildly flattering and entirely bought with stolen bacon.
+Annabelle shifted Coco to her other arm. The dog watched Doogan with total devotion.
 
 "I should probably rescue you," she said. "Before she decides you're her new owner."
 

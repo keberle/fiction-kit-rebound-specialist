@@ -36,14 +36,14 @@ Serial fiction is a storytelling format where a larger narrative is divided into
 - For group scenes, consider a “reset” line (e.g., “Doogan glanced at the valet”) when the speaker changes or a new character enters.
 ## Off-Screen Event Handling in Serial Fiction
 
-### The Protagonist-Centric Rule
-- Serial mysteries must maintain **fair play**: reader discovers clues when the protagonist discovers them.
-- **Third-person close POV:** Use "Doogan said," "He noticed"—never first-person ("I," "my").
-- Never cut away to villain scenes, omniscient reveals, or events the protagonist can't witness.
-- Maintain tension by keeping the protagonist (and reader) in the dark until information arrives naturally.
+### The Team-Centric Fair-Play Rule
+- Serial mysteries must maintain **fair play**: the reader discovers clues when a **POV character** discovers them.
+- **Ensemble third-person close POV:** Each scene is anchored to one character (often Doogan; sometimes Eddie/Abby/Baxter). Never first-person ("I," "my").
+- Never cut away to villain scenes or omniscient reveals of antagonist actions.
+- Maintain tension by keeping the team (and reader) in the dark until information arrives naturally.
 
 ### Indirect Information Delivery
-When important events occur off-screen, deliver them through:
+When important events occur off-screen (no POV character present), deliver them through:
 - **Eddie/Baxter briefings:** Background research, intel updates, surveillance reports
 - **Dialogue recounting:** Characters report what happened (incompletely, with bias, or humor)
 - **Interviews/interrogations:** Protagonist questions witnesses or suspects
@@ -59,10 +59,10 @@ When important events occur off-screen, deliver them through:
 - They maintain **mystery** by keeping villain motivations obscured.
 
 ### Emergency Cutaways (Rare)
-If a scene absolutely must occur without the protagonist:
+If a scene absolutely must occur without a core POV character:
 - Keep it 1–3 paragraphs maximum
 - Keep it objective and procedural (no interiority)
-- Never reveal information the protagonist shouldn't know
+- Never reveal information the team shouldn't know
 - Use only for logistical/bureaucratic necessity 
 ## Content Organization
 

@@ -10,7 +10,7 @@ The night air was warm as they stepped outside toward the valet station. Claire 
 
 "And yet you curved me."
 
-She stopped at the corner of the building, turning to face me. "I didn't curve you. I'm releasing you back into the wild."
+She stopped at the corner of the building, turning to face him. "I didn't curve you. I'm releasing you back into the wild."
 
 "Like a rehabilitated sea turtle."
 
@@ -26,11 +26,11 @@ The valet stand glowed twenty feet ahead. A kid in a red vest was handing keys t
 
 "You don't have to—"
 
-"I know I don't. That's why I'm saying it." She squeezed my arm once. "Take care of yourself, Doogan. Try not to break any hearts."
+"I know I don't. That's why I'm saying it." She squeezed his arm once. "Take care of yourself, Doogan. Try not to break any hearts."
 
 "No promises."
 
-She smiled and handed her ticket to the valet ahead of me.
+She smiled and handed her ticket to the valet ahead of him.
 
 A silver BMW sedan rolled up first. Doogan tipped the kid before he could move and opened her door.
 
@@ -38,7 +38,7 @@ A silver BMW sedan rolled up first. Doogan tipped the kid before he could move a
 
 "Drive safe, Counselor."
 
-She pulled away smoothly, taillights disappearing into traffic.
+She pulled away. Taillights vanished into traffic.
 
 Doogan told himself it was fine. It was always fine.
 
@@ -54,7 +54,7 @@ The young couple near the valet had escalated. The woman—mid-twenties, dark cu
 
 "Great. Enjoy your car." She turned back to her boyfriend. "We're done."
 
-She stormed off toward the street. The guy stood frozen, watching her go, looking like someone had just explained gravity to him for the first time.
+She stormed off toward the street. The guy stood frozen, watching her go.
 
 Doogan handed his ticket to the valet and stepped closer. "Hey."
 
@@ -66,7 +66,7 @@ He barely registered Doogan. "What?"
 
 "She said that standing ten feet from you instead of getting in an uber." He shrugged. "Go."
 
-Something clicked in his eyes. He took off running, calling her name. She stopped. Turned. Doogan couldn't hear what he said, but her arms uncrossed.
+His jaw tightened. He took off running, calling her name. She stopped. Turned. Doogan couldn't hear what he said, but her arms uncrossed.
 
 The Cougar rumbled up to the curb like a promise someone forgot to keep. Faded dark blue paint, patched soft top, an engine note that suggested mechanical stubbornness more than reliability.
 
@@ -74,11 +74,9 @@ The valet handed Doogan the keys with barely concealed judgment. "Nice car."
 
 "She has a good personality."
 
-Doogan tipped him anyway and slid behind the wheel. The leather was warm from sitting. He put the top down—why not—and was reaching for the ignition when the nearly invisible earpiece nestled in his ear canal buzzed.
+Doogan tipped him anyway and slid behind the wheel. The leather was warm from sitting. He put the top down—why not—and was reaching for the ignition when his earpiece buzzed.
 
-The device was Baxter's pride and joy—military-grade comms gear he'd sourced through some gray-market dealer. Practically invisible, bone conduction, undetectable even up close. Doogan wore it constantly.
-
-Eddie's voice came through crisp and clear. "How'd it go?"
+Eddie's voice came through. "How'd it go?"
 
 "She dumped me with grace and poise. Said I helped her believe in herself again."
 
@@ -86,7 +84,11 @@ Eddie's voice came through crisp and clear. "How'd it go?"
 
 "Clean as it gets."
 
-"Perfect. So listen, got a couple things for you."
+"Perfect.  I'll let her sister know and send her our final bill.  She doesn't suspect, does she?"
+
+"No, she doesn't suspect. I'm a professional for a reason." Doogan said, almost reluctantly.
+
+"That's my boy.  So listen, got a couple things for you."
 
 "Eddie."
 
@@ -96,7 +98,7 @@ Eddie's voice came through crisp and clear. "How'd it go?"
 
 "Quit her job and move back to Ohio."
 
-"That might actually be stupid."
+"That might be stupid."
 
 "Right? The friend says she's spiraling—won't leave her apartment, keeps texting the ex, the whole disaster package. She just needs someone to remind her she's desirable before she blows up her whole life."
 
@@ -140,15 +142,7 @@ The light turned green. He gave the engine gas and it caught, rumbling forward.
 
 "Good. See you in twenty." The call clicked off.
 
-He left the earpiece in—Baxter might ping him about something later.
-
-The Cougar rumbled on through the night, the warm air catching his hair, the city lights sliding past like promises.
-
-Eddie and Abby's place. Thai food. A job Eddie wanted to discuss in person.
-
-Which meant Abby would be there. Which meant she'd give us her take on it whether we wanted it or not.
-
-That usually meant trouble.
+The Cougar rumbled through the night. Warm air. City lights.
 
 He turned up the radio and tried not to think about Claire.
 

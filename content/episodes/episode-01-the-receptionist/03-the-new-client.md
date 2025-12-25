@@ -2,9 +2,9 @@
 
 "There he is!" Eddie was already talking before Doogan cleared the doorway. "Fresh from a broken heart, our hero, food's getting cold, we got pad thai, we got drunken noodles, we got spring rolls—Abby insisted on the spring rolls even though nobody ever eats the spring rolls, but that's a whole separate conversation we don't need to have right now."
 
-Their kitchen gleamed—white quartz countertops, brushed nickel fixtures, the kind of carefully curated space that looked effortless but cost serious money. Thai takeout containers lined the marble island like soldiers awaiting inspection.
+The kitchen smelled like peanut sauce and money. Thai takeout containers lined the island. The pendant lights hummed.
 
-"I eat the spring rolls," Abby said, emerging from the hallway. She wore a silk blouse the color of champagne, tailored linen pants, gold jewelry that caught the pendant lights. Even at home, she looked ready for a magazine shoot. She kissed Doogan's cheek and handed him a beer. "Andrews. You survived."
+"I eat the spring rolls," Abby said, emerging from the hallway. She kissed Doogan's cheek and handed him a beer. "Andrews. You survived."
 
 "Barely."
 
@@ -12,7 +12,7 @@ Their kitchen gleamed—white quartz countertops, brushed nickel fixtures, the k
 
 "The Cougar's fine."
 
-"The Cougar is a rolling health code violation." She slid onto a barstool, crossing her legs. "But I'm sure it has a lovely personality."
+"The Cougar is a rolling health code violation." She slid onto a barstool, her silk blouse catching the pendant light, and crossed her legs. "But I'm sure it has a lovely personality."
 
 Eddie was piling food onto plates, gesturing with chopsticks. "Okay, so, the new job—and I'm just going to get right into it because I've been sitting on this all day and Abby keeps making that face like I'm hiding something, which, technically, yes, I was waiting for you, but that's not hiding, that's strategic timing—"
 
@@ -34,7 +34,7 @@ Abby snorted into her wine glass.
 
 "And you believed him."
 
-"I didn't say I believed him, I said that's what he said. There's a difference. The believing part is Doogan's department." He pointed at me. "That's why we meet in person. So you can do your thing, read the guy, figure out if he's lying or just sad or what."
+"I didn't say I believed him, I said that's what he said. There's a difference. The believing part is Doogan's department." He pointed at Doogan. "That's why we meet in person. So you can do your thing, read the guy, figure out if he's lying or just sad or what."
 
 Doogan pushed noodles around his plate. "Why does an unmarried CEO need us? Can't he just transfer her? Give her a raise and some distance?"
 
@@ -72,7 +72,7 @@ Abby's eyebrow went up. "That's where the roof money came from?"
 
 "The point is—" Eddie barreled forward, "—Doogan's gut is an asset, not a veto. You use it to read people, not to avoid meeting them. Sit down with Sebastian. Let him talk. Either he's what he says he is, or he's not, and either way, you'll know in five minutes." He grabbed a spring roll and took a bite. "That's all I'm asking. One meeting."
 
-The Thai food was good. Eddie's pitch was the same as it always was—half logic, half momentum, completely relentless. And he wasn't wrong. Doogan wouldn't know until he sat across from Sebastian LeClere.
+Eddie wasn't wrong. Doogan wouldn't know until he sat across from Sebastian LeClere.
 
 "Fine. One meeting."
 

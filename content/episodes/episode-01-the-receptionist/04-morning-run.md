@@ -54,19 +54,19 @@ Doogan laughed, breath coming harder on an uphill stretch. "Very differently."
 
 "That's... messy."
 
-"Very. And he was panicking." Doogan crested another hill, letting gravity pull him down the other side. "So he came to Eddie—well, Eddie found him, really. Eddie's always had a nose for desperate people with money."
+"Very. And he was panicking." I crested another hill, letting gravity pull me down the other side. "So he came to Eddie—well, Eddie found him, really. Eddie's always had a nose for desperate people with money."
 
 "What did Eddie do?"
 
-"Pitched him a solution. For a price, Doogan would charm the girl, make her grateful for the breakup, make sure she wished the VP well in his marriage." He slowed at a crosswalk, catching his breath. "I thought Eddie was insane. Told him no."
+"Pitched him a solution. For a price, I'd charm the girl, make her grateful for the breakup, make sure she wished the VP well in his marriage." I slowed at a crosswalk, catching my breath. "I thought Eddie was insane. Told him no."
 
 "But you did it anyway."
 
-"We were broke. Eddie and I—we weren't trust fund kids. We were scraping by while surrounded by wealth. Rent was due. The Cougar needed a new transmission." The light changed. He pushed forward. "So I engineered a few chance encounters. Made her forget about trust fund boy entirely."
+"We were broke. Eddie and I—we weren't trust fund kids. We were scraping by while surrounded by wealth. Rent was due. The Cougar needed a new transmission." The light changed. I pushed forward. "So I engineered a few chance encounters. Made her forget about trust fund boy entirely."
 
 "And it worked?"
 
-"She told the guy she was grateful they could both move on. Wished him happiness in his marriage." He was breathing harder now, the memory sharp despite the years. "She didn't even seem hurt. Just... relieved someone had actually paid attention to her."
+"She told the guy she was grateful they could both move on. Wished him happiness in his marriage." I was breathing harder now, the memory sharp despite the years. "She didn't even seem hurt. Just... relieved someone had actually paid attention to her."
 
 "That's kind of amazing."
 
@@ -74,7 +74,7 @@ Doogan laughed, breath coming harder on an uphill stretch. "Very differently."
 
 "But here you are."
 
-"Here I am." The light changed. Doogan started running again, slower now, cooling down. "The trick is not thinking about it too hard."
+"Here I am." The light changed. I started running again, slower now, cooling down. "The trick is not thinking about it too hard."
 
 "You say that a lot."
 
@@ -102,7 +102,7 @@ More keyboard sounds. Then: "Oh! Got something. I posed as a cosmetics company r
 
 "You say that a lot too." Baxter didn't sound embarrassed. "The point is: farmer's market, Saturday morning, poodle. You've got your meet-cute location."
 
-Doogan was approaching Duke's Coffee now—the strip mall facade visible ahead, morning light catching the windows. Sebastian LeClere and Eddie would be waiting inside.
+I was approaching Duke's Coffee now—the strip mall facade visible ahead, morning light catching the windows. Sebastian LeClere and Eddie would be waiting inside.
 
 "Good work, Baxter."
 
@@ -114,7 +114,7 @@ Doogan was approaching Duke's Coffee now—the strip mall facade visible ahead, 
 
 "It might."
 
-Doogan slowed to a walk, letting his heart rate settle. Duke's Coffee sat at the end of the strip, unremarkable except for Eddie's sedan in the parking lot.
+I slowed to a walk, letting my heart rate settle. Duke's Coffee sat at the end of the strip, unremarkable except for Eddie's sedan in the parking lot.
 
 "Going dark for the client meet."
 
@@ -124,7 +124,7 @@ Doogan slowed to a walk, letting his heart rate settle. Duke's Coffee sat at the
 
 "Nobody's that normal," Baxter said. "Nobody."
 
-The line went quiet. He pulled the door open and stepped into the air conditioning, scanning for Eddie's inevitable wave.
+The line went quiet. I pulled the door open and stepped into the air conditioning, scanning for Eddie's inevitable wave.
 
 ---
 

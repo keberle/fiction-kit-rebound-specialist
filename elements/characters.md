@@ -71,6 +71,9 @@ Gabby's older sister.  She is the target of the rebound.  It turns out, Brad was
 ### Terry Tamborino
 Terry is the Billings wedding planner.  He's openly flamboyant and a more than a little effeminate and he doesn't know about the rebound.  He's just glad Cheryl has someone to keep her distracted so she doesn't go "full Cheryl" during the wedding weekend events.  He is an aderal fueled, multi-tasking wedding planning savant.  And he thinks Doogan is too good looking to be straight but he's too busy planning the wedding of the season to spend anymore time on that.
 
+### Jillian (bridesmaid)
+Jillian is the perfect stereotype of a wannabe SoCal (southern california) social media influencer.  Everything in her life is built for FOMO photo and video opportunities.  She's done make up and shampoo GRWM (get ready with me), popular dance and lip sync videos, faked private jet getaway weekend photo bombs, even tried doing vintage found clothes videos, resulting in an unfortunate trespassing incident at a hollywood hills garage sale.  But her desperate attempts at social media clout giving her compliments like "Oh, Jillian, you look great...like you'll be 21 forever.", hinting that her tastes mirror that now bankrupt store franchise Forever 21.  And her boyfriend is largely for show, like some live action Ken doll.  Cheryl is pretty sure she doesn't even have sex with him and that he's in the closet but also wants the social media clout.  He's worthless though, not even worth learning his name.
+
 ## Episode 3
 
 ### Mara Kingsley

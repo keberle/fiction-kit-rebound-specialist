@@ -1,14 +1,20 @@
-﻿# Gregory McDonald POV Style (Fletch Novels)
+﻿# POV Style (McDonald-Inspired, Ensemble-Ready)
 
-## Perspective: Third-Person Close (with First-Person Feel)
-Gregory McDonald's Fletch novels are written in **third-person limited**, not first-person—but they create an intensely intimate, first-person *feel* through several techniques:
+## Perspective: Ensemble Third-Person Close (with First-Person Feel)
+This series keeps Gregory McDonald’s *feel* (dialogue-forward, tight psychic distance, authorial invisibility) but supports a **team story**.
+
+Mechanism:
+- Each scene uses **third-person close** anchored to a single POV character.
+- Default POV is Doogan, but scenes may anchor to **Eddie, Abby, or Baxter** when the team acts away from Doogan.
+- No first-person narration.
+- No villain POV and no omniscient “cutaway reveals” of antagonist actions.
 
 - **Third-person pronouns:** "Fletch said," "He walked," "Doogan noticed"
 - **Extremely close psychic distance:** The narrative stays tight to the protagonist's consciousness
 - **No interior monologue:** Thoughts are revealed through dialogue, action, and behavior—never "He thought..." passages
 - **No authorial commentary:** The narrator never editorializes or explains; the reader pieces things together
-- **The Fletch Rule:** Reader learns information when the protagonist learns it—no exceptions
-- **No villain POV, no omniscient narration, no cutaways** revealing information the protagonist shouldn't know
+- **Fair-Play Rule (Team Edition):** Reader learns information when a POV character learns it.
+- **No villain POV, no omniscient narration:** Don’t reveal antagonist actions or hidden facts just because the camera can.
 
 ### Why Third-Person Close Works
 - Feels intimate without the artificiality of first-person narration
@@ -30,7 +36,7 @@ Gregory McDonald's Fletch novels are written in **third-person limited**, not fi
 ## Structure
 - Dialogue-driven narrative; minimal exposition
 - Context implied through speech and action rather than description
-- **Off-screen events are delivered indirectly** through dialogue recounting, interviews, documents, voicemails, news clips, or comedic misunderstandings
+- Off-screen events (events no POV character can witness) are delivered indirectly through dialogue recounting, interviews, documents, voicemails, news clips, or comedic misunderstandings
 
 ## Temporal Flow
 - Linear, real-time progression
@@ -39,10 +45,10 @@ Gregory McDonald's Fletch novels are written in **third-person limited**, not fi
 ## Character Perception
 - Observational, non-editorializing narrator
 - Focus on behavior and speech over physical description
-- Camera follows Doogan—we see what he sees, when he sees it
+- Camera follows the scene’s POV anchor—we see what they see, when they see it
 
 ## Information Delivery Methods
-When events occur off-screen (protagonist not present):
+When events occur off-screen (no POV character present):
 - **Dialogue recounting:** Characters report what happened, often incompletely or with bias
 - **Interviews:** Protagonist questions witnesses or participants
 - **Documents:** Reports, texts, receipts, files
@@ -52,11 +58,19 @@ When events occur off-screen (protagonist not present):
 - **Comedic misunderstandings:** Conflicting accounts create humor
 
 ## Minimal Cutaways (Emergency Only)
-If a scene must occur without the protagonist:
+If a scene must occur without a core POV character:
 - Keep it extremely short (1–3 paragraphs)
 - Keep it objective (no emotions or interiority)
 - Keep it functional (procedural, bureaucratic)
-- Never reveal information the protagonist shouldn't know yet
+- Never reveal information the team shouldn’t know yet
+
+## Allowed POV Characters (Default)
+- Doogan Andrews
+- Eddie Palmer
+- Abby Palmer
+- Rodney Baxter
+
+Rule: one POV per scene. If you switch POV, it’s a **new scene**.
 
 ## Third-Person Conversion Guide
 When converting from first-person to third-person close:

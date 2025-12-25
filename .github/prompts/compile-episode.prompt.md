@@ -20,15 +20,21 @@ When the user requests to compile an episode:
    - Extract: episode number, title, theme, hook/cold open, and cliffhanger/end-button
 
 4. **Create the compiled output file**
-   - Target location: `output/episode-##-kebab-case-title.md`
+   - Target location: `output/TheReboundSpecialist-EpisodeXX.md` (where XX is zero-padded episode number)
    - If `output/` directory doesn't exist, create it
-   - Filename example: `output/episode-01-the-receptionist.md`
+   - Filename example: `output/TheReboundSpecialist-Episode01.md`
 
 5. **Compile the content with PDF-optimized formatting**
    
    **A. Title Page Section:**
    ```markdown
-   <div style="text-align: center; margin-top: 40%; font-size: 2em;">
+   <div style="text-align: center; margin-top: 10%;">
+   
+   ![Cover Art](../content/coverart.jpg)
+   
+   </div>
+   
+   <div style="text-align: center; margin-top: 5%; font-size: 2em;">
    
    # Episode #: Title
    
@@ -73,12 +79,12 @@ When the user requests to compile an episode:
 8. **Generate the PDF**
    - After creating the markdown file, automatically invoke the PDF conversion
    - Use VS Code command: `markdown-pdf.pdf` on the compiled markdown file
-   - PDF will be created with same name: `output/episode-##-kebab-case-title.pdf`
+   - PDF will be created with same name: `output/TheReboundSpecialist-EpisodeXX.pdf`
    - If conversion fails, provide instructions for manual conversion
 
 9. **Report completion**
-   - Confirm markdown file created: `output/episode-##-title.md`
-   - Confirm PDF file created: `output/episode-##-title.pdf`
+   - Confirm markdown file created: `output/TheReboundSpecialist-EpisodeXX.md`
+   - Confirm PDF file created: `output/TheReboundSpecialist-EpisodeXX.pdf`
    - Report total word count and scene count
    - Note any warnings or issues
 
@@ -105,9 +111,9 @@ The Markdown PDF extension will handle the conversion using these optimizations:
 **System actions:**
 1. Reads `elements/outlines/episode-01.md` for episode title
 2. Reads all scene files from `content/episodes/episode-01-the-receptionist/` in order
-3. Creates `output/episode-01-the-receptionist.md` with PDF-optimized formatting (title page, scene number headers, page breaks)
-4. Invokes PDF conversion to create `output/episode-01-the-receptionist.pdf`
-5. Reports: "✓ Episode 1 compiled: 9 scenes, 7,673 words\n  → output/episode-01-the-receptionist.md\n  → output/episode-01-the-receptionist.pdf"
+3. Creates `output/TheReboundSpecialist-Episode01.md` with PDF-optimized formatting (title page, scene number headers, page breaks)
+4. Invokes PDF conversion to create `output/TheReboundSpecialist-Episode01.pdf`
+5. Reports: "✓ Episode 1 compiled: 9 scenes, 7,673 words\n  → output/TheReboundSpecialist-Episode01.md\n  → output/TheReboundSpecialist-Episode01.pdf"
 
 ## Notes
 
