@@ -84,3 +84,12 @@ Include a summary table showing:
 - ✅ Complete (task marked `[X]`)
 - ⏳ Pending (task marked `[ ]`)
 - 🚫 Blocked (dependencies incomplete)
+---
+
+## Next Step in Workflow
+
+After completing tasks.md, the next step is to execute the tasks:
+
+**Use `.github/prompts/implement.prompt.md` to systematically execute each task in dependency order.**
+
+**REMINDER:** All tasks MUST use checkbox format (`- [ ]` / `- [X]`) as specified above. Never use alternative formats like bold headers or numbered lists for tasks.

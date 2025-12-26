@@ -58,8 +58,11 @@ Draft work happens in artifact stages. Keep a clean separation of intent vs exec
 <full contents>
 ```
 
-- For implementation, output only the final changed files and file operations as specified by the implementation prompt.
-
+- For implementation, output only the final changed files and file operations as specified by the implementation prompt.- **CRITICAL: When generating tasks.md, ALWAYS use the checkbox format specified in `.github/prompts/tasks.prompt.md`:**
+  - Each task MUST start with `- [ ]` for incomplete or `- [X]` for complete
+  - Follow the exact format: `- [ ] **T###: [Task Name]** — [Brief description]`
+  - Include **Files/Directories Affected**, **Action**, **Acceptance Criteria**, and **Dependencies** subsections
+  - Never deviate from this format or use alternative task list structures
 ## 7) File & Naming Conventions
 - Draft folders: `drafts/###-kebab-case-name/`.
 - Episode directories: `content/episodes/episode-##-kebab-case-title/`

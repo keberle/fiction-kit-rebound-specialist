@@ -2,7 +2,24 @@
 A discovery-first drafting workflow aligned with Stephen King’s creative philosophy.
 
 ---
+## Agent Skills Integration
 
+**NEW:** The Fiction Kit now uses [Agent Skills](https://agentskills.io) to automate and validate the draft workflow. Skills are self-contained folders with instructions, validation scripts, and bundled resources that AI agents load on-demand.
+
+### Available Skills
+
+- **draft-initialization** (`.github/skills/draft-initialization/`) - Automates idea → clarify → plan → tasks workflow with validation
+- **scene-writing** (`.github/skills/scene-writing/`) - Guides prose writing with McDonald rule + Stephen King principles
+- **character-management** (`.github/skills/character-management/`) - Validates character consistency against canonical files
+
+**Usage:** Skills are automatically loaded when you use trigger phrases like:
+- "Create a new draft for [change]" → loads **draft-initialization**
+- "Write scene [number]" → loads **scene-writing**
+- "Check character consistency" → loads **character-management**
+
+See [.github/AGENT-SKILLS-RECOMMENDATIONS.md](.github/AGENT-SKILLS-RECOMMENDATIONS.md) for full documentation and [.github/skills/README.md](.github/skills/README.md) for skill details.
+
+---
 ## 1. Drafting Philosophy
 
 - Stories are fossils; the writer excavates them.

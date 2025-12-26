@@ -69,3 +69,10 @@ Your job is to translate the rewrite intent in idea.md into a clear, actionable 
 
 - **Assumptions:**
   A bullet list of any assumptions made to complete the plan.
+---
+
+## Next Step in Workflow
+
+After completing plan.md, the next step is to generate actionable tasks:
+
+**Use `.github/prompts/tasks.prompt.md` to convert this plan into specific, executable tasks with checkbox tracking.**

@@ -50,10 +50,14 @@ All prerequisites completed:
 
 ### Phase 1: Directory Setup
 
-**T001 — Create episode directory**
-- **Action:** Create `content/episodes/episode-02-the-wedding-weekend/` directory
-- **Command:** `New-Item -ItemType Directory -Path "content/episodes/episode-02-the-wedding-weekend"`
-- **Acceptance:** Directory exists and is empty
+- [ ] **T001: Create Episode Directory Structure** — Set up episode 02 directory and prepare for scene files
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/`
+  - **Action:** Create new directory using kebab-case naming convention
+  - **Acceptance Criteria:**
+    - Directory created at `content/episodes/episode-02-the-wedding-weekend/`
+    - Directory is empty and ready for scene files
+    - Naming follows established convention from episode 01
+  - **Dependencies:** None
 
 ---
 
@@ -63,10 +67,11 @@ All prerequisites completed:
 
 ---
 
-#### **T002 — Draft Scene 1: Holding Cell Graffiti**
-- **POV:** Doogan
-- **File:** `content/episodes/episode-02-the-wedding-weekend/01-holding-cell-graffiti.md`
-- **Action:**
+#### Act 1 — Setup (Scenes 1-4: Doogan POV)
+
+- [ ] **T002: Draft Scene 1 — Holding Cell Graffiti** — Draft cold open interrogation scene
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/01-holding-cell-graffiti.md`
+  - **Action:**
   - Open with Martinez or Finch mid-question (McDonald-style dialogue-first)
   - Cold metal bench, industrial cleaner smell, bone-tired exhaustion
   - Doogan notices absurd wall graffiti ("Julio ♥ Dominique")
@@ -82,13 +87,11 @@ All prerequisites completed:
   - Martinez established (dry, deadpan, principled)
   - Sensory details present (cold, smell, exhaustion)
   - Opens door: murder suspect status / Closes door: interrogation ends
+  - **Dependencies:** T001
 
----
-
-#### **T003 — Draft Scene 2: The Walkout**
-- **POV:** Doogan
-- **File:** `content/episodes/episode-02-the-wedding-weekend/02-the-walkout.md`
-- **Action:**
+- [ ] **T003: Draft Scene 2 — The Walkout** — Draft lawyer walkout scene
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/02-the-walkout.md`
+  - **Action:**
   - Open with Eddie or Hank speaking as Doogan walks out
   - Eddie is there, Hank is there
   - Hank's rules: don't leave town, don't talk, don't get cute
@@ -103,13 +106,11 @@ All prerequisites completed:
   - Opens door: legal constraints, lawyer costs / Closes door: interrogation phase complete
 
 ---
+  - **Dependencies:** T001
 
-#### **T004 — Draft Scene 3: Eddie's Kitchen**
-- **POV:** Doogan
-- **File:** `content/episodes/episode-02-the-wedding-weekend/03-eddies-kitchen.md`
-- **Action:**
-  - Open with Eddie mid-sentence motor-mouthing
-  - Abby needles Doogan about arrest
+- [ ] **T004: Draft Scene 3 — Eddie's Kitchen** — Draft kitchen reset scene
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/03-eddies-kitchen.md`
+    - Abby needles Doogan about arrest
   - Eddie steamrolls: Hank costs money, need new job
   - Team splits: Doogan on wedding job, Eddie/Abby/Baxter on Annabelle investigation
   - New client: Thomas and Sylvia Billings, keep Cheryl from detonating wedding
@@ -129,13 +130,11 @@ All prerequisites completed:
   - Opens door: new job, team split / Closes door: trauma processing delayed
 
 ---
+  - **Dependencies:** T001
 
-#### **T005 — Draft Scene 4: Restaurant Meeting**
-- **POV:** Doogan
-- **File:** `content/episodes/episode-02-the-wedding-weekend/04-restaurant-meeting.md`
-- **Action:**
-  - Open with introductions already in progress
-  - Thomas corrects "Tom" → "Thomas"
+- [ ] **T005: Draft Scene 4 — Restaurant Meeting** — Draft restaurant client meeting scene
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/04-restaurant-meeting.md`
+    - Thomas corrects "Tom" → "Thomas"
   - Billings describe Cheryl as "handful," want her "contained"
   - They don't fully explain real emotional landmine
   - Doogan fills in assumption, they don't contradict
@@ -156,13 +155,15 @@ All prerequisites completed:
 ---
 
 #### **T006 — Draft Scene 5: Country Club Kickoff**
-- **POV:** Doogan
-- **File:** `content/episodes/episode-02-the-wedding-weekend/05-country-club-kickoff.md`
-- **Action:**
-  - Open with Terry mid-introduction or Cheryl speaking
-  - Terry introduces himself (flamboyant, doesn't know real job)
-  - Terry introduces Cheryl (competitive like religion)
-  - Rules: designer handbag prize, embarrassment for second place
+  - **Dependencies:** T001
+
+---
+
+#### Act 2 Part 1 — Hunt Begins + Investigation Starts (Scenes 5-8)
+
+- [ ] **T006: Draft Scene 5 — Country Club Kickoff** — Draft country club scavenger hunt kickoff
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/05-country-club-kickoff.md`
+    - Rules: designer handbag prize, embarrassment for second place
   - Hunt is literature-coded (Sylvia's master's degree)
   - First clue: "My mistress' eyes are nothing like the sun;" (Sonnet 130)
   - Cheryl has no idea, Baxter solves (roses on two lines, The Rose Shop nearby)
@@ -185,13 +186,11 @@ All prerequisites completed:
   - Opens door: hunt begins, Cheryl pairing / Closes door: solo approach abandoned
 
 ---
+  - **Dependencies:** T001
 
-#### **T007 — Draft Scene 6: Strip Mall Clinic**
-- **POV:** Eddie
-- **File:** `content/episodes/episode-02-the-wedding-weekend/06-strip-mall-clinic.md`
-- **Action:**
-  - Open with Eddie on phone with Baxter, mid-conversation
-  - Eddie on bench outside clinic
+- [ ] **T007: Draft Scene 6 — Strip Mall Clinic** — Draft clinic stakeout scene (TIMELINE ALTERNATES)
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/06-strip-mall-clinic.md`
+    - Eddie on bench outside clinic
   - Baxter confident clinic is Annabelle's real employer (tax records)
   - Eddie doesn't understand why different company hired them
   - Martinez appears, clocks Eddie: "Funny thing — if I didn't know better, I'd say you were on a stakeout."
@@ -212,13 +211,11 @@ All prerequisites completed:
   - **Ensemble interweaving:** Cuts from hunt (Scene 5) to investigation
 
 ---
+  - **Dependencies:** T001
 
-#### **T008 — Draft Scene 7: The Flower Shop**
-- **POV:** Doogan
-- **File:** `content/episodes/episode-02-the-wedding-weekend/07-the-flower-shop.md`
-- **Action:**
-  - Open with entering shop or speaking to clerk
-  - Doogan and Cheryl hit flower shop (already have clue from Baxter)
+- [ ] **T008: Draft Scene 7 — The Flower Shop** — Draft flower shop hunt scene
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/07-the-flower-shop.md`
+    - Doogan and Cheryl hit flower shop (already have clue from Baxter)
   - Jillian + boyfriend creep in to eavesdrop
   - Cheryl notices them
   - **Clue Mechanics (SPECIFIC):**
@@ -246,13 +243,11 @@ All prerequisites completed:
   - Opens door: first clue solved, next location / Closes door: Jillian threat escalates
 
 ---
+  - **Dependencies:** T001
 
-#### **T008 — Draft Scene 8: Eddie's House**
-- **POV:** Eddie or Baxter
-- **File:** `content/episodes/episode-02-the-wedding-weekend/08-eddies-house.md`
-- **Action:**
-  - Open with Eddie on FaceTime with Baxter, mid-conversation
-  - Eddie at home, keyed up
+- [ ] **T009: Draft Scene 8 — Eddie's House** — Draft infiltration planning scene (TIMELINE ALTERNATES)
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/08-eddies-house.md`
+    - Eddie at home, keyed up
   - Baxter explains (too earnestly) he can't "hack a clinic" in vacuum—only bad movies
   - Baxter's point: clinics don't post IT inventory on sign
   - Eddie pushes for magic; Baxter pushes back: needs software names, vendor clues
@@ -277,13 +272,15 @@ All prerequisites completed:
 ---
 
 #### **T009 — Draft Scene 9: Bookstore to Speakeasy**
-- **POV:** Doogan
-- **File:** `content/episodes/episode-02-the-wedding-weekend/09-bookstore-to-speakeasy.md`
-- **Action:**
-  - Open with entering bookstore or mid-conversation
-  - **Summary/Montage Structure:** Compress three stops into one scene
-  - Doogan and Cheryl hit bookstore with P&P clue
-  - Work through clue, get directed to travel agency
+  - **Dependencies:** T001
+
+---
+
+#### Act 2 Part 2 — Hunt Accelerates + Investigation Attempts (Scenes 9-12)
+
+- [ ] **T010: Draft Scene 9 — Bookstore to Speakeasy** — Draft compressed three-stop hunt montage
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/09-bookstore-to-speakeasy.md`
+    - Work through clue, get directed to travel agency
   - **As they arrive at Prohibition Tacos, Doogan summarizes:**
     - Started at bookstore with P&P clue
     - Led to travel agency with Jules Verne quote
@@ -311,13 +308,11 @@ All prerequisites completed:
 ---
 
 #### **T010 — Draft Scene 10: Clinic Montage**
-- **POV:** Eddie or Baxter
-- **File:** `content/episodes/episode-02-the-wedding-weekend/10-clinic-montage.md`
-- **Action:**
-  - Open with Baxter in "IT uniform" approaching clinic
-  - **Escalating Failures:**
-    1. Baxter attempt: temp waves him back, staff clock him, escorted out
-    2. Eddie clean route: new patient, charm—temp shuts down
+  - **Dependencies:** T001
+
+- [ ] **T011: Draft Scene 10 — Clinic Montage** — Draft failed infiltration attempts (TIMELINE ALTERNATES)
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/10-clinic-montage.md`
+      2. Eddie clean route: new patient, charm—temp shuts down
     3. Eddie sneaky route: distraction + photo of monitor—useless (cat videos)
     4. Baxter takes personal offense at cat videos (moral betrayal)
   - Button: Eddie: "Okay. Abby goes in."
@@ -336,13 +331,11 @@ All prerequisites completed:
 #### **T011 — Draft Scene 11: Prohibition Speakeasy**
 - **POV:** Doogan
 - **File:** `content/episodes/episode-02-the-wedding-weekend/11-prohibition-speakeasy.md`
-- **Action:**
-  - Open with Baxter speaking or Doogan at taco counter
-  - Prohibition Tacos looks like small taco place
-  - Baxter: found it—Reddit post says ask for mockingbird tacos
-  - Doogan asks; clerk gestures toward hidden door
-  - Enter Prohibition Speakeasy (prohibition-era bar hidden behind taco place)
-  - Jillian + boyfriend already there with champagne—how are they that fast?
+  - **Dependencies:** T001
+
+- [ ] **T012: Draft Scene 11 — Prohibition Speakeasy** — Draft Atticus Finch drinking trick scene
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/11-prohibition-speakeasy.md`
+    - Jillian + boyfriend already there with champagne—how are they that fast?
   - But they look lost, confused
   - **Clue Mechanics (SPECIFIC):**
     1. Bartender offers champagne
@@ -376,13 +369,11 @@ All prerequisites completed:
 - **File:** `content/episodes/episode-02-the-wedding-weekend/12-clinic-success.md`
 - **Action:**
   - Open with Abby entering or speaking to temp, already engaging
-  - Abby goes in alone, no theatrics
-  - Makes temp laugh inside 30 seconds (effortless small talk)
-  - Simple pretext (billing question, prescription, "I was told to ask front desk")
-  - Lets temp overshare and swivel monitor
-  - Abby clocks clinic software name (exactly what Baxter needs)
-  - Abby asks when regular receptionist is back
-  - Temp gives vague answer (kept in dark)
+  - **Dependencies:** T001
+
+- [ ] **T013: Draft Scene 12 — Clinic Success** — Draft Abby's successful clinic infiltration (TIMELINE ALTERNATES)
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/12-clinic-success.md`
+    - Temp gives vague answer (kept in dark)
   - Abby leaves like she ran errand
   - Immediately texts/calls software name to team
   - Button: Mission accomplished through competence, not heroics
@@ -406,13 +397,15 @@ All prerequisites completed:
   - Open with arriving or Terry speaking
   - Doogan and Cheryl arrive back at country club
   - Jillian + boyfriend already there—smug, stumped
-  - Golden ticket has "Quid agis?" on back (Latin)
-  - Terry asks (casual): "Are you done?"
-  - Cheryl about to answer with something profane and victorious
-  - Doogan stops her: "It's a trick."
-  - Doogan needles Sylvia: not her degree—her childhood
-  - Sylvia mentions mom reading Harry Potter
-  - Baxter (in ear) connects: password/painting/phrase
+  - **Dependencies:** T001
+
+---
+
+#### Act 2 Part 3 — Hunt Victory + Moral Choice (Scenes 13-14)
+
+- [ ] **T014: Draft Scene 13 — Finish Line** — Draft scavenger hunt completion scene
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/13-finish-line.md`
+    - Baxter (in ear) connects: password/painting/phrase
   - Terry asks again
   - Doogan answers: "Not until the fat lady sings."
   - Turn: They win
@@ -436,13 +429,11 @@ All prerequisites completed:
 #### **T014 — Draft Scene 14: Eddie and Baxter**
 - **POV:** Eddie or Baxter
 - **File:** `content/episodes/episode-02-the-wedding-weekend/14-cross-a-few-lines.md`
-- **Action:**
-  - Open with Eddie energized about software name, mid-conversation
-  - Coming off Abby's win, Eddie energized
-  - Baxter less excited—because now it's possible (and illegal)
-  - Eddie pushes: with Doogan under suspicion, can't wait for subpoenas
-  - Baxter resists on principle and fear; Doogan hates when Baxter crosses lines
-  - Eddie frames bluntly: unless they want Doogan in prison for life, "clean" isn't option
+  - **Dependencies:** T001
+
+- [ ] **T015: Draft Scene 14 — Eddie and Baxter** — Draft Eddie/Baxter illegal access decision (TIMELINE ALTERNATES)
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/14-cross-a-few-lines.md`
+    - Eddie frames bluntly: unless they want Doogan in prison for life, "clean" isn't option
   - Baxter agrees reluctantly, sets boundary
   - Eddie immediately tries to negotiate boundary
   - Button: Pivot scene—moral line about to be crossed
@@ -463,13 +454,15 @@ All prerequisites completed:
 - **File:** `content/episodes/episode-02-the-wedding-weekend/15-rehearsal-dinner.md`
 - **Action:**
   - Open with dinner conversation already in progress
-  - Doogan seated with Cheryl; she's warmed up now
-  - **Reveal (MUST FEEL INEVITABLE, NOT SURPRISING):**
-    - Cheryl didn't get dumped—she dumped Brad
-    - Gabby (younger sister) swooped in, now marrying him
-  - Doogan realizes real job: containment, not distraction
-  - Keeps Cheryl buoyant through dinner without breaking Secrecy Rule
-  - Takes Cheryl home
+  - **Dependencies:** T001
+
+---
+
+#### Act 3 — Convergence & Cliffhanger (Scenes 15-18)
+
+- [ ] **T016: Draft Scene 15 — Rehearsal Dinner** — Draft Cheryl's emotional reveal scene
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/15-rehearsal-dinner.md`
+    - Takes Cheryl home
   - She's about to invite him in
   - Doogan spots Martinez in car doing surveillance
   - Turn: Martinez surveillance costs Doogan the Cheryl connection
@@ -489,13 +482,11 @@ All prerequisites completed:
 ---
 
 #### **T017 — Draft Scene 16: Martinez Ambush**
-- **POV:** Martinez
-- **File:** `content/episodes/episode-02-the-wedding-weekend/16-martinez-ambush.md`
-- **Action:**
-  - Open with Martinez approaching or speaking
-  - Arriving at home, Martinez parks and approaches Doogan
-  - "Are your friends investigating the clinic?"
-  - Martinez has pictures of Eddie, Baxter, Abby at clinic
+  - **Dependencies:** T001
+
+- [ ] **T017: Draft Scene 16 — Martinez Ambush** — Draft Martinez surveillance reveal (CONVERGING TIMELINES)
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/16-martinez-ambush.md`
+    - Martinez has pictures of Eddie, Baxter, Abby at clinic
   - "Are you following us?" / "Yeah, that's how investigations work."
   - Martinez suggests letting real cops do the work
   - Doogan asks where Finch is
@@ -517,13 +508,11 @@ All prerequisites completed:
 #### **T018 — Draft Scene 17: Reception**
 - **POV:** Doogan
 - **File:** `content/episodes/episode-02-the-wedding-weekend/17-reception.md`
-- **Action:**
-  - Open with reception already underway
-  - Ceremony went fine; now reception
-  - Terry + assistant scramble with last-minute problems
-  - Cheryl drinking hard
-  - Doogan keeps "losing" her drink whenever he can
-  - Cheryl threatens catastrophic toast
+  - **Dependencies:** T001
+
+- [ ] **T018: Draft Scene 17 — Reception** — Draft wedding reception job completion
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/17-reception.md`
+    - Cheryl threatens catastrophic toast
   - Doogan talks her off ledge
   - Cheryl gives sweetest toast she's capable of—it lands
   - Button: Job complete. Cheryl contained, wedding saved.
@@ -542,13 +531,11 @@ All prerequisites completed:
 #### **T019 — Draft Scene 18: The File That Vanished**
 - **POV:** Baxter (with Eddie/Abby present)
 - **File:** `content/episodes/episode-02-the-wedding-weekend/18-the-file-that-vanished.md`
-- **Action:**
-  - Open with Baxter announcing success or frustration
-  - Eddie and Abby in living room
-  - Baxter with them on laptop
-  - Baxter finally gets into clinic medical software
-  - Frustrated, then triumphant
-  - Finds file Annabelle flagged on her last day
+  - **Dependencies:** T001
+
+- [ ] **T019: Draft Scene 18 — The File That Vanished** — Draft system breach cliffhanger (CLIMAX)
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/18-the-file-that-vanished.md`
+    - Finds file Annabelle flagged on her last day
   - Annabelle's note: "Something isn't right about this. Need to double check."
   - As Baxter starts reading, file disappears in real time
   - Baxter checks active sessions: someone else on system right now deleting files
@@ -571,14 +558,16 @@ All prerequisites completed:
 **T020 — QA Pass: Pre-Writing Verification Checklist**
 - **Action:** Run full checklist from elements/checklist.md against all 18 scenes
 - **Checks:**
-  1. POV purity (no head-hopping, no first-person, no villain POV)
-  2. McDonald-style openings (no atmospheric intros)
-  3. Character voice consistency (Eddie motor-mouth, Doogan measured, Abby elevated, Martinez deadpan)
-  4. Cheryl throughline present in Scenes 5, 7, 8, 9, 10 (seeds → reveal Scene 15)
-  5. Clue mechanics interactive (Scenes 7, 9, 10)
-  6. Fair-play information flow
-  7. Sensory details present
-  8. Baxter earpiece dialogue varied
+  - **Dependencies:** T001
+
+---
+
+### Phase 3: QA Pass
+
+- [ ] **T020: QA Pass — Pre-Writing Verification Checklist** — Verify all scenes meet quality standards
+  - **Files/Directories Affected:** All scene files in `content/episodes/episode-02-the-wedding-weekend/`, `elements/checklist.md`, `elements/pov.md`, `elements/tone.md`, `voice/style.md`, `voice/format.md`
+  - **Action:** Run full checklist from elements/checklist.md against all 18 scenes
+  - **Acceptance Criteriar earpiece dialogue varied
   9. Continuity with Episode 1
   10. Serial beats (hook/escalation/cliffhanger)
 - **Acceptance:** All 18 scenes pass checklist
@@ -587,13 +576,12 @@ All prerequisites completed:
 
 **T021 — QA Pass: Stephen King Principles**
 - **Action:** Apply Stephen King craft review checklist to all 18 scenes
-- **Checks:**
-  1. Does each scene open/close doors?
-  2. Is character behavior honest (not plot-convenient)?
-  3. Is there sensory detail?
-  4. Is there emotional truth?
-  5. Does it open with dialogue or action (no atmospheric setup)?
-  6. Can 10-20% be cut at paragraph level?
+  - **Dependencies:** T002-T019
+
+- [ ] **T021: QA Pass — Stephen King Principles** — Apply Stephen King craft review checklist
+  - **Files/Directories Affected:** All scene files in `content/episodes/episode-02-the-wedding-weekend/`
+  - **Action:** Apply Stephen King craft review checklist to all 18 scenes
+  - **Acceptance Criteria0-20% be cut at paragraph level?
   7. Are adverbs necessary?
   8. Does discovery feel earned?
 - **Acceptance:** All scenes pass Stephen King principles review
@@ -603,13 +591,12 @@ All prerequisites completed:
 **T022 — QA Pass: Ensemble Structure Verification**
 - **Action:** Verify ensemble storytelling structure maintains optimal rhythm
 - **Checks:**
-  1. Scene 6 provides early hunt/investigation interweaving
-  2. Hunt scenes 7-10 build uninterrupted (Cheryl arc)
-  3. Investigation scenes 11-14 escalate systematically
-  4. Neither track disappears for more than 4 scenes
-  5. Convergence scenes 15-18 pay off both tracks
-  6. POV distribution: Doogan 11 scenes, Team 7 scenes
-  7. No confusion about which track reader is following
+  - **Dependencies:** T002-T019
+
+- [ ] **T022: QA Pass — Ensemble Structure Verification** — Verify ensemble storytelling structure maintains optimal rhythm
+  - **Files/Directories Affected:** All scene files in `content/episodes/episode-02-the-wedding-weekend/`
+  - **Action:** Verify ensemble storytelling structure maintains optimal rhythm
+  - **Acceptance Criterianfusion about which track reader is following
 - **Acceptance:** Episode maintains optimal ensemble rhythm
 
 ---
@@ -620,20 +607,23 @@ All prerequisites completed:
 - **Action:** Compile all 18 scene files into single output file
 - **File:** `output/episode-02-the-wedding-weekend.md`
 - **Process:**
-  1. Concatenate all scene files in order 1-18
-  2. Add episode header (title, episode number, word count)
-  3. Verify scene breaks are clear
-- **Acceptance:** Single compiled episode file exists in output/
+  - **Dependencies:** T002-T019
 
 ---
 
-## Summary
+### Phase 4: Finalization
 
-**Total Tasks:** 23  
-**Scene Files:** 18 (01-18)  
-**Estimated Total Word Count:** ~20,000-22,000 words (~1,100 words/scene average)
-
-**Critical Path:**
+- [ ] **T023: Compile Episode 2 for Output** — Generate single compiled markdown file for publication
+  - **Files/Directories Affected:** `output/episode-02-the-wedding-weekend.md`
+  - **Action:** Compile all 18 scene files into single compiled output file
+  - **Acceptance Criteria:**
+    - All scenes combined in correct order (01-18)
+    - Scene breaks clearly marked (per format.md conventions)
+    - Episode metadata header included (title, episode number, theme, summary)
+    - File saved at `output/episode-02-the-wedding-weekend.md`
+    - Individual scene files in `content/episodes/episode-02-the-wedding-weekend/` remain intact (working files)
+    - Compiled file is the "published" version
+  - **Dependencies:** T020, T021, T022
 1. Create directory (T001)
 2. Draft scenes sequentially 1-18 (T002-T019)
 3. QA pass all scenes (T020-T022)
