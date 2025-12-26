@@ -1,26 +1,30 @@
 ## Scene 2 — Valet (Sweet Goodbye)
 
-The night air was warm as they stepped outside toward the valet station. Claire walked close enough that their shoulders almost touched. Old habit.
+The night air was warm with the Santa Ana wind. Claire walked close enough that their shoulders almost touched.
 
 "This was nice," she said. "Is that a weird thing to say about your own breakup dinner?"
 
-"Depends. Are you grading on a curve?"
+"Depends. How nice?"
 
-"I'm a lawyer. I don't do curves."
+"Nice enough that I'm regretting not letting you cook for me."
 
-"And yet you curved me."
+"The night is still young."
 
-She stopped at the corner of the building, turning to face him. "I didn't curve you. I'm releasing you back into the wild."
+"And we both know that I'll lose my nerve if that happens. You made these last few weeks feel like exactly what I needed."
+
+"I'm happy for you, sad for your nerve"
+
+"You'll live." She smiled. "I'm releasing you back into the wild, Doogan. Try not to break too many hearts."
 
 "Like a rehabilitated sea turtle."
 
-"Exactly like that. A sea turtle who's very good at eye contact and terrible at long-term commitment."
+"Sure. A sea turtle who's suspiciously good at knowing exactly what to say."
 
 "I feel like we're mixing metaphors now."
 
-"You started it."
+"You started it with the turtle."
 
-The valet stand glowed twenty feet ahead. A kid in a red vest was handing keys to an older couple. Beyond them, a younger pair stood rigid—the woman's arms crossed, the man's hands jammed in his pockets.
+The valet stand glowed twenty feet ahead. An older couple was collecting their keys. Beyond them, a younger pair stood rigid—the woman's arms crossed, the man's hands jammed in his pockets.
 
 "Thank you," Claire said. "I mean it. For everything."
 
@@ -28,13 +32,13 @@ The valet stand glowed twenty feet ahead. A kid in a red vest was handing keys t
 
 "I know I don't. That's why I'm saying it." She squeezed his arm once. "Take care of yourself, Doogan. Try not to break any hearts."
 
-"No promises."
+"I'll just be alone in my condo, cooking for one."
 
-She smiled and handed her ticket to the valet ahead of him.
+"Uh huh..." She smiled, rolled her eyes sarcastically and handed her ticket to the valet ahead of him.
 
 A silver BMW sedan rolled up first. Doogan tipped the kid before he could move and opened her door.
 
-"Of course you did." She slid behind the wheel. "Goodbye, Doogan."
+She slid behind the wheel.  The weight of the moment had just caught her, "Goodbye, Doogan."
 
 "Drive safe, Counselor."
 
@@ -52,7 +56,7 @@ The young couple near the valet had escalated. The woman—mid-twenties, dark cu
 
 "Sorry. Just waiting for my car."
 
-"Great. Enjoy your car." She turned back to her boyfriend. "We're done."
+"Great. Enjoy your car." She snapped before turning back to her boyfriend. "We're done."
 
 She stormed off toward the street. The guy stood frozen, watching her go.
 
@@ -68,63 +72,47 @@ He barely registered Doogan. "What?"
 
 His jaw tightened. He took off running, calling her name. She stopped. Turned. Doogan couldn't hear what he said, but her arms uncrossed.
 
-The Cougar rumbled up to the curb like a promise someone forgot to keep. Faded dark blue paint, patched soft top, an engine note that suggested mechanical stubbornness more than reliability.
+The Cougar rumbled up to the curb. Faded dark blue paint, top down, an engine note that suggested mechanical stubbornness more than reliability.
 
 The valet handed Doogan the keys with barely concealed judgment. "Nice car."
 
 "She has a good personality."
 
-Doogan tipped him anyway and slid behind the wheel. The leather was warm from sitting. He put the top down—why not—and was reaching for the ignition when his earpiece buzzed.
+Doogan tipped him and slid behind the wheel. The leather was warm from sitting in the southern california evening air. He was just pulling away from the valet area when his earpiece buzzed.
 
 Eddie's voice came through. "How'd it go?"
 
-"She dumped me with grace and poise. Said I helped her believe in herself again."
+"She dumped me with grace and poise."
 
 "Beautiful. Clean exit?"
 
 "Clean as it gets."
 
-"Perfect.  I'll let her sister know and send her our final bill.  She doesn't suspect, does she?"
+"Perfect. I'll let her sister know and send her our final bill." A pause. "Oh, Abby's asking how much dinner was so we can add it to the final expenses."
 
-"No, she doesn't suspect. I'm a professional for a reason." Doogan said, almost reluctantly.
+"This one's on me."
 
-"That's my boy.  So listen, got a couple things for you."
+"Doogan—"
 
-"Eddie."
+"On me, Eddie."
 
-"Just hear me out. First one's easy. Marketing executive, early thirties, just got dumped by her fiancé. Her best friend hired us. She's worried she's going to do something stupid."
+A beat of silence. Then: "You're doing it again."
 
-"Define stupid."
+"Doing what?"
 
-"Quit her job and move back to Ohio."
+"Getting too close. That's the whole point of having a business model—you don't pay for your own work."
 
-"That might be stupid."
+"Consider it a tip for good behavior."
 
-"Right? The friend says she's spiraling—won't leave her apartment, keeps texting the ex, the whole disaster package. She just needs someone to remind her she's desirable before she blows up her whole life."
+"That's not how tips work." Eddie sighed. "Fine. Your funeral. So listen, got something for you. Marketing executive, early thirties, just got dumped by her fiancé. Her best friend hired us."
 
 "Pass."
 
-"Come on. Classic rebound case. Quick in, quick out, help her remember she's worth more than some finance bro who couldn't commit."
-
-"Let her friends handle it."
-
-"Her friends tried. That's why they're calling us." Eddie paused. "She's got the money, Doogan. And the friend's desperate."
+"Come on. Classic rebound case." Eddie paused. "She's got the money, Doogan. And the friend's desperate."
 
 "Still pass."
 
-"Fine. Second one's trickier. Actress—you've seen her, that streaming thing about the lawyers—"
-
-"Pass."
-
-"You didn't even let me finish."
-
-"I don't need to. Actresses come with publicists, and publicists come with complications."
-
-"The publicist is who's paying."
-
-"Even worse."
-
-A pause. Eddie recalibrating. "Okay. Look, there's a third one, but we should talk about it in person."
+"Fine. There's a second one, but we should talk about it in person."
 
 "What's the pitch?"
 

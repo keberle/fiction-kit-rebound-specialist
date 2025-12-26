@@ -1,99 +1,113 @@
 ## Scene 7 — The Meet Cute Debrief
 
-"—and you just *left*?"
+"—it went fine, she asked me to come back. Next Saturday."
 
-Eddie was staring at Doogan like he'd confessed to a felony.
+Doogan stepped off of the elevator, arriving at his floor and headed down the hall to his condo.
 
-"I left."
+"To the farmer's market?" Eddie's voice carried that salesman energy even on the phone. "That's good, that's really good, actually. Better than I expected for a first contact."
 
-"You had her. She was into you. The dog was *obsessed* with you—and you walked away without getting her number, without suggesting coffee, without—"
+"Yeah, well." Doogan entered the code to the door and headed into his condo with its modern, urban aesthetic. "I left first. Gave her space to think about it."
 
-"She asked me to come back next Saturday."
+"Smart. Classic move. Leave them wanting more."
 
-Eddie stopped. Processed. His face cycled through confusion, skepticism, and finally landed on grudging respect.
+The condo was perfectly decorated, muted tones, no detail missing. Floor-to-ceiling windows framed the city skyline—city lights starting to flicker on as dusk settled. The place was immaculate. Always. A sectional sofa in charcoal gray, positioned for the view, exposed brick, dark elegance. A low coffee table with fresh flowers, regularly swapped out, the tv remote and a hardback novel, nothing accidental. Not cluttered, just enough to be interesting but nothing too personal, too messy.
 
-"She asked *you*."
+Except the kitchen.
 
-"To the farmer's market. Next Saturday."
+That was different.
 
-"Huh." He dropped into a chair. "That's better."
+Doogan set his phone on the soapstone, veined in dark simplicity, Doogan switched the call to speaker. The kitchen ran along the far wall, open to the living space: custom cabinetry in warm walnut, commercial-grade range with six burners and a griddle, Sub-Zero fridge that cost more than his Cougar. Knife block with German steel. Copper pots hanging from a ceiling rack, aligned by size.
 
-"That's the whole point. You don't close too fast. Leave them curious."
+This was where he felt in control.
 
-"Yeah, ok...but this CEO isn't the patient type, Doogan.  He's going to want things to move a bit faster than one Saturday at a time."
+"Okay, but here's the thing," Eddie said. "Sebastian isn't the patient type. One meet-cute per week? That's going to feel slow to him. He's going to want results."
 
-From the tablet on the counter, Baxter's voice cut in. "Wait, I don't get it. Why is that better? She was interested. Why not just ask her out?"
+Doogan opened the fridge—mostly empty, except for essentials. Butter, good parmesan, a few vegetables. He didn't keep much here unless he was cooking. "Then we manage his expectations."
 
-Eddie and Doogan exchanged a look. Abby, at the kitchen island with her laptop and wine, didn't even glance up.
+"Or we speed things up." Eddie's tone shifted—pitching mode. "I'm just saying, Baxter could probably find—"
 
-"Baxter," Eddie said, pivoting into mentor mode, "when you're in too early, you're just another guy. But when *she* makes the move—when she's the one asking—now she's invested. Now she's thinking about you. That's the difference between a date and a *connection*."
+"Already on it." Baxter's voice cut in, tinny through the phone's speaker. "I pulled her transaction history. She shops at Gelsons almost every night. Always around six, six-thirty."
 
-"But isn't that... manipulative?"
+Doogan closed the fridge. Leaned against the counter, arms crossed. Through the windows, the skyline glowed—high-rises and palm trees, the sprawl of Southern California stretching toward the coast.
 
-Abby snorted. "Welcome to the business."
+"Every night?" That was Eddie, perking up. "That's a pattern."
 
-Doogan cut in. "What do we have on her?"
+"Someone who doesn't plan too far ahead, shops for her appetite after a work day," Doogan said. "Lives alone. Probably doesn't meal-prep."
 
-"Not much," Baxter said. "Instagram's coffee art and the dog. Weirdly private."
+"So we set up another 'coincidence.'" Eddie was already building the pitch. "You show up at Gelsons Monday night. 'Oh, hey, fancy seeing you here.' Gets us moving faster."
 
-"Transaction patterns?" Eddie leaned forward.
+Doogan didn't answer immediately. He stared out at the city—the lights, the distance, the clean separation between here and down there.
 
-Baxter hesitated. "I mean... technically that's not exactly—"
+"You still there?" Eddie asked.
 
-"Just tell us what you found."
+"Yeah."
 
-"There's a Gelsons. She shops there almost every night. Like, she's there at least five times a week. Always around six, six-thirty."
+"What's the problem?"
 
-"Every night?" Abby looked up. "Who shops for groceries every night?"
+"No problem."
 
-"Someone who cooks fresh every night," Doogan said. "Someone who lives alone and doesn't want leftovers."
+"Doogan."
 
-"Or someone who doesn't have anything else to do." Eddie was already calculating. "Either way, that's a pattern. That's an opportunity."
+"I said no problem."
 
-"That's stalking," Abby said.
+A beat of silence. Then Eddie, quieter: "You like her."
 
-"It's research-based positioning."
+"I met her once."
 
-"It's stalking with a credit card statement."
+"And?"
 
-"Could you find her address?" Doogan asked Baxter.
+"And she's smart. Sharp. Quick on her feet but young, sweet...not damaged yet."
 
-He shook his head. "That's where it gets weird. The billing address on everything routes to a PO Box. Can't get a physical location."
+"Great. Perfect. That makes the job easier."
 
-"So we know where she shops but not where she lives."
+"Or harder."
 
-"Pretty much."
+Eddie sighed—long-suffering, affectionate. "Look, you always do this. You meet them, you connect, you start overthinking. It's part of the process. It's why you're good at it."
 
-Eddie spread his hands. "So? You show up at Gelsons. 'What a coincidence.' Start from there.  At least it gets us on a slightly faster pace than one hour each Saturday."
+"And if I'm not overthinking?"
 
-Abby closed her laptop. "I want it on the record that I think this whole thing is ridiculous. And you—" She pointed at Doogan. "—are going to end up liking this woman."
+"Then you're lying to yourself, which is also part of the process."
 
-"I'm not—"
+Doogan almost smiled. Pushed off the counter and moved to the windows. The condo felt too big sometimes. Too perfect. Like a stage set for a life he didn't actually live but it worked, time and time again.
 
-"You always do." She stood, collecting her wine. "Five nights a week at Gelsons. Pick one. Try not to look too surprised when you 'accidentally' run into her."
+"Monday night," Eddie said. "Gelsons. You can help her decide what she wants for dinner. Just say you're there anyway, right? Just shopping. Total coincidence."
 
-She walked out. Eddie and Doogan sat in the silence she left behind.
+"Sure."
 
-"She's not wrong," Eddie said finally.
+"I'll update Sebastian. Keep him happy."
 
-"I know."
+"Yeah."
 
-He drummed his fingers on the counter. "Monday night. You good?"
+From the phone, Baxter's voice piped up again. "Hey, Doogan? She's been stalking your Instagram."
 
-"I'm good."
+Doogan blinked. "Already?"
 
-"And if Sebastian asks about progress?"
+"Yeah, she wasted no time. She viewed your profile four times since the Farmer's market. Scrolled through photos, read the comments, two of them.  She seems especially interested in the cooking and sailing pics."
 
-"Tell him I'm working on it. Tell him patience."
+Eddie laughed. "Good. She's doing her homework. Good job on the social media, Baxter. Looks legit."
 
-Eddie snorted. "Yeah. I'll tell him patience."
+"Thanks. I update it twice a week. Keeps the algorithm happy."
 
-Doogan was almost to the door when he called after him.
+Doogan rubbed his face. Turned away from the windows. The kitchen always felt like home turf to Doogan. He'd designed this space for exactly one thing: cooking for someone else, something intimate.
 
-"Hey. The leaving first thing. Making her ask you to come back." He was almost smiling. "That was smooth."
+"Doogan?" Eddie again. "You good?"
 
-"Basic psychology."
+"Yeah. I'm good."
 
-"Still smooth."
+"Monday night."
+
+"Monday night."
+
+"And hey—relax, alright? You're going to do great. You always do."
+
+The call ended. Silence filled the condo.
+
+Doogan stood in his perfect kitchen, in his perfect apartment, looking out at a city full of lights and people and lives that weren't his.
+
+He thought about Annabelle. The way she'd laughed at his terrible jokes. The way she'd called him handsome without hesitation.
+
+The way he was going to lie to her on Monday.
+
+He pulled a bottle of water out of the fridge and headed into his room to shower from his morning run.
 
 ---

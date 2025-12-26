@@ -23,13 +23,15 @@ Purpose:
 Put Doogan under pressure immediately; establish Martinez/Finch; keep it dry and absurd.
 
 **Sensory/Emotional Notes:**
-- Physical: metal bench cold through shirt, smell of industrial cleaner and stale urine
+- Physical: holding cell has no furniture, standing against wall, smell of industrial cleaner and stale urine
 - Emotional: bone-tired, adrenaline crash from Annabelle's murder ~2 hours ago
 - Gallows humor as defense mechanism against exhaustion and fear
+- Transition: Martinez and Finch move him from holding cell to interview room (scarred table, chairs, one-way mirror)
 
 Beats:
-- Doogan clocks graffiti: "Julio ♥ Dominique." Nice of him to declare that but how was she supposed to see it...in here?
-- Martinez leads; Finch spikes the conversation with sharper, uglier insinuations.
+- Doogan in holding cell (no furniture), clocks graffiti: "Julio ♥ Dominique." Nice of him to declare that but how was she supposed to see it...in here?
+- Martinez and Finch arrive, walk him to interview room
+- Interview room interrogation: Martinez leads; Finch spikes the conversation with sharper, uglier insinuations.
 - How did Doogan know Annabelle? Doogan stays on the grocery-store story and gives them nothing to hold.
 - Martinez drops "she was strangled" like it's a verdict; Finch drags it into something cruder.
 

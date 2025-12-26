@@ -47,7 +47,7 @@
 See elements/outlines/episode-02.md for complete beats. Key requirements below.
 
 ### Scenes 1-4: Setup (Doogan POV)
-- Scene 1: Holding cell interrogation (opens: murder suspect status)
+- Scene 1: Holding cell → interview room interrogation (opens: murder suspect status; procedure note: holding cells have no furniture, actual interrogations happen in interview rooms with table/chairs)
 - Scene 2: Lawyer walkout (opens: legal constraints, lawyer costs)
 - Scene 3: Eddie's kitchen (opens: new job to fund defense)
 - Scene 4: Restaurant meeting (opens: wedding job parameters)

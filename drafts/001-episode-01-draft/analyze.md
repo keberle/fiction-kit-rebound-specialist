@@ -1307,10 +1307,126 @@ Added three new entries to Humor & Style Notes:
 
 ---
 
-### Analysis Entry Template: [Date] — [Title]
-**Focus:** [What was analyzed]
-**Findings:**
-- [Observation]
+### Analysis Entry 9: 2024-12-26 — Scene 2 Dialogue Fix: Opening Banter Rewrite
+**Focus:** Fixed out-of-character "grading on a curve" exchange between Claire and Doogan
+**Issue Identified:**
+- Original dialogue: "Depends. Are you grading on a curve?" / "I'm a lawyer. I don't do curves." / "And yet you curved me."
+- Problem: Academic/scholastic metaphor didn't fit Claire's confident, sophisticated character
+- Felt juvenile for two adults in their late 30s/early 40s having a mature, warm goodbye
+- Claire is direct and self-aware (per Scene 1); should own the moment, not deflect with conceptual wordplay
+
+**Changes Made:**
+- **Scene Updated:** `content/episodes/episode-01-the-receptionist/02-valet-sweet-goodbye.md`
+  - New exchange focuses on Claire's profession (government attorney who "works an angle")
+  - Added: "Nice enough that I'm already calculating whether I can expense it" (lawyer humor)
+  - Claire directly acknowledges the dynamic: "You made a three-month relationship feel like exactly what I needed it to be. That's either a gift or a con."
+  - Doogan: "Can't it be both?" (owns his ambiguity)
+  - Keeps the sea turtle metaphor but frames it better: "A sea turtle who's suspiciously good at knowing exactly what to say"
+- **Compiled Output Updated:** `output/TheReboundSpecialist-Episode01.md` (matched scene file)
+
+**Character Consistency Analysis:**
+- New dialogue better reflects Claire's established traits:
+  - Confident and self-aware (owns what the relationship was)
+  - Professional attorney mindset (expense joke, "working an angle" callback)
+  - Emotionally mature (recognizes Doogan's gift/con duality)
+  - Warm but clear about the goodbye (releasing him, not dismissing him)
+- Doogan's response stays true to character:
+  - Self-aware about what he does ("Can't it be both?")
+  - Doesn't pretend innocence
+  - Maintains charm without being defensive
+
+**McDonald Mechanics:**
+- Opening dialogue still fast-paced and witty
+- Banter reveals character (lawyer brain, charmer awareness)
+- No forced metaphors; references their actual dynamic
+- Maintains warm tone appropriate for mature breakup
+
+**Content Impact:**
+- No other scenes reference this specific exchange
+- Claire appears only in Episode 1, Scenes 1-2
+- No element files needed updating (no new canonical details)
+- Change improves character voice consistency
+
+**Status:** Scene 2 dialogue fixed to better match character sophistication and relationship dynamic. Compiled output synchronized.
+
+---
+
+### Analysis Entry: 2024-12-26 — CRITICAL FIX: Restored Murder Frame-Up Plot Mechanics (Scenes 8-9)
+**Focus:** Recovered essential plot elements lost during Stephen King craft feedback application
+**Problem Identified:**
+During feedback application focusing on craft (dialogue compression, sensory detail, pacing), two CRITICAL plot mechanics were accidentally removed:
+1. **Scene 8:** Eddie's phone call where Doogan reports "meeting her tonight" - this call enables Sebastian to coordinate the murder timing
+2. **Scene 9:** Drugged wine plot was compressed into instant sex scene, losing:
+   - Wine consumed throughout cooking (20-30 minutes)
+   - Progressive drug effects (Nexapan sedative)
+   - Both victims becoming disoriented/woozy
+   - Doogan blacking out BEFORE sex (innocence/frame-up)
+   - Killer entering while both unconscious
+
+**Why This Matters:**
+- This is a **murder frame-up**, not a romance gone wrong
+- Sebastian hired them to get Doogan close to Annabelle so he could have her killed and frame Doogan
+- Without Eddie's call, Sebastian doesn't know when to send the killer
+- Without the drugged wine timeline, the murder mechanics don't work
+- Doogan must black out BEFORE sex to maintain innocence for the frame-up
+
+**Changes Made:**
+
+**Scene 8 (`08-tomato-aisle.md`) - RESTORED:**
+- **OPENING:** Eddie's phone call: "Tell him I'm meeting her tonight"
+- This is PLOT-CRITICAL - Sebastian needs timeline to coordinate killer
+- Phone call must happen BEFORE Doogan spots Annabelle
+- Enables the entire murder setup in Scene 9
+
+**Scene 9 (`09-dinner-at-annabelles.md`) - COMPLETE REWRITE:**
+- Wine introduced and drunk throughout scene (3-4 glasses each over 20-30 minutes)
+- Progressive drug effects shown:
+  - Initial pleasant buzz
+  - Lightheadedness, difficulty focusing
+  - Room tilting, words blurring
+  - Loss of coordination (Annabelle swaying/knocking glass, Doogan's hands heavy)
+  - Move toward bedroom but both increasingly disoriented
+  - Doogan's knees buckle, vision blurs
+  - **BLACKS OUT BEFORE ANY SEXUAL ACTIVITY**
+- Hard cut to wake-up with detective and corpse
+- Scene length increased from 400-600 words to 800-1,000 words to accommodate drug timeline
+
+**Element Files Updated:**
+1. `elements/notes.md`:
+   - Added "The Murder Frame-Up Mechanics (Episode 1)" section
+   - Documented Eddie phone call requirement
+   - Documented drugged wine timeline and mechanics
+   - Noted 30-40 minute timeline coordination
+
+2. `elements/outlines/episode-01.md`:
+   - Updated Scene 8 beats to include Eddie phone call at opening (marked CRITICAL)
+   - Updated Scene 9 beats to include full drugged wine progression
+   - Added extensive notes about drug effects, timing, and blackout before sex
+   - Marked critical plot mechanics throughout
+
+3. `drafts/001-episode-01-draft/plan.md`:
+   - Updated Scene 8 specification to include Eddie phone call (PLOT-CRITICAL)
+   - Updated Scene 9 specification with full drug timeline
+   - Increased Scene 9 target length to 800-1,000 words
+   - Added technical notes about progressive drug effects
+
+**Continuity Verification:**
+- Scene 8 Eddie call now properly sets up Scene 9 murder
+- Drugged wine (Woodmark Vineyards) remains canonical clue for later episodes
+- Doogan's innocence maintained (unconscious before sex)
+- Frame-up mechanics now work correctly
+- Timeline coordination between Sebastian and killer is now possible
+
+**Lessons Learned:**
+- Craft feedback (dialogue, pacing, sensory detail) must never override core plot mechanics
+- Phone calls that seem like "Eddie rambling" may be mission-critical plot points
+- Scene compression must preserve essential story beats even while cutting fat
+- Always verify: Is this just dialogue bloat, or does it enable the plot?
+
+**Status:** Critical plot mechanics restored. Murder frame-up now functions correctly. Scene 8 enables Scene 9. Drugged wine timeline is realistic and complete.
+
+---
+
 - [Observation]
 
 **Recommendations:**
@@ -1320,3 +1436,86 @@ Added three new entries to Humor & Style Notes:
 
 ## Notes
 Analysis does not rewrite content. Issues identified here inform feedback and future task creation.
+
+---
+
+### Analysis Entry (Rewrite): 2024-12-26  Scene 7 Setting Change & Character Expansion
+**Focus:** Rewrote Scene 7 with new setting and expanded character/surveillance capabilities per user request
+**Changes Made:**
+
+**Scene Rewritten:** content/episodes/episode-01-the-receptionist/07-meet-cute-debrief.md
+- **SETTING CHANGE:** Moved from Eddie/Abby's kitchen (in-person) to phone call while Doogan arrives at his condo
+- **NEW LOCATION ESTABLISHED:** Doogan's luxury high-rise condo in Pacific Point's urban district
+  - High up in expensive building with city skyline views
+  - Floor-to-ceiling windows overlooking Pacific Point and coast
+  - Living space: immaculate, minimalist, almost sterile (charcoal sectional, glass/chrome furniture)
+  - Kitchen: chef-grade paradise (Carrara marble island, walnut cabinetry, commercial range, Sub-Zero fridge, German knives, copper pots)
+  - Inspired by Hitch (Will Smith)bachelor pad ready for seduction
+  - Contrast: perfect-but-empty living area vs. kitchen designed for intimacy
+- **SCENE STRUCTURE:** Phone conversation with Eddie/Baxter (three-way) instead of in-person debrief
+- **BAXTER'S EXPANDED ROLE:**
+  - Maintains carefully crafted social media profiles for Doogan (Instagram, Facebook)
+  - Updates twice weekly to keep algorithms happy
+  - Annabelle viewed Doogan's Instagram 4 times, liked 2 photos (farmer's market, cooking)
+  - Eddie praises Baxter's digital identity worklooks completely legit
+- **SURVEILLANCE CAPABILITIES:** Transaction history monitoring established (Gelsons shopping pattern 6-6:30 PM)
+- **DOOGAN'S STRATEGY:** Explains why he didn't ask her outbetter for her to reach out, less creepy, leave them wanting more
+- **ENDING:** Doogan alone in perfect kitchen with whiskey, staring at city lights, knowing he'll lie Mondayisolation and introspection
+
+**Element Files Updated:**
+- elements/characters/doogan-andrews.md
+  - Expanded "Home" section with full condo description (living space + kitchen details)
+  - Emphasized contrast between sterile apartment and seduction-ready kitchen
+  - Added source: "(Established in Episode 1, Scene 7)"
+- elements/characters/rodney-baxter.md
+  - Expanded "Social media craftsman" with update frequency (twice weekly)
+  - Added evidence of effectiveness (Annabelle's 4 profile views, 2 likes)
+  - Updated source: "(Established in Episode 1, Scenes 7 & 8)"
+- elements/setting.md
+  - Added "Key Locations" section
+  - Distinguished upscale suburbs (Eddie/Abby) from urban high-rise district (Doogan)
+  - Characterized urban zone as bachelor/professional territory vs. family suburbs
+  - Added source: "(Established in Episode 1, Scene 7)"
+- elements/outlines/episode-01.md
+  - Rewrote Scene 7 description with new setting details
+  - Expanded purpose to include establishing Doogan's condo
+  - Added Baxter's social media management role
+  - Noted setting change and updated timestamp
+- elements/notes.md
+  - Added "Doogan's Condo (Seduction Headquarters)" section with full details
+  - Added "Baxter's Digital Operations" section covering social media management and transaction surveillance
+
+**Draft Folder Updated:**
+- drafts/001-episode-01-draft/plan.md
+  - Updated Scene 7 specifications with new length target (600-800 words), key beats, tone
+  - Added rewrite note documenting setting change and rationale
+
+**Content Impact Analysis:**
+- Scene 7 is self-contained; no direct references in other Episode 1 scenes
+- Scene 8 already mentions Doogan calling Eddie ("Tell him I'm meeting her tonight")no conflict
+- Scene 9 mentions Doogan's place vaguely ("You should see my place")still works
+- No other episodes reference Doogan's home yet (Episode 2 just started)
+- **Abby removed from Scene 7:** No longer present for this debriefcreates isolation for Doogan
+
+**Continuity Notes:**
+- Doogan's condo contrasts with Eddie/Abby's family-oriented suburban home
+- Kitchen is his seduction headquarterswhere he cooks for targets (already established in character file)
+- Social media profiles explain how targets research him and find him "real"
+- Transaction monitoring adds to team's invasive surveillance capabilities (gray-area hacking)
+- Scene ending (alone with whiskey, city view) emphasizes Doogan's emotional isolation despite professional success
+
+**Scene Improvements:**
+- Establishes key location (Doogan's condo) for future episodes
+- Deepens Baxter's role beyond tech supportdigital identity craftsman
+- Creates contrast between professional competence (perfect seduction space) and personal emptiness
+- Removes Abby from sceneallows Doogan introspection without her moral compass present
+- Builds anticipation for Scene 8 (Monday grocery encounter)
+
+**POV & Tone Compliance:**
+- Third-person close maintained (Doogan's perspective throughout)
+- McDonald opening: dialogue in progress (" so I'm telling you, she asked me to come back")
+- Dialogue-driven structure preserved (phone conversation carries scene)
+- Fast, witty, satirical tone with melancholic edge
+- No invented detailsall condo specifications come from user request and Hitch reference
+
+**Status:** Scene 7 rewrite complete. All element files, outlines, and notes updated. Ready for continuity scan.

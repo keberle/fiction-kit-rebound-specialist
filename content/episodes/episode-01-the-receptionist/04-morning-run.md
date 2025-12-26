@@ -1,108 +1,106 @@
 ## Scene 4 — Morning Run (Baxter in the Ear)
 
-"—and then I cross-referenced her tagged photos with geo-metadata from her friends' public accounts, which gave me a pattern, and once I had the pattern I could narrow down to like three possible locations, and then I found her dog's Instagram—"
+"—and then I cross-referenced her tagged photos with geo-metadata, found her dog's Instagram—"
 
 "Her dog has Instagram?"
 
-"Her dog has four thousand followers." Baxter's voice buzzed in his ear, enthusiastic as always. "People are weird about their dogs."
+"Four thousand followers. The poodle posts from a specific farmer's market every Saturday morning. Hits the latte stand for a dog treat and the owner gets a trendy coffee. Almost always around the same time."
 
-Doogan was three miles into his run, cutting through the neighborhood streets, the morning air still cool enough to feel good. The earpiece was doing its job—Baxter's voice crystal clear despite his breathing.
+Doogan's legs burned. Three miles. Sweat stuck his shirt to his back, the morning air sharp in his lungs. The earpiece stayed clear despite his breathing.
 
 "So where is she?"
 
-"That's the thing. She's surprisingly hard to pin down for someone with an active social media presence. No check-ins, locations always turned off on her main account. But her friends aren't as careful, and her dog's account—"
+"That's the thing. She's surprisingly hard to pin down for someone with an active social media presence. No check-ins, locations always turned off. But her friends aren't as careful, and her dog's account—"
 
-"Is run by someone less paranoid."
-
-"Exactly! The poodle posts from a specific farmer's market every Saturday morning. Multiple weeks in a row. Same vendor tags. Same time frame."
-
-Doogan slowed at a crosswalk, jogging in place. "Farmer's market on a Saturday. That's not exactly unique."
-
-"No, but her Instagram—her actual Instagram—has three photos from the same market in the last month. Different angles, but I matched the produce stand awnings. And get this: there's a coffee vendor she photographs constantly. Like, obsessively. Latte art with little hearts. I think she might have a thing for the barista."
-
-"Or she just likes latte art."
-
-"Nobody likes latte art that much."
+"So the owner is paranoid but her dog, not so much?  Got to love SoCal."
 
 The light changed. He picked up the pace again, feet hitting pavement in steady rhythm.
 
 "What else do you have on her?"
 
-"That's the weird part." Baxter's voice shifted, a note of frustration creeping in. "For someone with a public profile, there's not much background. Basic employment verification—she does work at LeClere's company, receptionist, like he said. But before that? It's thin. College records, previous jobs, family stuff—either she's really private or someone cleaned up her digital footprint."
+"I'm still digging.  Everyone leaves a trail. That's like, the whole point of the internet." A pause. Keyboard clicking. "Hey, can I ask you something?"
 
-"Or she's just not interesting enough to have left much of a trail."
+"You're going to anyway."
 
-"Everyone leaves a trail. That's like, the whole point of the internet." A pause. Keyboard clicking. "How did you and Eddie even do this before the internet?"
+"Last night. At the restaurant. Claire said something about 'the five rules.' What was that about?"
 
-Doogan laughed, breath coming harder on an uphill stretch. "Very differently."
+Doogan dodged a woman walking a golden retriever. "My father. Driving me to my first date when I was fifteen."
 
-"No, but seriously. How did you find people? How did you get background information?"
+"Your father gave you dating rules?"
 
-"Phonebooks. Libraries. A lot of actually talking to human beings." I crested the hill and let gravity carry me down the other side. "You want to hear about the first job?"
+"Yeah, something like that. First one was: get out of the car and go to the door. Never pull up and honk like an asshole." The memory was clear despite the years—his father's hands on the steering wheel, that serious look. "Second: shake her father's hand, look him in the eyes. He's trusting you with his daughter."
 
-"Yes. Obviously yes."
+"Did you actually do that?"
 
-"College. Eddie and I were fraternity brothers—don't make that face."
+"More often than I would have guessed." Doogan crested a hill, letting gravity carry him down. "Third: you picked her up at the door so its your job to get her safely back to that door, no matter how the date goes."
+
+"Okay, that's actually—"
+
+"Fourth: you pay for the date. My dad said the girl put way more effort into getting ready than I did, so the least I could do was pay for the movie. Plus it's more expensive to be a woman—he pointed to all the stuff my mom had in the bathroom."
+
+Baxter laughed. "That's true. My mom's bathroom is like Sephora blew up in there."
+
+"And fifth: dinner buys you dinner. Nothing more. The less you expect from women, the more likely you are to be pleasantly surprised."
+
+"Was that about the time you met Eddie?  Were you in high school doing rebounds?"
+
+Doogan laughed. "No. I met Eddie in college and the first rebound was while we were in a fraternity together.  Don't make that face."
 
 "You can't see my face."
 
-"I can hear it." I dodged a woman walking a golden retriever. "The VP of our fraternity—trust fund kid, everything handed to him—had a problem. He'd been hooking up with a girl from the sister sorority all semester. But he was secretly engaged to some family friend's daughter back home. Wealthy family. Promised him a job after graduation."
+"I can hear it." Doogan's breathing stayed steady. "The vice president of our fraternity was some trust fund frat boy type and had a problem. Hooking up with a girl from the sister sorority all semester. But he was secretly engaged to some family friend's daughter back home."
 
 "Wait, he was cheating on his fiancée?"
 
-"The fiancée didn't know about the sorority girl. The sorority girl didn't know about the fiancée. He needed to end things cleanly without risking the engagement or the career prospects."
-
-"That's... messy."
-
-"Very. And he was panicking." I crested another hill, letting gravity pull me down the other side. "So he came to Eddie—well, Eddie found him, really. Eddie's always had a nose for desperate people with money."
+"The fiancée didn't know about the sorority girl. The sorority girl didn't know about the fiancée. Classic mess." He slowed for a red light. "The VP panicked. Eddie found him—Eddie's always had a nose for desperate people with money."
 
 "What did Eddie do?"
 
-"Pitched him a solution. For a price, I'd charm the girl, make her grateful for the breakup, make sure she wished the VP well in his marriage." I slowed at a crosswalk, catching my breath. "I thought Eddie was insane. Told him no."
+"Pitched him a solution. For a price, I'd charm the girl, make her grateful for the breakup, make sure she moved on cleanly." The light changed. "I thought Eddie was insane. Told him no."
 
 "But you did it anyway."
 
-"We were broke. Eddie and I—we weren't trust fund kids. We were scraping by while surrounded by wealth. Rent was due. The Cougar needed a new transmission." The light changed. I pushed forward. "So I engineered a few chance encounters. Made her forget about trust fund boy entirely."
+"We were broke, neither of us from the kind of money our fraternity brothers came from.  Eddie saw an opportunity, which is kind of his thing." He pushed forward, picking up speed. "So I found a way to 'accidentally' keep running into her. Coffee shop, library, one study session. Made her forget about trust fund boy."
 
 "And it worked?"
 
-"She told the guy she was grateful they could both move on. Wished him happiness in his marriage." I was breathing harder now, the memory sharp despite the years. "She didn't even seem hurt. Just... relieved someone had actually paid attention to her."
+"She told him she was grateful they could both move on. Wished him well." The memory still felt sharp. "Didn't even seem hurt. Just... relieved someone had actually paid attention to her."
 
-"That's kind of amazing."
+"That's kind of genius."
 
-"Eddie immediately started pitching me on making it a regular thing. I said no. Absolutely not. This was a one-time favor."
+"Eddie thought so. Started pitching me on making it a regular thing." Doogan was approaching Duke's Coffee now, the strip mall visible ahead. "I said no. This was one time, never again."
 
 "But here you are."
 
-"Here I am." The light changed. I started running again, slower now, cooling down. "The trick is not thinking about it too hard."
+"Here I am."
 
-"You say that a lot."
+"So what changed?"
 
-"Because it's true a lot."
+"I never found anything in college that I was any better at than this and Eddie can't resist a business opportunity."
 
-More keyboard sounds. Then: "Oh! Got something. I posed as a cosmetics company rep doing market research—got added to her Snapchat."
+Baxter made a sound like he was writing that down. "Got it. I guess you have to play to your strengths."
+
+"Something like that."
+
+More keyboard sounds. Then: "Oh! Got something. I faked a cosmetics company profile—got added to her Snapchat."
 
 "That feels ethically questionable."
 
-"It feels like doing my job." Baxter's excitement was back. "She shares location to close friends, and now I'm a close friend. Well, GlamourGirl_Marketing is a close friend. But same thing."
+"All young social media addicts hope for an endorsement." Baxter's excitement was back. "She shares location to close friends, and now I'm a close friend. Well, GlamourGirl_Marketing is a close friend. But same thing."
 
 "Where is she?"
 
-"Farmer's market. Saturday mornings. She posts from there constantly—and I've got timestamps now. She usually arrives around nine, stays until eleven. There's a pattern." A pause. "Also, she has a white teacup poodle."
+"Not at the market yet but I'll keep an eye on her.  Oh, and the dog is a white teacup poodle"
 
-"Of course she does."
+"Sounds about right.  Please tell me its named Precious."
 
-"Very fluffy. Very photogenic. Very likely to approach strangers for attention based on the behavioral patterns I've observed in her videos."
+"No, looks like Coco.  That guess was oddly specific."
 
-"You've done behavioral analysis on a poodle?  Its not named 'Precious', is it?"
+"You need to watch more movies, Baxter."
 
-"I don't know, why?" Baxter was confused by the specific nature of the question.
+"You and Eddie both say that a lot.  I have a whole list now."
 
-"You really need to watch nore movies."
-
-"You say that a lot too." Baxter didn't sound embarrassed. "The point is: farmer's market, Saturday morning, poodle. You've got your meet-cute location."
-
-I was approaching Duke's Coffee now—the strip mall facade visible ahead, morning light catching the windows. Sebastian LeClere and Eddie would be waiting inside.
+Doogan slowed to a walk, letting his heart rate settle. Duke's Coffee sat at the end of the strip, unremarkable except for Eddie's sedan in the parking lot.
 
 "Good work, Baxter."
 
@@ -110,21 +108,19 @@ I was approaching Duke's Coffee now—the strip mall facade visible ahead, morni
 
 "Don't let it go to your head."
 
-"Too late." A beat. "Hey, one more thing. The poodle's name is Coco. In case that helps."
+"Too late." A beat. "Hey, thanks for telling me about the five rules. And the first job."
 
-"It might."
+"Helped me pass the time during my run."
 
-I slowed to a walk, letting my heart rate settle. Duke's Coffee sat at the end of the strip, unremarkable except for Eddie's sedan in the parking lot.
+"Going dark for the client meet?"
 
-"Going dark for the client meet."
+"Yeah. Keep digging on Annabelle. And see what you can find on this CEO."
 
-"Copy that. I'll keep digging on Annabelle. There's something off about her digital presence—it's too clean. Like someone pruned it."
+"Yeah, he's definitely not an oversharer on social media but I'm still checking..."
 
-"Or like she's just a normal person who doesn't overshare."
+"Keep looking.  Got to go." Doogan cut him off.
 
-"Nobody's that normal," Baxter said. "Nobody."
-
-The line went quiet. I pulled the door open and stepped into the air conditioning, scanning for Eddie's inevitable wave.
+The line went quiet. Doogan pulled the door open and stepped into the air conditioning, scanning for Eddie's inevitable wave.
 
 ---
 

@@ -30,3 +30,9 @@ Life in Pacific Point moves at a relaxed yet purposeful pace. The rhythmic sound
 - **Wellness culture:** Juice bars, farmers' markets, yoga studios, hiking trails—health and fitness are woven into daily life.
 - **Industry presence:** Entertainment industry is everywhere; actors waiting tables, writers at coffee shops, producers at farmer's markets.
 - **Late dining:** Dinner reservations at 8 or 9 PM are common; the city runs later than many other U.S. metros.
+
+## Key Locations
+
+### Residential Areas
+- **Upscale Suburbs:** Where Eddie and Abby Palmer live. Modern homes with manicured lawns, country club access, family-oriented communities. Less urban density, more space, the California dream lifestyle.
+- **Urban High-Rise District:** Luxury condo buildings with city views, closer to downtown Pacific Point. Doogan's expensive condo is here—high up, floor-to-ceiling windows overlooking the sprawling city and coastline. This area attracts successful singles and professionals who want the urban lifestyle: walkable restaurants, rooftop bars, proximity to nightlife. More sophisticated bachelor territory than suburban family zones. *(Established in Episode 1, Scene 7)*

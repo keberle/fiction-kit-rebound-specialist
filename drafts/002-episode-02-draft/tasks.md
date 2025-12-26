@@ -50,7 +50,7 @@ All prerequisites completed:
 
 ### Phase 1: Directory Setup
 
-- [ ] **T001: Create Episode Directory Structure** — Set up episode 02 directory and prepare for scene files
+- [X] **T001: Create Episode Directory Structure** — Set up episode 02 directory and prepare for scene files
   - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/`
   - **Action:** Create new directory using kebab-case naming convention
   - **Acceptance Criteria:**
@@ -69,12 +69,14 @@ All prerequisites completed:
 
 #### Act 1 — Setup (Scenes 1-4: Doogan POV)
 
-- [ ] **T002: Draft Scene 1 — Holding Cell Graffiti** — Draft cold open interrogation scene
+- [X] **T002: Draft Scene 1 — Holding Cell Graffiti** — Draft cold open interrogation scene
   - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/01-holding-cell-graffiti.md`
   - **Action:**
-  - Open with Martinez or Finch mid-question (McDonald-style dialogue-first)
-  - Cold metal bench, industrial cleaner smell, bone-tired exhaustion
+  - Open in holding cell (no furniture, standing against wall)
   - Doogan notices absurd wall graffiti ("Julio ♥ Dominique")
+  - Martinez/Finch arrive, walk him to interview room (scarred table, chairs, one-way mirror)
+  - Interview room interrogation begins (McDonald-style dialogue-first)
+  - Industrial cleaner smell, bone-tired exhaustion
   - Martinez leads (dry, deadpan), Finch spikes (uglier insinuations)
   - Doogan stays on grocery-store story
   - Knock → sidebar → Martinez: Doogan "lawyered up"

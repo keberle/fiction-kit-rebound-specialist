@@ -19,8 +19,10 @@ He's the beating heart of the operation, the one who actually connects with the 
 **Business Rules (Non-Negotiable):**
 - **Target Demographics:** Doogan ONLY works with heterosexual women as targets
 - **Age Parameters:** Targets must be well over 18 and age-appropriate (not senior citizens)
+- **Job Duration:** Rebound relationships typically last a few weeks, not months—long enough to rebuild confidence, short enough to remain transitional
+- **One Job at a Time:** The team takes one client at a time; Doogan can't maintain multiple "relationships" simultaneously
 - **Boundaries:** These are hard lines that Eddie and the team would never consider crossing—they're fundamental to how Doogan operates and who he can help
-- **Rationale:** Doogan's gift is understanding and connecting with women in emotional transition. These parameters define the scope of what he does and who he can genuinely help. *(Established throughout series)*
+- **Rationale:** Doogan's gift is understanding and connecting with women in emotional transition. These parameters define the scope of what he does and who he can genuinely help. A rebound relationship that lasts months isn't a rebound anymore—it's a real relationship, which defeats the business model and puts Doogan at risk of catching feelings. *(Established throughout series, refined in Episode 1)*
 
 ---
 
@@ -38,11 +40,33 @@ Doogan was once headed somewhere legitimate—college degree in psychology, a se
 
 What's clear: There was a woman. There was betrayal or tragedy or both. And whatever went down left Doogan unable to commit to anything real while simultaneously being exceptional at helping others find connection.
 
+### The Five Rules (Father's Dating Advice)
+When Doogan was fifteen, his father drove him to his first date and gave him five rules. Doogan still follows them:
+
+1. **Get out of the car and go to the door.** Never pull up and honk like an asshole. Be a gentleman.
+2. **Shake her father's hand, look him in the eyes.** He's trusting you with his daughter for the evening—be a stand-up guy and meet the man.
+3. **Your job is to get her home safely.** Doesn't matter how badly the date goes—it's your responsibility to make sure she makes it back to that door.
+4. **You pay for the date.** She put far more effort into getting ready than you did, so the least you can do is pay for the movie. Besides, it's more expensive to be a woman—his father pointed to all the products his mother had in the bathroom.
+5. **Dinner buys you dinner. Nothing more.** The less you expect from women, the more likely you are to be pleasantly surprised. (His father's awkward way of explaining consent.)
+
+Doogan doesn't meet many fathers anymore, but the rules still apply to every date, every job. They're part of who he is. *(Established in Episode 1, Scenes 1 & 4)*
+
+### The First Job
 One of the few things he kept from that time: a 1970 Mercury Cougar XR-7 convertible he bought in college from an elderly woman whose husband had passed away. The car had been stored in her garage for years, and she sold it to Doogan for almost nothing because he reminded her of her late husband. It's beat to hell—faded gold paint, cracked leather, a soft top with more patches than original fabric, and an engine that requires coaxing—but Doogan refuses to replace it. In Southern California weather with the top down, that rumbling disaster of a car somehow adds to his charm. Eddie constantly tells him they make enough money for an upgrade. Abby makes fun of it relentlessly. Doogan just smiles and keeps driving it.
 
-He drifted into this line of work almost by accident when a friend asked for help getting her sister back into the dating world after a brutal divorce. Doogan played the perfect transitional guy—safe, charming, temporary. It worked. Word spread in certain circles. Eddie saw the business opportunity. Abby provided the moral compass (such as it is). Now Doogan's trapped in a cycle—facilitating emotional healing for others while running from his own capacity for it.
+He drifted into this line of work almost by accident. In college, Eddie and Doogan were fraternity brothers—not trust fund kids, but the ones scraping by surrounded by wealth. The VP of their fraternity (a trust fund kid with everything handed to him) had a problem: he'd been hooking up with a girl from the sister sorority all semester while secretly engaged to a family friend's daughter back home. He needed to end things cleanly without risking the engagement or career prospects the wealthy family promised.
 
-The money's good enough to quiet most of his doubts. The work keeps him distracted. And his friendship with Abby and Eddie is the only family he trusts anymore.
+Eddie—who's always had a nose for desperate people with money—pitched a solution. For a price, Doogan would charm the girl, make her grateful for the breakup, make sure she moved on cleanly. Doogan thought it was insane and said no. But they were broke, rent was due, and the Cougar needed a new transmission.
+
+So Doogan engineered a few chance encounters—coffee shop, library, one study session. Made her forget about trust fund boy entirely. She told the VP she was grateful they could both move on and wished him well. She didn't even seem hurt—just relieved someone had actually paid attention to her.
+
+Eddie immediately started pitching Doogan on making it a regular thing. Doogan said no. This was a one-time favor, never again.
+
+But here he is.
+
+Word spread in certain circles. Eddie saw the business opportunity. Abby provided the moral compass (such as it is). Now Doogan's trapped in a cycle—facilitating emotional healing for others while running from his own capacity for it.
+
+The money's good enough to quiet most of his doubts. The work keeps him distracted. And his friendship with Abby and Eddie is the only family he trusts anymore. *(Established in Episode 1, Scene 4)*
 
 ---
 
@@ -53,6 +77,7 @@ The money's good enough to quiet most of his doubts. The work keeps him distract
 - **Clothing Style:** Effortlessly casual but deliberate—worn-in jeans, tailored blazers over vintage t-shirts, always looks like he dressed without thinking but actually considers every choice
 - **Presence:** Has the Matthew McConaughey slouch—relaxed, approachable, "I've got all the time in the world for you"—but can snap to sharp focus when he's reading someone
 - **Car:** Drives a beat-up 1970 Mercury Cougar XR-7 convertible that looks almost as bad as it runs—faded paint, torn top, temperamental engine—but it's his and he loves it
+- **Home:** Expensive condo high up in a luxury building in Pacific Point—more urban than the upscale suburbs where Eddie and Abby live. Floor-to-ceiling windows frame the city skyline, with lights stretching toward the coast. The place is immaculate, perfectly decorated with modern urban aesthetic: muted tones, charcoal sectional positioned for the view, exposed brick, dark elegance, low coffee table with fresh flowers (regularly swapped out), tv remote and hardback novel—nothing accidental. Not cluttered, just enough to be interesting but nothing too personal, too messy. It feels like a stage set for a life he doesn't quite live. The kitchen, however, is where he comes alive: soapstone countertop veined in dark simplicity, custom walnut cabinetry, commercial-grade six-burner range with griddle, Sub-Zero fridge, German steel knives, copper pots hanging by size. This space is designed for seduction—cooking for women in his territory, where he controls every detail. It's his superpower and his cage. *(Established in Episode 1, Scene 7)*
 - **Covert Earpiece:** Wears a nearly invisible, military-grade communications device sourced by Baxter through questionably legal channels—comparable to CIA/Secret Service equipment. It's so small and flesh-toned that it's virtually undetectable even at close range. Uses bone conduction technology, allowing him to hear without traditional speakers. Doogan wears it almost constantly (except during intimate moments, sleeping, or showering), keeping him connected to the team—primarily Baxter—during operations. *(Established in Episode 1, Scene 2)*
 - **Distinctive Features:** 
   - A faint scar through his left eyebrow (origin unknown—he gives a different story every time)
@@ -81,6 +106,23 @@ He blends Southern charm ("Now, darlin', let me ask you something...") with shar
 
 ---
 
+## The Cooking Superpower
+
+While Doogan is skilled at taking women to dinner at restaurants, the symphony, or even just a great movie, his **real superpower** is cooking for them at his condo. In his kitchen, he's completely in his element.
+
+**What Makes It Work:**
+- **His territory:** The expensive condo with its view of city lights becomes the stage for his most effective dates
+- **Controlled environment:** He can be charming and just vulnerable enough to seem real without being messy
+- **The performance:** He makes flirty conversation while cooking, lets her sample the food, opens amazing bottles of wine chosen specifically for that woman and that meal
+- **The effect:** It creates a complete date experience that feels intimate, personal, and effortless—like he's doing this just for her, not as part of a job
+
+**Why It's Dangerous:**
+Cooking for someone is inherently more personal than taking them to a restaurant. When Doogan invites a target to his home and cooks for her, the line between performance and reality becomes even thinner. He's not just playing a role—he's sharing his space, his skill, his taste. The women feel special because they are getting something real from him, even if the setup isn't.
+
+Claire mentioned she'd miss his cooking more than dinners out—a sign that his home-cooked meals made a deeper impression than any restaurant ever could. *(Referenced in Episode 1, Scenes 1 & 2)*
+
+---
+
 ## Relationships
 
 **Abby Chen** – His conscience and his anchor. They have a brother-sister dynamic with underlying tension—she sees through all his bullshit, calls him on his self-sabotage, and occasionally hints that she knows more about his past than she lets on. He trusts her completely, which terrifies him. She makes constant fun of his car ("That thing is a tetanus shot on wheels, Andrews"), but he knows she secretly understands why he keeps it.
@@ -103,6 +145,7 @@ He blends Southern charm ("Now, darlin', let me ask you something...") with shar
 - **Deepest Level:** He's terrified of being alone with his own thoughts, so he loses himself in other people's emotional crises instead of confronting his own
 - **The Contradiction:** He wants out but doesn't believe he deserves a real relationship, so he stays in the game
 - **The Moral Tension:** He knows the clients often hire them for selfish reasons (keep the talent focused, get a friend off their couch, manipulate someone's timeline), but he tells himself he's actually helping the targets heal
+- **The Personal Cost:** Sometimes Doogan gets too close and pays for dates himself rather than billing the client—Eddie calls him on this, reminding him "that's the whole point of having a business model." But Doogan can't always maintain the professional distance the work requires. *(Established in Episode 1, Scene 2)*
 
 ---
 

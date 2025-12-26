@@ -1,22 +1,16 @@
 ## Scene 8 — Tomato Aisle
 
-"—look, I'm just telling you what he said. He wants a status update. He's paying premium rates and he expects premium turnaround."
+"-I know, I know...but he wants a status update."
 
-Doogan turned a Roma tomato over in his hand, pretending to examine it. "Tell him I'm meeting her tonight."
-
-"Tonight? That's fast. What's the play?"
-
-"Working on it. I'll call you back."
+Doogan turned a Roma tomato over in his hand, pretending to examine it. "We just accepted the job.  What's his hurry?  Tell him I'm meeting her tonight. I'll call you after." He kept his voice low. Through the produce section's windows, he'd spotted her—office attire, professional but not stuffy. Monday evening dinner run, just like Baxter predicted.
 
 "Doogan, he's going to want specifics—"
 
 "Eddie. I gotta go."
 
-Through the produce section's front window, he'd spotted her—office attire, professional but not stuffy, Monday evening dinner run just like Baxter predicted.
+He tapped the earpiece off. Annabelle Anders. Right on schedule.
 
-Annabelle Anders. Right on schedule.
-
-Doogan dropped the tomato into his basket and repositioned himself near the heirloom display. In his ear, Baxter's voice replaced Eddie's.
+Doogan dropped the tomato into his basket and repositioned himself where she'd surely see him. Fluorescent lights hummed overhead. The produce section smelled like misted lettuce and cardboard. In his ear, Baxter's voice replaced Eddie's silence.
 
 "She's early. Her usual time is six-fifteen, but it's only—oh. You already see her."
 
@@ -32,7 +26,7 @@ He picked up another tomato. Gave it serious consideration. The kind of consider
 
 "You again."
 
-Doogan looked up. She was three feet away, basket in hand, smiling.
+Doogan looked up. She was three feet away, basket in hand, smile uncertain but warm.
 
 "Me again." He held up the tomato. "You have an opinion on Romas versus heirloom?"
 
@@ -40,7 +34,7 @@ Doogan looked up. She was three feet away, basket in hand, smiling.
 
 "I heard they had good tomatoes here." He set the tomato down, deadpan. "Turns out the rumors were true."
 
-She laughed. "You drove to a grocery store because someone said they had good tomatoes?"
+She laughed. "You came to this specific grocery store because someone said they had good tomatoes?"
 
 "You don't?"
 
@@ -62,7 +56,7 @@ She held up her basket. Doogan could see the contents clearly—a stack of trend
 
 "Excuse me?"
 
-"I'm sure they're fine." He picked up an heirloom, deep red, perfectly ripe. "But they're not *food*. They're content. Somebody designed that packaging to look good on Instagram, not to taste good on a Monday."
+"They're not *food*. They're content. Designed to look good on Instagram, not taste good on a Monday."
 
 She crossed her arms, but she was still smiling. "And you're some kind of food snob?"
 
@@ -88,19 +82,15 @@ In his ear, Baxter's voice cut in: "Providence is known for their risotto accord
 
 She considered. "Hmmm...not sure..."
 
-"Shrimp risotto?"
+"Shrimp risotto?  Probably with a sweet white wine - a Riesling maybe."
 
 Her eyes went wide. "How did you—" She stopped. Stared at him. "Okay, that's either really impressive or really creepy."
 
 "I prefer mysterious."
 
-She laughed, actual and unguarded. "You're very strange."
+She laughed, actual and unguarded. "You're definitely that."
 
-"I prefer unconventional."
-
-"That's not better."
-
-"It's more honest."
+"I'm glad you noticed."
 
 "You know," Doogan said, turning back to the tomatoes, "this place has everything you need for a real risotto. Arborio rice, shallots, decent parmesan." He selected three more tomatoes. "Even the shrimp's not terrible, if you know what to look for."
 
@@ -128,25 +118,15 @@ She glanced at her basket. The premade meals looked even sadder under the fluore
 
 "Criminal, but survivable."
 
-They were both checked out now, standing in the no-man's-land between the registers and the exit.
+They were both checked out now, standing in the no-man's-land between the registers and the exit. She bit her lower lip.
 
-"Need help carrying that?" Doogan nodded at her bag.
-
-"My place is across the street."
-
-"Is that a yes or a no?"
-
-She bit her lower lip. "I don't usually..."
-
-"You don't usually what?"
-
-"Invite strange men from grocery stores to cook for me."
+"I don't usually invite strange men from grocery stores to cook for me."
 
 "I'm not strange. I'm unconventional. There's a difference."
 
 In his ear, Baxter's voice: "She's not going to—"
 
-"Fine."
+"Fine." She looked at him directly, decision made.
 
 Baxter went silent.
 
@@ -156,7 +136,7 @@ Baxter went silent.
 
 "That's all I ask."
 
-They walked out into the early evening light. She pointed across the street to a modern low-rise with that particular LA blend of glass and concrete.
+They walked out into the early evening light, a gust from the late fall breeze. She pointed across the street to a modern low-rise with that particular LA blend of glass and concrete.
 
 "It's right there. Building with the blue awning."
 
@@ -172,7 +152,7 @@ They walked out into the early evening light. She pointed across the street to a
 
 The light changed. They crossed together.
 
-In his ear, Baxter's voice: "She's been all over your Instagram."
+In his ear, Baxter's voice: "This doesn't work for anyone else, you know that, right?"
 
 Doogan tapped the earpiece once. Enough audience for tonight.
 

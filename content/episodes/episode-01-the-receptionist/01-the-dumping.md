@@ -2,7 +2,7 @@
 
 "I think we should stop seeing each other."
 
-Doogan had known it was coming. Had felt it all week. Still landed like a punchline he wasn't ready for.
+Doogan had known it was coming. Had felt it all week. The words still hit.
 
 "Okay."
 
@@ -12,11 +12,11 @@ Doogan had known it was coming. Had felt it all week. Still landed like a punchl
 
 "I don't know. Maybe one question."
 
-"Alright." He leaned back. "Can I still get the bread basket refilled?"
+"Alright." He leaned back. "Have you looked at the dessert menu, its supposed to be amazing?"
 
-Her laugh came quick and genuine. "God, I'm going to miss that."
+Her laugh came quick and genuine.
 
-"The bread basket?"
+"The dessert menu?"
 
 "The way you do that. Deflect with a joke when something matters."
 
@@ -28,7 +28,7 @@ Doogan looked down. His thumb was tracing circles on the tablecloth. He stopped.
 
 "Lawyer tricks," he said. "Observing body language. Very unfair."
 
-"Three months of dinners, Doogan. I've learned a few things." She leaned forward. "So. Aren't you going to ask why?"
+"We've had a lot of dinners, Doogan. I've learned a few things." She leaned forward. "So. Aren't you going to ask why?"
 
 "Do I need to?"
 
@@ -36,35 +36,27 @@ Doogan looked down. His thumb was tracing circles on the tablecloth. He stopped.
 
 "Why?"
 
-She smiled—not sad, not apologetic. Proud. "Because three months ago I couldn't get through a deposition without hiding in the bathroom. Now I've got a hearing next week and I think I'm going to win."
+She smiled—not sad, not apologetic. Proud. "Because a few weeks ago I couldn't get through a deposition without hiding in the bathroom. Now I've got a hearing next week and I think I'm going to win."
 
 "You're going to destroy them."
 
-"See? That. You say it like you mean it."
+"See? That. You say it like you mean it." She traced the rim of her glass. "After my divorce I felt broken but you helped me remember who I was before that. Which means—"
 
-"I do mean it."
+"You don't need me anymore."
 
-"I know you do. That's the whole point." She traced the rim of her glass. "You made me believe I could do this. And now I do. Which means—"
+"I was going to say 'I'm ready to take the next steps on my own'."
 
-"You don't need the training wheels anymore."
+"And I'll be the lost one now."
 
-"I was going to say 'safety net,' but yours is better."
+She laughed. "We both know that's not going to happen." He'd gotten good at making her laugh. Probably too good.
 
-"I'm excellent at metaphors. It's one of my many gifts."
+The waiter appeared at their table. The restaurant hummed with quiet conversations, silverware against plates. "Can I get you anything else?"
 
-"Along with modesty."
-
-"Exactly."
-
-She laughed again. He'd gotten good at making her laugh. Probably too good.
-
-The waiter materialized. "Can I get you anything else?"
-
-"Just the check," Claire said, then glanced at him. "Unless you want dessert?"
+"Just the check," Claire said, then glanced at him. "What was that about the dessert menu?"
 
 "Are you asking as someone who's dumping me, or someone who wants to prolong this?"
 
-"A little of both, actually."
+"A little of both, honestly."
 
 "Mixed signals, Counselor."
 
@@ -72,11 +64,11 @@ The waiter materialized. "Can I get you anything else?"
 
 "You're a person who wants tiramisu."
 
-"I really do."
+"I really do." she said, a little shy about admitting that.
 
 "Then we should get tiramisu." Doogan looked up at the waiter. "One with two forks. And another ten minutes before you bring the check."
 
-He nodded and vanished.
+He nodded and slipped away between tables.
 
 Claire watched him with that look—the one that saw too much. "You're being very gracious about this."
 
@@ -92,21 +84,25 @@ Claire watched him with that look—the one that saw too much. "You're being ver
 
 "Doogan."
 
-He met her eyes. The candlelight caught those gold flecks he'd noticed that first night at the bar near her firm. The ones he'd spent three months pretending not to memorize.
+He met her eyes. The candlelight caught those gold flecks he'd noticed that first night at the bar near her firm. The ones he'd spent weeks pretending not to memorize. The wine in her glass caught the light, amber and warm.
 
 "I'm happy for you," he said. And meant it. Mostly. "You're going to walk into that hearing and win. You're going to keep winning. And you won't need anyone telling you that anymore."
 
-"I'll miss hearing it from you, though."
+"I'll miss hearing it from you, though. And I'll miss your cooking."
 
-"You'll miss the free dinners."
+"The lasagna convinced you I was worth keeping around?"
 
-"That too." She smiled. "And the way you always order the exact wrong wine and make it work anyway."
+"It is a hell of a lasagna." She smiled. "Which was the problem."
 
-"It's a skill."
+"Nah.  If I've learned one thing about you, its that you don't let something as innocent as a man cooking change your mind."
 
-"And your completely unearned confidence about restaurant choices."
+"There's nothing innocent about your cooking."
 
-"This place was excellent."
+"It's a convenient skill."
+
+"And your completely unearned confidence.  I'll miss that too."
+
+"I am definitely more at home in my kitchen.  I'm less confident in restaurants."
 
 "You've been mispronouncing 'gnocchi' all night."
 
@@ -114,11 +110,19 @@ He met her eyes. The candlelight caught those gold flecks he'd noticed that firs
 
 "The waiter is being paid to understand you."
 
-"See? I contribute to the economy. I'm a job creator."
+"See? When I cook, no one notices."
 
-The tiramisu arrived. They ate in comfortable silence for a minute.
+"I noticed...every time."
+
+"Yes, I believe that." Doogan looked down, then up.  Make eye contact.
+
+The tiramisu arrived—layers of cream and coffee-soaked cake, cocoa dusted across the top. The first bite was sweet, the espresso sharp underneath. They ate in comfortable silence for a minute.
 
 "For what it's worth," Doogan said finally, "I think you're making the right call."
+
+"About the restaurant?  We both know what would happen if you cooked for me again." she said hinting at what had happened every time he had cooked for her.
+
+"About ending it.  Although, dinner at might place would have been more fun."
 
 "You're agreeing with me dumping you." She pointed her fork at him. "That's either very mature or deeply suspicious."
 
@@ -136,19 +140,19 @@ She laughed again—the kind that made her nose wrinkle. "This is why I'm going 
 
 "I know."
 
-And he did. That was the thing. She was right about all of it—the timing, the logic, the whole reason they were sitting here. It was the right call.
+And he did. She was right about all of it—the timing, the logic, the whole reason they were sitting here. It was the right call.
 
 Didn't mean it didn't sting.
 
 The waiter returned with the check. Claire reached for it out of politeness, but Doogan was faster.
 
-"I've got this."
+"I've got this." Doogan said, snagging the check with cat-like precision.
 
 "You always do."
 
-"It's one of my many—"
+"It's one of the—"
 
-"Gifts. Yes. I remember." She watched him sign the receipt. "Doogan?"
+"5 rules. Yes. I remember." She watched him sign the receipt. "Doogan?"
 
 "Yeah?"
 
@@ -156,7 +160,7 @@ The waiter returned with the check. Claire reached for it out of politeness, but
 
 "I know."
 
-"Good." She stood, picking up her jacket. "Because even though its over, this did matter. You matter. The last three months matter."
+"Good." She stood, picking up her jacket. "Because even though it's over, this did matter. You matter. These last few weeks matter."
 
 He stood too, folding the pen in with the signed receipt into the leather check folder.
 

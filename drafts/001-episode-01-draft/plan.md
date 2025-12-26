@@ -121,26 +121,27 @@ Episode target: 4,500–5,500 words total across all scenes
 - **Tone:** Playful, not predatory; accidentally charming
 - **Technical:** Chemistry through dialogue rhythm, Doogan's social intelligence on display
 
-#### Scene 7: The Meet Cute Debrief — Looking for Background
-- **Purpose:** Articulate mismatch, show team research methods
-- **Length:** 400–600 words
-- **Key beats:** Doogan post-market to Eddie, explains encounter, Eddie dismisses, Abby sides with Doogan, Baxter on FaceTime tablet, social media check (no recent breakup), Eddie pushes Baxter to bend rules, transaction patterns, Abby's "bunch of stalkers" line
-- **Tone:** Team friction, comedic tension, Abby as conscience
-- **Technical:** Four-way scene (Eddie/Doogan/Abby in room + Baxter on tablet)
+#### Scene 7: The Meet Cute Debrief — Phone Call at Doogan's Condo
+- **Purpose:** Articulate mismatch, establish Doogan's bachelor pad headquarters, expand surveillance capabilities
+- **Length:** 600–800 words (LONGER to establish condo setting)
+- **Key beats:** **Phone call with Eddie/Baxter (not in-person at Eddie/Abby's)**, Doogan arrives at his luxury high-rise condo, **establish the space (floor-to-ceiling windows, city skyline view, minimalist living area vs. chef-grade kitchen designed for seduction)**, Eddie reports Sebastian impatient with one-Saturday-per-week pace, Baxter pulled transaction history (Gelsons every night 6-6:30 PM), **Baxter reports Annabelle internet-stalking Doogan's Instagram (4 views, 2 likes)**, **Eddie explains social media profiles Baxter maintains**, Eddie pitches Monday Gelsons "coincidence," **Doogan explains strategy: better for her to reach out, less creepy, leave them wanting more**, Doogan agrees, **scene ends thinking about lying Monday, gets water, heads to shower from morning run**
+- **Tone:** Isolation, introspection, professional competence vs. personal emptiness
+- **Technical:** Establish condo as seduction headquarters (Hitch-inspired), contrast perfect-but-empty home with kitchen designed for intimacy, Doogan's alone with thoughts (no Abby), sets up Scene 8
+- **REWRITE UPDATE (Dec 2024):** Scene moved from Eddie/Abby's kitchen to phone call + Doogan's condo to establish bachelor pad setting and create isolation/introspection moment. Expanded Baxter's role to include social media management.
 
 #### Scene 8: Coincidence #2 — The Tomato Aisle
-- **Purpose:** Build chemistry and tension, engineering the invitation
+- **Purpose:** Build chemistry and tension, engineering the invitation, **CRITICAL: Doogan calls Eddie with timeline for Sebastian**
 - **Length:** 600–800 words
-- **Key beats:** Doogan pretending with tomatoes, Annabelle surprised, cart check (trendy premade meals), restaurant questions → shrimp risotto guess, Baxter: "no way she invites you", grocery store has ingredients, buys them anyway, walk-out chat, condo across street reveal, minimal utensils/takes minutes, she invites him, Baxter: "WHAT?"
+- **Key beats:** **OPENING: Eddie calls for status update, Doogan: "Tell him I'm meeting her tonight"—PLOT-CRITICAL phone call enables murder**, Doogan pretending with tomatoes, Annabelle surprised, cart check (trendy premade meals), restaurant questions → shrimp risotto guess, Baxter: "no way she invites you", grocery store has ingredients, buys them anyway, walk-out chat, condo across street reveal, minimal utensils/takes minutes, she invites him, Baxter: "WHAT?"
 - **Tone:** Flirty escalation, slightly unnatural for her (override instinct)
-- **Technical:** Annabelle's hesitation must show (weird he's there again) but curiosity wins
+- **Technical:** Annabelle's hesitation must show (weird he's there again) but curiosity wins, **Eddie phone call is ESSENTIAL—without it Sebastian can't coordinate the murder**
 
 #### Scene 9: Dinner at Annabelle's
-- **Purpose:** Pay off charm run with hard tonal snap
-- **Length:** 400–600 words
-- **Key beats:** Quick tidy ("camera ready" apartment), Doogan cooks, wine from client (Woodmark Vineyards, Napa—Doogan doesn't recognize), toast/banter/heat, Annabelle makes first move, BLACKOUT, foggy wake-up, badge tap, detective gesture, Annabelle dead in bed, "Hands where I can see them." CUT.
-- **Tone:** Light → intimate → HARD CUT to horror
-- **Technical:** Blackout transition must be abrupt, disorienting; no fade, no transition prose
+- **Purpose:** Pay off charm run with hard tonal snap, **drugged wine murder frame-up**
+- **Length:** 800–1,000 words (LONGER to allow drug time to work)
+- **Key beats:** Quick tidy ("camera ready" apartment), Doogan cooks, **wine from client (Woodmark Vineyards, Napa—Doogan doesn't recognize)**, **WINE IS DRUGGED WITH NEXAPAN**, **they drink throughout cooking—toast, multiple refills, 3-4 glasses each over 20-30 minutes**, toast/banter/heat, **progressive drug effects: pleasant buzz → lightheaded → disoriented → room tilting → difficulty focusing**, **both affected: Annabelle swaying/knocking glass, Doogan's hands heavy/words blurring**, **move toward bedroom, kissing, Doogan's coordination failing**, **Doogan's knees buckle, vision blurs, BLACKS OUT BEFORE SEX**, BLACKOUT, foggy wake-up, badge tap, detective gesture, **Annabelle dead in bed (killed while both unconscious)**, "Hands where I can see them." CUT.
+- **Tone:** Light → intimate → progressively wrong → HARD CUT to horror
+- **Technical:** Blackout transition must be abrupt, disorienting; no fade, no transition prose, **drug effects must escalate gradually and realistically**, **Doogan blacks out BEFORE sex to maintain innocence/frame-up**, **flirting/cooking must last 20-30 minutes for drug timing**
 
 ---
 
@@ -318,3 +319,6 @@ If ambiguity emerges during scene drafting, log in `clarify.md`.
 8. **Baxter's tech methods:** Posing as cosmetic rep, Snapchat adds, Instagram location tracking—all ethically gray but within team's operational boundaries
 9. **Target word count achievable:** 9 scenes at specified lengths (400–1,000 words each) totals ~5,000 words, within target range
 10. **Annabelle's apartment "camera ready":** Detail suggests she curates her space for social media, consistent with influencer-adjacent lifestyle established in outline
+
+
+
