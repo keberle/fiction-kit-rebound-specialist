@@ -2,6 +2,10 @@
 
 A demonstration project showcasing **Fiction Kit**, a draft-driven writing workflow designed for serial fiction. This repository contains the complete development pipeline for *The Rebound Specialist*, a serialized mystery-comedy series.
 
+## Contributing
+This repository is not accepting pull requests or contributions at this time.  
+Feel free to fork for your own use. 
+
 ---
 
 ## About Fiction Kit
