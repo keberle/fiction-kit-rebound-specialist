@@ -13,7 +13,7 @@ Pacific Point enjoys a Mediterranean climate characterized by warm, dry summers 
 The culture of Pacific Point is a fusion of artistic creativity and upscale sophistication. Art galleries, boutique shops, and organic cafés line the palm-shaded streets. Surf culture thrives alongside high-end fashion, and weekend farmers’ markets showcase local produce and artisanal goods. Residents value wellness, sustainability, and outdoor living.
 
 ## Atmosphere
-Life in Pacific Point moves at a relaxed yet purposeful pace. The rhythmic sound of waves crashing against the shore harmonizes with distant laughter from beach bonfires. At night, the city glows softly under starlit skies, with ocean breezes carrying the scent of salt and jasmine. It’s a place where dreams feel tangible, and every corner whispers a story waiting to unfold.
+Life in Pacific Point moves at a relaxed yet purposeful pace. The rhythmic sound of waves crashing against the shore harmonizes with distant laughter from beach bonfires. At night, the city glows softly under starlit skies, with ocean breezes carrying the scent of salt air. It's a place where dreams feel tangible, and every corner whispers a story waiting to unfold.
 ## Cultural Details
 
 ### Transportation & Car Culture
@@ -32,6 +32,30 @@ Life in Pacific Point moves at a relaxed yet purposeful pace. The rhythmic sound
 - **Late dining:** Dinner reservations at 8 or 9 PM are common; the city runs later than many other U.S. metros.
 
 ## Key Locations
+
+### Palmer Residence (Eddie & Abby's Home)
+**Location:** Upscale suburbs of Pacific Point  
+**Established:** Episode 1, Scene 2; Episode 2, Scene 3
+
+**Kitchen:**
+- White quartz or marble countertops
+- Brushed nickel fixtures  
+- Modern, stylish, curated aesthetic
+- Fresh flowers (usually white tulips or similar)
+- Quality appliances, designer touches
+- Open layout to dining area
+
+**Overall Home Style:**
+- Modern, clean, curated (never cluttered)
+- Money and taste in equal measure
+- Designer touches without ostentation
+
+**DESCRIPTION RULE (McDonald Principle):**
+- ❌ DO NOT re-describe Palmer kitchen in every scene set there
+- ✅ Kitchen established in Episode 1, Scene 2—trust reader's memory
+- ✅ Only add new spatial details if scene requires specific staging
+- ✅ "Eddie's kitchen" or "the kitchen" is sufficient for returning locations
+- **Established = described once, referenced thereafter**
 
 ### Residential Areas
 - **Upscale Suburbs:** Where Eddie and Abby Palmer live. Modern homes with manicured lawns, country club access, family-oriented communities. Less urban density, more space, the California dream lifestyle.

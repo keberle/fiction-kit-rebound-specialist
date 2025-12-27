@@ -28,8 +28,10 @@ Rewriting a scene involves more than just changing the prose—it requires:
 
 **BEFORE rewriting, use the character-management skill:**
 
-1. **Load ALL character files** for characters in this scene
-   - Read from `elements/characters/<name>.md`
+1. **Load ALL character sources** for characters in this scene
+   - Read from `elements/characters.md` (character index - supporting characters like Brad Levitt, Terry, Jillian)
+   - Read from `elements/characters/<name>.md` (individual files for main characters like Doogan, Eddie, Abby)
+   - **CRITICAL:** Many supporting characters are ONLY documented in `elements/characters.md`, not in individual files
    - Note established details: physical traits, possessions, habits, voice patterns
 
 2. **Verify NO invented details:**
@@ -37,10 +39,14 @@ Rewriting a scene involves more than just changing the prose—it requires:
    - If detail doesn't exist in file, DO NOT add it (or add to file first)
    - Stay VAGUE if uncertain
 
-3. **Timeline verification:**
+3. **Timeline verification (CRITICAL - EXPANDED):**
+   - **Build timeline from prior scenes:** Track explicit time markers (3 AM, 9 AM, etc.), day progression ("tomorrow," "next day"), elapsed time references
+   - **Calculate actual elapsed time** from key events to THIS scene
+   - **Cross-check character internal thoughts** about elapsed time against actual timeline
    - What does POV character know at THIS point?
    - Where would they have learned this information?
    - Check character file "What Team Knows & When" sections
+   - **FLAG timeline contradictions** (e.g., "six hours" when actual timeline shows "18 hours")
 
 4. **Antagonist/mystery character caution:**
    - Many details may be lies or unknowable
@@ -51,6 +57,7 @@ Rewriting a scene involves more than just changing the prose—it requires:
 - Prevent invented physical traits, cars, homes, habits
 - Enforce "stay vague if missing" rule
 - Check voice patterns match established canon
+- **Verify timeline consistency** (elapsed time references match prior scene markers)
 
 ### Step 3 — Invoke Scene-Writing Skill
 
@@ -65,13 +72,15 @@ Rewriting a scene involves more than just changing the prose—it requires:
 - Continuity preservation
 
 **Your responsibilities before invoking skill:**
-1. ✅ Load ALL elements documents (plot, arc, conflict, theme, setting, outline, notes, episode outline)
+1. ✅ Load ALL elements documents (plot, arc, conflict, theme, setting, outline, notes, episode outline, **characters.md** for supporting character details)
 2. ✅ Load ALL voice documents (style, format, pov, tone, checklist)
 3. ✅ Read ALL previous episodes (if Episode 2+)
 4. ✅ Read ALL previous scenes in THIS episode (if Scene 2+)
 5. ✅ Create continuity notes (established facts, character knowledge, secrets)
-6. ✅ Identify what's changing in the rewrite
-7. ✅ Pass complete context to scene-writing skill
+6. ✅ **Build timeline from prior scenes** (track time markers, calculate elapsed time to THIS scene)
+7. ✅ Identify what's changing in the rewrite
+8. ✅ **OUTPUT CONTEXT VERIFICATION LOG** (see format in implement.prompt.md)
+9. ✅ Pass complete context to scene-writing skill
 
 **The scene-writing skill will handle:**
 - McDonald opening validation
@@ -80,6 +89,53 @@ Rewriting a scene involves more than just changing the prose—it requires:
 - Sensory detail inclusion
 - Scene structure (opening → escalation → turn → button)
 - Continuity violation prevention
+
+### Step 3a — Invoke Continuity-Checking Skill (Post-Writing Validation)
+
+**AFTER scene-writing skill completes, BEFORE updating element files:**
+
+**Use the continuity-checking skill to validate the rewritten scene:**
+
+1. **Scan for invented details:**
+   - Brand names (stores, cars, products)
+   - Street names, location specifics
+   - Physical details not in character files
+   - Objects or props not established
+
+2. **Validate character knowledge:**
+   - POV character knows only what they've learned
+   - No off-screen information without being told
+   - Timeline-appropriate awareness
+
+3. **Validate timeline consistency (CRITICAL - NEW):**
+   - Check all elapsed time references in character thoughts
+   - Verify time-of-day consistency with prior scenes
+   - Confirm day progression matches schedule mentions
+   - Cross-check "hours since event X" against actual timeline from Scene 1
+   - No off-screen information without being told
+   - Timeline-appropriate awareness
+
+3. **Check physical continuity:**
+   - Objects from scene opening persist
+   - Location details match prior scenes
+   - Character state (clothing, mood) consistent
+
+4. **Review violation report:**
+   - If violations found: fix and re-validate
+   - If clean: proceed to element file updates
+   - Do NOT proceed until continuity check passes
+
+**Continuity-checking skill will produce:**
+- Line-by-line violation report
+- Recommendations for fixes
+- PASS/FAIL/WARNINGS status
+
+**Automated check:**
+```bash
+python .github/skills/continuity-checking/scripts/validate_continuity.py [scene-file]
+```
+
+**CRITICAL: Do not mark rewrite complete or update element files until continuity validation passes.**
 
 ### Step 4 — Update Element Files (Make Changes Canonical)
 
@@ -157,6 +213,12 @@ If this rewrite is part of an active draft cycle:
 - Recommended follow-up rewrites
 
 ### Step 7 — Final Consistency Check
+
+**Run continuity-checking skill one final time:**
+- ✅ Rewritten scene passes continuity validation
+- ✅ Zero invented details detected
+- ✅ Character knowledge timeline verified
+- ✅ Physical continuity maintained
 
 **Cross-reference using character-management skill:**
 - ✅ All new details documented in element files
@@ -238,6 +300,23 @@ If this rewrite is part of an active draft cycle:
 python .github/skills/character-management/scripts/validate_consistency.py [scene-file]
 ```
 
+### 3. continuity-checking
+**File:** `.github/skills/continuity-checking/SKILL.md`
+
+**Handles:**
+- Post-writing continuity validation
+- Detects invented proper nouns (brands, street names, car models)
+- Validates character knowledge timeline
+- Checks physical continuity across scenes
+- Produces violation report with line numbers and fix recommendations
+
+**Validation script:**
+```bash
+python .github/skills/continuity-checking/scripts/validate_continuity.py [scene-file]
+```
+
+**Critical: Run this AFTER scene-writing skill completes, BEFORE updating element files.**
+
 ---
 
 ## Rewrite Quality Prompts
@@ -269,14 +348,16 @@ Before finalizing, ask yourself:
 
 1. **Always use character-management skill BEFORE writing** - Prevents invented details
 2. **Always use scene-writing skill FOR writing** - Ensures craft quality
-3. **Every new detail must become canonical** - Add to element files
-4. **Search for impact** - Always grep content/ for character mentions
-5. **Document the cascade** - Track what files were updated in analyze.md
-6. **Output everything** - Provide scene + all updated element/draft files
-7. **Timeline awareness is mandatory** - Character knows only what they've learned by this point
-8. **No invented backstory** - If not in character file, stay vague
-9. **Verify before writing** - Use character-management skill to load and validate
-10. **Information source required** - If character knows something, show where it came from
+3. **Always use continuity-checking skill AFTER writing** - Detects violations before they become canon
+4. **Every new detail must become canonical** - Add to element files
+5. **Search for impact** - Always grep content/ for character mentions
+6. **Document the cascade** - Track what files were updated in analyze.md
+7. **Output everything** - Provide scene + all updated element/draft files
+8. **Timeline awareness is mandatory** - Character knows only what they've learned by this point
+9. **No invented backstory** - If not in character file, stay vague
+10. **Verify before writing** - Use character-management skill to load and validate
+11. **Information source required** - If character knows something, show where it came from
+12. **Do not proceed until continuity validation passes** - Zero tolerance for violations
 
 ---
 
@@ -289,8 +370,10 @@ Before finalizing, ask yourself:
 - Craft rules scattered across documents
 
 **After (with skills):**
-- character-management skill prevents invented details automatically
-- scene-writing skill enforces all craft rules
+- character-management skill prevents invented details automatically (pre-writing)
+- scene-writing skill enforces all craft rules (during writing)
+- continuity-checking skill detects violations automatically (post-writing)
+- Three-stage validation: prevent → enforce → detect
 - Pre-writing checklists enforced by skills
 - Validation scripts available
 - Consistent quality across all rewrites
@@ -300,8 +383,10 @@ Before finalizing, ask yourself:
 ## Goal
 
 Produce a high-quality rewritten scene that:
-- Uses **character-management** skill to ensure NO invented details
-- Uses **scene-writing** skill to ensure craft excellence
+- Uses **character-management** skill to ensure NO invented details (pre-writing)
+- Uses **scene-writing** skill to ensure craft excellence (during writing)
+- Uses **continuity-checking** skill to validate final result (post-writing)
 - Propagates all changes to element files
 - Maintains continuity across entire story
 - Documents all impacts and follow-up work
+- Passes continuity validation with zero violations

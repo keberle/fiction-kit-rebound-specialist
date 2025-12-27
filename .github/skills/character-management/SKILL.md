@@ -24,15 +24,63 @@ Use this skill when you need to:
 - Habits or mannerisms not established
 - Backstory elements
 - Relationships not previously mentioned
+- **Brand names or product specifics** ("Chanel handbag" ❌ when outline says "designer handbag")
+- **Educational background** ("failed high school" ❌ or "honors student" ❌)
+- **Knowledge or expertise** (don't assume what character knows based on social class)
+- **Dialogue patterns** that contradict character background
+
+**ANTI-FABRICATION: Social Class Assumptions**
+
+**DO NOT invent character traits based on wealth/class:**
+- ❌ "Wealthy family → character must be educated/cultured"
+- ❌ "Wealthy family → character must have failed school (rebellious)"
+- ❌ "Working class → character must lack education"
+- ✅ CHECK character file for ACTUAL education/knowledge/background
+
+**Example Violations:**
+```
+❌ WRONG: Cheryl (wealthy background) says "I failed high school English"
+   Why wrong: Character file shows wealthy family (private schools), no indication of failure
+   
+❌ WRONG: Doogan instantly recognizes "Sonnet 130"
+   Why wrong: Outline says "Baxter identifies" - knowledge belongs to Baxter, not Doogan
+   
+❌ WRONG: "vintage Chanel handbag"
+   Why wrong: Outline says "designer handbag" (generic) - specific brand is fabrication
+
+✅ RIGHT: Cheryl says "I never paid attention in poetry"
+   Why right: Admits lack of knowledge without inventing failure/character background
+```
 
 **IF information is missing:**
 - Stay vague ("drove away" ✅ not "drove away in her BMW" ❌)
 - Use generic descriptions ("sat down" ✅ not "slumped into leather chair" ❌)
+- **Use outline's exact wording** ("designer handbag" ✅ not "Chanel handbag" ❌)
+- **Attribute knowledge correctly** (Baxter knows → Baxter provides, not Doogan)
 - Flag for author to decide and add to character file
 
 ## Character File Structure
 
-All character canonical data lives in `elements/characters/<name>.md`:
+All character canonical data lives in TWO locations:
+
+### 1. Character Index: `elements/characters.md`
+**Contains supporting/minor character details:**
+- Characters who don't have individual files (Brad Levitt, Terry Tamborino, Jillian, etc.)
+- Brief descriptions sufficient for scene usage
+- Relationships to main characters
+- Role in specific episodes
+
+**CRITICAL:** Many characters are ONLY documented here. Always check this file FIRST before assuming a character needs an individual file.
+
+**Portrait File Protocol:**
+- Character entries include portrait references: `<!-- Portrait: characters/name.jpg -->`
+- If portrait file exists, DO NOT request visual details (height, build, hair color, clothing style, facial features)
+- Portrait provides complete visual reference
+- Only request non-visual character details: mannerisms, speech patterns, internal motivations, behavioral quirks, voice patterns
+- When writing scenes: describe actions and behavior, not physical appearance already shown in portrait
+
+### 2. Individual Character Files: `elements/characters/<name>.md`
+**For main recurring characters only (Doogan, Eddie, Abby, Martinez, etc.):**
 
 ### Required Sections
 - **Name & Role**
@@ -47,10 +95,13 @@ All character canonical data lives in `elements/characters/<name>.md`:
 
 ### Before Writing Any Scene
 
-1. **Load All Present Characters**
-   - Read complete file for each character in scene
+1. **Load All Present Characters (BOTH SOURCES)**
+   - **FIRST:** Read `elements/characters.md` for ALL characters in scene (many characters ONLY exist here)
+   - **Check for portrait files:** If `<!-- Portrait: characters/name.jpg -->` exists, skip requesting visual details
+   - **SECOND:** Read individual files from `elements/characters/<name>.md` for main recurring characters
    - Note current emotional state from previous scenes
    - Check relationships to other present characters
+   - **Timeline Check:** Verify character knowledge at THIS point in story timeline
 
 2. **Voice Verification**
    - Review speech patterns for each character
@@ -66,6 +117,150 @@ All character canonical data lives in `elements/characters/<name>.md`:
    - Verify how characters interact matches established relationships
    - Check emotional temperature between characters
    - Note any relationship changes that occurred in previous scenes
+
+5. **Timeline-Aware Knowledge Verification (CRITICAL)**
+   - What does each character KNOW at this point in the timeline?
+   - When did they learn this information? (which scene, which day?)
+   - **Information source required:** If character knows something, WHERE did they learn it?
+   - Track time references from prior scenes:
+     - Explicit time markers ("3 AM," "9 AM," "tomorrow morning")
+     - Day progression ("next day," "that evening," "same day")
+     - Elapsed time references ("six hours later," "less than 24 hours")
+   - Cross-check character internal thoughts about elapsed time against actual timeline
+   - Flag timeline contradictions BEFORE writing
+   - Note any relationship changes that occurred in previous scenes
+
+## Character Knowledge Tracking (CRITICAL)
+
+**THE FUNDAMENTAL RULE:**
+> **Just because the AI can see all story details does NOT mean characters can.**
+
+**BEFORE writing any character action or dialogue, ask:**
+1. **"Does this character KNOW this information?"**
+2. **"WHERE and WHEN did they learn it?"**
+3. **"What was the exact source?"** (overheard, told directly, deduced, witnessed, investigated)
+4. **"What CONTEXT does this character have?"** (What do they think this situation is about?)
+
+### Knowledge vs Context (NEW - CRITICAL)
+
+**Knowledge:** Specific facts a character has learned
+**Context:** The framework a character uses to interpret those facts
+
+**Example: Martinez in Episode 2**
+- **Knowledge:** Doogan met Annabelle at farmer's market, they had dinner, she died
+- **Context:** Martinez thinks this is a DATE/ROMANTIC ENCOUNTER, not a job
+- **What Martinez DOESN'T know:** Doogan's business, that someone hired him, that this was work
+
+**Therefore:**
+- ❌ WRONG: Martinez asks "Who hired you?" (assumes knowledge of job context)
+- ✅ RIGHT: Martinez asks "What were you doing here?" (investigates suspicious behavior)
+
+### Character Knowledge Violations
+
+**Type 1: Using proper names/facts they haven't learned:**
+- Character using proper names they haven't heard yet
+- Character knowing events that happened off-screen
+- Character remembering details from scenes they weren't present for
+
+**Type 2: Having context they don't have (MOST COMMON ERROR):**
+- Character assumes situation is about X when they only know about Y
+- Detective assumes there's a "job" when suspect presented it as personal
+- Character asks specific questions that reveal contextual knowledge they lack
+
+**Example Violations (from Episode 2, Scene 7):**
+
+**Violation 1: Proper Name**
+```
+❌ WRONG: Martinez asks "When did Sebastian LeClere hire you?"
+   Why wrong: Martinez never heard this name
+   Fix: Martinez asks "Who hired you?" AFTER learning there's a job context
+   
+✅ BETTER: Martinez asks "Why are you here?"
+   Why right: Open question, no assumed knowledge
+```
+
+**Violation 2: Context (MORE FUNDAMENTAL)**
+```
+❌ WRONG: Martinez asks "Who hired you for this job?"
+   Why wrong: Martinez doesn't know there IS a job
+   What Martinez knows: Doogan met Annabelle romantically (farmer's market, dinner, date)
+   What Martinez THINKS: This is a romantic encounter / possible drugging / murder
+   Martinez has NO BASIS to think this is professional work
+   
+✅ RIGHT: Martinez asks "What are you doing at her workplace?"
+   Why right: Based on what Martinez actually knows (Eddie snooping, Annabelle worked here)
+```
+
+### Tracking Character Knowledge & Context
+
+**For each character, track TWO things:**
+
+**1. Knowledge Timeline (Facts):**
+- Scene 1: Character learned X from source Y
+- Scene 2: Character learned Z from source A
+- Scene 5: Character still doesn't know about B
+
+**2. Context Framework (Interpretation):**
+- What does character THINK this situation is about?
+- What assumptions are they making?
+- What questions would they naturally ask given their context?
+
+**Example: Martinez Context Timeline**
+```
+Scene 1 (Interrogation):
+  Knowledge: Doogan met Annabelle at farmer's market, dinner date, she died
+  Context: Martinez thinks this is ROMANTIC/DATING situation gone wrong
+  Assumptions: Doogan picked up woman, maybe drugged her, she died
+  
+Scene 7 (Clinic encounter):
+  Knowledge: Eddie (Doogan's friend) is at Annabelle's workplace
+  Context: Still thinks this was romantic - now friend is snooping
+  Assumptions: Either helping investigate OR involved in crime
+  Martinez still has NO REASON to think there's a job/client
+```
+
+### Special Case: Detective Characters (EXPANDED)
+
+**Detectives learn through:**
+- Interrogation (what suspects/witnesses SAY)
+- Investigation (what they DISCOVER through police work)
+- Evidence (what physical/digital evidence SHOWS)
+
+**CRITICAL: Context matters more than facts**
+- If suspect presents situation as personal, detective interprets it that way
+- Detective needs REASON to shift context (evidence, contradiction, new information)
+- **NEVER have detective magically know situation is different from what they were told**
+
+**Example:**
+```
+Doogan tells Martinez: "I met her at farmer's market, we had dinner"
+Martinez's context: This is a romantic encounter
+Martinez's questions: About the date, the relationship, his movements
+
+For Martinez to know it's a JOB:
+1. Doogan would need to mention his business
+2. Evidence would need to contradict romantic story
+3. Witness would need to reveal professional context
+4. Martinez would need to investigate Doogan's business and connect it
+
+UNTIL THEN: Martinez operates in "romantic encounter" context
+```
+
+### Validation Checklist (USE FOR EVERY SCENE)
+
+**Before writing character dialogue/action:**
+- [ ] What FACTS does this character know? (List them)
+- [ ] What CONTEXT does this character have? (What do they think this is about?)
+- [ ] What SOURCE gave them this knowledge? (Scene number + method)
+- [ ] Does this dialogue/action fit their knowledge AND context?
+- [ ] Am I making character assume knowledge they don't have?
+- [ ] Am I making character jump to conclusions without basis?
+
+**Red flags:**
+- Character asks specific question that assumes knowledge they lack
+- Character uses proper name they never heard
+- Character shifts context without new information triggering it
+- Character "conveniently" knows what reader knows
 
 ## Updating Character Files
 

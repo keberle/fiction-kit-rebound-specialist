@@ -41,20 +41,97 @@ This stage is the execution engine of the draft flow.
    **Your orchestration responsibilities:**
    - **BEFORE invoking scene-writing skill:**
      1. **Identify all characters who appear in the scene**
-     2. **Load ALL character files** from `elements/characters/<name>.md` (use **character-management** skill)
-     3. **Load ALL elements documents:** plot.md, arc.md, conflict.md, theme.md, setting.md, outline.md, notes.md, episode outline
+     2. **Load ALL character sources** (use **character-management** skill):
+        - `elements/characters.md` (character index - MANY supporting characters ONLY exist here)
+        - `elements/characters/<name>.md` (individual files for main recurring characters)
+     3. **Load ALL elements documents:** plot.md, conflict.md, theme.md, setting.md, outline.md, notes.md, episode outline
      4. **Load ALL voice documents:** style.md, format.md, pov.md, tone.md, checklist.md
      5. **For Scene 2+ in Episode 1:** Read ALL previous scenes in THIS episode
      6. **For Episode 2+ Scene 1:** Read ALL scenes from ALL previous episodes
      7. **For Episode 2+ Scene 2+:** Read ALL previous episodes AND all previous scenes in THIS episode
      8. **Create continuity notes:** established facts (store names, car models, physical details), secrets, character knowledge state
      9. **Gather outline beats** for this scene from episode outline
-     10. **Invoke scene-writing skill** with full context package
+     10. **VERIFY BEAT MECHANISMS** (NEW - CRITICAL):
+         - For EACH outline beat, ask: "HOW does this happen?"
+         - If beat says "Character X is there" → WHY are they there? HOW do they know to come?
+         - If beat says "Character knows Y" → HOW did they learn it? WHEN? FROM WHOM?
+         - Check notes.md for established mechanisms (phone calls, procedures, information flow)
+         - If mechanism is unclear, FLAG IT before writing (don't invent)
+         - Document the mechanism in your continuity notes
+     11. **FLAG MISSING DETAILS** (NEW - CRITICAL):
+         - If ANY detail needed for the scene is NOT in element files, STOP
+         - Create "❓ MISSING DETAILS - USER INPUT NEEDED" section
+         - List each missing detail as a question
+         - Provide context from outline/prior scenes
+         - Offer logical options when possible
+         - **WAIT for user response before proceeding**
+         - DO NOT INVENT details to fill gaps
+     12. **OUTPUT CONTEXT VERIFICATION LOG** (see format below - now includes beat verification AND missing details)
+     13. **Invoke scene-writing skill** with full context package INCLUDING verified beat mechanisms
    
    **CRITICAL: The scene-writing skill will NOT accept incomplete context.**
    - Missing prior scene reads = continuity violations (invented store names, wrong car models, etc.)
    - Missing element files = contradictions to canon
    - Missing voice files = style violations
+   
+   **Context Verification Log Format:**
+   Before invoking scene-writing skill, output:
+   ```
+   === CONTEXT VERIFICATION LOG ===
+   Scene: Episode X, Scene Y
+   
+   Character Files Loaded:
+   - elements/characters.md (character index - supporting characters) ✅
+   - elements/characters/doogan-andrews.md ✅
+   - elements/characters/eddie-palmer.md ✅
+   
+   Element Files Loaded:
+   - elements/plot.md ✅
+   - elements/conflict.md ✅
+   - elements/theme.md ✅
+   - elements/setting.md ✅
+   - elements/outline.md ✅
+   - elements/outlines/episode-02.md ✅
+   - elements/notes.md ✅
+   - elements/characters.md ✅ (character index for supporting characters)
+   
+   Voice Files Loaded:
+   - voice/style.md ✅
+   - voice/format.md ✅
+   - elements/pov.md ✅
+   - elements/tone.md ✅
+   - elements/checklist.md ✅
+   
+   Prior Content Loaded:
+   - Episode 1: Scenes 1-9 (all scenes) ✅
+   - Episode 2: Scene 1 ✅
+   
+   Continuity Notes Created:
+   - Established facts: 15 items catalogued
+   - Character knowledge state: verified
+   - Secrets tracking: active
+   
+   **BEAT MECHANISM VERIFICATION (CRITICAL):**
+   Outline Beat → Verified Mechanism
+   - "Eddie is there, Hank is there" → WHY? Doogan used one phone call (notes.md: police procedure)
+   - "Hank's rules: don't leave town" → HOW does Hank know case details? He's the attorney (standard lawyer briefing)
+   - "Eddie knows about lawyer costs" → HOW? Hank told him when Eddie called (beat implies conversation happened off-screen)
+   
+   ❓ UNVERIFIED BEATS (flag these):
+   - None (or list any beats where mechanism is unclear)
+   
+   **❓ MISSING DETAILS - USER INPUT NEEDED:**
+   Detail → Question for User
+   - Hank's background: "HOW did Eddie find Hank at 3 AM? Options: bar association, Google, friend referral?"
+   - Hank's physical description: "Should I keep generic or do you want specifics? Outline only says 'parking meter with law degree'"
+   - (List any detail needed for scene that is NOT in element files)
+   
+   ⚠️ AWAITING USER RESPONSE BEFORE PROCEEDING
+   (If missing details section has entries, STOP and wait for user input)
+   
+   Context package complete. Ready to invoke scene-writing skill.
+   ================================
+   ```
    
    **The scene-writing skill will handle:**
    - McDonald opening validation
@@ -62,16 +139,42 @@ This stage is the execution engine of the draft flow.
    - Character voice accuracy
    - Sensory detail inclusion
    - Scene structure (opening → escalation → turn → button)
+   
+   **AFTER scene-writing skill completes:**
+   - **Invoke continuity-checking skill** for post-writing validation
+   - Review violation report
+   - Fix any detected issues
+   - Re-run continuity check until clean
+   - Only then mark task complete
 
    ### For Character Consistency
    Use the **character-management** skill (`.github/skills/character-management/SKILL.md`):
-   - Validates character usage against canonical files
+   - Validates character usage against canonical files (both `elements/characters.md` AND individual files)
    - Prevents invented details (physical traits, cars, homes, habits)
    - Enforces "stay vague if info missing" rule
+   
+   ### For Continuity Validation (Post-Writing)
+   Use the **continuity-checking** skill (`.github/skills/continuity-checking/SKILL.md`):
+   - Scans completed scene for continuity violations
+   - Detects invented proper nouns (store brands, car models, street names)
+   - Validates character knowledge timeline
+   - Checks physical continuity (objects, locations, descriptions)
+   - Produces violation report with line numbers
+   
+   **Validation workflow:**
+   1. Scene-writing skill produces draft
+   2. Continuity-checking skill scans draft
+   3. If violations found: fix and re-validate
+   4. If clean: mark task complete
+   
+   **Automated check:**
+   ```bash
+   python .github/skills/continuity-checking/scripts/validate_continuity.py [scene-file]
+   ```
    - Checks voice patterns match established canon
    
    **Critical Rules (enforced by skill):**
-   - Use ONLY canonical details from `elements/characters/` files
+   - Use ONLY canonical details from `elements/characters.md` (character index) AND `elements/characters/` individual files
    - Do NOT invent: physical traits, cars, clothing, habits, backstory
    - When information is missing: stay vague or generic
    - For research/investigation scenes: if info isn't in element files, research comes up EMPTY
@@ -195,7 +298,24 @@ This orchestrator leverages three primary skills from `.github/skills/`:
 - POV discipline (third-person close)
 - Character voice consistency
 - Stephen King craft principles
-- Scene structure and pacing
+- Scenecontinuity-checking
+**File:** `.github/skills/continuity-checking/SKILL.md`
+
+**Handles:**
+- Post-writing continuity validation
+- Detects invented proper nouns (brands, street names, car models)
+- Validates character knowledge timeline
+- Checks physical continuity across scenes
+- Produces violation report with fix recommendations
+
+**Validation script:**
+```bash
+python .github/skills/continuity-checking/scripts/validate_continuity.py [scene-file]
+```
+
+**Critical: Run this AFTER scene-writing skill completes.**
+
+### 4.  structure and pacing
 
 **Pre-writing workflow (automatic):**
 - Loads character files
@@ -254,10 +374,12 @@ For deleted files:
 ### path/to/file.md (deleted)
 
 For newly created files:
-
-### path/to/new-file.md (created)
-<file content>
-
+**Run continuity-checking skill on ALL touched scenes**
+   - Verify zero continuity violations reported
+   - Checklist compliance (elements/checklist.md)
+   - Serial episode hooks/ending buttons where applicable
+- If issues are found, fix them and re-check
+- **DO NOT mark tasks complete until continuity validation passes**
 ---
 
 ## Additional Rules

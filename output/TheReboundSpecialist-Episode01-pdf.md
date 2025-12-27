@@ -1,3 +1,12 @@
+---
+title: The Rebound Specialist
+subtitle: Episode 01 - The Receptionist
+---
+
+![Cover Art](coverart.jpg)
+
+\newpage
+
 ## 1
 
 "I think we should stop seeing each other."
@@ -169,9 +178,7 @@ He stood too, folding the pen in with the signed receipt into the leather check 
 ---
 
 
-
-<div class="page"/>
-
+\newpage
 
 ## 2
 
@@ -312,9 +319,7 @@ He turned up the radio and tried not to think about Claire.
 ---
 
 
-
-<div class="page"/>
-
+\newpage
 
 ## 3
 
@@ -364,7 +369,7 @@ Doogan looked at her. "What?"
 
 "Duke's has good scones."
 
-"That's not a defense, Eddie." Doogan added, losely agreeing with Abby.
+"That's not a defense, Eddie." Doogan added, loosely agreeing with Abby.
 
 "It's not a defense, it's a statement of fact. They have excellent scones. And the location is about discretion, which—"
 
@@ -397,9 +402,7 @@ Doogan stood, leaving his half-finished beer on the counter. He didn't dignify t
 ---
 
 
-
-<div class="page"/>
-
+\newpage
 
 ## 4
 
@@ -528,9 +531,7 @@ The line went quiet. Doogan pulled the door open and stepped into the air condit
 ---
 
 
-
-<div class="page"/>
-
+\newpage
 
 ## 5
 
@@ -560,7 +561,7 @@ Doogan signaled the server, ordered coffee. Sebastian's plate sat untouched—ba
 
 Sebastian blinked. "Something like that."
 
-"Complicated is kind of our thing." Eddie interupted.
+"Complicated is kind of our thing." Eddie interrupted.
 
 "What's her coffee preference?"
 
@@ -631,9 +632,7 @@ He was. Because Annabelle existed, and whatever Sebastian's angle was, she didn'
 ---
 
 
-
-<div class="page"/>
-
+\newpage
 
 ## 6
 
@@ -784,9 +783,7 @@ He didn't know her coffee order. Didn't know about this market. Didn't know abou
 ---
 
 
-
-<div class="page"/>
-
+\newpage
 
 ## 7
 
@@ -903,9 +900,7 @@ He pulled a bottle of water out of the fridge and headed into his room to shower
 ---
 
 
-
-<div class="page"/>
-
+\newpage
 
 ## 8
 
@@ -1068,9 +1063,7 @@ Doogan tapped the earpiece once. Enough audience for tonight.
 ---
 
 
-
-<div class="page"/>
-
+\newpage
 
 ## 9
 

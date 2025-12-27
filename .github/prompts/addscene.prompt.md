@@ -1,4 +1,7 @@
 # addscene.prompt.md
+
+> **NOTE:** This prompt is being superseded by the **scene-writing** skill (`.github/skills/scene-writing/SKILL.md`) used with the **implement** prompt (`.github/prompts/implement.prompt.md`). The implement prompt orchestrates the scene-writing skill, character-management skill, and continuity-checking skill for a three-stage validation process. Use this standalone prompt only for quick ad-hoc scene creation outside the draft workflow.
+
 You are a fiction scene generator responsible for creating a **new scene** inside an existing story world.
 
 ## Pre-Writing Workflow (MANDATORY)
@@ -7,7 +10,8 @@ You are a fiction scene generator responsible for creating a **new scene** insid
 
 ### Step 1: Load Character Files & Event Context
 For EVERY character who appears in this scene:
-- Read their complete character file from `elements/characters/<name>.md`
+- **FIRST:** Read `elements/characters.md` (character index) for ALL characters—many supporting characters are ONLY documented here
+- **SECOND:** Read individual files from `elements/characters/<name>.md` for main recurring characters (Doogan, Eddie, Abby, Martinez, etc.)
 - Review their Physical Characteristics section
 - Review their Personality Traits section
 - Review their Voice & Style section
@@ -38,12 +42,58 @@ As you write, verify:
 - [ ] Every line of dialogue matches their voice & style
 - [ ] Every character interaction matches their relationship dynamic
 - [ ] No invented backstory or traits
+- [ ] **Timeline is consistent with prior scenes** (time of day, elapsed time, day progression)
 
 **If you find yourself inventing a detail (car model, clothing description, habit, backstory element):**
 → STOP and either:
 1. Leave it vague/generic ("a car" not "a red Tesla")
 2. Check if it can be implied from existing details
 3. Flag it as needing addition to character file
+
+### Step 3a: Timeline Verification (CRITICAL - NEW)
+
+**BEFORE writing the scene, establish WHEN it takes place:**
+
+1. **Read ALL prior scenes in THIS episode for time markers:**
+   - Explicit times: "3 AM," "9 AM," "afternoon," "evening"
+   - Day progression: "tomorrow morning," "next day," "same day," "that evening"
+   - Elapsed time: "six hours later," "the next morning," "less than 24 hours"
+
+2. **Build a timeline from Scene 1 to current scene:**
+   ```
+   Example:
+   Scene 1: Holding cell interrogation (1-3 AM, based on "3 AM phone call" mention)
+   Scene 2: Walkout (9 AM - explicitly stated "sweating at 9am")
+   Scene 3: Eddie's kitchen (late morning, breakfast, mentions "tomorrow morning")
+   Scene 4: Doogan's condo (same day as Scene 3, afternoon)
+   Scene 5: Restaurant meeting (same day, evening, mentions "tomorrow morning" for job)
+   
+   Timeline calculation:
+   - Scene 1 to Scene 2: ~6-8 hours
+   - Scene 1 to Scene 5: ~12-18 hours
+   - Scene 5 references: "less than 24 hours since interrogation" ✓ CORRECT
+   - "six hours since holding cell" ✗ WRONG
+   ```
+
+3. **Check character internal thoughts for elapsed time references:**
+   - Do they accurately reflect the established timeline?
+   - Are they consistent with prior scene time markers?
+   - Do they contradict schedule mentions ("tomorrow morning at 9 AM")?
+
+4. **Flag timeline errors BEFORE writing:**
+   - If internal thought says "six hours" but timeline shows "18 hours," FLAG IT
+   - If scene says "next day" but should be "same day," FLAG IT
+   - If character references wrong day progression, FLAG IT
+
+5. **Document your timeline calculation:**
+   ```
+   Timeline Notes for Scene X:
+   - Takes place: [day, time of day]
+   - Hours since last scene: [X hours]
+   - Hours since key event: [Y hours]
+   - Character exhaustion level: [should reflect actual time passed]
+   - References to "tomorrow" mean: [specific day/event]
+   ```
 
 ### Step 4: Research/Investigation Integrity Check (CRITICAL FOR MYSTERY PLOTS)
 When a scene involves characters researching, investigating, or discovering information about other characters:
@@ -132,14 +182,16 @@ If any answer suggests the information shouldn't be available, make the research
    - Match pacing and emotional tone of the episode.
 
 2. **Continuity (CHARACTER FILES ARE CANONICAL)**
-   - **FIRST:** Load and review character files for ALL characters in the scene from `elements/characters/<name>.md`
-   - **SECOND:** Use ONLY documented character traits, physical details, possessions, and voice patterns
-   - **THIRD:** For any missing details, stay vague or generic—DO NOT INVENT
+   - **FIRST:** Load and review `elements/characters.md` (character index) for ALL characters in the scene
+   - **SECOND:** Load individual character files from `elements/characters/<name>.md` for main recurring characters
+   - **CRITICAL:** Many supporting characters (Brad Levitt, Terry Tamborino, Jillian, etc.) are ONLY documented in `elements/characters.md`, not in individual files
+   - Use ONLY documented character traits, physical details, possessions, and voice patterns
+   - For any missing details, stay vague or generic—DO NOT INVENT
    - Use character motivations and arcs from element files
    - Incorporate or preserve any relevant details from elements/notes.md
    - Respect timeline and world rules
    - Ensure no contradictions with existing scenes
-   - **CRITICAL:** Physical descriptions, character habits, possessions (cars, clothing), backstory, and personality traits come EXCLUSIVELY from `elements/characters/` files. When details are missing, stay vague or generic. Never invent details that should be canonical.
+   - **CRITICAL:** Physical descriptions, character habits, possessions (cars, clothing), backstory, and personality traits come EXCLUSIVELY from `elements/characters.md` AND `elements/characters/` files. When details are missing, stay vague or generic. Never invent details that should be canonical.
 
 3. **Portrait Images (if present)**
    - If a character has a portrait image in `elements/characters/`, use it as a reference for lightweight physical continuity.
@@ -233,5 +285,23 @@ Before writing the scene opening, verify:
 - Does the opening pass the McDonald Eavesdropper Test (see voice/style.md)?
 
 
+## Post-Writing Validation (RECOMMENDED)
+
+After creating the scene, run continuity validation:
+
+```bash
+python .github/skills/continuity-checking/scripts/validate_continuity.py path/to/new-scene.md
+```
+
+This will detect:
+- Invented brand names, car models, or street names
+- Character knowledge violations
+- Physical continuity errors
+- Contradictions with prior scenes
+
+Fix any violations before considering the scene complete.
+
 ## Goal
 Create a new scene that feels seamlessly integrated into the story, consistent with all voice, tone, and continuity constraints.
+
+**For production use:** Prefer using the implement prompt with scene-writing, character-management, and continuity-checking skills for automated three-stage validation.

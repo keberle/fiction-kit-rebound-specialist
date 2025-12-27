@@ -90,6 +90,18 @@ Before writing ANY scene, verify:
 9. ✓ If they know it, did I show where the intel came from?
 10. ✓ Does this scene spoil the next scene's dramatic purpose? (If yes, withhold and tease instead)
 11. ✓ Does each character's dialogue match their Voice & Style section?
-12. ✓ What is THIS scene's unique purpose, and does every beat serve it?
-
+12. ✓ What is THIS scene's unique purpose, and does every beat serve it?13. ✓ **[NEW] BEAT MECHANISM VERIFICATION:**
+    - For EACH outline beat, have I verified HOW/WHY it happens?
+    - If beat says "Character X is there" → Have I verified HOW they know to come?
+    - If beat says "Character knows Y" → Have I verified the information source?
+    - Have I checked notes.md for established mechanisms (procedures, phone calls, etc.)?
+    - Have I documented the mechanism in my continuity notes?
+    - If mechanism is unclear, have I FLAGGED IT instead of inventing?
+14. ✓ **[NEW] MISSING DETAIL VERIFICATION:**
+    - Do I need ANY detail for this scene that is NOT in element files?
+    - Physical descriptions, backgrounds, possessions, locations, motivations?
+    - Have I created "❓ MISSING DETAILS - USER INPUT NEEDED" section?
+    - Have I listed ALL missing details with questions for user?
+    - Am I waiting for user response instead of inventing?
+    - **NEVER proceed with scene if details are missing**
 Use this checklist while drafting and during final pass edits to keep scenes consistent with series voice and rules.

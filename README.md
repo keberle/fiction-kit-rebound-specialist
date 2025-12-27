@@ -94,11 +94,12 @@ The story uses **ensemble third-person close POV**—each scene anchors to one c
 fiction-kit-rebound-specialist/
 │
 ├── README.md                      # This file
+├── compile-episode.ps1            # Episode compilation script
+├── compile-episode.cmd            # Windows batch wrapper for easier use
 ├── .github/
 │   └── copilot-instructions.md    # Governing principles (the "constitution")
 │
 ├── elements/                      # Story foundations
-│   ├── arc.md                     # Series arc structure
 │   ├── characters.md              # Character summaries
 │   ├── checklist.md               # Non-negotiable constraints
 │   ├── conflict.md                # Central conflict framework
@@ -124,6 +125,7 @@ fiction-kit-rebound-specialist/
 │   └── 002-episode-02-draft/      # Episode 2 draft artifacts
 │
 ├── content/                       # Finalized story text
+│   ├── coverart.jpg               # Series cover art
 │   └── episodes/
 │       ├── episode-01-the-receptionist/
 │       │   ├── 01-the-dumping.md
@@ -133,7 +135,10 @@ fiction-kit-rebound-specialist/
 │       └── episode-02-*/
 │
 ├── output/                        # Compiled, publishable episodes
-│   └── TheReboundSpecialist-Episode01.md
+│   ├── coverart.jpg               # Copy of cover art for embedding
+│   ├── TheReboundSpecialist-Episode01-epub.md  # EPUB source
+│   ├── TheReboundSpecialist-Episode01-pdf.md   # PDF source
+│   └── TheReboundSpecialist-Episode01.epub     # Published EPUB
 │
 └── samples/                       # Reference materials
 ```
@@ -163,10 +168,56 @@ content/episodes/episode-##-title/
   └── ...
 ```
 
-Compile finalized episodes into single files for publication:
+### Compiling Episodes
+
+Use the `compile-episode` script to generate publishable formats:
+
+**Windows (simplest):**
+```cmd
+compile-episode.cmd <episode-number>
 ```
-output/episode-##-title.md
+
+**PowerShell:**
+```powershell
+powershell -ExecutionPolicy Bypass -File .\compile-episode.ps1 <episode-number>
 ```
+
+**Example:**
+```cmd
+compile-episode.cmd 1
+```
+
+This script:
+- Reads all scene files from the episode directory
+- Generates two markdown formats:
+  - **EPUB version** (`Episode##-epub.md`): Minimalist format for EPUB generation
+  - **PDF version** (`Episode##-pdf.md`): Includes title page with cover art for PDF export
+- Strips scene headers and adds simple numbered headers (## 1, ## 2, etc.)
+- Adds page breaks between scenes
+- Copies cover art to output directory
+- Automatically generates the EPUB file using pandoc (if installed)
+- Automatically generates the PDF file in 6x9 inch book format using pandoc + LaTeX (if installed)
+
+**Output files:**
+```
+output/
+  ├── TheReboundSpecialist-Episode01-epub.md  # For EPUB generation
+  ├── TheReboundSpecialist-Episode01-pdf.md   # For PDF export
+  ├── TheReboundSpecialist-Episode01.epub     # Generated EPUB
+  └── TheReboundSpecialist-Episode01.pdf      # Generated PDF (6x9 book format)
+```
+
+**Requirements:**
+- PowerShell (built into Windows)
+- Pandoc (for EPUB/PDF generation): Download from https://pandoc.org/installing.html
+- LaTeX distribution (for PDF generation):
+  - **Windows**: MiKTeX from https://miktex.org/download
+  - **Linux/Mac**: TeX Live from https://www.tug.org/texlive/
+
+**Alternative PDF generation (if LaTeX not installed):**
+1. Open the `-pdf.md` file in VS Code
+2. Right-click and select "Markdown PDF: Export (pdf)"
+3. Note: This will use letter/A4 size, not 6x9 book format
 
 ### Core Principles for Contributors
 

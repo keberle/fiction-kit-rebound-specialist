@@ -38,6 +38,17 @@ This directory contains Agent Skills following the [Agent Skills specification](
 
 **New Capability:** Prevents invented details (cars, homes, physical traits not in character files)
 
+### 4. continuity-checking
+**Purpose:** Validate cross-episode continuity by detecting invented details, contradictions, and timeline violations
+
+**Triggers:** "check continuity", "validate continuity", "continuity check", "continuity violations"
+
+**Includes:**
+- SKILL.md with post-writing validation workflow
+- `scripts/validate_continuity.py` - Scans scenes for proper noun inventions, knowledge violations, physical continuity errors
+
+**New Capability:** Automated detection of brand names, car models, and other details not established in prior content
+
 ## How to Use
 
 Agent Skills are automatically loaded by GitHub Copilot when your request matches the skill's description. You don't need to explicitly reference them.
@@ -66,9 +77,19 @@ You: "Check if this scene uses Doogan consistently"
 → Reports any invented details or contradictions
 ```
 
+```
+You: "Validate continuity for episode 2 scene 1"
+→ Copilot loads continuity-checking skill
+→ Scans all prior episodes for established facts
+→ Reports any invented brand names, knowledge violations, or contradictions
+```
+
 ## Validation Scripts
 
 All skills include validation scripts that can be run independently:
+
+# Validate continuity across episodes
+python .github/skills/continuity-checking/scripts/validate_continuity.py content/episodes/episode-02-*/01-scene.md
 
 ```bash
 # Validate draft structure
@@ -88,13 +109,16 @@ python .github/skills/character-management/scripts/validate_consistency.py conte
 │       └── validate_draft.py # Validation script
 ├── scene-writing/
 │   ├── SKILL.md
-│   └── references/           # Documentation loaded to context as needed
-│       ├── mcdonald-rule.md
-│       └── king-principles.md
-└── character-management/
+├── character-management/
+│   ├── SKILL.md
+│   └── scripts/
+│       └── validate_consistency.py
+└── continuity-checking/
     ├── SKILL.md
     └── scripts/
-        └── validate_consistency.py
+        └── validate_continuity.py  # Scans for invented details & contradictions
+    ├── SKILL.md
+    └── scripts/
 ```
 
 ## Future Skills (Planned)

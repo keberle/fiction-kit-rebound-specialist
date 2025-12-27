@@ -2,9 +2,11 @@
 
 Two hours in a holding cell and Doogan had memorized the graffiti.
 
-*Julio ♥ Dominique*—carved into cinder block with what looked like a key or maybe a belt buckle. Nice of Julio to declare that. Real romantic. But how was Dominique supposed to see it in here?
+*Julio ♥ Dominique*—carved into cinder block with what looked like a key or maybe a belt buckle. Nice of Julio to declare that.
 
-The holding cell had no furniture. Just walls and floor and the smell of industrial cleaner trying to kill something older and worse. His legs ached from standing. His shirt stuck to his back where he'd been leaning against concrete.
+The holding cell had no furniture. Just walls and floor and the smell of industrial cleaner—ammonia and bleach—trying to kill something older and worse beneath it. Sweat. Piss. The ghost of a thousand bad decisions.
+
+His legs burned. Standing welded his knees together, locked the joints until his thighs trembled with the effort of staying upright. He shifted weight. Left foot. Right foot. The concrete floor radiated cold through his soles.
 
 The door opened.
 
@@ -12,131 +14,195 @@ The door opened.
 
 Detective Paul Martinez stood in the doorway, notepad already in hand, expression patient. His partner—Detective Peter Finch—lingered behind him, older and harder, wearing his cynicism like a favorite jacket.
 
-Doogan pushed off the wall. Followed them down a fluorescent hallway that hummed too loud. Interview room three doors down. Scarred table. Three metal chairs. One-way mirror that probably had somebody behind it taking notes.
+Doogan pushed off the wall. Followed them down a fluorescent hallway—lights hummed too loud, high-pitched whine that drilled into his skull. Interview room three doors down. Scarred table. Three metal chairs. One-way mirror reflecting his own face back at him, haggard and gray under the lights.
 
-Martinez sat. Gestured at a chair. "Sit."
+Martinez sat. Pointed to the chair.
 
-Doogan sat. The chair was cold through his jeans.
+Doogan sat. Cold metal bit through his jeans, shocked his spine. He kept his face still.
 
-Finch leaned against the wall, arms crossed, already judging.
+Finch leaned against the wall, arms crossed.
 
-"Walk me through the evening again," Martinez said.
+"Walk me through the evening," Martinez said.
 
-"We had dinner. Talked. Went to bed. I woke up, she was dead, you were there."
+"Had dinner. Talked. Went to bed. Woke up, she was dead, you showed up."
 
-"Let's back up." Martinez's tone stayed level. Almost conversational. "How'd you meet Annabelle Anders?"
+"From the top. How'd you meet Annabelle Anders?"
 
-"Grocery store. Produce section."
+"Saturday. Farmer's market."
 
-"Which store?"
+"Which one?"
 
-"I don't remember the name. One on the west side. Near the beach."
+"Downtown. The one on Sixth."
 
-Finch straightened off the wall. "You don't remember the store where you met a woman you ended up sleeping with?"
+"You go there often?"
 
-"We ran into each other a few times. First at a farmer's market, then the grocery store. It wasn't one meeting."
+"First time."
 
-"Multiple meetings and you still don't remember where."
+"First time at that market and you just happen to run into her?"
 
-"I was buying groceries, not scouting real estate."
+"Her dog found me, actually. White poodle. Very friendly."
 
-Martinez flipped a page in his notepad. Slow. Deliberate. "What'd you talk about at dinner?"
+Finch straightened off the wall. "So you met the dog first."
 
-"Food. Travel. Her dog."
+"Dogs like me."
 
-"She mention work?"
+"That's convenient." Martinez's voice stayed level. Finch snorted approval.
 
-"In passing."
+"You want me to lie and say I'm a cat person?"
 
-"Say where?"
+Martinez flipped a page. "What'd you talk about?"
 
-"Some medical billing company."
+"Tomatoes. She thought I was weird for caring about produce."
 
-"She give you a name?"
+"Were you?" Finch asked.
 
-"No."
+"Was I what?"
 
-"You didn't ask?"
+"Weird about the produce."
 
-"It didn't come up."
+"I was shopping. She made it sound weird."
 
-Finch made a sound somewhere between a laugh and a snort. "Woman invites you to her place, cooks dinner, spends the evening with you, and you don't ask where she works?"
+"And after the tomatoes?" Martinez kept his tone level. Conversational. Like they were discussing a grocery list.
 
-"I was more interested in her than her résumé."
+"Saw each other again later. Different store. Gelson's."
 
-"That's real touching." Finch's smile had no warmth in it. "Real romantic. Right up until she ends up strangled in her own bed."
+"Another coincidence."
 
-Doogan met his eyes. Said nothing.
+"Southern California. Everyone shops at Gelson's."
 
-Martinez cut in, voice still calm. "Any idea who might've wanted to hurt her?"
+"And that's when you made your move?" Finch's voice had an edge now. "Produce section pickup routine?"
 
-"No."
+"She invited me to cook dinner. I said yes."
 
-"Ex-boyfriend? Someone from work?"
+"Just like that."
 
-"She didn't mention anyone."
+"Just like that."
 
-"Phone calls that night? Texts that seemed off?"
+Martinez leaned forward slightly. "What'd you make?"
 
-"Not that I saw."
+"Risotto. Shrimp."
 
-"You see her phone at all?"
+"Fancy."
 
-"Briefly. She checked it a couple times during dinner. Nothing seemed wrong."
+"Not really. Risotto's just rice and patience."
 
-Finch stepped closer to the table. "So you're telling me you meet this woman a few times, sleep with her, and know basically nothing about her life. That sound right to you?"
+"You cook for a lot of women?"
 
-"Sounds like dating."
+"Some."
 
-"Sounds like a story."
+"Define 'some.'"
 
-"It's what happened."
+"Enough that I'm good at it. Not so many that I've got a system."
 
-"What happened," Finch said, leaning forward now, hands flat on the table, "is a woman's dead. Strangled. And the guy in her bed when it happened is sitting here acting like this is just bad timing."
+Finch snorted. "Sounds like a system to me."
 
-"I'm not acting like anything."
+Doogan met his eyes. "Cooking's not a crime."
 
-"You're acting like a man with nothing to hide. But you've got no alibi, no witnesses, and no good reason you were there."
+"Neither is coincidence." Finch pushed off the wall, moving closer. "Until you stack enough of them together. Then they start looking like a plan."
 
-"Being invited is a pretty good reason."
+Martinez cut in before Finch could build momentum. "The dinner. What'd you drink?"
 
-"For dinner, maybe. Not for murder."
+"Wine."
 
-Martinez held up a hand. Not dramatic. Just enough. "Peter. Let's stay on track."
+"What kind?"
 
-Finch backed off half a step. Still watching Doogan like something stuck to his shoe.
+"White. She had it already."
 
-Martinez pulled out his phone. Swiped. Turned it toward Doogan. A photo of Annabelle's apartment. Kitchen. Wine bottles on the counter.
+"Remember the label?"
 
-"The wine you had at dinner—what kind?"
-
-Doogan looked at the image. Two bottles. One red, one white. "We finished the red. She opened the white but barely touched it."
-
-"What kind of white?"
-
-"I don't—" He tried to remember. "Custom label. Woodmark Vineyards, I think."
+Doogan tried to pull it up. Exhaustion made his memory fuzzy—edges blurred, details swimming out of focus. "Woodmark something. Custom label. She said a client gave it to her."
 
 Martinez and Finch exchanged a look. Brief. Loaded.
 
-"That mean something?" Doogan asked.
+"Client?" Martinez's voice sharpened—first crack in his patient facade. "Annabelle was a receptionist."
 
-"You tell us." Finch crossed his arms again. "You buy that bottle?"
+"That's what she told me. It's probably still in her kitchen."
 
-"No. She said a client gave it to her."
+"It's not." Martinez replied, slower this time.
 
-Martinez's tone sharpened just slightly. "Client? I thought she was a receptionist."
+Doogan's pulse spiked. Heat flooded his chest. "It's not... there?"
 
-"That's what she said."
+"No idea. Receptionists don't usually get custom-label wine from clients."
 
-"Receptionists don't usually get wine from clients." Finch was smiling again. Wrong kind of smile. "Unless they're doing more than answering phones."
+"I noticed that too. It's gone?"
 
-"I don't know what she did."
+Finch leaned in now, hands flat on the table. "You noticed that. But you didn't ask about it?"
 
-"That's becoming a theme with you." Finch leaned against the wall again, studying Doogan. "You don't know much. For a guy who spent the evening with someone, you sure don't know anything useful."
+"I asked. She said the company rep gave it to her. I let it go."
 
-The fluorescent lights buzzed. Doogan's exhaustion was catching up—adrenaline crash from whenever this nightmare had actually started. Three hours ago? Four?
+"Why?"
 
-Martinez's phone buzzed. He glanced at it. Stood. "Be right back."
+"Because we were having a nice evening and I didn't want to interrogate her over a bottle of wine."
+
+"Unlike us," Finch said, that wrong smile back.
+
+"Unlike you."
+
+"How much did you drink?" Martinez again, redirecting.
+
+"One bottle between us. Maybe a glass and a half each."
+
+"She open a second bottle?"
+
+"No."
+
+Finch straightened. "You sure about that?  Maybe that bottle disappeared too."
+
+"Yeah, I'm sure. One bottle. White. We didn't finish it."
+
+Martinez pulled out his phone. Swiped. Turned it toward Doogan. A photo of Annabelle's kitchen—clean counters, empty sink. No bottle.
+
+Doogan stared at the photo. His throat tightened. Someone had been in that kitchen. After. While he was unconscious. Moving evidence. "I don't know. It was there."
+
+Martinez took the phone back. Made a note. "What'd you talk about during dinner?"
+
+"Her dog. Her job—briefly. Travel. Nothing heavy."
+
+Doogan lied. He'd asked questions, lots of them. Trying to build the profile he needed for the rebound. But Martinez didn't need to know that.
+
+"She mention anyone at work? Problems? Ex-boyfriends?"
+
+"No."
+
+"Phone calls that night?"
+
+"She checked her phone a couple times. Nothing that seemed off."
+
+"But you noticed."
+
+"I notice things."
+
+"So do we." Finch said it like a threat.
+
+"Bothered you?" Martinez cut in.
+
+"Not enough to say anything."
+
+Finch leaned back against the wall, studying Doogan like a specimen. "So let me get this straight. You meet this woman at a farmer's market—first time you've ever been there. You run into her again at a grocery store. She invites you over. You cook. You drink. You sleep together. And the next morning she's dead. That about cover it?"
+
+Doogan's stomach clenched. "I don't... know."
+
+"Which part?" Martinez sat up straighter.
+
+"I think... I blacked out before anything happened."
+
+The room went still. Not silence. Worse. The kind of quiet that came right before everything broke.
+
+Finch's eyes narrowed. "You know we'll examine the body."
+
+"Please do." Doogan held his gaze. Let him see certainty. Truth.
+
+"And you expect us to believe that's all just bad luck?" Martinez brought the conversation back, voice calm. Reasonable. Dangerous.
+
+"I expect you to do your job and figure out who actually killed her. Because it wasn't me."
+
+"Everyone says that."
+
+"Not everyone wakes up after blacking out, next to a body."
+
+The fluorescent lights buzzed. Doogan's exhaustion was catching up—adrenaline crash from whenever this nightmare had started. Three hours ago? Four?
+
+Martinez stood abruptly. "I'll be right back."
 
 He walked to the door. Knocked twice. It opened. He stepped into the hallway.
 
@@ -150,21 +216,33 @@ Doogan leaned back in the chair. Closed his eyes for just a second.
 
 "Depends. If I'd just strangled someone, I might be pretty wired."
 
-"Good thing I didn't strangle anyone, then."
+"Good thing I didn't strangle anyone."
 
 "That's your story."
 
-"It's the truth."
+"That's the truth."
 
-"Truth's a funny thing. Changes depending on who's telling it."
+"Truth's a funny thing. Means different things to different people."
 
-The door opened. Martinez stepped back in, expression different now. Not suspicious. Just... neutral. Professional.
+"Not to me."
+
+"No?" Finch tilted his head. "What's it mean to you?"
+
+"Whatever happened in that apartment while I was unconscious."
+
+"Unconscious. That's an interesting word choice."
+
+"It's the accurate word choice."
+
+"Or the convenient one."
+
+The door opened. Martinez stepped back in, expression different now. Not suspicious. Just neutral. Professional.
 
 "Interview's over."
 
 Doogan blinked. "What?"
 
-"You've got a lawyer. We're done here."
+"You've got a lawyer. We're done."
 
 "I don't have a lawyer."
 
@@ -178,16 +256,12 @@ He walked out.
 
 Martinez held the door. Waiting. His face gave away nothing—no sympathy, no suspicion. Just a man doing his job.
 
-Doogan stood. His legs felt uncertain.
+Doogan stood. His legs wobbled—barely, just a tremor. He forced them steady.
 
 "Don't make me come looking for you," Martinez said.
 
 "Wasn't planning on it."
 
 "Good."
-
-Doogan walked past him into the hallway. The fluorescent lights were too bright. Somewhere down the corridor, he heard Eddie's voice mid-sentence, explaining something to someone who probably wasn't listening.
-
-The door clicked shut behind him.
 
 ---

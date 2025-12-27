@@ -88,6 +88,86 @@ Unlike many characters in the story, Paul isn't chasing money or status. He want
 
 ---
 
+## Knowledge & Context Limitations (CRITICAL FOR WRITING)
+
+**THE FUNDAMENTAL RULE:**
+> **Martinez only knows what he's been told, what he's investigated, or what evidence reveals. He CANNOT operate with reader knowledge.**
+
+### How Martinez Learns Information
+
+**Through Interrogation:**
+- What suspects/witnesses voluntarily tell him
+- What he can extract through questioning
+- What people reveal under pressure
+
+**Through Investigation:**
+- Background checks, employment records, tax records
+- Physical evidence at crime scenes
+- Digital evidence (phones, computers, records)
+- Witness statements and tips
+
+**Through Evidence:**
+- What forensics reveals
+- What documents show
+- What surveillance captures
+
+**Martinez CANNOT know:**
+- Information from scenes he wasn't present for
+- Private conversations between other characters
+- Internal thoughts/motivations unless revealed through behavior
+- Context that contradicts what he was told (without evidence)
+
+### Context Framework (Episode 2 Example)
+
+**Scene 1 - What Doogan Tells Martinez:**
+- Met Annabelle at farmer's market (romantic/social context)
+- Saw her again at grocery store (coincidence)
+- She invited him to cook dinner (dating context)
+- They drank wine, had dinner (date scenario)
+- Doogan blacked out, woke up next to body
+
+**Martinez's Resulting Context:**
+- This is a ROMANTIC/DATING situation
+- Possible pickup artist or serial dater
+- Possible drugging (blackout)
+- Murder in context of date gone wrong
+
+**What Martinez DOESN'T Know (from Scene 1):**
+- Doogan's business as rebound specialist
+- That someone hired Doogan
+- That this was professional work
+- That there's a client involved
+- That this is anything other than personal/romantic
+
+**For Martinez to shift context, he needs:**
+1. Doogan to mention his business
+2. Evidence that contradicts romantic story
+3. Witness to reveal professional context
+4. Investigation to uncover business connection
+
+**Until Martinez gets new information:**
+- He operates in "date/romantic" framework
+- He asks questions about relationships, dating patterns, movements
+- He investigates as potential date-related homicide
+- **He CANNOT ask about "jobs," "clients," or "hiring"**
+
+### Writing Martinez: Context Checklist
+
+**Before writing Martinez dialogue/action, ask:**
+- [ ] What CONTEXT does Martinez think he's in? (romantic, professional, criminal, etc.)
+- [ ] What was Martinez TOLD that established this context?
+- [ ] Has Martinez received NEW INFORMATION to shift context?
+- [ ] Do my questions/assumptions fit Martinez's current context?
+- [ ] Am I making Martinez jump to conclusions without basis?
+
+**Red Flags:**
+- Martinez asks about "job" when told it was personal
+- Martinez knows proper names he wasn't told
+- Martinez assumes situation type without evidence
+- Martinez operates with reader knowledge instead of character knowledge
+
+---
+
 ## Humor & Style Notes
 Paul's humor is subtle and easy to miss. He delivers dry observations with a straight face, often catching people off guard. His comic beats come from being the only sane person in a room full of schemers, liars, and con artists. 
 

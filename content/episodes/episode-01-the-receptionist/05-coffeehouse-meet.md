@@ -26,7 +26,7 @@ Doogan signaled the server, ordered coffee. Sebastian's plate sat untouched—ba
 
 Sebastian blinked. "Something like that."
 
-"Complicated is kind of our thing." Eddie interupted.
+"Complicated is kind of our thing." Eddie interrupted.
 
 "What's her coffee preference?"
 

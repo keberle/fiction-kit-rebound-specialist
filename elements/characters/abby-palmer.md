@@ -60,21 +60,39 @@ Her friendship with Daphne predates the business—they met at a charity event y
 ### Fashion Anti-Patterns (CRITICAL FOR WRITERS)
 Abby's wardrobe reflects her upper-middle-class upbringing and impeccable taste. These are HARD RULES:
 
+**DESCRIPTION FREQUENCY (McDonald Principle):**
+- ❌ DO NOT describe Abby's outfit in every scene she appears
+- ❌ DO NOT repeat wardrobe descriptions in domestic/kitchen scenes
+- ✅ Establish wardrobe once per episode (if relevant to scene purpose)
+- ✅ Trust reader's memory—"Abby stood at the stove" is sufficient
+- ✅ Only describe clothing when: (1) first appearance in episode, (2) scene involves going out/dressing up, (3) outfit change is plot-relevant
+- **Rule:** If reader already knows she dresses well, don't tell them again
+
 **NEVER dress Abby in:**
 - ❌ Yoga pants (she owns them; she doesn't wear them around company)
 - ❌ Athleisure or activewear as casual wear
 - ❌ Sweatshirts, hoodies, or college gear
 - ❌ Anything mass-market or fast fashion
 - ❌ Schlubby, mismatched, or "didn't try" outfits
+- ❌ The same outfit repeatedly (vary her wardrobe across scenes)
 
-**AT-HOME elevated style:**
-- ✅ Silk blouses in champagne, cream, soft metallics
-- ✅ Tailored linen pants or cigarette pants
-- ✅ Designer cashmere (but worn properly, not sloppy)
-- ✅ Delicate gold jewelry even at home
-- ✅ Bare feet on nice floors, or designer slides
+**AT-HOME elevated casual style (rotate these):**
+- ✅ Silk blouses (champagne, cream, soft metallics) with tailored linen or cigarette pants
+- ✅ Cashmere sweaters (soft grays, camel, ivory) with dark designer jeans
+- ✅ Sleek knit tops (James Perse, Vince) with wide-leg trousers
+- ✅ Button-down shirts (crisp white, chambray) with slim pants or pencil skirts
+- ✅ Lightweight cardigans over simple tanks with tailored shorts (summer)
+- ✅ Delicate gold jewelry always (small hoops, simple necklace, watch)
+- ✅ Bare feet on nice floors, or designer slides/loafers
 
-**The Leslie Mann principle:** Even in domestic scenes, she looks effortlessly put-together in a way that seems natural but is actually curated.
+**Southern California elevated casual aesthetic:**
+- Natural fabrics: silk, linen, cashmere, quality cotton
+- Neutral palette: ivory, gray, camel, navy, black, with occasional soft color
+- Designer basics brands: Vince, Theory, Equipment, James Perse, Rag & Bone
+- Fit is everything: tailored but not stuffy, polished but comfortable
+- Price point shows: $200 jeans, $300 sweaters, but not logos
+
+**The Leslie Mann principle:** Even in domestic scenes, she looks effortlessly put-together in a way that seems natural but is actually curated. Vary her outfits to show she has taste, not just one expensive outfit.
 
 ### Home Environment Rules
 Abby's home reflects her taste. The Palmer house is NEVER:

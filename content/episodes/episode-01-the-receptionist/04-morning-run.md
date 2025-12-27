@@ -28,7 +28,7 @@ Doogan dodged a woman walking a golden retriever. "My father. Driving me to my f
 
 "Your father gave you dating rules?"
 
-"Yeah, something like that. First one was: get out of the car and go to the door. Never pull up and honk like an asshole." The memory was clear despite the years—his father's hands on the steering wheel, that serious look. "Second: shake her father's hand, look him in the eyes. He's trusting you with his daughter."
+"Yeah, something like that. First one was: get out of the car and go to the door. Never pull up and honk like an asshole." The memory was clear despite the years, his father's hands on the steering wheel, that serious look. "Second: shake her father's hand, look him in the eyes. He's trusting you with his daughter."
 
 "Did you actually do that?"
 
@@ -42,7 +42,15 @@ Baxter laughed. "That's true. My mom's bathroom is like Sephora blew up in there
 
 "And fifth: dinner buys you dinner. Nothing more. The less you expect from women, the more likely you are to be pleasantly surprised."
 
-"Was that about the time you met Eddie?  Were you in high school doing rebounds?"
+"And you still follow those rules even on jobs?"
+
+"Especially on jobs.  You know why we have such a high success rate?"
+
+"Yeah, I've seen your condo."
+
+"No, not at all.  Most of these women, essentially side pieces for wealthy, powerful men are largely taken for granted.  My dad's old school rules, while outdated show interest.  Sometimes that's all it takes."
+
+"Was it those rules that led you to making money being a rebound relationship?  Did you meet Eddie when you were 15 too?"
 
 Doogan laughed. "No. I met Eddie in college and the first rebound was while we were in a fraternity together.  Don't make that face."
 

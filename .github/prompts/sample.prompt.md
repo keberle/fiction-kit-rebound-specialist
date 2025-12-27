@@ -81,8 +81,7 @@ If the prompt is incomplete, ask the user to specify:
 - `elements/conflict.md` - Core conflicts
 - `elements/plot.md` - Story structure
 - `elements/notes.md` - Continuity notes
-- `elements/arc.md` - Character arcs
-- `elements/outline.md` - Series outline
+- `elements/outline.md` - Series outline and episode summaries
 - `elements/outlines/episode-##.md` - Specific episode outline (if applicable)
 
 **Voice documents:**

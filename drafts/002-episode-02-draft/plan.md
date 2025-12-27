@@ -1,12 +1,12 @@
 ﻿# Draft Plan (Structural Blueprint)
 
 **Draft:** 002-episode-02-draft  
-**Updated:** 2025-01-13  
+**Updated:** 2025-12-26  
 **Status:** Complete and ready for tasks.md generation
 
 ## Planning Status
  All clarifications answered  
- Outline finalized at 18 scenes  
+ Outline finalized at 19 scenes  
  Ensemble storytelling structure optimized  
  Stephen King principles applied  
  All dependencies satisfiedno blockers  
@@ -15,21 +15,21 @@
 
 ## Scene Order Decision (Ensemble Storytelling Analysis)
 
-**REORGANIZED 18-scene structure to ALTERNATE between timelines for better pacing.**
+**REORGANIZED 19-scene structure to ALTERNATE between timelines for better pacing.**
 
 **Why the new alternating structure works:**
-- Scenes 1-4: Setup (Doogan POV - establish both jobs)
-- Scene 5: Hunt begins (Doogan)
-- Scene 6: Investigation begins (Eddie) — **first alternation**
-- Scene 7: Hunt continues (Doogan)
-- Scene 8: Investigation planning (Eddie/Baxter/Abby) — **alternation**
-- Scene 9: Hunt accelerates (Doogan)
-- Scene 10: Investigation attempts fail (Eddie/Baxter) — **alternation**
-- Scene 11: Hunt turning point (Doogan)
-- Scene 12: Investigation success (Abby) — **alternation**
-- Scene 13: Hunt victory (Doogan)
-- Scene 14: Investigation moral choice (Eddie/Baxter) — **alternation**
-- Scenes 15-18: Convergence (both timelines interweave naturally)
+- Scenes 1-5: Setup (Doogan POV - establish both jobs + reset at condo)
+- Scene 6: Hunt begins (Doogan)
+- Scene 7: Investigation begins (Eddie) — **first alternation**
+- Scene 8: Hunt continues (Doogan)
+- Scene 9: Investigation planning (Eddie/Baxter/Abby) — **alternation**
+- Scene 10: Hunt accelerates (Doogan)
+- Scene 11: Investigation attempts fail (Eddie/Baxter) — **alternation**
+- Scene 12: Hunt turning point (Doogan)
+- Scene 13: Investigation success (Abby) — **alternation**
+- Scene 14: Hunt victory (Doogan)
+- Scene 15: Investigation moral choice (Eddie/Baxter) — **alternation**
+- Scenes 16-19: Convergence (both timelines interweave naturally)
 
 **Benefits of alternating structure:**
 - Creates sense of passage of time across the day
@@ -42,58 +42,59 @@
 
 ---
 
-## 18 Scene Files (Full Implementation Guide)
+## 19 Scene Files (Full Implementation Guide)
 
 See elements/outlines/episode-02.md for complete beats. Key requirements below.
 
-### Scenes 1-4: Setup (Doogan POV)
+### Scenes 1-5: Setup (Doogan POV)
 - Scene 1: Holding cell → interview room interrogation (opens: murder suspect status; procedure note: holding cells have no furniture, actual interrogations happen in interview rooms with table/chairs)
-- Scene 2: Lawyer walkout (opens: legal constraints, lawyer costs)
-- Scene 3: Eddie's kitchen (opens: new job to fund defense)
-- Scene 4: Restaurant meeting (opens: wedding job parameters)
+- Scene 2: Lawyer walkout (opens: legal constraints, lawyer costs; note: police confiscated Doogan's earpiece during booking)
+- Scene 3: Eddie's kitchen (opens: new job to fund defense; CRITICAL: Eddie FaceTime call with Baxter in kitchen about earpiece replacement—Baxter has backup, will deliver to Doogan's condo)
+- Scene 4: Doogan's condo (opens: Doogan alone, processing; Baxter delivers earpiece; cover story for confiscated device established)
+- Scene 5: Restaurant meeting (opens: wedding job parameters)
 
-### Scene 5: Hunt Begins (Doogan POV)
+### Scene 6: Hunt Begins (Doogan POV)
 - Country club kickoff, Cheryl pairing, first clue (Sonnet 130 → flower shop)
 - Opens: scavenger hunt, Cheryl throughline (scene 1 of 5)
 
-### Scene 6: Investigation Begins (Eddie POV)
+### Scene 7: Investigation Begins (Eddie POV)
 - Clinic stakeout, Martinez confrontation
 - **Timeline alternation begins**
 - Opens: clinic identified as Annabelle's employer
 
-### Scene 7: Hunt Continues (Doogan POV)
+### Scene 8: Hunt Continues (Doogan POV)
 - Flower shop (P&P clue, Cheryl scene 2/5—"younger sister" comment)
 
-### Scene 8: Investigation Planning (Team POV)
+### Scene 9: Investigation Planning (Team POV)
 - Eddie's house—infiltration planning (Abby suggests IT disguise)
 - **Timeline alternates back to investigation**
 
-### Scene 9: Hunt Accelerates (Doogan POV)
+### Scene 10: Hunt Accelerates (Doogan POV)
 - Bookstore to speakeasy summary (three stops compressed, Cheryl scene 3/5)
 
-### Scene 10: Investigation Attempts (Team POV)
+### Scene 11: Investigation Attempts (Team POV)
 - Clinic montage—failures (Baxter/Eddie attempts fail)
 - **Timeline alternates**
 
-### Scene 11: Hunt Turning Point (Doogan POV)
+### Scene 12: Hunt Turning Point (Doogan POV)
 - Speakeasy reveal (Atticus Finch drinking trick, Cheryl scene 4/5—warming point)
 
-### Scene 12: Investigation Success (Abby POV)
+### Scene 13: Investigation Success (Abby POV)
 - Abby success (gets software name)
 - **Timeline alternates**
 
-### Scene 13: Hunt Victory (Doogan POV)
+### Scene 14: Hunt Victory (Doogan POV)
 - Finish line ("Not until the fat lady sings," Cheryl scene 5/5—victory + dinner invite)
 
-### Scene 14: Investigation Moral Choice (Team POV)
+### Scene 15: Investigation Moral Choice (Team POV)
 - Eddie/Baxter—moral choice (agree to illegal access)
 - **Final alternation before convergence**
 
-### Scenes 15-18: Convergence
-- Scene 15: Rehearsal dinner (Doogan POV—Cheryl reveal: dumped Brad, sister swooped)
-- Scene 16: Martinez ambush (Martinez POV—warns off team investigation)
-- Scene 17: Reception (Doogan POV—toast defused, job complete)
-- Scene 18: File deletion cliffhanger (Baxter POV—someone actively erasing evidence)
+### Scenes 16-19: Convergence
+- Scene 16: Rehearsal dinner (Doogan POV—Cheryl reveal: dumped Brad, sister swooped)
+- Scene 17: Martinez ambush (Martinez POV—warns off team investigation)
+- Scene 18: Reception (Doogan POV—toast defused, job complete)
+- Scene 19: File deletion cliffhanger (Baxter POV—someone actively erasing evidence)
 
 ---
 
@@ -105,8 +106,8 @@ See elements/outlines/episode-02.md for complete beats. Key requirements below.
 
 ### POV (NON-NEGOTIABLE)
 - Third-person close, one POV per scene
-- Doogan: 11 scenes (1-5, 7-10, 15, 17)
-- Team: 7 scenes (6, 11-14, 16, 18)
+- Doogan: 12 scenes (1-5, 8, 10, 12, 14, 16, 18)
+- Team: 7 scenes (7, 9, 11, 13, 15, 17, 19)
 
 ### Character Voice
 - **Eddie:** Motor-mouth avalanche, mid-sentence starts, tangents circle back
@@ -114,15 +115,15 @@ See elements/outlines/episode-02.md for complete beats. Key requirements below.
 - **Abby:** Elevated, sharp, pragmatic (NO yoga pants/messy home)
 - **Martinez:** Deadpan, dry wit, principled
 
-### Cheryl Throughline (Scenes 5, 7, 8, 9, 10)
+### Cheryl Throughline (Scenes 6, 8, 10, 12, 14)
 - Sharp "younger sister/wedding" comments (edge, not jokes)
 - Competitive drive masking pain
-- Scene 15 reveal must feel inevitable
+- Scene 16 reveal must feel inevitable
 
 ### Clue Mechanics (MUST BE INTERACTIVE)
-- Scene 7: "Red and white"  clerk gives envelope
-- Scene 9: Decline champagne (Atticus didn't drink)  water with golden ticket
-- Scene 10: "Quid agis?"  answer "Not until the fat lady sings"
+- Scene 8: "Red and white"  clerk gives envelope
+- Scene 12: Decline champagne (Atticus didn't drink)  water with golden ticket
+- Scene 14: "Quid agis?"  answer "Not until the fat lady sings"
 
 ### Stephen King Principles
 - Every scene opens/closes doors
@@ -135,7 +136,7 @@ See elements/outlines/episode-02.md for complete beats. Key requirements below.
 ## Dependencies
 
  **All resolved:**
-- Outline finalized at 18 scenes
+- Outline finalized at 19 scenes
 - All character files verified
 - Continuity with Episode 1 confirmed
 - POV rules established
@@ -147,4 +148,4 @@ See elements/outlines/episode-02.md for complete beats. Key requirements below.
 
 ## Summary
 
-Plan complete. Current 18-scene order is optimal for ensemble storytelling. All critical rules documented. Next step: Generate tasks.md with atomic tasks and acceptance criteria.
+Plan complete. Current 19-scene order is optimal for ensemble storytelling. All critical rules documented. Next step: Generate tasks.md with atomic tasks and acceptance criteria.

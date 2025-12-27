@@ -46,7 +46,7 @@ Doogan looked at her. "What?"
 
 "Duke's has good scones."
 
-"That's not a defense, Eddie." Doogan added, losely agreeing with Abby.
+"That's not a defense, Eddie." Doogan added, loosely agreeing with Abby.
 
 "It's not a defense, it's a statement of fact. They have excellent scones. And the location is about discretion, which—"
 

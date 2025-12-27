@@ -6,11 +6,11 @@
 **Summary:** Doogan gets hauled through a holding-cell interrogation, "lawyers up" without knowing he even has a lawyer, and gets shoved right back into work: a wealthy couple hires him to keep their older daughter (the maid of honor) from detonating a wedding weekend. The scavenger hunt becomes an obstacle course in loafers—made worse by a rival bridesmaid (Jillian) and her worthless boyfriend tailing them and then cheating to the finish. Intercut: Eddie, Abby, and Baxter chase Annabelle's real employment trail to a strip-mall clinic that won't cooperate socially or physically… until Abby gets one key data point. Baxter finally gets into the clinic system—and watches a file Annabelle flagged delete itself in real time.
 **Hook / Cold Open:** Doogan in a holding cell, reading unhinged wall graffiti, while Martinez and Finch lean on him.
 **End-Button / Cliffhanger:** Baxter opens Annabelle's flagged file — it vanishes while they watch; someone else is logged in deleting records.
-**Structure:** 18 scenes (REORGANIZED to alternate between rebound job and clinic investigation timelines for better pacing and passage of time)
+**Structure:** 19 scenes (REORGANIZED to alternate between rebound job and clinic investigation timelines for better pacing and passage of time)
 ---
 
 ## Episode Arc
-- Act 1 (setup): Holding cell interrogation → unexpected lawyer → the "we still have a job" problem.
+- Act 1 (setup): Holding cell interrogation → unexpected lawyer → the "we still have a job" problem → Doogan home to reset.
 - Act 2 (complication): Wedding weekend begins; Cheryl's wounded pride bleeds through competitive drive; Eddie/Baxter push into clinic leads. **Timelines alternate throughout for pacing and passage of time.**
 - Act 3 (payoff/turn): Rehearsal dinner reveal + Martinez surveillance (costs Doogan the Cheryl connection) + reception success → clinic system breach → file deletes itself.
 
@@ -80,13 +80,44 @@ Beats:
 - Eddie steamrolls: Hank costs money; money means jobs.
 - We will focus on finding out about Annabelle and Sebastian; you make sure we keep this next client happy. We need the money.
 - New client: Thomas and Sylvia Billings. Ask: keep their older daughter (Cheryl, maid of honor) from detonating a wedding weekend.
+- **CRITICAL LOGISTICS:** Eddie steps into kitchen for FaceTime call with Baxter (Doogan can overhear from dining area). Eddie: "They took his earpiece when they booked him—need a replacement ASAP, he's got a job starting in a few hours." Baxter confirms he has a backup unit and will bring it over immediately. This establishes: (1) police confiscated the earpiece during booking, (2) Baxter keeps backups, (3) replacement will be delivered to Doogan's condo.
 
 Button:
-Abby: "And showered wouldn't hurt." Doogan goes to change like it's a mission.
+Eddie drops Doogan at his place. Abby: "And showered wouldn't hurt."
 
 ---
 
-## **4. Restaurant Meeting — "Thomas, Not Tom"**
+## **4. Doogan's Condo — "Back in Place"**
+**Timeline:** Doogan (Rebound Job Setup)
+
+Purpose:
+Give Doogan a moment alone; deliver replacement earpiece; set up future Martinez earpiece confrontation.
+
+**Emotional Notes:**
+- Doogan alone in his staged, empty condo—stage set for a life he's not living
+- Shower = trying to wash away interrogation room
+- Internal realization: someone studied him, set him up perfectly
+
+Beats:
+- Doogan arrives at condo (exactly how he left it Monday evening—immaculate, staged, empty)
+- Shower scene: internal processing, realization someone engineered this frame
+- Sebastian isn't sophisticated enough—someone smarter is involved
+- Baxter arrives with replacement earpiece; sound check confirms it's working
+- Baxter warns: cops will examine the confiscated earpiece, IT won't recognize it
+- Cover story established: "Japanese company, custom hearing assist device"
+- Baxter: "I can create a paper trail if I need to." (Sets up future Martinez confrontation)
+- Baxter leaves; Doogan alone with his thoughts
+- Fitful sleep, dreams of interrogation rooms
+
+Turn:
+Doogan realizes he's not just a suspect—he's a *target*.
+
+Button:
+Tomorrow he works. Tonight, he tries to sleep.
+
+---
+
+## **5. Restaurant Meeting — "Thomas, Not Tom"**
 **Timeline:** Doogan (Rebound Job Setup)
 
 Purpose:
@@ -109,7 +140,7 @@ Saturday morning scavenger hunt at the country club. Terry will meet him there.
 
 ---
 
-## **5. Country Club Kickoff — "Meet Terry. Meet Trouble."**
+## **6. Country Club Kickoff — "Meet Terry. Meet Trouble."**
 **Timeline:** Doogan (Rebound Job — Hunt Begins)
 
 Purpose:
@@ -135,7 +166,7 @@ They jog out—Baxter feeds the location—while Jillian (a bridesmaid) and her 
 
 ---
 
-## **6. Strip Mall Clinic — "Are You on a Stakeout?"**
+## **7. Strip Mall Clinic — "Are You on a Stakeout?"**
 **Timeline:** Investigation (Eddie/Baxter — Clinic Investigation Begins)
 
 Purpose:
@@ -159,7 +190,7 @@ Notes:
 
 ---
 
-## **7. Scavenger Hunt Stop — "The Flower Shop"**
+## **8. Scavenger Hunt Stop — "The Flower Shop"**
 **Timeline:** Doogan (Rebound Job — Hunt Continues)
 
 Purpose:
@@ -194,7 +225,7 @@ They head for the bookstore—Jillian and her boyfriend still tailing.
 
 ---
 
-## **8. Eddie's House — "Not on the Sign Out Front"**
+## **9. Eddie's House — "Not on the Sign Out Front"**
 **Timeline:** Investigation (Eddie/Baxter/Abby — Planning Infiltration)
 
 Purpose:
@@ -218,7 +249,7 @@ Baxter, in an "IT uniform," is an idea everyone agrees to regret later.
 
 ---
 
-## **9. Scavenger Hunt Run — "Bookstore to Speakeasy"**
+## **10. Scavenger Hunt Run — "Bookstore to Speakeasy"**
 **Timeline:** Doogan (Rebound Job — Hunt Accelerates)
 
 Purpose:
@@ -246,7 +277,7 @@ They arrive at a very small taco place with just a couple tables—this can't be
 
 ---
 
-## **10. Clinic Montage — "No. No. Cats."**
+## **11. Clinic Montage — "No. No. Cats."**
 **Timeline:** Investigation (Eddie/Baxter — Infiltration Attempts Fail)
 
 Purpose:
@@ -270,7 +301,7 @@ Eddie: "Okay. Abby goes in."
 
 ---
 
-## **11. The Speakeasy Reveal — "Prohibition Speakeasy"**
+## **12. The Speakeasy Reveal — "Prohibition Speakeasy"**
 **Timeline:** Doogan (Rebound Job — Hunt Turning Point)
 
 Purpose:
@@ -310,7 +341,7 @@ They have the golden ticket; Jillian is still stuck inside with her champagne.
 
 ---
 
-## **12. Clinic Attempt (Success) — "Abby and the Temp"**
+## **13. Clinic Attempt (Success) — "Abby and the Temp"**
 **Timeline:** Investigation (Abby — Gets the Software Name)
 
 Purpose:
@@ -334,7 +365,7 @@ Notes:
 
 ---
 
-## **13. Finish Line — "Quid Agis?"**
+## **14. Finish Line — "Quid Agis?"**
 **Timeline:** Doogan (Rebound Job — Hunt Victory)
 
 Purpose:
@@ -363,7 +394,7 @@ Jillian is furious. Doogan carries a flashy new golf driver. Cheryl, clutching t
 
 ---
 
-## **14. Eddie and Baxter — "Cross a Few Lines"**
+## **15. Eddie and Baxter — "Cross a Few Lines"**
 **Timeline:** Investigation (Eddie/Baxter — Moral Choice)
 
 Purpose:
@@ -389,7 +420,7 @@ Notes:
 
 ---
 
-## **15. Rehearsal Dinner — "The Real Reason"**
+## **16. Rehearsal Dinner — "The Real Reason"**
 **Timeline:** Doogan (Rebound Job — Emotional Reveal)
 
 Purpose:
@@ -407,7 +438,7 @@ Doogan waves to Martinez on his way back to his car. Martinez smiles and waves b
 
 ---
 
-## **16. Martinez Ambush — "Are your friends investigating the clinic?"**
+## **17. Martinez Ambush — "Are your friends investigating the clinic?"**
 **Timeline:** Doogan (Investigation Collision)
 
 Purpose:
@@ -418,7 +449,6 @@ Beats:
 - "Are your friends investigating the clinic?" Martinez asks about Eddie and has pictures of Baxter and Abby going into the clinic.
 - "Are you following us?" Doogan asks. "Yeah, that's how investigations work" Martinez replies.
 - Martinez suggests letting the real cops do the work.
-- Doogan notices Detective Finch isn't there this time and asks where his partner is and Martinez just dismisses the question with "what is it with you and your friends and buddy cop movies."
 - But Martinez does admit to Doogan that things don't add up with Annabelle's murder but that doesn't mean Doogan isn't still the prime suspect.
 
 Button:
@@ -426,7 +456,7 @@ Martinez: "I am going to have more questions for you. Don't leave town."
 
 ---
 
-## **17. Reception — "Toast From Hell (Defused)"**
+## **18. Reception — "Toast From Hell (Defused)"**
 **Timeline:** Doogan (Rebound Job — Success)
 
 Purpose:
@@ -448,7 +478,7 @@ Notes:
 
 ---
 
-## **18. Final Scene — "The File That Vanished"**
+## **19. Final Scene — "The File That Vanished"**
 **Timeline:** Investigation (Baxter/Eddie/Abby — Cliffhanger)
 
 Purpose:
