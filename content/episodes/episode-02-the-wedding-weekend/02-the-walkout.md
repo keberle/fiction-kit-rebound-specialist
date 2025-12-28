@@ -108,6 +108,10 @@ Eddie pulled his car keys from his pocket. "Come on. Abby's making pancakes."
 
 "Not murder charges."
 
-"No," Eddie said. "But they're a start."
+"No," Eddie said. "But they're a start." He unlocked his car. "We'll head to my place first, then I'll take you to get your Cougar. It's still parked near Gelson's, right?"
+
+"Yeah."
+
+"Good. Baxter's got that replacement earpiece situation handled. He'll bring it by your place once you're home."
 
 ---

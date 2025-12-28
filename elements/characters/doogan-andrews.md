@@ -41,17 +41,6 @@ Doogan was once headed somewhere legitimate—college degree in psychology, a se
 
 What's clear: There was a woman. There was betrayal or tragedy or both. And whatever went down left Doogan unable to commit to anything real while simultaneously being exceptional at helping others find connection.
 
-### The Five Rules (Father's Dating Advice)
-When Doogan was fifteen, his father drove him to his first date and gave him five rules. Doogan still follows them:
-
-1. **Get out of the car and go to the door.** Never pull up and honk like an asshole. Be a gentleman.
-2. **Shake her father's hand, look him in the eyes.** He's trusting you with his daughter for the evening—be a stand-up guy and meet the man.
-3. **Your job is to get her home safely.** Doesn't matter how badly the date goes—it's your responsibility to make sure she makes it back to that door.
-4. **You pay for the date.** She put far more effort into getting ready than you did, so the least you can do is pay for the movie. Besides, it's more expensive to be a woman—his father pointed to all the products his mother had in the bathroom.
-5. **Dinner buys you dinner. Nothing more.** The less you expect from women, the more likely you are to be pleasantly surprised. (His father's awkward way of explaining consent.)
-
-Doogan doesn't meet many fathers anymore, but the rules still apply to every date, every job. They're part of who he is. *(Established in Episode 1, Scenes 1 & 4)*
-
 ### The First Job
 One of the few things he kept from that time: a 1970 Mercury Cougar XR-7 convertible he bought in college from an elderly woman whose husband had passed away. The car had been stored in her garage for years, and she sold it to Doogan for almost nothing because he reminded her of her late husband. It's beat to hell—faded dark blue paint, cracked leather, a soft top with more patches than original fabric, and an engine that requires coaxing—but Doogan refuses to replace it. In Southern California weather with the top down, that rumbling disaster of a car somehow adds to his charm. Eddie constantly tells him they make enough money for an upgrade. Abby makes fun of it relentlessly. Doogan just smiles and keeps driving it.
 

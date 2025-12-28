@@ -62,12 +62,6 @@ All timestamps are relative to Doogan's dinner with Claire at the restaurant.
 **09:00:00** — Doogan's morning run
 - Baxter on comms through earpiece (operational use demonstrated)
 - Baxter researching Annabelle Anders (difficult to find online)
-- **Doogan's Five Rules of Dating revealed:** Father's advice from age 15
-  1. Get out of car, go to door (never honk)
-  2. Shake father's hand, look in eyes
-  3. Job is to get her home safely
-  4. You pay for the date
-  5. Dinner buys dinner, nothing more
 - **First job story told:** College VP fraternity hookup, Eddie's "business opportunity," they needed money, it worked flawlessly, Eddie wanted to continue, Doogan said no—but here they are now
 - Baxter poses as cosmetic rep, gets added to Annabelle's Snapchat
 - Annabelle frequents Farmer's Market on Saturday mornings

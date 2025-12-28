@@ -92,24 +92,15 @@ Notes:
 
 ## **4. Morning Run — Baxter in the Ear**
 Purpose:  
-Introduce Baxter, his dynamic with Doogan, and deliver backstory through dialogue. Also: locate Annabelle for the meet-cute. **Demonstrates the earpiece in operational use.** Establishes Doogan's five rules of dating.
+Introduce Baxter, his dynamic with Doogan, and deliver backstory through dialogue. Also: locate Annabelle for the meet-cute. **Demonstrates the earpiece in operational use.** Reveals the origin story of the business through natural conversation.
 
 How it plays:  
 - Doogan's morning run through the neighborhood. **Earpiece active—Baxter on comms (established in Scene 2).**
 - Baxter on comms: enthusiastic, a little starstruck, rapid-fire intel delivery.
 - Baxter is running searches on Annabelle Anders—she's weirdly hard to pin down online.
 - Doogan asks clarifying questions; Baxter bounces between browser tabs and databases.
-- **Baxter**: "Hey, can I ask you something? Last night at the restaurant, Claire mentioned 'the five rules.' What was that about?"
-- **Doogan** tells the story: His father's dating advice from his first date at age 15:
-  1. Get out of the car and go to the door (never honk)
-  2. Shake her father's hand, look him in the eyes
-  3. Your job is to get her home safely
-  4. You pay for the date (she put more effort into getting ready)
-  5. Dinner buys you dinner, nothing more (consent explained awkwardly)
-- Doogan still follows these rules—doesn't meet many fathers anymore, but the principles apply.
-- **Baxter**: "Is that why you and Eddie started the business?"
-- **Doogan** (laughing): "No. That came later. Want to hear about the first job?"
-- Doogan tells the story while running:
+- **Baxter**: "Can I ask you something? How did you and Eddie start doing this?"
+- **Doogan** tells the story while running:
   - College. VP of the fraternity. Secret engagement. Sister sorority hookup.
   - Eddie pitched it as a "business opportunity." Doogan thought he was insane.
   - They needed the money (rent due, Cougar needed transmission). Doogan agreed.
@@ -125,12 +116,11 @@ How it plays:
 - Doogan clocks the intel as he approaches the coffeehouse for the client meet.
 
 This scene tells the audience:  
-**Baxter idolizes Doogan, the business has comedic-cynical origins rooted in college desperation, Doogan follows his father's gentleman rules despite the unethical work, and the team's research methods bend rules.**
+**Baxter idolizes Doogan, the business has comedic-cynical origins rooted in college desperation, and the team's research methods bend rules.**
 
 Notes:  
 - This scene should feel like a Sorkin single-shot dialog sequence from shows like West Wing and Studio 60 but with Doogan running and Baxter talking in his ear instead.
 - Keep Baxter earnest and tech-focused; he's the kid who wants to impress the legend.
-- The five rules establish Doogan's character foundation—he has principles even in morally gray work.
 - The first job story should feel like a fond memory with an edge of "we probably shouldn't have done that."
 - Doogan arrives at the coffeehouse as the scene ends, transitioning smoothly into the client meet.
 

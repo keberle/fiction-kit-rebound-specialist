@@ -85,7 +85,7 @@ Doogan wears a nearly invisible, military-grade covert communications device tha
 - **Context:** Doogan's morning run
 - **Usage:** "Earpiece active—Baxter on comms (established in Scene 2)"
 - **Conversation:** Baxter researching Annabelle, Doogan asks questions while running
-- **Story beat:** Baxter asks about "five rules," Doogan tells first job story
+- **Story beat:** Baxter asks about first job, Doogan tells origin story of business
 - **Intelligence delivery:** Baxter finds farmer's market location, Snapchat intel
 - **Tone:** Enthusiastic tech support, rapid-fire information
 

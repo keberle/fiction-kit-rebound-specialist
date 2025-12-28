@@ -18,45 +18,33 @@ The light changed. He picked up the pace again, feet hitting pavement in steady 
 
 "What else do you have on her?"
 
-"I'm still digging.  Everyone leaves a trail. That's like, the whole point of the internet." A pause. Keyboard clicking. "Hey, can I ask you something?"
+"I'm still digging.  Everyone leaves a trail. That's like, the whole point of the internet." A pause. Keyboard clicking. "Do you always pay for the dates?"
 
-"You're going to anyway."
+Doogan nearly missed his stride. "Where's that coming from?"
 
-"Last night. At the restaurant. Claire said something about 'the five rules.' What was that about?"
+"Abby mentioned it. That you always pick up the check."
 
-Doogan dodged a woman walking a golden retriever. "My father. Driving me to my first date when I was fifteen."
+"Yeah, I do."
 
-"Your father gave you dating rules?"
+"Even when they offer?"
 
-"Yeah, something like that. First one was: get out of the car and go to the door. Never pull up and honk like an asshole." The memory was clear despite the years, his father's hands on the steering wheel, that serious look. "Second: shake her father's hand, look him in the eyes. He's trusting you with his daughter."
+"Especially when they offer." He dodged a woman walking a golden retriever. "Women get self-conscious about it sometimes. I'll joke, distract them. But I always pay."
 
-"Did you actually do that?"
+"So the guy always has to?"
 
-"More often than I would have guessed." Doogan crested a hill, letting gravity carry him down. "Third: you picked her up at the door so its your job to get her safely back to that door, no matter how the date goes."
+"Not about having to. It's about wanting to." Doogan crested a hill. "No expectations. That's the key. You pay because you enjoy their company, not because you think it buys you something."
 
-"Okay, that's actually—"
+"But—"
 
-"Fourth: you pay for the date. My dad said the girl put way more effort into getting ready than I did, so the least I could do was pay for the movie. Plus it's more expensive to be a woman—he pointed to all the stuff my mom had in the bathroom."
+"These women—assistants, yoga instructors, receptionists—they get drawn to wealthy, powerful men who pay for dinner like it's an extension of paying for them. That provider thing women respond to. But when I do it?" He let gravity carry him down. "I'm just grateful for their time. That's the difference."
 
-Baxter laughed. "That's true. My mom's bathroom is like Sephora blew up in there."
+Baxter was quiet for a moment. "Is that how the rebounds have always gone? Like, back to the first one?" A beat. "Wait, what was the first one?"
 
-"And fifth: dinner buys you dinner. Nothing more. The less you expect from women, the more likely you are to be pleasantly surprised."
+"College. Eddie was my fraternity brother. VP of the frat had a problem."
 
-"And you still follow those rules even on jobs?"
+"What kind of problem?"
 
-"Especially on jobs.  You know why we have such a high success rate?"
-
-"Yeah, I've seen your condo."
-
-"No, not at all.  Most of these women, essentially side pieces for wealthy, powerful men are largely taken for granted.  My dad's old school rules, while outdated show interest.  Sometimes that's all it takes."
-
-"Was it those rules that led you to making money being a rebound relationship?  Did you meet Eddie when you were 15 too?"
-
-Doogan laughed. "No. I met Eddie in college and the first rebound was while we were in a fraternity together.  Don't make that face."
-
-"You can't see my face."
-
-"I can hear it." Doogan's breathing stayed steady. "The vice president of our fraternity was some trust fund frat boy type and had a problem. Hooking up with a girl from the sister sorority all semester. But he was secretly engaged to some family friend's daughter back home."
+"The trust fund kind. Hooking up with a girl from the sister sorority all semester. But he was secretly engaged to some family friend's daughter back home."
 
 "Wait, he was cheating on his fiancée?"
 
@@ -68,7 +56,7 @@ Doogan laughed. "No. I met Eddie in college and the first rebound was while we w
 
 "But you did it anyway."
 
-"We were broke, neither of us from the kind of money our fraternity brothers came from.  Eddie saw an opportunity, which is kind of his thing." He pushed forward, picking up speed. "So I found a way to 'accidentally' keep running into her. Coffee shop, library, one study session. Made her forget about trust fund boy."
+"We were broke, neither of us from the kind of money our fraternity brothers came from. Eddie saw an opportunity, which is kind of his thing." He pushed forward, picking up speed. "So I found a way to 'accidentally' keep running into her. Coffee shop, library, one study session. Made her forget about trust fund boy."
 
 "And it worked?"
 
@@ -116,7 +104,7 @@ Doogan slowed to a walk, letting his heart rate settle. Duke's Coffee sat at the
 
 "Don't let it go to your head."
 
-"Too late." A beat. "Hey, thanks for telling me about the five rules. And the first job."
+"Too late." A beat. "Hey, thanks for telling me about the first job. That's actually pretty cool."
 
 "Helped me pass the time during my run."
 

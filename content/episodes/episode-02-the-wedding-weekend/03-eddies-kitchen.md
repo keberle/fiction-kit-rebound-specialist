@@ -144,21 +144,21 @@ Abby caught it. "What?"
 
 Eddie appeared in the kitchen doorway, phone pressed to his ear, gesturing with his free hand in that way he did when he was working through a problem in real-time.
 
-"—so you've got a backup unit, right? I mean you must have a backup, that thing cost a fortune—" He listened. Nodded. "Okay good, yeah, bring it over now if you can, he's gonna need it for this weekend and I don't want him going in without comms—no I know it's early but this is kind of an emergency situation—"
+"—so you've got a backup unit, right? I mean you must have a backup, that thing cost a fortune—" He listened. Nodded. "Okay good, yeah, perfect—no no, don't worry about coming here, I'm taking Doogan to get his car in a bit anyway, it's still parked near Gelson's from Monday night—yeah, the whole murder scene situation—"
 
 Doogan felt something settle in his chest. The earpiece. Of course. The cops took it during booking—catalogued it as an unidentified electronic device, probably, thrown it in an evidence bag with his phone and wallet and keys.
 
 He'd been so focused on getting out, on processing the interrogation, on the lawyer and the money and the immediate crisis, that he hadn't even thought about it.
 
-Eddie was still talking. "—yeah he's fine, well not *fine* fine but he's functional, and he's got a wedding weekend gig starting Friday so we need him wired up—yes I know they're expensive, that's why I'm asking if you've got a spare and not if you can magic one out of thin air—"
+Eddie was still talking. "—yeah he's fine, well not *fine* fine but he's functional, and he's got a wedding weekend gig starting Friday so we need him wired up—so just head over to his place later, he'll be home by then, needs a shower anyway, smells like a police station—yes I know they're expensive, that's why I'm asking if you've got a spare and not if you can magic one out of thin air—"
 
 He paused. Listened. His expression shifted—relief.
 
-"Okay. Perfect. And you need a ride back to your car, right? Still near the Gelson's?—yeah, I'll swing by and get you, we can grab his Cougar on the way and you can drop the earpiece at his place—yeah, the condo—he needs a shower first anyway, he smells like a police station. Which I guess makes sense considering—yeah, okay, see you in twenty."
+"Perfect. Yeah, just bring it by his condo this afternoon. He'll be there." Another pause. "Okay, see you later."
 
 He ended the call. Pocketed the phone.
 
-"Baxter's got a replacement earpiece. I'm going to pick him up—his car's still parked near the grocery store from when this whole mess started—and we'll grab your Cougar on the way. Baxter will drop the earpiece at your place once you're there."
+"Baxter's got a replacement earpiece. He'll bring it by your place this afternoon."
 
 "He had a spare."
 
@@ -182,7 +182,7 @@ Abby smiled. "That's what family's for, Andrews. Pancakes and bail money."
 
 "Close enough."
 
-Eddie grabbed his keys from the counter. "Come on. I'll drop you at your place on the way to get Baxter. Then we grab your car, then Baxter brings you the earpiece. Everybody ends up where they need to be."
+Eddie grabbed his keys from the counter. "Come on. I'll take you to get your car, then you can head home. Baxter will bring the earpiece by later."
 
 Doogan headed for the door. Behind him, he could hear Abby's voice, quieter now.
 

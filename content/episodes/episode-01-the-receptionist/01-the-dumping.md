@@ -146,13 +146,9 @@ Didn't mean it didn't sting.
 
 The waiter returned with the check. Claire reached for it out of politeness, but Doogan was faster.
 
-"I've got this." Doogan said, snagging the check with cat-like precision.
+"I've got this."
 
-"You always do."
-
-"It's one of the—"
-
-"5 rules. Yes. I remember." She watched him sign the receipt. "Doogan?"
+"You always do." She watched him sign the receipt. "Doogan?"
 
 "Yeah?"
 
@@ -160,7 +156,7 @@ The waiter returned with the check. Claire reached for it out of politeness, but
 
 "I know."
 
-"Good." She stood, picking up her jacket. "Because even though it's over, this did matter. You matter. These last few weeks matter."
+"Good." She stood, picking up her jacket. "You weren't just some...I don't know...rebound thing. You matter. These last few weeks matter."
 
 He stood too, folding the pen in with the signed receipt into the leather check folder.
 

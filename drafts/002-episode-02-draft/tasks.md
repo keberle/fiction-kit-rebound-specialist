@@ -708,27 +708,43 @@ All prerequisites completed:
 
 ### Phase 3: QA Pass
 
-- [ ] **T018: QA Pass — Pre-Writing Verification Checklist** — Verify all scenes meet quality standards
+- [X] **T018: QA Pass — Pre-Writing Verification Checklist** — Verify all scenes meet quality standards
   - **Files/Directories Affected:** All scene files in `content/episodes/episode-02-the-wedding-weekend/`, `elements/checklist.md`, `elements/pov.md`, `elements/tone.md`, `voice/style.md`, `voice/format.md`
-  - **Action:** Run full checklist from elements/checklist.md against all 19 scenes
-  - **Acceptance Criteriar earpiece dialogue varied
+  - **Action:** Run full checklist from elements/checklist.md against all 17 scenes
+  - **Acceptance Criteria:**
+  1. POV (third-person close, single anchor per scene)
+  2. McDonald opening rule (dialogue-first, eavesdropper test)
+  3. Character voice consistency
+  4. Secrecy Rule compliance (no red flag words in target dialogue)
+  5. Continuity (no invented details)
+  6. Dialogue dominance (80-90%)
+  7. Tone maintained (fast, witty, satirical)
+  8. Baxter earpiece dialogue varied
   9. Continuity with Episode 1
   10. Serial beats (hook/escalation/cliffhanger)
-- **Acceptance:** All 19 scenes pass checklist
+  - **Acceptance:** All 17 scenes pass checklist
+  - **Result:** COMPLETE — 17/17 scenes pass. One POV violation in Scene 14 corrected. Episode ready for next QA phase.
 
 ---
 
 **T021 — QA Pass: Stephen King Principles**
-- **Action:** Apply Stephen King craft review checklist to all 18 scenes
-  - **Dependencies:** T002-T019
+- **Action:** Apply Stephen King craft review checklist to all 17 scenes
+  - **Dependencies:** T002-T017
 
-- [ ] **T021: QA Pass — Stephen King Principles** — Apply Stephen King craft review checklist
+- [X] **T021: QA Pass — Stephen King Principles** — Apply Stephen King craft review checklist
   - **Files/Directories Affected:** All scene files in `content/episodes/episode-02-the-wedding-weekend/`
-  - **Action:** Apply Stephen King craft review checklist to all 19 scenes
-  - **Acceptance Criteria0-20% be cut at paragraph level?
-  7. Are adverbs necessary?
-  8. Does discovery feel earned?
-- **Acceptance:** All scenes pass Stephen King principles review
+  - **Action:** Apply Stephen King craft review checklist to all 17 scenes
+  - **Acceptance Criteria:**
+    1. Language clarity and honesty (no pretension)
+    2. Strong verbs, minimal adverbs
+    3. Sensory detail grounding scenes
+    4. Emotional truth shown through behavior
+    5. Discovery-driven storytelling
+    6. Dialogue authenticity
+    7. Prose tightness (can 10-20% be cut at paragraph level?)
+    8. Rhythm and musicality
+  - **Acceptance:** All scenes pass Stephen King principles review
+  - **Result:** COMPLETE — All 17 scenes pass. Strong craft discipline demonstrated throughout. Optional polish opportunities noted in scenes 3, 5, 10, 14 (5-10% compression possible without losing impact). Episode demonstrates King principles: honest/direct language, sensory grounding, emotional truth through behavior not interiority, discovery-driven storytelling, authentic dialogue, minimal adverbs, strong verbs. Episode ready for T022 (Ensemble Structure Verification).
 
 ---
 

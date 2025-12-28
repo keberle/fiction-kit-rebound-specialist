@@ -92,11 +92,11 @@ Doogan glanced at her. "You think I'm faking this?"
 
 The Orchid sat on a cliff in Malibu, all glass and white stone, lights reflecting off the water below. Doogan pulled into the parking lot, found a spot near the entrance.
 
-Jillian and her boyfriend were already heading into the restaurant, she paused and looked back long enough to notice us and judge the car.  Apparently the cougar isn't instagram worthy.
+Jillian and her boyfriend were already heading in, she paused and looked back long enough to notice them and judge the car. Apparently the Cougar wasn't Instagram-worthy.
 
-I could feel Cheryl's eyes roll but she shook it off and pulled in close on my elbow, her hands wrapped around my arm like she'd done that a hundred times.  It was nice.
+Cheryl's eyes rolled—Doogan could see it even without looking—but she shook it off and pulled in close, her hands wrapping around his arm like she'd done it a hundred times. Natural. Easy.
 
-"Let's do this thing!" she proclaimed.
+"Let's do this thing." Cheryl said.
 
 Inside, the rehearsal dinner was already underway. Wedding party clustered at a long table near the windows—Thomas and Sylvia at the head, Gabby and Brad beside them, bridesmaids and groomsmen filling the rest. No empty seats.
 

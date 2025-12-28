@@ -4,7 +4,7 @@ Two hours in a holding cell and Doogan had memorized the graffiti.
 
 *Julio ♥ Dominique*—carved into cinder block with what looked like a key or maybe a belt buckle. Nice of Julio to declare that.
 
-The holding cell had no furniture. Just walls and floor and the smell of industrial cleaner—ammonia and bleach—trying to kill something older and worse beneath it. Sweat. Piss. The ghost of a thousand bad decisions.
+The holding cell had no furniture. Just walls and floor and the smell of industrial cleaner—ammonia and bleach—trying to kill something older and worse beneath it. Sweat. Piss. Fear.
 
 His legs burned. Standing welded his knees together, locked the joints until his thighs trembled with the effort of staying upright. He shifted weight. Left foot. Right foot. The concrete floor radiated cold through his soles.
 
@@ -45,8 +45,6 @@ Finch leaned against the wall, arms crossed.
 Finch straightened off the wall. "So you met the dog first."
 
 "Dogs like me."
-
-"That's convenient." Martinez's voice stayed level. Finch snorted approval.
 
 "You want me to lie and say I'm a cat person?"
 
@@ -250,7 +248,7 @@ Doogan blinked. "What?"
 
 Finch pushed off the wall. Moved toward the door. Stopped next to Doogan's chair. Close enough that Doogan could smell coffee and cheap aftershave.
 
-"The guilty ones always have lawyers."
+"Innocent people don't lawyer up before sunrise."
 
 He walked out.
 
