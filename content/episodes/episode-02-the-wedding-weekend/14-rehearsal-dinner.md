@@ -122,7 +122,7 @@ Doogan didn't react. "How long?"
 
 The words hung there. Cheryl kept her voice light, but the edge underneath was sharp.
 
-"Betcha' you won't here that story in a toast tonight." she added quickly. "I'm sure she'd say they met some other way, fell in love. That it was different. And maybe it was. Maybe I'm just—"
+"Bet you won't hear that story in a toast tonight." she added quickly. "I'm sure she'd say they met some other way, fell in love. That it was different. And maybe it was. Maybe I'm just—"
 
 "Hurt," Doogan said.
 

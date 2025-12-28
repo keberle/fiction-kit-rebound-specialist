@@ -112,7 +112,15 @@ A beat of silence. Then: "You're doing it again."
 
 "Still pass."
 
-"Fine. There's a second one, but we should talk about it in person."
+"Fine.  Next up, an actress-"
+
+"Pass.  Hard pass."
+
+"There's real money here, buddy. And this won't be like the last one-"
+
+"Yes it will.  Pass."
+
+"Fine. There's a third one, but we should talk about it in person."
 
 "What's the pitch?"
 
@@ -120,9 +128,9 @@ A beat of silence. Then: "You're doing it again."
 
 Doogan stopped at a red light. The Cougar idled rough, threatening to stall.
 
-"You bribing me with Thai food now?"
+"You bribing me with Thai food now? I just ate dinner."
 
-"Is it working?"
+"I'm bribing you with a late night snack and the company of friends. Is it working?"
 
 The light turned green. He gave the engine gas and it caught, rumbling forward.
 

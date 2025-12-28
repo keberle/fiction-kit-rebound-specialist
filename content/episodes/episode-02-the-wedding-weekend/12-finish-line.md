@@ -6,7 +6,7 @@ Terry's voice carried across the country club parking lot. Doogan and Cheryl rou
 
 An Uber pulled up to the entrance.
 
-Jillian stepped out. Hair perfect. Makeup fresh. Designer athleisure that probably cost more than the Cougar's last repair bill. Boyfriend followed, already scrolling his phone.
+Jillian stepped out. Hair perfect. Makeup fresh. Boyfriend followed, already scrolling his phone.
 
 Cheryl stopped. "No."
 
@@ -34,15 +34,11 @@ Doogan kept pace. "You sure you're done being mad?"
 
 "Fair."
 
-Terry materialized in front of them. Arms spread like he was stopping traffic. "Please tell me you have it."
-
-Cheryl held up the golden ticket.
-
-Terry clutched his chest. "Oh thank God." He turned to the entrance. "Jillian! They're here!"
+Terry materialized in front of them. Arms spread like he was stopping traffic. "Looks like Jillian and her, what his name?-doesn't matter-are first. Cheryl and her hunky date are second. Don't see a third place yet but maybe we won't need one," he said winking at Cheryl.
 
 Jillian appeared in the doorway. Held up her own golden ticket. Smiled like she'd already won.
 
-Cheryl's jaw tightened.
+Cheryl's jaw tightened. "Yeah, by cheating."
 
 "We were at the speakeasy too," Jillian called out. "Got the same clue."
 
@@ -106,7 +102,7 @@ Doogan met his eyes. "Not until the fat lady sings."
 
 Silence.
 
-Terry's face split into a grin. "YES." He picked up the handbag. Handed it to Cheryl. "We have a winner."
+Terry's face split into a grin. "YES!" He picked up the handbag. Handed it to Cheryl. "We have a winner."
 
 The golf driver came next. Into Doogan's hands.
 
@@ -146,7 +142,7 @@ Cheryl adjusted the handbag on her shoulder. "Seven o'clock."
 
 "I heard."
 
-"Malibu's forty minutes from here."
+"I have to run to the rehearsal and then head home to change.  You know, Malibu's forty minutes from here."
 
 "Forty-five with traffic."
 

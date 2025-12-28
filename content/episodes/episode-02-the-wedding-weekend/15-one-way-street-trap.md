@@ -60,9 +60,9 @@ Doogan turned in. Drove halfway down the block until he saw the sedan make the s
 
 "This better work."
 
-"It will. Basic geometry."
+"It will. Basic traffic laws."
 
-Eddie chimed in. "Baxter's geometry. That's what we're betting on."
+Eddie chimed in. "Oh, sure. Frame Doogan for murder but won't drive the wrong way. That's what we're betting on."
 
 "Traffic laws," Baxter corrected. "It's a one-way. They can't—"
 
@@ -110,7 +110,7 @@ Doogan opened the door. Stepped out. "Detective."
 
 Doogan leaned against the Cougar. "Can I help you with something?"
 
-Martinez reached into his jacket. Pulled out a folded piece of paper. Unfolded it. Held it up. Photographs. Four of them. Baxter entering the clinic. Abby at the front desk. Eddie on a bench outside.
+Martinez reached into his jacket. Pulled out a folded piece of paper. Unfolded it. Held it up. Photographs. Eddie on a bench outside the clinic.  Baxter heading out of it, disguised as an IT tech.  Abby and Eddie in their car waiting for him.
 
 "Are your friends investigating the clinic?"
 
@@ -152,7 +152,7 @@ Doogan crossed his arms. "You done?"
 
 The car behind revved their engine. Martinez finally turned. Looked at the driver. Held up a hand. One minute.
 
-Martinez studied him. "You know where I can find you if I have more questions?"
+Martinez studied him. "Where I can find you if I have more questions?"
 
 "Apparently, you can just follow me."
 

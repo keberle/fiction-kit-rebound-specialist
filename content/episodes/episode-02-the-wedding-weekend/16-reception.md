@@ -108,9 +108,9 @@ Doogan stayed polite. Present. Eleanor told stories about teaching Cheryl in thi
 
 "She was...interesting," Doogan said.
 
-"That's what trouble people say." Eleanor smiled. "But you're right. She was brilliant. Still is. Just took her a while to figure out what to do with it."
+"That's what trouble people say." Eleanor smiled. "But you're right. She was brilliant. Still is. Just took her awhile to figure out what to do with it."
 
-The band shifted into something softer. Dancing started near the platform—Gabby and Brad swaying to a song Doogan didn't recognize. Other couples joined. Older relatives. Bridesmaids paired with groomsmen.
+The band shifted into something softer. Gabby and Brad beaming with joy. People shifting from table to table.  The usual gentle rumble of a wedding.
 
 Doogan watched the head table. Cheryl sat between Gabby and another bridesmaid, smiling, laughing at something Brad's best man said. She caught Doogan's eye once. Held his gaze for a beat longer than necessary.
 
@@ -118,7 +118,7 @@ Eleanor noticed. "Like I said. Smitten."
 
 ---
 
-The bridal party table emptied after dinner. Gabby and Brad made the rounds—thanking guests, hugging relatives, posing for more photos. Cheryl stood when they approached Doogan's table, hugged Eleanor, then turned to Doogan.
+The bridal party table emptied after dinner. Gabby and Brad made the rounds—thanking guests, hugging relatives, posing for more photos. Cheryl eventually made her way to Doogan's table, hugged Eleanor, then turned to Doogan.
 
 "Still here?"
 

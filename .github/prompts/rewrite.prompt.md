@@ -24,6 +24,12 @@ Rewriting a scene involves more than just changing the prose—it requires:
 - What NEW details are being added? (physical descriptions, possessions, locations, backstory)
 - What details are being CHANGED? (contradictions to fix, upgrades to existing info)
 
+**CRITICAL: Read subsequent scenes BEFORE rewriting:**
+- Read the scene that follows this one
+- Check for forward references (character actions, decisions, knowledge)
+- Verify scene ending doesn't contradict what comes next
+- Example: If character says "I'll do X" but next scene shows they did Y, fix the statement
+
 ### Step 2 — Invoke Character-Management Skill
 
 **BEFORE rewriting, use the character-management skill:**
@@ -76,11 +82,12 @@ Rewriting a scene involves more than just changing the prose—it requires:
 2. ✅ Load ALL voice documents (style, format, pov, tone, checklist)
 3. ✅ Read ALL previous episodes (if Episode 2+)
 4. ✅ Read ALL previous scenes in THIS episode (if Scene 2+)
-5. ✅ Create continuity notes (established facts, character knowledge, secrets)
-6. ✅ **Build timeline from prior scenes** (track time markers, calculate elapsed time to THIS scene)
-7. ✅ Identify what's changing in the rewrite
-8. ✅ **OUTPUT CONTEXT VERIFICATION LOG** (see format in implement.prompt.md)
-9. ✅ Pass complete context to scene-writing skill
+5. ✅ **Read the NEXT scene** (verify no forward-reference contradictions)
+6. ✅ Create continuity notes (established facts, character knowledge, secrets)
+7. ✅ **Build timeline from prior scenes** (track time markers, calculate elapsed time to THIS scene)
+8. ✅ Identify what's changing in the rewrite
+9. ✅ **OUTPUT CONTEXT VERIFICATION LOG** (see format in implement.prompt.md)
+10. ✅ Pass complete context to scene-writing skill
 
 **The scene-writing skill will handle:**
 - McDonald opening validation

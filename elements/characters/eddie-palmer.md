@@ -23,6 +23,16 @@ Eddie thoroughly vets all potential jobs before presenting them to Doogan. He un
 - **Age Appropriateness:** Well over 18, not senior citizens
 - **Non-Negotiable Lines:** Eddie would never pitch a job outside these boundaries—they're fundamental to the business model and Doogan's capabilities
 
+**CRITICAL: Operational Security & Discretion (NON-NEGOTIABLE)**
+Eddie would NEVER reveal client relationships or the business model to law enforcement, investigators, or anyone outside the core team (Doogan/Abby/Baxter). Their operation is potentially illegal and survives only through strict discretion:
+- **To police/detectives:** Eddie ONLY admits to "helping my friend who's accused of murder"—never mentions being hired, having clients, or running an investigation service
+- **To strangers:** Covers with legitimate business (talent management, sports agent)
+- **Client confidentiality:** Would never name clients or reveal who hired them, even under pressure
+- **Cover stories:** Always maintains plausible deniability—"looking into things for my friend" vs "conducting paid investigation"
+- **Deflection skills:** Uses motor-mouth rambling to redirect conversations away from revealing details
+
+**Why this matters:** One slip to the wrong person could expose their entire operation, lead to criminal charges, destroy their business, and implicate Doogan. Eddie built this business on discretion—he would NEVER compromise it, even when caught in awkward situations.
+
 Despite running what amounts to an emotional manipulation service, Eddie genuinely cares about Doogan and Abby. They're his real family. The business is just how he takes care of them.
 
 ---

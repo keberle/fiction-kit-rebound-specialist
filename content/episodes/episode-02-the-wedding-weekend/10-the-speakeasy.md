@@ -74,19 +74,13 @@ She almost smiled. "You're enjoying this."
 
 "Family? Friends?"
 
-"Work, mostly."
+"Both. You?"
 
-She tilted her head. "What kind of work involves weddings?"
+She tilted her head. "Too many and for all the wrong reasons."
 
-"Consultant."
+"But you get to do fun things like this."
 
-"That's vague."
-
-"It's supposed to be." He leaned back. "You're good at this. The clues. Competitive."
-
-"I have help."
-
-"Shakespeare. Pride and Prejudice. You knew those right away."
+"This isn't my first one of these but the first one where you needed a literature degree to solve it. Shakespeare. Pride and Prejudice. You knew those right away. How did that-"
 
 "I read."
 
@@ -136,7 +130,7 @@ He walked toward the back. Found a corner near the restrooms. Tapped his ear.
 
 "I've got an idea. To Kill a Mockingbird—Atticus Finch doesn't drink. Scout mentions he never touches alcohol."
 
-Background noise—Eddie's voice, muffled.
+Background noise—Eddie's voice, muffled. "Are we doing this or not?"
 
 "Where are you?" Doogan kept his voice low.
 
@@ -210,9 +204,9 @@ She stood. Grabbed the golden ticket. Stared at it. Then at him. "You know what 
 
 "What?"
 
-"I'm actually starting to enjoy this." She headed for the stairs. "The hunt. The clues. The running around." She paused. "You."
+"I'm actually starting to enjoy this." She headed for the stairs.
 
-He followed. "That's supposed to be a bad thing?"
+He followed. "That doesn't have to be bad."
 
 "It's supposed to be a wedding weekend where I grit my teeth and survive. Not..." She waved the golden ticket. "Not this."
 

@@ -34,7 +34,7 @@ Cheryl sighed. "Fine.  But keep up."
 
 A few nervous laughs.
 
-"The hunt is literature-themed. You'll get clues that lead to locations within walking distance of the club. Each location has an envelope with your next clue. First team back with the golden ticket and the right answer to the challeng, wins. Questions?"
+"The hunt is literature-themed. You'll get clues that lead to locations within walking distance of the club. Each location has an envelope with your next clue. First team back with the golden ticket and the right answer to the challenge, wins. Questions?"
 
 A groomsman raised his hand. "What if we get lost?"
 
@@ -62,9 +62,7 @@ Doogan kept his expression neutral. "It's Shakespeare."
 
 Around them, other teams were already moving. Some jogging toward the parking lot. Others huddled over phones, googling frantically. A bridesmaid named Jillian stood near the table with her boyfriend, both staring at their phones.
 
-Doogan tapped his ear once. "On second thought, I'm going to need help with this."
-
-Cheryl frowned. "What?"
+Cheryl frowned. "And...?"
 
 Baxter's voice came through fast: "The sonnet mentions roses. 'I have seen roses damasked, red and white.' There's a flower shop called The Rose Shop two blocks south of the club."
 
@@ -116,9 +114,7 @@ Doogan filed that away. Not just competitive. Proving something.
 
 "You have no idea."
 
-Her tone said everything. This wasn't about a handbag. This was about something else. Someone else.
-
-The sister getting married. The younger sister.
+Her tone said everything. This felt like it had nothing to do with a handbag.
 
 He kept pace. His legs burned—she was faster than he expected, athletic. The work was familiar, though. Keep someone engaged. Keep someone focused. Keep someone from detonating.
 

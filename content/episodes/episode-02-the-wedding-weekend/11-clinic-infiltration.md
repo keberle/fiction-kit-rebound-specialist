@@ -52,11 +52,13 @@ Baxter's voice. Quiet but steady. "Hi, yeah, I'm here from MedTech Solutions. Ro
 
 "No worries. I just need to access one of the terminals. Run diagnostics, make sure everything's up to date. You don't have to do anything."
 
-A pause. Eddie held his breath.
+A pause. Baxter held his breath.
 
 "Okay, yeah, sure. The back office is through there. Nobody's using it right now."
 
-Footsteps. A door opening.
+---
+
+A door opening enough to see to the front desk.  No Baxter.
 
 Abby looked at Eddie. "See?"
 
@@ -66,7 +68,7 @@ Abby looked at Eddie. "See?"
 
 Footsteps. A chair scraped. Keyboard sounds.
 
-Baxter's voice, quieter. "I'm at a terminal. Looking at—okay, yeah, they're running MediPro 8.2. Older version but—"
+Baxter's voice came over Abby's phone, quieter. "I'm at a terminal. Looking at—okay, yeah, they're running MediPro 8.2. Older version but—"
 
 "Don't narrate," Abby said into her phone. "Just get what you need."
 
@@ -90,15 +92,19 @@ Eddie grabbed the door handle. Abby shook her head.
 
 "I'm going, I'm sorry, I thought—"
 
-Footsteps—fast, retreating.
+"Whatever.  Just hurry up, you're in my way."
 
-The clinic door opened. Baxter emerged. Walking quickly but not running. Head down. Clipboard clutched like a shield.
+"Just a few more moments" he murmurred.
+
+Eddie and Abby both breathed a sigh of relief.
+
+A few minutes later, clinic door opened. Baxter emerged. Walking quickly but not running. Head down. Clipboard clutched like a shield.
 
 He crossed the parking lot. Got to the car. Eddie opened the back door and Baxter fell inside.
 
 "Drive."
 
-Abby pulled out of the spot. Like they were leaving a grocery store.
+Abby pulled away.
 
 "You okay?" Eddie twisted around.
 
@@ -106,7 +112,7 @@ Baxter was pale, breathing hard. "I got what we need."
 
 "Who was that?"
 
-"A nurse. Nancy, her badge said. She—she just didn't like me being there. Didn't trust it."
+"A nurse. Nancy, her badge said. She—she just didn't like me being there."
 
 "But you got the software info?"
 
@@ -118,11 +124,9 @@ Eddie turned back to Baxter. "You did good, kid."
 
 "I thought she was going to call the cops."
 
-"She didn't."
+"She didn't," Abby reminded him.
 
-"She wanted to. I could see it. She was deciding whether I was worth the paperwork."
-
-"But you stayed in character. You got out clean." Eddie grinned. "First field op. Not bad."
+"And you stayed in character. You got out clean." Eddie grinned. "First field op. Not bad."
 
 Baxter leaned his head back against the seat. "I never want to do that again."
 

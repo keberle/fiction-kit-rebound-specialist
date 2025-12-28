@@ -18,7 +18,7 @@ She sat next to her husband—perfectly styled blonde hair, tailored dress. Jewe
 
 Eddie paused. Recalibrated. "Well, that depends on the scope—"
 
-"Scope is the weekend. Friday morning through Sunday brunch. Keep our daughter from making a scene." Thomas folded his hands on the table. "How much?"
+"Scope is the weekend. Friday morning through the reception Saturday night. Keep our daughter from making a scene." Thomas folded his hands on the table. "How much?"
 
 Doogan watched them both. Thomas had the posture of someone who'd bought a lot of things in his life and knew exactly what they cost. Sylvia had the expression of someone who'd watched him negotiate those purchases and learned his patterns.
 
@@ -90,7 +90,7 @@ Doogan chuckled, knowing Eddie's assistant was his wife and imagining her reacti
 
 Thomas stood. Sylvia followed. They moved with the practiced efficiency of people who'd conducted a lot of transactions at restaurants.
 
-"One more thing," Thomas said, pausing before leaving. "The scavenger hunt is important to Sylvia. It's her contribution to the weekend. Make sure Cheryl takes it seriously."
+"One more thing," Thomas said, pausing before leaving. "The scavenger hunt is important to Sylvia. Make sure Cheryl takes it seriously."
 
 "I will."
 
@@ -100,38 +100,12 @@ They left.
 
 Eddie waited until they were out of earshot before leaning forward. "So that was... interesting."
 
-"They're not telling us everything.  Which means I'm walking into this blind."
-
-"You're over thinking this because of what just happened.  You've walked into worse." Eddie's tone was confident. Reassuring. The same tone he used when pitching clients on jobs that sounded impossible. "Besides, you've got me and Baxter in your ear the whole time. Cheryl tries anything unexpected, we pivot."
-
-"Yeah, you really do. You've got—" Eddie checked his phone. "—a couple days before the job starts. Go home. I'll call you Thursday with the full brief."
-
-"What are you doing?"
+"They were, the job feels pretty standard for us.  Where are you heading?"
 
 "Meeting Abby and Baxter. We're digging into Annabelle's employment history. Baxter thinks he's found something."
 
 "What kind of something?"
 
 "The kind we discuss later." Eddie stood. Dropped cash on the table for their drinks and snapping a picture of the bill so Abby can add it to the expense reimbursement. "Go home, Doogan. We've got this."
-
-Doogan stood.
-
-"Thanks," he said.
-
-Eddie clapped him on the shoulder. "That's what partners do. Now go."
-
-Doogan headed for the exit. Behind him, he could hear Eddie's phone buzzing. Abby, probably. Or Baxter. The investigation moving forward.
-
-Outside, the evening air was erlaxing. He fumbled for his keys. Found them.
-
-The Cougar was parked two blocks away.
-
-Friday morning. Country club. Scavenger hunt. Then that evening: rehearsal dinner. Saturday: wedding ceremony and reception. Keep the maid of honor happy. Don't let her make a scene. Get paid.
-
-Simple.
-
-Except the Billings' description of Cheryl did not make her sound simple.
-
-But that was Friday's problem.
 
 ---

@@ -2,7 +2,7 @@
 
 Two hours in a holding cell and Doogan had memorized the graffiti.
 
-*Julio ♥ Dominique*—carved into cinder block with what looked like a key or maybe a belt buckle. Nice of Julio to declare that.
+*Julio (heart) Dominique*—carved into cinder block with what looked like a key or maybe a belt buckle. Nice of Julio to declare that.
 
 The holding cell had no furniture. Just walls and floor and the smell of industrial cleaner—ammonia and bleach—trying to kill something older and worse beneath it. Sweat. Piss. Fear.
 
@@ -45,8 +45,6 @@ Finch leaned against the wall, arms crossed.
 Finch straightened off the wall. "So you met the dog first."
 
 "Dogs like me."
-
-"You want me to lie and say I'm a cat person?"
 
 Martinez flipped a page. "What'd you talk about?"
 
@@ -108,7 +106,7 @@ Martinez cut in before Finch could build momentum. "The dinner. What'd you drink
 
 "Remember the label?"
 
-Doogan tried to pull it up. Exhaustion made his memory fuzzy—edges blurred, details swimming out of focus. "Woodmark something. Custom label. She said a client gave it to her."
+Doogan tried to pull it up. Exhaustion made his memory fuzzy—edges blurred, details swimming out of focus. "Woodmark something. Custom label. She said a client or a rep gave it to her."
 
 Martinez and Finch exchanged a look. Brief. Loaded.
 

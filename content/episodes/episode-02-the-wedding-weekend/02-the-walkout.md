@@ -2,7 +2,9 @@
 
 "Told you he'd lawyer up, I said it the second we walked in, guy like that doesn't sit in a holding cell without making a call." Finch said as Martinez was already walking away, down the hall.
 
-Eddie was mid-sentence when Doogan stepped into the hallway. His best friend stood next to a man in a suit that looked like it came from a going-out-of-business sale circa 2003. The man had the posture of someone who billed by the quarter hour and wanted you to know it.
+"Wouldn't you?  Wouldn't I?  Wouldn't all of us in that situation?" Martinez said as his voice trailed off down the hallway.
+
+Eddie was mid-sentence when Doogan stepped into the hallway. His best friend stood next to a man in a suit that looked like it came from a going-out-of-business sale circa 2003.
 
 "Doogan Andrews." The man extended his hand like he was serving a subpoena. "Hank Stillman. I'm your attorney."
 
@@ -107,11 +109,5 @@ Eddie pulled his car keys from his pocket. "Come on. Abby's making pancakes."
 "She's been up since three. Figured she'd do something productive." Eddie started walking toward the parking lot. "Besides, pancakes fix most things."
 
 "Not murder charges."
-
-"No," Eddie said. "But they're a start." He unlocked his car. "We'll head to my place first, then I'll take you to get your Cougar. It's still parked near Gelson's, right?"
-
-"Yeah."
-
-"Good. Baxter's got that replacement earpiece situation handled. He'll bring it by your place once you're home."
 
 ---

@@ -14,13 +14,7 @@ The wine. The blackout. The timing.
 
 Someone had studied him. Learned his patterns. Set him up perfectly.
 
-Sebastian was the obvious answer. But Sebastian didn't have the sophistication for this. Sebastian was a trust-fund kid playing games with other people's lives. He wasn't a strategist.
-
-Which meant someone else was involved.
-
-Someone smarter.
-
-Someone patient.
+Sebastian was the obvious answer. But did Sebastian have the sophistication for this? He seemed too detached. Didn't even know basic details about Annabelle.  Didn't seem like the ingredients for a grudge killing, even if it included a framing.  It didn't make sense.
 
 Doogan turned off the water. Dried off. Got dressed in clean clothes that didn't smell like a police station.
 

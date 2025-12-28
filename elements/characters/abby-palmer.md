@@ -7,7 +7,6 @@
 - "Abby" to everyone except telemarketers and her mother
 - Eddie calls her "babe" or "Abs" (she rolls her eyes at both)
 - Calls Eddie "Palmer" when he's crossed a line
-- Calls Doogan "Andrews" when she's annoyed with him
 - Daphne calls her "Abs" (only person allowed to besides Eddie)
 
 ---
@@ -144,7 +143,7 @@ With Eddie, the banter is constant—they finish each other's sentences, interru
 
 **Eddie Palmer** – Her husband, her eternal project, the love of her life. They have a combustible, passionate marriage built on constant banter, genuine respect, and physical chemistry. She makes fun of everything about him—his clothes, his networking obsession, his optimism—but she's also desperately in love with him and knows he'd do anything for her. She's slightly afraid of becoming her mother, and Eddie's refusal to be conventional is part of why she married him. Their fights are loud and their reconciliations are passionate. She calls him "Palmer" when she's mad, "babe" when she's soft, and "you absolute idiot" when he's being himself.
 
-**Doogan Andrews** – Her husband's best friend, her friend, her brother-by-choice. She sees through Doogan's brooding artist routine and calls him on his self-sabotage. She knows he's running from something and wishes he'd trust her enough to tell her what. She worries about him more than she lets on—about the toll the work takes, about his inability to connect to anyone real, about the darkness he carries. She uses "Andrews" as a term of both affection and exasperation. When Doogan's falling apart, Abby's the one who shows up with food and forces him to talk.
+**Doogan Andrews** – Her husband's best friend, her friend, her brother-by-choice. She sees through Doogan's brooding artist routine and calls him on his self-sabotage. She knows he's running from something and wishes he'd trust her enough to tell her what. She worries about him more than she lets on—about the toll the work takes, about his inability to connect to anyone real, about the darkness he carries. When Doogan's falling apart, Abby's the one who shows up with food and forces him to talk.
 
 **Daphne** – Her best friend, her partner in wine and gossip, the person she can be completely herself with. They met at a charity function, bonded over shared frustration with pretentious people, and became inseparable. What Abby suspects but doesn't know for certain: Daphne was Patient Zero, the first rebound job that proved the concept. It's the unsaid thing between them, the suspicion Abby can't quite confirm. She watches Daphne and Doogan interact and knows something happened, but Daphne never talks about the guy who "helped her move on" from her ex, and the timeline is too convenient. Someday Abby will ask directly. But not yet.
 

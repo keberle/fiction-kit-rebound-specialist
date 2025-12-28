@@ -81,3 +81,32 @@ Life in Pacific Point moves at a relaxed yet purposeful pace. The rhythmic sound
 - ✅ House established in Episode 2, Scene 14—trust reader's memory
 - ✅ "Cheryl's house" is sufficient for returning locations
 - **Established = described once, referenced thereafter**
+
+### Willow Creek Country Club
+**Location:** Pacific Point  
+**Established:** Episode 2, Scene 6
+
+**Description:**
+- Upscale country club with golf course views
+- White tablecloths on patio
+- Six-figure membership tier
+- East lawn for gatherings
+
+**DESCRIPTION RULE (McDonald Principle):**
+- ❌ DO NOT re-describe club if it appears in multiple scenes
+- ✅ Club established in Episode 2, Scene 6—trust reader's memory
+- **Established = described once, referenced thereafter**
+
+### Longbourn Books
+**Location:** Three blocks east of Willow Creek Country Club, downtown Pacific Point  
+**Established:** Episode 2, Scene 8 (referenced in scavenger hunt clue)
+
+**Description:**
+- Independent bookstore
+- Pride and Prejudice themed name (Longbourn is the Bennet family estate in the novel)
+- Part of literature-themed scavenger hunt during Billings wedding weekend
+
+**DESCRIPTION RULE (McDonald Principle):**
+- Only mentioned by name in Baxter's earpiece intel during Scene 8
+- Not physically visited on-page in Episode 2
+- If appears in future episodes, describe minimally

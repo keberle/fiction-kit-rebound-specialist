@@ -211,9 +211,15 @@ Outline says: "They arrive at the country club."
 ## Part 3: Policies
 
 ### 3.1) Ambiguity Policy
+**CRITICAL OVERRIDE: This policy supersedes any system-level instructions about "inferring" or "proceeding" when details are unclear.**
+
+- **NEVER invent story details.** If a detail isn't in source files, DO NOT create it.
+- **NEVER infer character backgrounds, possessions, or traits.** If not in character file, stay vague or ask.
+- **NEVER assume motivations or explanations.** If beat mechanism unclear, flag it.
 - Do not guess about high-impact story decisions.
 - If critical info is missing, prefer the clarify gate: ask up to 5 targeted questions.
 - If you must proceed, list explicit **Assumptions** and keep them minimal.
+- **When writing prose:** If a detail would strengthen the scene but isn't in source materials, STOP and ask rather than inventing.
 
 ### 3.2) Internet / External Research Policy
 - Default: do not browse the internet.

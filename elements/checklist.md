@@ -42,14 +42,18 @@ Quick reference checklist for scenes, voice, and formatting.
 **Before marking any scene complete, scan for these RED FLAG WORDS in target dialogue:**
 - "paid" / "pay" / "paying"
 - "hired" / "hire" / "hiring"
-- "job" (in context of Doogan's work)
+- "job" (in ANY context when target addresses Doogan - even "good at your job" or "if you were really good at your job")
 - "babysit" / "babysitting"
 - "service" (in context of what Doogan provides)
-- "work" (in context of "your work" to target)
+- "work" (in context of "your work" addressed to Doogan)
 - "money" (in context of payment to Doogan)
 - "charge" / "cost" (in context of Doogan's services)
+- "professional" (in context of Doogan's interpersonal skills with target)
 
-**If ANY of these words appear in target dialogue, the scene has a Secrecy Rule violation and must be rewritten.**
+**CRITICAL: "Your job" is NEVER acceptable in target dialogue, even as casual banter.**
+Even phrases like "if you were good at your job" or "you're professional at this" imply the target knows Doogan has a job doing this specific thing, which breaks the cover story completely.
+
+**If ANY of these words/phrases appear in target dialogue about Doogan, the scene has a Secrecy Rule violation and must be rewritten.**
 
 ### Core Rule
 This is the foundational rule of Doogan's business and a hard constraint across all episodes:
@@ -105,6 +109,7 @@ If a target EVER learns the truth, it's a story-breaking event that ends the job
 - **New Speaker:** New paragraph for each speaker.
 - **Tag Tone:** Prefer neutral tags (`said`). Reserve vivid verbs for visible actions in beats, not tags.
 - **Secrecy Rule (CRITICAL):** Targets must NEVER be aware they were hired or part of a paid rebound operation. No dialogue should reference payment, hiring, jobs, babysitting, or professional services in relation to Doogan's presence. See "The Secrecy Rule" section above for examples.
+- **Operational Security Rule (CRITICAL — NEW):** Team members (Eddie/Doogan/Abby/Baxter) must NEVER reveal client relationships, business model, or paid investigation details to law enforcement, detectives, or outsiders. Cover story for cops: "helping my friend who's accused of murder"—NEVER "we were hired" or "our client said." See Eddie Palmer character file → Operational Security section for full rules.
 
 ## Research/Investigation Scene Rules (CRITICAL FOR MYSTERY PLOTS)
 - **No Invented Research Results:** When characters research other characters, results MUST come from element files

@@ -12,7 +12,7 @@ Doogan had known it was coming. Had felt it all week. The words still hit.
 
 "I don't know. Maybe one question."
 
-"Alright." He leaned back. "Have you looked at the dessert menu, its supposed to be amazing?"
+"Alright." He leaned back. "Have you looked at the dessert menu? Its supposed to be amazing."
 
 Her laugh came quick and genuine.
 

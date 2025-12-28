@@ -12,11 +12,11 @@ The kitchen smelled like peanut sauce and lemongrass. Thai takeout containers li
 
 "The Cougar is a rolling health code violation." She slid onto a barstool at the island, her silk blouse catching the overhead light. The granite counter was cool under her hands. "But I'm sure it has a lovely personality."
 
-Eddie shoved a plate toward Doogan. Noodles spilled over the edge. Eddie shoved a plate toward Doogan. Noodles spilled over the edge. "Okay, so, the new job—Sebastian LeClere. CEO, medical billing company. He's got a situation with his receptionist."
+Eddie shoved a plate toward Doogan. Noodles spilled over the edge. "Okay, so, the new job—Sebastian LeClere. CEO, medical billing company. He's got a situation with his receptionist."
 
 "What kind of situation?"
 
-"The romantic kind. They had a thing, now she's pulling away, he wants it handled cleanly." Eddie grabbed a spring roll, bit into it. "Her name's Annabelle Anders. Late twenties. He says she's gotten distant, won't talk to him, whole thing's become awkward at the office."
+"The romantic kind. They had a thing, now he needs to focus on work, he wants it handled cleanly." Eddie grabbed a spring roll, bit into it. "Her name's Annabelle Anders. Late twenties. He says she's gotten distant, won't talk to him, whole thing's become awkward at the office."
 
 "Is he married?"
 
@@ -42,7 +42,7 @@ She burst out laughing.
 
 Doogan looked at her. "What?"
 
-"Nothing." She was still grinning. "I just find it fascinating that every time you get a sketchy client with a weird request, the meeting happens at some random coffee shop in the middle of nowhere." She started counting on her fingers. "Duke's. That place in Silver Lake with all the goat paintings. The tea house that was definitely money laundering."
+"Nothing." She was still grinning. "I just find it fascinating that every time you get a sketchy client with a weird request, the meeting happens at some random coffee shop in the middle of nowhere." She started counting on her fingers. "Duke's. That place on Silver Lake with the cheeky imitation Hawaiian art?"
 
 "Duke's has good scones."
 
@@ -60,7 +60,7 @@ Doogan looked at her. "What?"
 
 Abby's eyebrow went up. "That's where the roof money came from?"
 
-"Well, its not like I could pull it from the designer handbag budget." Eddie said, firing a shot back at Abby.  "The point is—" Eddie barreled forward, "—Doogan's just take the meeting. Sit down with Sebastian. Let him talk. Either he's what he says he is, or he's not, and either way, you'll know in five minutes." He grabbed a spring roll and took a bite. "That's all I'm asking. One meeting."
+"Well, its not like I could pull it from the designer handbag budget." Eddie said, firing a shot back at Abby.  "The point is—" Eddie barreled forward, "—Doogan, just take the meeting. Sit down with Sebastian. Let him talk. Either he's what he says he is, or he's not, and either way, you'll know in five minutes." He grabbed a spring roll and took a bite. "That's all I'm asking. One meeting."
 
 Eddie wasn't wrong. Doogan wouldn't know until he sat across from Sebastian LeClere.
 

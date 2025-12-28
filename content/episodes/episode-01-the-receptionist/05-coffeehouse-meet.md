@@ -66,7 +66,7 @@ Eddie jumped in. "What Doogan's getting at is, we need to know the situation to 
 
 The coffee was good. Something about Sebastian didn't fit—the polished surface with nothing underneath, like an expensive suit on a mannequin.
 
-Doogan stood. "I need to go. Farmer's market opens at nine, and I've got a meet-cute to make happen."
+Doogan stood. "I need to go. She'll be at the Farmer's market soon, and I've got a meet-cute to make happen."
 
 "Wait, we haven't—"
 

@@ -12,7 +12,7 @@ Doogan had known it was coming. Had felt it all week. The words still hit.
 
 "I don't know. Maybe one question."
 
-"Alright." He leaned back. "Have you looked at the dessert menu, its supposed to be amazing?"
+"Alright." He leaned back. "Have you looked at the dessert menu? Its supposed to be amazing."
 
 Her laugh came quick and genuine.
 
@@ -146,13 +146,9 @@ Didn't mean it didn't sting.
 
 The waiter returned with the check. Claire reached for it out of politeness, but Doogan was faster.
 
-"I've got this." Doogan said, snagging the check with cat-like precision.
+"I've got this."
 
-"You always do."
-
-"It's one of the—"
-
-"5 rules. Yes. I remember." She watched him sign the receipt. "Doogan?"
+"You always do." She watched him sign the receipt. "Doogan?"
 
 "Yeah?"
 
@@ -160,7 +156,7 @@ The waiter returned with the check. Claire reached for it out of politeness, but
 
 "I know."
 
-"Good." She stood, picking up her jacket. "Because even though it's over, this did matter. You matter. These last few weeks matter."
+"Good." She stood, picking up her jacket. "You weren't just some...I don't know...rebound thing. You matter. These last few weeks matter."
 
 He stood too, folding the pen in with the signed receipt into the leather check folder.
 
@@ -285,7 +281,15 @@ A beat of silence. Then: "You're doing it again."
 
 "Still pass."
 
-"Fine. There's a second one, but we should talk about it in person."
+"Fine.  Next up, an actress-"
+
+"Pass.  Hard pass."
+
+"There's real money here, buddy. And this won't be like the last one-"
+
+"Yes it will.  Pass."
+
+"Fine. There's a third one, but we should talk about it in person."
 
 "What's the pitch?"
 
@@ -293,9 +297,9 @@ A beat of silence. Then: "You're doing it again."
 
 Doogan stopped at a red light. The Cougar idled rough, threatening to stall.
 
-"You bribing me with Thai food now?"
+"You bribing me with Thai food now? I just ate dinner."
 
-"Is it working?"
+"I'm bribing you with a late night snack and the company of friends. Is it working?"
 
 The light turned green. He gave the engine gas and it caught, rumbling forward.
 
@@ -326,11 +330,11 @@ The kitchen smelled like peanut sauce and lemongrass. Thai takeout containers li
 
 "The Cougar is a rolling health code violation." She slid onto a barstool at the island, her silk blouse catching the overhead light. The granite counter was cool under her hands. "But I'm sure it has a lovely personality."
 
-Eddie shoved a plate toward Doogan. Noodles spilled over the edge. Eddie shoved a plate toward Doogan. Noodles spilled over the edge. "Okay, so, the new job—Sebastian LeClere. CEO, medical billing company. He's got a situation with his receptionist."
+Eddie shoved a plate toward Doogan. Noodles spilled over the edge. "Okay, so, the new job—Sebastian LeClere. CEO, medical billing company. He's got a situation with his receptionist."
 
 "What kind of situation?"
 
-"The romantic kind. They had a thing, now she's pulling away, he wants it handled cleanly." Eddie grabbed a spring roll, bit into it. "Her name's Annabelle Anders. Late twenties. He says she's gotten distant, won't talk to him, whole thing's become awkward at the office."
+"The romantic kind. They had a thing, now he needs to focus on work, he wants it handled cleanly." Eddie grabbed a spring roll, bit into it. "Her name's Annabelle Anders. Late twenties. He says she's gotten distant, won't talk to him, whole thing's become awkward at the office."
 
 "Is he married?"
 
@@ -356,7 +360,7 @@ She burst out laughing.
 
 Doogan looked at her. "What?"
 
-"Nothing." She was still grinning. "I just find it fascinating that every time you get a sketchy client with a weird request, the meeting happens at some random coffee shop in the middle of nowhere." She started counting on her fingers. "Duke's. That place in Silver Lake with all the goat paintings. The tea house that was definitely money laundering."
+"Nothing." She was still grinning. "I just find it fascinating that every time you get a sketchy client with a weird request, the meeting happens at some random coffee shop in the middle of nowhere." She started counting on her fingers. "Duke's. That place on Silver Lake with the cheeky imitation Hawaiian art?"
 
 "Duke's has good scones."
 
@@ -374,7 +378,7 @@ Doogan looked at her. "What?"
 
 Abby's eyebrow went up. "That's where the roof money came from?"
 
-"Well, its not like I could pull it from the designer handbag budget." Eddie said, firing a shot back at Abby.  "The point is—" Eddie barreled forward, "—Doogan's just take the meeting. Sit down with Sebastian. Let him talk. Either he's what he says he is, or he's not, and either way, you'll know in five minutes." He grabbed a spring roll and took a bite. "That's all I'm asking. One meeting."
+"Well, its not like I could pull it from the designer handbag budget." Eddie said, firing a shot back at Abby.  "The point is—" Eddie barreled forward, "—Doogan, just take the meeting. Sit down with Sebastian. Let him talk. Either he's what he says he is, or he's not, and either way, you'll know in five minutes." He grabbed a spring roll and took a bite. "That's all I'm asking. One meeting."
 
 Eddie wasn't wrong. Doogan wouldn't know until he sat across from Sebastian LeClere.
 
@@ -415,45 +419,33 @@ The light changed. He picked up the pace again, feet hitting pavement in steady 
 
 "What else do you have on her?"
 
-"I'm still digging.  Everyone leaves a trail. That's like, the whole point of the internet." A pause. Keyboard clicking. "Hey, can I ask you something?"
+"I'm still digging.  Everyone leaves a trail. That's like, the whole point of the internet." A pause. Keyboard clicking. "Do you always pay for the dates?"
 
-"You're going to anyway."
+Doogan nearly missed his stride. "Where's that coming from?"
 
-"Last night. At the restaurant. Claire said something about 'the five rules.' What was that about?"
+"Abby mentioned it. That you always pick up the check."
 
-Doogan dodged a woman walking a golden retriever. "My father. Driving me to my first date when I was fifteen."
+"Yeah, I do."
 
-"Your father gave you dating rules?"
+"Even when they offer?"
 
-"Yeah, something like that. First one was: get out of the car and go to the door. Never pull up and honk like an asshole." The memory was clear despite the years, his father's hands on the steering wheel, that serious look. "Second: shake her father's hand, look him in the eyes. He's trusting you with his daughter."
+"Especially when they offer." He dodged a woman walking a golden retriever. "Women get self-conscious about it sometimes. I'll joke, distract them. But I always pay."
 
-"Did you actually do that?"
+"So the guy always has to?"
 
-"More often than I would have guessed." Doogan crested a hill, letting gravity carry him down. "Third: you picked her up at the door so its your job to get her safely back to that door, no matter how the date goes."
+"Not about having to. It's about wanting to." Doogan crested a hill. "No expectations. That's the key. You pay because you enjoy their company, not because you think it buys you something."
 
-"Okay, that's actually—"
+"But—"
 
-"Fourth: you pay for the date. My dad said the girl put way more effort into getting ready than I did, so the least I could do was pay for the movie. Plus it's more expensive to be a woman—he pointed to all the stuff my mom had in the bathroom."
+"These women—assistants, yoga instructors, receptionists—they get drawn to wealthy, powerful men who pay for dinner like it's an extension of paying for them. That provider thing women respond to. But when I do it?" He let gravity carry him down. "I'm just grateful for their time. That's the difference."
 
-Baxter laughed. "That's true. My mom's bathroom is like Sephora blew up in there."
+Baxter was quiet for a moment. "Is that how the rebounds have always gone? Like, back to the first one?" A beat. "Wait, what was the first one?"
 
-"And fifth: dinner buys you dinner. Nothing more. The less you expect from women, the more likely you are to be pleasantly surprised."
+"College. Eddie was my fraternity brother. VP of the frat had a problem."
 
-"And you still follow those rules even on jobs?"
+"What kind of problem?"
 
-"Especially on jobs.  You know why we have such a high success rate?"
-
-"Yeah, I've seen your condo."
-
-"No, not at all.  Most of these women, essentially side pieces for wealthy, powerful men are largely taken for granted.  My dad's old school rules, while outdated show interest.  Sometimes that's all it takes."
-
-"Was it those rules that led you to making money being a rebound relationship?  Did you meet Eddie when you were 15 too?"
-
-Doogan laughed. "No. I met Eddie in college and the first rebound was while we were in a fraternity together.  Don't make that face."
-
-"You can't see my face."
-
-"I can hear it." Doogan's breathing stayed steady. "The vice president of our fraternity was some trust fund frat boy type and had a problem. Hooking up with a girl from the sister sorority all semester. But he was secretly engaged to some family friend's daughter back home."
+"The trust fund kind. Hooking up with a girl from the sister sorority all semester. But he was secretly engaged to some family friend's daughter back home."
 
 "Wait, he was cheating on his fiancée?"
 
@@ -465,7 +457,7 @@ Doogan laughed. "No. I met Eddie in college and the first rebound was while we w
 
 "But you did it anyway."
 
-"We were broke, neither of us from the kind of money our fraternity brothers came from.  Eddie saw an opportunity, which is kind of his thing." He pushed forward, picking up speed. "So I found a way to 'accidentally' keep running into her. Coffee shop, library, one study session. Made her forget about trust fund boy."
+"We were broke, neither of us from the kind of money our fraternity brothers came from. Eddie saw an opportunity, which is kind of his thing." He pushed forward, picking up speed. "So I found a way to 'accidentally' keep running into her. Coffee shop, library, one study session. Made her forget about trust fund boy."
 
 "And it worked?"
 
@@ -513,7 +505,7 @@ Doogan slowed to a walk, letting his heart rate settle. Duke's Coffee sat at the
 
 "Don't let it go to your head."
 
-"Too late." A beat. "Hey, thanks for telling me about the five rules. And the first job."
+"Too late." A beat. "Hey, thanks for telling me about the first job. That's actually pretty cool."
 
 "Helped me pass the time during my run."
 
@@ -600,7 +592,7 @@ Eddie jumped in. "What Doogan's getting at is, we need to know the situation to 
 
 The coffee was good. Something about Sebastian didn't fit—the polished surface with nothing underneath, like an expensive suit on a mannequin.
 
-Doogan stood. "I need to go. Farmer's market opens at nine, and I've got a meet-cute to make happen."
+Doogan stood. "I need to go. She'll be at the Farmer's market soon, and I've got a meet-cute to make happen."
 
 "Wait, we haven't—"
 

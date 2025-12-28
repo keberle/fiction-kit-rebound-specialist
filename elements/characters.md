@@ -68,6 +68,13 @@ Gabby's groom and soon to be newest member of the Billings family.
 <!-- Portrait: characters/cheryl-billings.jpg -->
 Gabby's older sister, age 32. Works in corporate finance—contract negotiation, very dry and boring work. She is the target of the rebound. Brad Levitt was her boyfriend first—they dated for six months before she broke up with him because he was "the most boring human on the planet." Three months later, Brad got engaged to Cheryl's younger sister Gabby, which her mother Sylvia finds thrilling (Gabby has always been the favorite, and Brad's family has money). Cheryl is frustrated that Gabby is getting married before her and that her family treats her like a "problem" for being thirty-two and single. She sees a therapist regularly. Sharp, competitive, wounded beneath the surface—her competitiveness during the scavenger hunt isn't just about winning, it's about proving something. *(Expanded in Episode 2, Scene 10)*
 
+**What Cheryl Knows About Doogan (Cover Story):**
+- Believes he's a "family friend" invited to the wedding
+- Suspects her parents arranged for him to keep her company/behave during wedding weekend
+- Does NOT know he's paid/hired
+- Does NOT know this is his profession
+- Allowed to be skeptical about the "family friend" story being a setup, but never discovers the business transaction
+
 **Home:** Nice two-story house in an expensive neighborhood of Pacific Point—not ostentatious, but clearly successful. Perfectly landscaped (professional maintenance), modern professional aesthetic. More urban professional style than suburban family home—reflects her corporate finance career and single lifestyle. Similar quality to Palmer residence but smaller scale. *(Established in Episode 2, Scene 14)*
 
 ### Terry Tamborino

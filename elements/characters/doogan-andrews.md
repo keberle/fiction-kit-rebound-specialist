@@ -5,7 +5,6 @@
 ## Name
 **Doogan Andrews**  
 - Goes by "Doogan" exclusively—never "Doog" or "D"
-- Abby calls him "Andrews" when she's annoyed with him
 - Eddie calls him "the Professor" (mockingly affectionate)
 
 ---
@@ -138,7 +137,7 @@ Claire mentioned she'd miss his cooking more than dinners out—a sign that his 
 
 ## Relationships
 
-**Abby Chen** – His conscience and his anchor. They have a brother-sister dynamic with underlying tension—she sees through all his bullshit, calls him on his self-sabotage, and occasionally hints that she knows more about his past than she lets on. He trusts her completely, which terrifies him. She makes constant fun of his car ("That thing is a tetanus shot on wheels, Andrews"), but he knows she secretly understands why he keeps it.
+**Abby Chen** – His conscience and his anchor. They have a brother-sister dynamic with underlying tension—she sees through all his bullshit, calls him on his self-sabotage, and occasionally hints that she knows more about his past than she lets on. He trusts her completely, which terrifies him. She makes constant fun of his car ("That thing is a tetanus shot on wheels"), but he knows she secretly understands why he keeps it.
 
 **Eddie Katz** – His business partner and the only person who makes him laugh at the absurdity of their operation. Eddie provides comic relief to Doogan's brooding. They balance each other—Eddie's all surface, Doogan's all depth. Eddie's constantly trying to convince him to upgrade the Cougar ("We can afford a car that doesn't require a prayer to start, you know"), but Doogan won't budge.
 
