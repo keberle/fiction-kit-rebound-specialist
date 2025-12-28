@@ -82,15 +82,73 @@ Before writing ANY new detail, verify it doesn't contradict:
 4. Episode outlines in `elements/outlines/`
 5. `elements/notes.md` (established facts)
 
+**CRITICAL: Check ALL Character Files to Avoid Detail Duplication**
+- Before assigning professions, education, possessions, or backgrounds to any character, scan ALL character files
+- NEVER copy details from one character to another (e.g., if Character A is a lawyer, Character B should NOT also be a lawyer unless explicitly plotted)
+- Odd coincidences (two lawyers, two accountants, similar cars, similar backgrounds) undermine believability
+- If uncertain, keep profession/background VAGUE or ask user for clarification
+- Exception: Details explicitly part of plot (e.g., two characters who went to same school because that's the story connection)
+
 **Beat Mechanism Verification — For EACH outline beat, ask before writing:**
 1. **"HOW does this happen?"** — What's the mechanism?
 2. **"WHO knows what, and HOW did they learn it?"**
 3. **"WHEN did this occur relative to other events?"**
 
+**Character Knowledge Tracking (CRITICAL):**
+- **First meetings:** Characters who just met know NOTHING about each other except what's been explicitly stated in dialogue during THIS scene or prior shared scenes
+- **Conversation tracking:** Before Character A references any detail about Character B, verify that detail was mentioned earlier in conversation
+- **Exception:** Team members (Doogan/Eddie/Abby) can know details Baxter researched and communicated to them via earpiece or briefing
+- **Shared history:** Characters with established relationships can reference past events, but new acquaintances cannot assume knowledge
+
 **If mechanism is unclear:**
 - ❌ DO NOT INVENT
 - ✅ FLAG IT: `[NEEDS CLARIFICATION: ...]`
 - ✅ Ask for clarification before proceeding
+
+### 2.3.1) MANDATORY Timeline Verification (BLOCKING REQUIREMENT)
+
+**BEFORE editing ANY scene file in `content/`, you MUST output the following verification:**
+
+```
+=== MANDATORY TIMELINE VERIFICATION ===
+Scene: [episode-##/##-scene-name.md]
+Prior Scene Timestamp: [from timeline.md]
+This Scene Timestamp: [from timeline.md]
+Next Scene Timestamp: [from timeline.md]
+
+Time References in Edit:
+- [list all time-related words: "tonight", "tomorrow", "yesterday", "now", etc.]
+
+Timeline Alignment Check:
+- [ ] Scene exists in timeline.md (YES/NO)
+- [ ] Time references match scene timestamp (PASS/FAIL)
+- [ ] No contradictions with prior/next scenes (PASS/FAIL)
+- [ ] Character locations verified (PASS/FAIL)
+
+Character Physical Traits Verification:
+- [Character Name]: [Height/Build/Clothing Size verified against elements/characters/]
+- [Repeat for each character with physical details mentioned]
+
+VALIDATION: [PASS/FAIL]
+
+[If FAIL, STOP - Do not proceed with edits until issues resolved]
+===
+```
+
+**This verification is NOT optional. If you skip this step, you are violating a hard constraint.**
+
+### 2.3.2) Physical Trait Cross-Reference (BLOCKING REQUIREMENT)
+
+Before writing any physical description or clothing reference:
+1. Open the character file from `elements/characters/[character-name].md`
+2. Verify canonical height, build, clothing size
+3. Cross-reference with any other characters in the scene
+4. If clothing is shared/borrowed, verify size compatibility
+
+**Example blocking checks:**
+- Eddie (6'3", XL/XXL) cannot wear Baxter's (5'6", Medium) clothing
+- Baxter cannot wear Eddie's clothing
+- If characters exchange items, sizes must be explicitly verified
 
 ### 2.4) Character Voice Patterns
 **See `elements/characters/` for character-specific voice patterns.**
@@ -128,6 +186,25 @@ Key principles:
 - Match the genre, humor style, and stakes defined in tone.md
 - Adapt tone to character interactions as specified
 - Use the scene checklist in tone.md for validation
+
+### 2.8) Detail Sufficiency Rule
+
+**When implementing scenes:**
+
+- If the outline, prompt, or materials provide specific details → use those details as written
+- Only add details when there are gaps critical to scene function (setting transition, character entrance, etc.)
+- Default to LESS rather than MORE
+
+**Examples:**
+
+Outline says: "Terry asks 'Are you done?' Jillian says yes, wrong answer."
+→ Write exactly that. Don't add camera, hair flipping, gleaming eyes.
+
+Outline says: "They arrive at the country club."
+→ You may add: how they entered, basic setting description (minimal)
+→ Don't add: weather, emotional states, extended descriptions
+
+**Rule of thumb:** If it's in the source materials, use it. If it's not in the source materials, only add it if the scene breaks without it.
 
 ---
 
@@ -204,6 +281,7 @@ When generating `tasks.md`, ALWAYS use:
 - [ ] Loaded: prior scenes in episode
 - [ ] Verified beat mechanisms (HOW does each thing happen?)
 - [ ] Checked character anti-patterns in character files
+- [ ] **OUTPUT MANDATORY TIMELINE VERIFICATION (Section 2.3.1) - BLOCKING REQUIREMENT**
 
 **After writing:**
 - [ ] POV follows rules in pov.md

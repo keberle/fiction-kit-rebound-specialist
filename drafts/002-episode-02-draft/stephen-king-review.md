@@ -81,13 +81,13 @@
 - Change: Job was containment, not distraction; connection lost
 - ✅ PASS
 
-**Scene 16 (Martinez Ambush):**
-- Opens: Martinez aware of team investigation, warns them off
-- Closes: Doogan/Cheryl romance fully ended
-- Change: Team investigation now known to police
-- ✅ PASS
+**Scene 15 (The One-Way Street Trap):**
+- Opens: Doogan being followed after dinner, calls team for help
+- Closes: Martinez revealed as follower, warns them off investigation
+- Change: Team investigation now known to police; Martinez is surveilling everyone
+- ✓ PASS
 
-**Scene 17 (Reception):**
+**Scene 16 (Reception):**
 - Opens: Cheryl threatens catastrophic toast
 - Closes: Job complete, wedding saved
 - Change: Doogan succeeds despite losing connection

@@ -18,7 +18,7 @@ She sat next to her husband—perfectly styled blonde hair, tailored dress. Jewe
 
 Eddie paused. Recalibrated. "Well, that depends on the scope—"
 
-"Scope is the weekend. Saturday morning through Sunday brunch. Keep our daughter from making a scene." Thomas folded his hands on the table. "How much?"
+"Scope is the weekend. Friday morning through Sunday brunch. Keep our daughter from making a scene." Thomas folded his hands on the table. "How much?"
 
 Doogan watched them both. Thomas had the posture of someone who'd bought a lot of things in his life and knew exactly what they cost. Sylvia had the expression of someone who'd watched him negotiate those purchases and learned his patterns.
 
@@ -58,7 +58,7 @@ Eddie jumped back in, sensing the tension. "So Doogan's role is basically compan
 
 "Redirect I can do," Doogan said.
 
-"Good." Sylvia pulled out her tablet. Opened what looked like a calendar app. "The weekend starts tomorrow morning. Nine AM. Country club. There's a scavenger hunt."
+"Good." Sylvia pulled out her tablet. Opened what looked like a calendar app. "The weekend starts Friday morning, nine AM, country club. There's a scavenger hunt. Then that evening, the rehearsal dinner."
 
 "A scavenger hunt."
 
@@ -80,7 +80,7 @@ He'd done this a hundred times.
 
 Just usually not the day after being accused of murder.
 
-"Saturday morning," he said. "Country club. Nine AM."
+"Friday morning," he said. "Country club. Nine AM."
 
 "Terry will have your name on the list." Thomas pocketed his phone. "And I will be expecting that estimate this evening." he said looking at Eddie.
 
@@ -104,7 +104,7 @@ Eddie waited until they were out of earshot before leaning forward. "So that was
 
 "You're over thinking this because of what just happened.  You've walked into worse." Eddie's tone was confident. Reassuring. The same tone he used when pitching clients on jobs that sounded impossible. "Besides, you've got me and Baxter in your ear the whole time. Cheryl tries anything unexpected, we pivot."
 
-"Yeah, you really do. You've got—" Eddie checked his phone. "—fourteen hours before the job starts. Go home. I'll call you tomorrow morning with the full brief."
+"Yeah, you really do. You've got—" Eddie checked his phone. "—a couple days before the job starts. Go home. I'll call you Thursday with the full brief."
 
 "What are you doing?"
 
@@ -112,7 +112,7 @@ Eddie waited until they were out of earshot before leaning forward. "So that was
 
 "What kind of something?"
 
-"The kind we discuss tomorrow." Eddie stood. Dropped cash on the table for their drinks and snapping a picture of the bill so Abby can add it to the expense reimbursement. "Go home, Doogan. We've got this."
+"The kind we discuss later." Eddie stood. Dropped cash on the table for their drinks and snapping a picture of the bill so Abby can add it to the expense reimbursement. "Go home, Doogan. We've got this."
 
 Doogan stood.
 
@@ -126,12 +126,12 @@ Outside, the evening air was erlaxing. He fumbled for his keys. Found them.
 
 The Cougar was parked two blocks away.
 
-Tomorrow morning. Country club. Scavenger hunt. Keep the maid of honor happy. Don't let her make a scene. Get paid.
+Friday morning. Country club. Scavenger hunt. Then that evening: rehearsal dinner. Saturday: wedding ceremony and reception. Keep the maid of honor happy. Don't let her make a scene. Get paid.
 
 Simple.
 
 Except the Billings' description of Cheryl did not make her sound simple.
 
-But that was tomorrow's problem.
+But that was Friday's problem.
 
 ---

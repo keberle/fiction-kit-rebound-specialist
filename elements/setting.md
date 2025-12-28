@@ -60,3 +60,24 @@ Life in Pacific Point moves at a relaxed yet purposeful pace. The rhythmic sound
 ### Residential Areas
 - **Upscale Suburbs:** Where Eddie and Abby Palmer live. Modern homes with manicured lawns, country club access, family-oriented communities. Less urban density, more space, the California dream lifestyle.
 - **Urban High-Rise District:** Luxury condo buildings with city views, closer to downtown Pacific Point. Doogan's expensive condo is here—high up, floor-to-ceiling windows overlooking the sprawling city and coastline. This area attracts successful singles and professionals who want the urban lifestyle: walkable restaurants, rooftop bars, proximity to nightlife. More sophisticated bachelor territory than suburban family zones. *(Established in Episode 1, Scene 7)*
+
+### Cheryl Billings' House
+**Location:** Expensive neighborhood of Pacific Point (urban professional area)  
+**Established:** Episode 2, Scene 14
+
+**Exterior:**
+- Two-story house, nice but not ostentatious
+- Perfectly landscaped (professional maintenance)
+- Expensive part of town—clearly successful
+
+**Style:**
+- Modern professional aesthetic
+- More urban professional than suburban family home
+- Reflects corporate finance career and single lifestyle
+- Similar quality to Palmer residence but smaller scale
+
+**DESCRIPTION RULE (McDonald Principle):**
+- ❌ DO NOT re-describe house if it appears in multiple scenes
+- ✅ House established in Episode 2, Scene 14—trust reader's memory
+- ✅ "Cheryl's house" is sufficient for returning locations
+- **Established = described once, referenced thereafter**

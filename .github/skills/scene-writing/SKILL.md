@@ -98,6 +98,64 @@ Use this skill when you need to:
 - **How much time has elapsed since the previous scene?**
 - **How much time has elapsed since key events in earlier scenes?** (arrests, meetings scheduled, deadlines mentioned)
 - Who is present in this scene?
+
+### 5a. SCENE SETUP VERIFICATION (MANDATORY - BLOCKING REQUIREMENT)
+
+**DO NOT WRITE PROSE until you complete this verification.**
+
+**Purpose:** Prevent writing scenes with wrong character locations, wrong communication methods (phone call vs in-person), or missing critical logistics.
+
+**Required Output (before ANY prose writing):**
+
+```
+=== SCENE SETUP VERIFICATION ===
+Scene: Episode X, Scene Y — [Scene Title]
+Source: elements/outlines/episode-XX.md, Section ##
+
+**QUOTE FROM OUTLINE (exact text):**
+"[Paste the relevant section from the episode outline that describes WHO/WHERE/WHAT]"
+
+**WHO is physically present in this scene:**
+- [Character Name] — [their location/position: "at dining table with laptop", "standing in kitchen", etc.]
+- [Character Name] — [their location/position]
+- [List ALL characters who are in the room/location]
+- [Note if anyone is on phone/video call but NOT physically present]
+
+**WHERE are they (specific location):**
+- [Physical location from outline: "Eddie's house", "Doogan's condo", "country club", etc.]
+- [Room/area if specified: "living room", "dining table", "kitchen", etc.]
+
+**WHAT is the situation (1-2 sentence setup):**
+- [Brief description of what's happening at scene start]
+
+**KEY LOGISTICS (critical details from outline):**
+- [Any specific setup like "Baxter at laptop working", "phone call with X", "just arrived from Y", etc.]
+- [Communication method: in-person conversation, phone call, video call, earpiece communication]
+- [Props/objects mentioned: laptop, coffee, documents, etc.]
+- [Character states: exhausted, dressed for wedding, just woke up, etc.]
+
+**VERIFICATION CHECKLIST:**
+- [ ] All characters from outline are listed
+- [ ] No characters added who aren't in outline
+- [ ] Physical location matches outline
+- [ ] Communication method clear (in-person vs phone vs video vs earpiece)
+- [ ] Critical logistics noted (who has what object, who's sitting/standing where)
+- [ ] Character states/appearances noted if specified
+- [ ] If outline says "Baxter is in the room", he is NOT on a phone call
+- [ ] If outline says "phone call", characters are NOT in same room
+
+**VALIDATION:** [PASS/FAIL]
+
+[If FAIL, STOP - do not write until setup is clear]
+===
+```
+
+**This step is BLOCKING. Do not proceed to writing if:**
+- Outline is ambiguous about who's in the room
+- Communication method unclear
+- Critical logistics missing
+
+**If verification fails, ASK USER for clarification before writing.**
 - What is the POV character's emotional state?
 - What information does POV character know at this point?
 - What details were established in prior scenes that must be preserved?
@@ -168,13 +226,28 @@ Add to your continuity notes:
 
 1. **Read the COMPLETE episode outline** from `elements/outlines/episode-##.md`
 2. **Create a SCENE MAP** of the entire episode
-3. **Identify THIS scene's boundaries** within the full episode structure
+3. **Identify THIS scene's "Button" (ending point)** - this is WHERE YOU MUST STOP
+4. **Identify the NEXT scene's opening** - this is what you CANNOT write
 
 **Why This Is Non-Negotiable:**
-- Prevents scene spillover into subsequent scenes
+- **Prevents scene spillover** - Most common violation
 - Ensures you know what comes BEFORE and AFTER this scene
-- Catches multi-scene plot threads that would create duplication
-- Enforces episode-level structure awareness
+- Enforces precise scene boundaries (stop at the Button)
+- Episode structure dictates pacing - don't break it
+
+**CRITICAL RULE: STOP AT THE BUTTON**
+
+Every scene in the outline has a "Button:" marker. This is the EXACT point where you MUST stop writing. Do not continue past it. Do not write "what happens next." That's the next scene's job.
+
+**Example Violation:**
+```
+Scene 10 Outline Button: "They have the golden ticket; Jillian is still stuck inside"
+
+❌ WRONG: Write them running back, arriving at country club, seeing Jillian there first
+✅ RIGHT: End outside speakeasy with ticket, Jillian still inside, start running back
+
+Scene 12 is "Finish Line" - that's where arrival happens. Don't steal it.
+```
 
 **SCENE MAP FORMAT:**
 
@@ -475,6 +548,30 @@ See `references/king-principles.md` for full details. Key rules:
 
 **Common continuity errors to avoid:**
 
+### The Secrecy Rule (NON-NEGOTIABLE - STORY-BREAKING IF VIOLATED)
+
+**Doogan's business only works if targets never know they're part of a paid operation.**
+
+See `elements/checklist.md` → "The Secrecy Rule" and `elements/notes.md` → "The Secrecy Rule" for complete guidance.
+
+**Critical Points:**
+- Targets believe Doogan's interest is genuine
+- Cover stories explain Doogan's presence (family friend, coincidence, mutual connection)
+- Targets may become skeptical about authenticity, but NEVER discover it's a paid service
+- NO character references "hiring," "paying," "job," "babysit," or "service" in relation to Doogan
+
+**Example violations to NEVER write:**
+- ❌ "My parents paid you to babysit me"
+- ❌ "Is this your job?"
+- ❌ "How much are they paying you?"
+
+**Acceptable skepticism:**
+- ✅ "You're too perfect. This feels like a setup."
+- ✅ "My parents set me up with someone exactly like you. That's suspicious."
+- ✅ "You're really good at this. Too good."
+
+**If target discovers the truth, it's a story-breaking crisis event (has NOT happened in Episodes 1-2).**
+
 ### Invented Details
 - ❌ Adding store brand names not mentioned (e.g., "Ralphs" when prior scene said "grocery store")
 - ❌ Specifying car makes/models not in character files
@@ -486,6 +583,65 @@ See `references/king-principles.md` for full details. Key rules:
 - ❌ Character knowing information they haven't learned yet
 - ❌ Character forgetting information they learned earlier
 - ❌ POV character knowing things that happened off-screen without being told
+
+### Self-Contradictory Fabrications (CRITICAL - NEW)
+
+**The "cash under the table + tax forms" error class:**
+
+These are invented details that directly contradict the mechanism that makes another detail possible.
+
+**Examples of self-contradictory fabrications:**
+- ❌ "Paid cash under the table" + "Baxter found tax records" (tax records mean it WAS reported, not under the table)
+- ❌ "Completely off the grid" + "Found through social media" (can't be both)
+- ❌ "Never left fingerprints" + "Matched fingerprints to scene" (contradictory)
+- ❌ "No paper trail" + "Traced through business filings" (filings ARE paper trail)
+- ❌ "Anonymous transaction" + "Credit card receipt" (credit cards aren't anonymous)
+
+**Prevention Protocol:**
+
+**BEFORE writing any "how we found X" explanation:**
+1. **Read the prior scenes** that established HOW it was found
+2. **Identify the mechanism** explicitly stated (tax forms, social media, witness statement, etc.)
+3. **Do not add contradictory color** that undermines the mechanism
+4. **Verify logic chain:** If A enabled us to find B, then A must be possible/true
+
+**Example from actual error:**
+```
+❌ WRONG:
+"She worked there cash under the table, no official records except the tax forms Baxter pulled"
+
+PROBLEM: "Cash under the table" means NO official reporting
+BUT: "tax forms" means it WAS officially reported
+THESE CONTRADICT EACH OTHER
+
+✅ CORRECT (honors the mechanism):
+"She worked there eight months, filed a 1099 which is how Baxter found the place"
+
+OR (if truly under the table):
+"She worked there eight months under the table, but Baxter traced her through [different mechanism]"
+
+BUT NOT BOTH "under the table" AND "tax forms" - pick ONE and stick with it.
+```
+
+**Mechanism Verification Checklist:**
+
+Before writing ANY "how we know this" or "how we found this" line:
+- [ ] **Read outline:** What does it say about how this was discovered?
+- [ ] **Read prior scenes:** Was the mechanism already established?
+- [ ] **Check notes.md:** Are there procedures or research methods documented?
+- [ ] **Logic check:** Does my explanation contradict the mechanism?
+- [ ] **Simplify:** Can I just state the mechanism without adding "color" that contradicts it?
+
+**If you're unsure about the mechanism:**
+- ✅ Use the EXACT wording from outline/prior scene
+- ✅ Keep it simple: "Baxter found her through tax records" (don't elaborate)
+- ✅ Flag for user review if mechanism seems unclear
+
+**RED FLAGS that indicate potential self-contradiction:**
+- Writing "but" or "except" in same sentence as contradictory detail
+- Adding "color" details about how something was done without checking if that contradicts the discovery method
+- Assuming details about financial arrangements (cash/check/wire/reported/unreported) without checking canon
+- Embellishing with specific methods when outline only says "found" or "traced"
 
 ### Relationship Errors
 - ❌ Changing established relationship dynamics without cause
@@ -564,6 +720,7 @@ After writing, verify:
 - [ ] **Pre-Writing Completed:** ALL elements, voice, and prior content files loaded
 - [ ] **Continuity Preserved:** NO invented details (checked against prior scenes and element files)
 - [ ] **Established Facts Honored:** Store names, car models, pet names, physical traits all match prior content
+- [ ] **Self-Contradiction Check (CRITICAL):** No fabricated details that contradict established mechanisms
 - [ ] McDonald opening (no weather/introspection first)
 - [ ] POV maintained throughout (no head-hopping)
 - [ ] Character voices accurate (reviewed character files)
@@ -572,7 +729,69 @@ After writing, verify:
 - [ ] Scene opens/closes doors (discovery momentum)
 - [ ] Scene break marker `---` at end
 
-## Continuity Cross-Check
+## Post-Writing Self-Contradiction Audit (NEW - MANDATORY)
+
+**BEFORE finalizing scene, run this line-by-line audit:**
+
+### Audit Process:
+
+**1. Scan for "mechanism" statements** (lines about how something was discovered/done):
+   - Lines containing: "found through," "traced via," "discovered by," "researched," "identified"
+   - Lines about money: "paid," "cash," "check," "wire," "under the table," "officially"
+   - Lines about records: "tax forms," "official records," "filing," "paper trail"
+
+**2. For EACH mechanism statement, verify:**
+   - **Does this match prior scenes?** Check exact wording in prior content
+   - **Does this match outline?** Check episode outline for how this was established
+   - **Is there internal contradiction?** Look for "but" or "except" connecting contradictory details
+   - **Does the mechanism enable the result?** (e.g., "found via tax records" requires tax records exist)
+
+**3. Red Flag Patterns to Fix:**
+
+```
+❌ PATTERN: "[Contradictory descriptor] + [contradicting fact]"
+Examples:
+- "off the books + found via records"
+- "cash under table + tax forms"
+- "no paper trail + business filing"
+- "anonymous + credit card"
+- "completely hidden + social media post"
+
+✅ FIX: Remove contradictory descriptor, keep mechanism only
+- "found via records" (drop "off the books")
+- "filed tax forms" (drop "cash under table")
+- "business filing" (drop "no paper trail")
+- "credit card" (drop "anonymous")
+- "social media post" (drop "completely hidden")
+```
+
+**4. Fabricated Color Check:**
+
+Ask for each detail: **"Did I add this for color, or is it canonical?"**
+
+If you added detail for color/atmosphere, check:
+- [ ] Does it contradict any mechanism?
+- [ ] Does it contradict prior scenes?
+- [ ] Could I just remove it without losing meaning?
+
+**When in doubt: CUT THE COLOR. Keep only mechanism.**
+
+### Example Audit:
+
+**Original line (WRONG):**
+> "She worked at this clinic for eight months, cash under the table, no official records except the tax forms Baxter pulled"
+
+**Audit Questions:**
+- Q: How did Baxter find her? A: Tax forms
+- Q: Were tax forms filed? A: Yes (prior scene: "She filed a 1099")
+- Q: Can "cash under table, no records" AND "tax forms filed" both be true? A: NO ❌
+
+**Fixed line:**
+> "She worked at this clinic for eight months, filed a 1099 which is how Baxter found the place"
+
+**Audit Result:** ✅ PASS - No contradiction, mechanism preserved
+
+### Continuity Cross-Check
 
 **Before finalizing, answer these questions:**
 

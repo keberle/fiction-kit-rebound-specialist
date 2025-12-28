@@ -24,7 +24,7 @@ A woman detached from a cluster of bridesmaids. Late twenties, brunette ponytail
 
 "I'm more of a peripheral friend."
 
-"So a setup." She crossed her arms. "My parents talked you into to babysitting me?"
+"So a setup." She crossed her arms. "My parents convinced you to keep me company?"
 
 Terry's head snapped up from his tablet. "Cheryl—" He paused. "—your mother thought you two would hit it off. Which, speaking as someone with excellent instincts about these things, you probably will."
 

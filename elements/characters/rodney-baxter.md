@@ -54,13 +54,32 @@ He's never had a real job outside of working with Abby, Eddie, and Doogan. His e
 ---
 
 ## Voice & Style
-Baxter speaks quickly when excited about technology, but stammers and trails off in social situations. He uses tech jargon naturally, often forgetting others don't speak his language. His references are almost entirely from gaming, sci-fi, and internet culture.
+Baxter speaks quickly when excited about technology, but becomes hesitant and trails off in social situations. He uses tech jargon naturally, often forgetting others don't speak his language. His references are almost entirely from gaming, sci-fi, and internet culture.
+
+**In conversations with Eddie:**
+- Eddie ALWAYS dominates—Baxter reacts, he doesn't lead
+- Short, nervous bursts—never long monologues
+- Trails off with "—never mind" when Eddie interrupts or he loses confidence
+- Seeks approval ("Is that—is that okay?" / "Does that make sense?")
+- Technical explanations get cut short by Eddie's steamroller energy
+- Even on phone/video calls (not face-to-face), still nervous and deferential
+- Speech patterns show uncertainty (hesitations, restarts, trailing off)
+
+**ANTI-PATTERNS (Never Do These):**
+- ❌ Baxter opening a scene with a confident monologue
+- ❌ Baxter having the longest dialogue in a conversation with Eddie
+- ❌ Baxter explaining things smoothly without hesitation
+- ❌ Baxter arguing confidently with Eddie (he's always tentative)
+- ❌ Baxter finishing a thought without Eddie interrupting
+- ❌ Baxter being sarcastic or witty (he's earnest, not sardonic)
+- ❌ Characters explicitly discussing Baxter's speech patterns (show, don't tell)
 
 **Sample Quotes:**
 - "I've got eyes on the target—literally. I hacked the restaurant's security cameras. Also, their Yelp rating is misleading; the duck is apparently dry."
 - "So you just... smiled at her? And she gave you her number? That's it? No algorithm? No compatibility matrix?"
 - "Eddie, I know you're joking, but statistically speaking, a basement command center is actually the optimal workspace for—never mind."
 - "My mom says I should get out more, but she doesn't understand the latency issues with mobile hotspots."
+- "I—I can't—the problem is—okay so clinics don't post their IT specs on a sign out front, you know? Like I need software names or vendor logos or—I mean, I'm not trying to make excuses but—"
 
 ---
 

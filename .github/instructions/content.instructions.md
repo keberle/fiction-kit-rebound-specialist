@@ -8,6 +8,38 @@ These instructions apply to all scene files in `content/`.
 
 ## Before Writing or Editing Any Scene
 
+### MANDATORY Pre-Edit Timeline Verification (BLOCKING GATE)
+
+**YOU MUST OUTPUT THIS BEFORE ANY SCENE EDIT - NO EXCEPTIONS:**
+
+```
+=== MANDATORY TIMELINE VERIFICATION ===
+Scene: [episode-##/##-scene-name.md]
+Prior Scene Timestamp: [from timeline.md]
+This Scene Timestamp: [from timeline.md]
+Next Scene Timestamp: [from timeline.md]
+
+Time References in Edit:
+- [list all time-related words: "tonight", "tomorrow", "yesterday", "now", etc.]
+
+Timeline Alignment Check:
+- [ ] Scene exists in timeline.md (YES/NO)
+- [ ] Time references match scene timestamp (PASS/FAIL)
+- [ ] No contradictions with prior/next scenes (PASS/FAIL)
+- [ ] Character locations verified (PASS/FAIL)
+
+Character Physical Traits Verification:
+- [Character Name]: [Height/Build/Clothing Size from elements/characters/]
+- [Repeat for each character with physical details mentioned]
+
+VALIDATION: [PASS/FAIL]
+
+[If FAIL, STOP and report issues - Do NOT proceed with edits]
+===
+```
+
+**If you skip this verification output, you are violating project requirements.**
+
 ### Required Context Loading (Minimum)
 1. **Read `.github/copilot-instructions.md`** — All workflow and writing rules
 2. **Read `elements/timeline.md`** — Verify scene's chronological placement and surrounding events
@@ -86,3 +118,13 @@ When a mechanism, fact, or detail is unclear:
 - Only load full outlines if beat mechanisms unclear
 - Only load event files when timeline references them
 - This preserves context window space for actual writing
+
+---
+
+## Note on Custom Documentation Directories
+
+The following directories contain advisory documentation for manual reference:
+- `.github/prompts/` — Template prompts (not auto-enforced by GitHub Copilot)
+- `.github/skills/` — Skill definitions (not auto-enforced by GitHub Copilot)
+
+These files are NOT official GitHub Copilot features and do not provide automated validation. The mandatory timeline verification in this file IS enforced through GitHub Copilot's official path-specific instructions feature.

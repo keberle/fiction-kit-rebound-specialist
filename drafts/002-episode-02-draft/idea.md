@@ -2,21 +2,24 @@
 
 **Draft:** 002-episode-02-draft
 **Created:** 2024-12-24
+**Updated:** 2025-12-27 (Scene 16 revised to lighter, more fun version)
 
 ## Intent Summary
-Draft Episode 2 ("The Wedding Weekend"), continuing the story from Episode 1 where Doogan woke up next to the murdered Annabelle Anders. This episode runs two tracks at once under the **ensemble third-person-close** rules: Doogan navigates a police interrogation and then immediately takes a new rebound job (keeping maid-of-honor Cheryl from sabotaging her sister's wedding), while the Annabelle/clinic investigation progresses through **on-page team scenes** (Eddie/Abby/Baxter) that intercut naturally with Doogan’s wedding weekend obstacle course. The episode balances procedural comedy (country club scavenger hunt) with the darkening mystery thread (clinic records being deleted in real time).
+Draft Episode 2 ("The Wedding Weekend"), continuing the story from Episode 1 where Doogan woke up next to the murdered Annabelle Anders. This episode runs two tracks at once under the **ensemble third-person-close** rules: Doogan navigates a police interrogation and then immediately takes a new rebound job (keeping maid-of-honor Cheryl from sabotaging her sister's wedding), while the Annabelle/clinic investigation progresses through **on-page team scenes** (Eddie/Abby/Baxter) that intercut naturally with Doogan's wedding weekend obstacle course. The episode balances procedural comedy (country club scavenger hunt) with the darkening mystery thread (clinic records being deleted in real time).
+
+**Scene 16 Revision (2025-12-27):** The wedding reception has been reworked to be MUCH lighter and more fun. Doogan arrives to Terry's theatrical wedding chaos, Cheryl spots him and is genuinely happy, he sits on bride's side. Ceremony is breezed through with narration. At reception, Cheryl sneaks into the seat of an 80-year-old former school teacher (who went to find a soda) for a flirty exchange. The evening shows expensive dinner, live band, full bar—all handled through narration. The key transformation: Cheryl's toast is NOT a "talked down from the ledge" moment but rather a genuine transformation—she gives a sweet, funny, heartfelt toast because Doogan's presence has allowed her to let go of the weight she was carrying. The scene ends with Cheryl saying "I think my work is done here. If you wouldn't mind taking me home" and Doogan joking "what about the hokie pokie" to which she responds "screw the hokie pokie, you're coming with me" and pulls him out. Light, fun, romantic comedy energy—the job succeeds through genuine connection, not containment.
 
 ## Motivation
 - **Murder stakes:** Doogan is now a murder suspect. The breezy rebound-comedy tone must absorb real danger without losing its wit.
 - **Character introductions:** Martinez and Finch need proper establishment as antagonists/foils. The outline notes Martinez is dry and deadpan—distinct from Doogan's charm—and Finch is the cynical veteran cop.
 - **Investigation thread:** Eddie, Abby, and Baxter must begin the parallel investigation that will carry across multiple episodes. Their chemistry and competence need to shine.
 - **POV integrity under concurrency:** Episode 2 has multiple events happening at once; the mechanism must stay McDonald-ish (tight third-person close) while allowing the team to carry scenes away from Doogan without head-hopping.
-- **New job stakes:** The Cheryl/wedding job is comedic but emotional—she's the older sister who dumped Brad, and now her younger sister is marrying him. The real job is containment, not distraction.
+- **New job stakes:** The Cheryl/wedding job is comedic but emotional—she's the older sister who dumped Brad, and now her younger sister is marrying him. The real job turns out to be connection, not containment—Doogan's presence allows Cheryl to let go of what's weighing her down.
 - **Cliffhanger setup:** The episode ends with Baxter watching a clinic file delete itself in real time—someone else is covering tracks.
 
 ## Scope
-- **Outline:** `elements/outlines/episode-02.md` (18 scenes — **revised: consolidated scavenger hunt sequence**)
-- **Characters involved:****
+- **Outline:** `elements/outlines/episode-02.md` (17 scenes — **revised: consolidated scavenger hunt sequence + scene 16 lighter version**)
+- **Characters involved:**
   - Doogan Andrews (protagonist, POV)
   - Eddie Palmer (manager, investigation lead)
   - Abby Palmer (pragmatic operator)
@@ -46,7 +49,7 @@ Draft Episode 2 ("The Wedding Weekend"), continuing the story from Episode 1 whe
   - Possible updates: `elements/characters.md` (if new character details emerge)
 
 ## Desired Outcome
-- **18 scenes** drafted following the outline beats precisely.
+- **17 scenes** drafted following the outline beats precisely (consolidated from 19, scene 16 revised for lighter tone).
 - **McDonald-style POV (ensemble-ready):** Third-person close with **one POV per scene**. Default Doogan, but scenes may anchor to Eddie/Abby/Baxter when they’re doing investigation work away from Doogan. No head hopping within a scene.
 - **Tone:** Fast, witty, slightly dark—gallows humor in the holding cell, satirical edge during the scavenger hunt, tension in the clinic investigation.
 - **Martinez characterization:** Establish him as Doogan's deadpan foil—principled, dry wit, not flashy but smart.
@@ -69,12 +72,14 @@ Draft Episode 2 ("The Wedding Weekend"), continuing the story from Episode 1 whe
 - **End-Button / Cliffhanger:** Baxter opens Annabelle's flagged file → it vanishes in real time → someone else is logged in deleting records.
 
 ## Success Checks (Acceptance Criteria)
-- [ ] 18 scenes drafted matching outline beats (**revised: consolidated hunt sequence**)
+- [ ] 17 scenes drafted matching outline beats (**revised: consolidated hunt sequence, lighter scene 16**)
 - [ ] McDonald-style dialogue-first openings (no atmospheric intros)
 - [ ] POV never breaks (no first-person, no villain POV, no head hopping)
 - [ ] Sensory detail present (Scene 1: cold/smell/exhaustion; Scenes 7/9/11/12: sweat/competition; etc.)
 - [ ] Cheryl's emotional throughline shows in Scenes 5, 7, 9, 11, 12 (wounded pride, sister comments)
-- [ ] Scene 15 reveal feels inevitable, not surprising
+- [ ] Scene 14 reveal feels inevitable, not surprising
+- [ ] Scene 16 reception is LIGHT AND FUN—Terry's wedding chaos, 80-year-old flirtation, Cheryl's toast transformation, romantic exit
+- [ ] Cheryl's toast in Scene 16 is sweet, funny, heartfelt (3-4 paragraphs max)—shows transformation through connection not containment
 - [ ] Martinez/Finch properly characterized in interrogation scene
 - [ ] Martinez surveillance timing (Scene 15) costs Doogan the Cheryl connection
 - [ ] Scavenger hunt clues have specific mechanics (clerk interactions detailed)

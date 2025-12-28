@@ -1,6 +1,6 @@
 ## Scene 3 — Eddie's Kitchen
 
-"So Hank costs money, obviously, guy's a lawyer even if he's a bottom-tier one, and lawyers don't work for free or friendship or any of the things normal humans accept, which means we need money, which means you need to work, which I know sounds insane considering you were literally arrested last night but guess what, the Billings still want their wedding weekend handled—"
+"So Hank costs money, obviously, guy's a lawyer even if he's a bottom-tier one, and lawyers don't work for free or friendship or any of the things normal humans accept, which means we need money, which means you need to work, which I know sounds insane considering you were literally arrested yesterday but guess what, the Billings still want their wedding weekend handled—"
 
 Eddie was mid-sentence when Doogan walked into the kitchen. Abby stood at the stove, flipping pancakes—sharp flips, impatient scrape of spatula against griddle. She didn't turn from the stove.
 
@@ -14,7 +14,7 @@ Eddie gestured toward the island where a plate of pancakes sat steaming. "Sit. E
 
 "The situation being I was arrested for murder."
 
-"That situation we're calling 'handled for now.'" Eddie poured himself more coffee. "Hank's on it, you're out, Martinez doesn't have enough to charge you yet. The *new* situation is that you have a job starting tomorrow morning and we need to make sure you're ready for it."
+"That situation we're calling 'handled for now.'" Eddie poured himself more coffee. "Hank's on it, you're out, Martinez doesn't have enough to charge you yet. The *new* situation is that you have a job starting this weekend and we need to make sure you're ready for it."
 
 Doogan sat on one of the barstools. The pancakes smelled good. He couldn't remember the last time he'd eaten.
 
@@ -38,7 +38,7 @@ Doogan cut into the stack. Took a bite. The pancakes were good—light, slightly
 
 *The guilty ones always have lawyers.*
 
-"Cheryl's the maid of honor," Eddie was talking again, leaning against the counter with his coffee. "Her younger sister Gabby is the bride. The wedding's this weekend—Saturday ceremony, Sunday brunch. But there's a full itinerary starting tomorrow morning with a scavenger hunt at the country club, then rehearsal dinner Friday night, reception Saturday. You're supposed to keep Cheryl contained, keep her from making a scene, basically be damage control disguised as a wedding guest."
+"Cheryl's the maid of honor," Eddie was talking again, leaning against the counter with his coffee. "Her younger sister Gabby is the bride. The wedding's this weekend—ceremony and reception Saturday, brunch the next morning. But there's a full itinerary starting Friday morning with a scavenger hunt at the country club, then the rehearsal dinner that evening. You're supposed to keep Cheryl contained, keep her from making a scene, basically be damage control disguised as a wedding guest."
 
 "What kind of scene?"
 
@@ -68,7 +68,7 @@ Doogan looked at her. Abby's green-hazel eyes were steady, concerned but not pit
 
 She studied him for a moment, then nodded. Took a sip of her coffee.
 
-Eddie cleared his throat. "So. The Billings. They're expecting you at the country club tomorrow morning at nine. I told them you'd be there. The wedding planner—Terry someone—will brief you on the itinerary and introduce you to Cheryl. Your cover story is that you're a family friend, a fix-up date for Cheryl for the weekend. Simple, clean, gives you access to everything."
+Eddie cleared his throat. "So. The Billings. They're expecting you Friday evening for the rehearsal dinner. I told them you'd be there. The wedding planner—Terry someone—will brief you on the full itinerary and introduce you to Cheryl. Your cover story is that you're a family friend, a fix-up date for Cheryl for the weekend. Simple, clean, gives you access to everything."
 
 "And while I'm babysitting a bridesmaid, what are you doing?"
 
@@ -136,7 +136,7 @@ Doogan looked at her. Abby was sharp—sharper than she let most people see. She
 
 "I have an idea and it starts with our mysterious client." he admitted.
 
-Eddie's voice drifted back from the hallway—louder now, animated. "—no I know but he needs it like, immediately, we've got a job starting tomorrow—yeah the cops took it when they booked him, they probably thought it was a hearing aid or something—"
+Eddie's voice drifted back from the hallway—louder now, animated. "—no I know but he needs it soon, we've got a job starting this weekend—yeah the cops took it when they booked him, they probably thought it was a hearing aid or something—"
 
 Doogan's attention sharpened. He looked toward the doorway.
 
@@ -150,7 +150,7 @@ Doogan felt something settle in his chest. The earpiece. Of course. The cops too
 
 He'd been so focused on getting out, on processing the interrogation, on the lawyer and the money and the immediate crisis, that he hadn't even thought about it.
 
-Eddie was still talking. "—yeah he's fine, well not *fine* fine but he's functional, and he's got a country club gig starting tomorrow so we need him wired up—yes I know they're expensive, that's why I'm asking if you've got a spare and not if you can magic one out of thin air—"
+Eddie was still talking. "—yeah he's fine, well not *fine* fine but he's functional, and he's got a wedding weekend gig starting Friday so we need him wired up—yes I know they're expensive, that's why I'm asking if you've got a spare and not if you can magic one out of thin air—"
 
 He paused. Listened. His expression shifted—relief.
 
@@ -170,7 +170,7 @@ He ended the call. Pocketed the phone.
 
 "I'd prefer to do it awake."
 
-"Then go home, shower, shave. Look like a human being who hasn't spent the night in a holding cell. Baxter will get you wired up, I'll call you with the full brief, and then you can crash for a few hours before the job starts tomorrow."
+"Then go home, shower, shave. Look like a human being who hasn't spent the night in a holding cell. Baxter will get you wired up, I'll call you with the full brief, and you've got a couple days to get your head straight before Friday."
 
 Doogan stood. His legs felt uncertain. The coffee was helping but not enough.
 

@@ -117,6 +117,12 @@ All timestamps are relative to Doogan's dinner with Claire at the restaurant.
 - Doogan conflicted about lying to her Monday
 - **Scene:** 07-meet-cute-debrief.md
 
+### Day 2 (Sunday)
+**11:00:00** — Condo debrief continues
+- Doogan processes farmer's market encounter
+- Team discusses strategy for Monday Gelson's encounter
+- Doogan conflicted about next steps
+
 ### Day 3 (Monday Evening)
 **16:30:00** — Grocery store (tomato aisle)
 - **CRITICAL: Eddie calls for status update—Doogan says "meeting her tonight"**
@@ -195,7 +201,7 @@ All timestamps are relative to Doogan's dinner with Claire at the restaurant.
 - Doogan left alive as frame-up
 - Sealed wine bottle = drug added during manufacturing (wine scam connection)
 
-### Day 2 (Sunday Morning)
+### Day 4 (Tuesday Morning)
 **08:00:00** (estimated) — Doogan wakes up
 - Foggy consciousness, man tapping forehead
 - Badge flashes—Detective Martinez
@@ -208,7 +214,7 @@ All timestamps are relative to Doogan's dinner with Claire at the restaurant.
 
 ## Episode 2: The Wedding Weekend
 
-### Day 2 (Sunday) — Continued
+### Day 4 (Tuesday) — Continued
 **10:00:00** — Holding cell interrogation
 - Doogan reading wall graffiti: "Julio ♥ Dominique"
 - Martinez and Detective Finch arrive
@@ -217,12 +223,6 @@ All timestamps are relative to Doogan's dinner with Claire at the restaurant.
 - Martinez drops "she was strangled"
 - Doogan stays on grocery-store story
 - **Scene:** 01-holding-cell-graffiti.md
-
----
-
-## Episode 2: The Wedding Weekend
-
-### Day 2 (Sunday) — Continued
 
 **12:00:00** — Lawyer arrives, Doogan released
 - Eddie present with Hank Stillman (bottom-tier lawyer, talks like "parking meter with law degree")
@@ -244,9 +244,9 @@ All timestamps are relative to Doogan's dinner with Claire at the restaurant.
 - **New client: Thomas and Sylvia Billings**
 - Job: Keep Cheryl (maid of honor, older daughter) from detonating "social wedding of the season"
 - Younger sister Gabby is bride
-- Weekend: Saturday ceremony, Sunday brunch, but full itinerary starts tomorrow
-- Starts with Saturday morning scavenger hunt at country club
-- Rehearsal dinner Friday, reception Saturday
+- Weekend scope: Friday morning through Sunday brunch
+- Friday: morning scavenger hunt at country club and evening rehearsal dinner
+- Saturday: ceremony, reception, and brunch
 - Doogan: "A babysitting job" — Eddie: "Very well-paid babysitting"
 - **Hank wants $15,000 within 48 hours (retainer)**
 - Abby concerned: "If they find motive—" Doogan: "They won't. Because there isn't one"
@@ -273,17 +273,17 @@ All timestamps are relative to Doogan's dinner with Claire at the restaurant.
 - Fitful sleep, dreams of interrogation
 - **Scene:** 04-doogans-condo.md
 
-### Day 3 (Monday Evening)
+### Day 5 (Wednesday Evening)
 **18:00:00** — Restaurant meeting with Billings
 - Eddie and Doogan meet Thomas and Sylvia Billings
 - Thomas corrects: "Thomas, not Tom" (wealthy tell)
 - Describe Cheryl as "handful," need her contained for "social wedding of season"
 - Don't fully explain emotional landmine with groom
-- Weekend starts: Saturday morning scavenger hunt at country club
-- Terry (wedding planner) will meet Doogan there
+- Weekend starts: Friday scavenger hunt and rehearsal dinner, Saturday ceremony/reception and brunch
+- Terry (wedding planner) will meet Doogan at country club Friday morning
 - **Scene:** 05-restaurant-meeting.md
 
-### Day 9 (Saturday) — Wedding Weekend Begins
+### Day 7 (Friday) — Scavenger Hunt and Rehearsal Dinner
 **10:00:00** — Country club scavenger hunt kickoff
 - Terry introduces Doogan to Cheryl (competitive, proving something)
 - Rules: First prize designer handbag, second prize embarrassment
@@ -294,7 +294,33 @@ All timestamps are relative to Doogan's dinner with Claire at the restaurant.
 - Doogan: "On second thought, I'm going to need help"
 - **Scene:** 06-country-club-kickoff.md
 
-**10:15:00** — Eddie outside strip mall clinic (parallel timeline)
+**18:00:00** — Rehearsal dinner
+- Doogan escorts Cheryl, provides emotional support
+- Sister (bride) and groom present—tension visible
+- Martinez shows up (surveillance), questions Doogan
+- Costs Doogan the Cheryl connection—she realizes he's not just guest
+- Professional boundary crossed, Cheryl pulls back
+- **Scene:** 14-rehearsal-dinner.md
+
+**20:00:00** — The One-Way Street Trap (Martinez confrontation)
+- Doogan driving away from rehearsal dinner
+- Calls Eddie and Baxter via phone/earpiece
+- Reports being followed—car too far back to identify
+- Baxter suggests trap: downtown one-way street near older part of town
+- Eddie and Doogan confused by plan
+- Baxter explains: park in one-way, follower can't turn around—must pass or park
+- Doogan executes trap, parks in one-way street
+- Follower car approaches—Doogan recognizes Detective Martinez (not the bad guys)
+- Martinez approaches: "Are your friends investigating the clinic?"
+- Has pictures of Eddie, Baxter, and Abby at clinic
+- "Are you following us?" / "Yeah, that's how investigations work"
+- Suggests letting real cops do the work
+- Admits things don't add up with Annabelle's murder
+- But Doogan still prime suspect
+- Warning: "Don't leave town"
+- **Scene:** 15-one-way-street-trap.md
+
+**10:15:00** — Eddie outside strip mall clinic (parallel timeline - Day 7 Friday)
 - Eddie on bench, phone with Baxter
 - Baxter pulled clinic from tax records (Annabelle's real employer)
 - Martinez appears: "Funny thing—if I didn't know better, I'd say you were on a stakeout"
@@ -323,84 +349,94 @@ All timestamps are relative to Doogan's dinner with Claire at the restaurant.
 - Abby agrees to help fake IT uniform (shirt/badge/lanyard)
 - **Scene:** 09-eddies-kitchen.md
 
-**11:15:00** — Scavenger hunt continues (summary stops)
-- Bookstore with Pride & Prejudice clue
-- Travel agency with Jules Verne quote
-- "To Kill A Mockingbird" clue points to Prohibition Tacos
-- Arrive at small taco place—can't be right
-- Jillian and boyfriend still shadowing
-- **Scene:** 10-scavenger-hunt-run.md
+**11:15:00** — The Speakeasy (scavenger hunt)
+- Brief narration summary: bookstore (P&P clue) → travel agency (Jules Verne) → TKAM clue → Prohibition Tacos
+- Small taco place front
+- Ask for "mockingbird tacos," gain access to hidden speakeasy
+- Jillian and boyfriend already there with champagne (confused)
+- Doogan and Cheryl talk while waiting—getting to know each other (light conversation, no heavy emotional baggage)
+- Topics: where they're from, favorite books, funny wedding stories
+- Bartender offers champagne (test)
+- Doogan declines: Atticus Finch didn't drink
+- Get water with golden ticket on coaster
+- Cheryl impressed by Doogan's literary knowledge
+- **Scene:** 10-the-speakeasy.md
 
-**11:30:00** — Clinic infiltration attempts (montage)
-- Baxter in Abby's IT uniform, armed with jargon and fear
-- Temp receptionist waves him back—staff clock him instantly
-- Escorted out before seeing anything useful
-- Eddie tries new patient approach—temp shuts everything down
-- Eddie tries distraction + quick monitor photo
-- Photo useless: monitor playing cat videos
-- Baxter takes personal offense at cat videos
-- Eddie: "Okay. Abby goes in"
-- **Scene:** 11-clinic-montage.md
+**11:30:00** — Clinic infiltration (success with guidance)
+- Eddie and Abby in car outside clinic
+- Eddie notices Baxter has another expensive earpiece: "How many of those things does he have? We need to check the IT expenses again"
+- Abby (accountant) dismisses suggestion—bigger problems now
+- Baxter enters in IT uniform with Abby guiding him remotely through earpiece
+- Temp receptionist waves him back—it's working
+- Baxter talks to temp, uses jargon, gets software names and system details
+- Nurse Nancy appears while Baxter checking printer
+- Nancy is sharp, impatient, bitchy—snaps at him about printer, questions authorization
+- Baxter stays in character just enough; Nancy leaves before digging deeper
+- Baxter successfully gets information and exits
+- **Foreshadowing:** Nurse Nancy introduced as future problem
+- **Scene:** 11-clinic-infiltration.md
 
-**12:00:00** — Prohibition Tacos (speakeasy reveal)
-- Small taco place front, speakeasy back
-- Literature-themed cocktails (clue integration)
-- Doogan and Cheryl solve multiple rapid-fire clues
-- Jillian and boyfriend cheat, steal clue envelope
-- Race to final location (botanical gardens)
-- Cheryl and Doogan arrive seconds late—Jillian wins by cheating
-- Cheryl devastated (more than handbag loss—wedding sister tension)
-- Terry recognizes something deeper wrong
-- Doogan comforts Cheryl, reveals he knows about her ex-fiancé/groom situation
-- **Scene:** 12-prohibition-tacos.md (through garden scene)
+**12:00:00** — Finish line at country club
+- Doogan and Cheryl return with golden ticket
+- Jillian and boyfriend already there (smug, stumped)
+- Golden ticket has "Quid agis?" on back
+- Terry asks: "Are you done?"
+- Doogan realizes it's a trick, stops Cheryl from answering
+- Needles Sylvia for context about childhood
+- Baxter connects Harry Potter reference
+- Doogan answers: "Not until the fat lady sings"
+- They win—Doogan gets golf driver, Cheryl gets designer handbag
+- Jillian furious (cheated and still lost)
+- Cheryl invites Doogan to rehearsal dinner
+- **Scene:** 12-finish-line.md
 
-**14:00:00** — Abby at clinic (successful infiltration)
-- Abby uses "medical records request" cover (patient advocate)
-- Temp receptionist less guarded with female visitor
-- Abby spots patient files on cart, notes names
-- Clinic computer visible—Baxter gets software name through description
-- Abby gets kicked out but has what they need
-- **Scene:** 13-clinic-infiltration.md
+**13:00:00** — Eddie and Baxter moral choice
+- Coming off Baxter's successful infiltration, Eddie energized
+- They have software name
+- Baxter less excited—now it's possible, now it's illegal
+- Eddie pushes: with Doogan under suspicion, can't wait for subpoenas
+- Baxter resists on principle and fear—Doogan hates when he crosses lines
+- Eddie blunt: unless they want Doogan in prison for life, "clean" isn't option
+- Baxter agrees reluctantly, sets boundary Eddie tries to negotiate
+- **Scene:** 13-eddie-and-baxter.md
 
-**18:00:00** — Rehearsal dinner (wedding weekend)
-- Doogan escorts Cheryl, provides emotional support
-- Sister (bride) and groom present—tension visible
-- Martinez shows up (surveillance), questions Doogan
-- Costs Doogan the Cheryl connection—she realizes he's not just guest
-- Professional boundary crossed, Cheryl pulls back
-- **Scene:** 14-rehearsal-dinner.md
-
-### Day 10 (Sunday) — Wedding Day
+### Day 8 (Saturday) — Wedding Day
 **14:00:00** — Wedding ceremony and reception
 - Doogan keeps Cheryl from detonating (mission accomplished)
 - Cheryl's toast for sister emotional, genuine
 - Doogan stays professional distance after Martinez exposure
 - Wedding concludes without incident
 - Billings satisfied, payment secured
-- **Scene:** 15-wedding-reception.md
+- **Scene:** 16-reception.md
 
 **20:00:00** — Baxter breaches clinic system (parallel)
-- Baxter uses software name from Abby's recon
+- Baxter uses software name from infiltration
 - Gets into clinic patient database
 - Searches for Annabelle's files
 - Finds flagged patient records
 - Opens Annabelle's file—**IT DELETES ITSELF IN REAL TIME**
 - Someone else logged in, actively purging records
 - Episode cliffhanger
-- **Scene:** 16-clinic-breach.md
+- **Scene:** 17-the-file-that-vanished.md
+
+### Day 9 (Sunday) — Wedding Brunch
+**11:00:00** — Wedding brunch
+- Final wedding weekend event
+- Doogan completes job successfully
+- Billings satisfied, payment secured
 
 ---
 
 ## Episode 3: The Professional Golfer
 
-### Day 11 (Monday)
+### Day 10 (Monday)
 **08:00:00** — Team debrief (off-screen)
 - Discuss deleted files, realize opponent sophisticated
 - Need new angle: track down patients before files disappear
 - Baxter rescues six patient files before purge catches him
 - Divide patient list: three for Eddie, three for Abby
 
-### Day 12 (Tuesday Morning)
+### Day 11 (Tuesday Morning)
 **06:00:00** — Driving range at dawn
 - Mara shanking balls, distracted by video call with son Alex (4)
 - Ex-husband (Alex's father) in background making pancakes
@@ -440,7 +476,7 @@ All timestamps are relative to Doogan's dinner with Claire at the restaurant.
 - Eddie: "He gave me cookies"
 - **Scene:** Episode 3, Scene 4
 
-### Day 15 (Friday) — Pro-Am Day One
+### Day 14 (Friday) — Pro-Am Day One
 **08:00:00** — Pro-Am tournament begins
 - Doogan "coincidentally" in Mara's amateur foursome
 - Baxter feeding golf intel through earpiece
@@ -472,7 +508,7 @@ All timestamps are relative to Doogan's dinner with Claire at the restaurant.
 - Fixes TV, leaves with Tupperware, zero leads
 - **Scene:** Episode 3, Scene 7
 
-### Day 16 (Saturday) — Pro-Am Day Two
+### Day 15 (Saturday) — Pro-Am Day Two
 **19:00:00** — Quiet dinner at clubhouse
 - Mara alone, scrolling photos of Alex
 - Doogan joins, they talk
@@ -518,7 +554,7 @@ All timestamps are relative to Doogan's dinner with Claire at the restaurant.
 - After drop-off, calls for appointment: "I need Kim. Today if possible"
 - **Scene:** Episode 3, Scene 11
 
-### Day 17 (Sunday) — Tournament Final Day
+### Day 16 (Sunday) — Tournament Final Day
 **14:00:00** — 18th hole gambit
 - Mara and rival Candy tied going into 18
 - Baxter and Eddie both in Doogan's earpiece

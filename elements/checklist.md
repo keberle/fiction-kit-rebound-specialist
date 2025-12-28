@@ -11,6 +11,10 @@ Quick reference checklist for scenes, voice, and formatting.
 - **Off-Screen Events:** Never dramatize scenes where **no core POV character** is present. Use indirect delivery (dialogue recounting, briefings, documents, voicemails, interviews, news clips).
 - **Information Flow:** If the POV character didn’t witness it, the reader learns it through reported action, not omniscient narration.
 - **Character Knowledge Boundaries:** Characters can ONLY know what they've been told, researched, or witnessed directly. Never include details about other characters that the POV character couldn't possibly know yet.
+  - **First meetings:** Characters who just met know NOTHING about each other except what's been explicitly stated in dialogue
+  - **Conversation tracking:** Before Character A references any detail about Character B, verify that detail was mentioned earlier in THIS scene or a prior scene they shared
+  - **Exception:** Team members (Doogan/Eddie/Abby) can know details Baxter researched and communicated to them
+  - **Shared history:** Characters with established relationships can reference past events, but new acquaintances cannot
 - **Scene Spoiling Prevention:** Each scene should have its own dramatic purpose. Scene A should NOT reveal information that is Scene B's primary purpose to deliver. Tease or set up the next scene without spoiling it.
 
 ## Scene Opening Rules (CRITICAL — McDonald Style)
@@ -23,11 +27,54 @@ Quick reference checklist for scenes, voice, and formatting.
 - **Source Verification:** Before writing ANY detail about a character (occupation, background, possessions, relationships), CHECK the character file in `elements/characters/` first.
 - **Timeline Awareness:** Consider WHEN in the story timeline the scene occurs. What does the POV character know at THIS point?
 - **No Invented Backstory:** If a character file doesn't specify a detail (job, hometown, wealth source, education), DO NOT invent it. Leave vague or have characters explicitly state they don't know.
+- **No Detail Copying:** NEVER copy details from one character to another (professions, backgrounds, possessions, education). Check ALL character files to avoid accidental duplication. Odd coincidences undermine believability unless explicitly part of the plot.
 - **Villain/Antagonist Caution:** Be especially careful with antagonist details—many may be lies, false identities, or unknowable to protagonists at early story stages.
 - **Research Results Only:** If Baxter/team hasn't researched it yet, the characters don't know it. If they claim to know something, show where that intel came from.
 - **Anti-Pattern Sections:** Many character files contain anti-pattern sections (Fashion Anti-Patterns, Motor-Mouth Rules, Home Environment Rules). These are HARD RULES, not suggestions.
 
 ## Character-Specific Rules (CRITICAL)
+
+### The Secrecy Rule (NON-NEGOTIABLE — APPLIES TO ALL SCENES)
+**Targets NEVER know they're part of a paid rebound operation.**
+
+### ⛔ BLOCKING CONSTRAINT — VALIDATE BEFORE ANY SCENE COMPLETION ⛔
+
+**Before marking any scene complete, scan for these RED FLAG WORDS in target dialogue:**
+- "paid" / "pay" / "paying"
+- "hired" / "hire" / "hiring"
+- "job" (in context of Doogan's work)
+- "babysit" / "babysitting"
+- "service" (in context of what Doogan provides)
+- "work" (in context of "your work" to target)
+- "money" (in context of payment to Doogan)
+- "charge" / "cost" (in context of Doogan's services)
+
+**If ANY of these words appear in target dialogue, the scene has a Secrecy Rule violation and must be rewritten.**
+
+### Core Rule
+This is the foundational rule of Doogan's business and a hard constraint across all episodes:
+- Targets believe Doogan's interest is genuine and organic
+- Cover stories make Doogan's presence feel natural (mutual friend setup, chance encounter, family connection)
+- Targets may become skeptical about the *authenticity* of the connection, but they never discover it's a paid service
+- No character (target, bystander, or other party) ever references "hiring," "paying," "job," "babysit," or "service" in a way that reveals the transaction
+- Even when targets push back or express doubt, their resistance must come from emotional skepticism ("you're too good to be true"), not knowledge of the business model
+
+**Example violations to avoid:**
+- ❌ "My parents paid you to babysit me"
+- ❌ "You're paid to not mind"
+- ❌ "Whatever you're being hired to do"
+- ❌ "Is this your job?"
+- ❌ "How much are they paying you?"
+- ❌ "What do they pay you for this?"
+
+**Acceptable skepticism within cover story:**
+- ✅ "You're being nice because my parents asked you to"
+- ✅ "You're here doing a favor for them"
+- ✅ "My parents set me up with a family friend who happens to be exactly what I need. That's suspicious."
+- ✅ "You're too perfect. This feels like a setup."
+- ✅ "You're really good at this. Too good."
+
+If a target EVER learns the truth, it's a story-breaking event that ends the job immediately and becomes a major plot point. This has not happened in Episodes 1-2.
 
 ### Eddie Palmer (Motor-Mouth Style)
 - ✅ Often mid-sentence when scenes begin
@@ -57,7 +104,7 @@ Quick reference checklist for scenes, voice, and formatting.
 - **Tags & Beats:** Insert a tag or action beat after no more than three consecutive untagged lines; in multi-character scenes avoid more than five consecutive untagged lines.
 - **New Speaker:** New paragraph for each speaker.
 - **Tag Tone:** Prefer neutral tags (`said`). Reserve vivid verbs for visible actions in beats, not tags.
-- **Secrecy Rule:** Never reveal to a target that they were hired or paid to be rebounded.
+- **Secrecy Rule (CRITICAL):** Targets must NEVER be aware they were hired or part of a paid rebound operation. No dialogue should reference payment, hiring, jobs, babysitting, or professional services in relation to Doogan's presence. See "The Secrecy Rule" section above for examples.
 
 ## Research/Investigation Scene Rules (CRITICAL FOR MYSTERY PLOTS)
 - **No Invented Research Results:** When characters research other characters, results MUST come from element files

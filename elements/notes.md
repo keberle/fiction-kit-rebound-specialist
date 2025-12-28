@@ -1,5 +1,63 @@
 # Notes for the story
 
+## The Secrecy Rule (STORY-CRITICAL — NON-NEGOTIABLE)
+
+**Core Premise:** Doogan's rebound business only works if targets never know they're part of a paid operation.
+
+### ⛔ BLOCKING VALIDATION CHECK (MANDATORY BEFORE SCENE COMPLETION) ⛔
+
+**Before finalizing ANY scene with a target present, search target dialogue for these RED FLAG WORDS:**
+
+```
+paid | pay | paying | hired | hire | hiring | job | babysit | babysitting | service | charge | cost | money
+```
+
+**If ANY red flag word appears in target dialogue → IMMEDIATE REWRITE REQUIRED**
+
+**Exception:** Words used in completely different context (e.g., "pay attention," "service station," "job interview at company X") are acceptable if they have ZERO connection to Doogan's presence or the rebound operation.
+
+**When in doubt:** Rewrite to express skepticism through the COVER STORY framework, not payment/hiring language.
+
+### Why This Matters:
+- The entire business model depends on targets believing the connection is genuine
+- If targets knew they were hired entertainment, the emotional impact would be destroyed
+- Clients pay for authenticity, not performance—targets must believe Doogan's interest is real
+- This is a story-breaking violation if targets discover the truth
+
+**Cover Story Examples:**
+- **Episode 1 (Annabelle):** "Coincidental" grocery store encounter, mutual dog lover connection
+- **Episode 2 (Cheryl):** "Family friend" setup by her parents, blind date for the wedding weekend
+
+**How Targets Express Skepticism (Acceptable):**
+- Questioning whether the connection is genuine: "You're too good to be true"
+- Suspicion about convenient timing: "My parents set me up with someone perfect—that's suspicious"
+- Doubting his authenticity: "You're really good at this. Almost too good."
+- Emotional walls: "I don't trust this. It feels like a setup."
+- Within cover story: "You're being nice because my parents asked you to"
+- Within cover story: "You're here doing a favor for them"
+
+**What Targets NEVER Say (Violations):**
+- ❌ "My parents paid you"
+- ❌ "You're paid to not mind"
+- ❌ "How much are they paying you?"
+- ❌ "Is this your job?"
+- ❌ "You're babysitting me"
+- ❌ "Whatever you're hired to do"
+- ❌ "What do they pay you for this?"
+
+**The Discovery Moment (If It Happens):**
+If a target ever learns the truth, it becomes a major plot event:
+- The job ends immediately
+- Emotional fallout is severe (betrayal, humiliation)
+- Potential consequences: reputation damage, legal threat, personal danger
+- This has NOT happened in Episodes 1-2 and should only happen when the story is ready for that level of crisis
+
+**Related Character File Rules:**
+- See `characters/doogan-andrews.md` → "Relationships" → Secrecy Rule
+- See `checklist.md` → "The Secrecy Rule" section
+
+---
+
 ## Writing Discipline: McDonald Principle (Anti-Repetition)
 
 **CRITICAL RULE:** Once a character trait, wardrobe style, or location is established, DO NOT re-describe it in subsequent scenes.
@@ -124,3 +182,14 @@
 - The first time Doogan is in the holding cell he sees "Julio (heart) Dominique".
 - The second time he's in that same holding cell after Nurse Nancy's death the name "Dominique" is crossed out with thin carved lines from something sharp and the words "cheating whore" are written over it.  Doogan thinks "hmmm...that's too bad.  Poor Julio.
 - The third time he's in that same holding cell after being arrested by Martinez, the "cheating whore" is scratched out and Dominique's name is back, larger and more emphasized.  "Got to love a happy ending".
+
+## Episode 2 Wedding Weekend Continuity
+
+### Rehearsal Dinner & Surveillance (Episode 2, Scene 14)
+- **Doogan's Father's Rules Applied:** When picking up Cheryl, Doogan follows Rule #1 (get out of car, go to door) and opens passenger door for her—demonstrating these rules are active habit, not just backstory
+- **Cheryl's House:** Nice two-story, perfectly landscaped, expensive neighborhood—but not ostentatious. Modern professional aesthetic reflecting her corporate finance career. *(Established in Episode 2, Scene 14)*
+- **Cougar Moment:** Cheryl falls in love with Doogan's beat-up 1970 Mercury Cougar XR-7 convertible—sees it as perfectly him and perfectly Southern California. Perfect convertible weather for drive. This creates genuine romantic moment before surveillance intrusion.
+- **Brad/Gabby Reveal:** Cheryl discloses she dumped Brad first (six months dating), Gabby swooped in three months later and got engaged. Cheryl is self-aware: "Gabby wouldn't see it that way, though." This is the real reason Sylvia hired Doogan—containment, not just distraction.
+- **Unknown Sedan:** After dropping Cheryl home, Doogan spots a sedan that followed them from rehearsal dinner location. He guesses it's connected to people trying to frame him for Annabelle's murder (NOT Martinez at this point—unknown surveillance). This is why he declines Cheryl's implicit invitation to extend the evening.
+- **Cheryl's Line:** "I'd go just about anywhere with you, Doogan...as long as it's in this car." Shows genuine connection before surveillance costs them the moment.
+- **Timeline Setup:** Scene 15 (The One-Way Street Trap) happens AFTER Doogan leaves Cheryl's house—Doogan is being followed and calls Eddie/Baxter for help. Baxter suggests trap using one-way street downtown. When follower approaches, Doogan discovers it's Martinez (not the bad guys). Martinez confronts him about team investigating clinic. *(Established in Episode 2, Scene 14-15)*

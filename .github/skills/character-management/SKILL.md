@@ -29,6 +29,34 @@ Use this skill when you need to:
 - **Knowledge or expertise** (don't assume what character knows based on social class)
 - **Dialogue patterns** that contradict character background
 
+## Critical Rule: THE SECRECY RULE (STORY-BREAKING IF VIOLATED)
+
+**Targets NEVER know they're part of a paid rebound operation.**
+
+This is a foundational business rule documented in:
+- `elements/checklist.md` → "The Secrecy Rule" section
+- `elements/notes.md` → "The Secrecy Rule" section
+- `elements/characters/doogan-andrews.md` → "Relationships" → Secrecy Rule
+
+**What This Means for Dialogue:**
+- NO character ever references "hiring," "paying," "job," "babysit," "service"
+- Targets may doubt authenticity ("you're too good to be true") but never discover payment
+- Cover stories explain Doogan's presence (family friend, coincidence, mutual connection)
+- Targets' skepticism comes from emotional walls, not knowledge of transaction
+
+**Example Violations (NEVER WRITE):**
+- ❌ "My parents paid you"
+- ❌ "Whatever they're paying you"
+- ❌ "Is this your job?"
+- ❌ "You're babysitting me"
+
+**Acceptable Skepticism:**
+- ✅ "You're too perfect"
+- ✅ "This feels like a setup"
+- ✅ "My parents set me up with someone exactly right—that's suspicious"
+
+**If violated, the job ends immediately and becomes a story crisis (has NOT happened in Episodes 1-2).**
+
 **ANTI-FABRICATION: Social Class Assumptions**
 
 **DO NOT invent character traits based on wealth/class:**

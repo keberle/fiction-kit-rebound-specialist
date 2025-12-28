@@ -168,13 +168,13 @@ All Episode 2 draft and outline documents have been successfully reworked, revie
 - **Scene 6:** Investigation begins (Eddie POV — clinic stakeout, Martinez confrontation)
 - **Scenes 7-10:** Hunt sequence (Doogan POV — flower shop → bookstore summary → speakeasy → finish line)
 - **Scenes 11-14:** Investigation escalation (Team POV — planning → failures → Abby success → moral choice)
-- **Scenes 15-18:** Convergence (Doogan/Martinez POV — rehearsal dinner → Martinez ambush → reception → file deletion cliffhanger)
+- **Scenes 15-18:** Convergence (Doogan/Martinez POV — rehearsal dinner → one-way street trap → reception → file deletion cliffhanger)
 
 **Why This Works:**
 - **Early interweaving:** Scene 6 reminds audience of murder stakes without breaking hunt momentum
 - **Hunt integrity:** Scenes 7-10 build Cheryl/Doogan relationship arc uninterrupted (competitive tension → warming → victory)
 - **Investigation unit:** Scenes 11-14 escalate systematically (can't be interrupted without losing comedic/tension rhythm)
-- **Natural convergence:** Scenes 15-18 pay off both tracks (Cheryl reveal/Martinez surveillance → reception success → cliffhanger)
+- **Natural convergence:** Scenes 15-18 pay off both tracks (Cheryl reveal/Martinez surveillance via trap → reception success → cliffhanger)
 
 ---
 

@@ -100,7 +100,7 @@ Behind them, Jillian and her boyfriend emerged from the flower shop. Phones out.
 
 "Define 'set up.'"
 
-"Hired you. Paid you. Told you to keep me from ruining Gabby's wedding weekend." Her voice had gone flat. Resigned. "It's fine. I get it. I'm the older sister who's still single while the baby sister gets married. I'm supposed to be supportive and gracious and *thrilled* for her. And I am. Mostly. But also..." She trailed off. Shook her head. "Never mind."
+"Family friend who conveniently appeared the exact weekend they need me to behave. Who happens to be charming and knows Shakespeare and doesn't make me feel like the pathetic older sister." Her voice had gone flat. Resigned. "It's fine. I get it. I'm the older sister who's still single while the baby sister gets married. I'm supposed to be supportive and gracious and *thrilled* for her. And I am. Mostly. But also..." She trailed off. Shook her head. "Never mind."
 
 "But also it's complicated."
 

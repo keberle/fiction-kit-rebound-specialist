@@ -2,43 +2,39 @@
 
 **Draft:** 002-episode-02-draft  
 **Generated:** 2025-01-13  
-**Updated:** 2025-12-25 (REORGANIZED for alternating timelines)  
+**Updated:** 2025-12-27 (CONSOLIDATED scenes 10-13, updated to 17 scenes)  
 **Status:** Ready for implementation
 
 ---
 
-## REORGANIZATION NOTE (2025-12-25)
+## REORGANIZATION NOTE (2025-12-27)
 
-**Episode 2 outline and tasks have been REORGANIZED to alternate between timelines for better pacing and passage of time.**
+**Episode 2 outline and tasks have been CONSOLIDATED from 19 to 17 scenes.**
 
-**Key Changes:**
-- New Scene 4 (Doogan's Condo) inserted between Eddie's Kitchen and Restaurant Meeting
-- All subsequent scenes renumbered (+1)
-- Old Scene 4 (Restaurant Meeting) → **New Scene 5**
-- Old Scene 5 (Country Club) → **New Scene 6**
-- Old Scene 6 (Strip Mall Clinic) → **New Scene 7**
-- And so on through Scene 19 (File Deletion Cliffhanger)
+**Latest Changes:**
+- **Scene 10:** Combined old scenes 10 & 12 into single speakeasy scene with conversation (no longer dwelling on complicated history)
+- **Scene 11:** Reworked old scene 11 & 13 into successful Baxter infiltration with Abby guiding remotely; introduces Nurse Nancy briefly
+- **Scenes 12-17:** Renumbered from old 14-19
 
-**New Alternating Structure (19 Scenes):**
-- Scenes 1-5: Setup (unchanged except new Scene 4)
+**New Structure (17 Scenes):**
+- Scenes 1-5: Setup
 - Scene 6: Hunt begins → Scene 7: Investigation begins
 - Scene 8: Hunt continues → Scene 9: Investigation planning
-- Scene 10: Hunt accelerates → Scene 11: Investigation attempts
-- Scene 12: Hunt turning point → Scene 13: Investigation success
-- Scene 14: Hunt victory → Scene 15: Investigation moral choice
-- Scenes 16-19: Convergence (unchanged except renumbered)
+- Scene 10: Hunt turning point (speakeasy + conversation) → Scene 11: Investigation success (Baxter infiltration)
+- Scene 12: Hunt victory → Scene 13: Investigation moral choice
+- Scenes 14-17: Convergence
 
-This creates better pacing, stronger sense of time passage, and more dynamic storytelling throughout Act 2.
+This creates better pacing with consolidated scenes and stronger character development in Scene 10.
 
 ---
 
 ## Pre-Implementation Verification ✅
 
 All prerequisites completed:
-- ✅ idea.md updated to 18 scenes
+- ✅ idea.md updated
 - ✅ clarify.md complete (all questions answered)
 - ✅ plan.md regenerated with ensemble structure analysis
-- ✅ elements/outlines/episode-02.md finalized at 18 scenes
+- ✅ elements/outlines/episode-02.md finalized at 17 scenes
 - ✅ Stephen King craft review completed
 - ✅ All character files verified
 - ✅ Continuity with Episode 1 confirmed
@@ -60,9 +56,9 @@ All prerequisites completed:
 
 ---
 
-### Phase 2: Scene Drafting (Sequential 1-18, REORGANIZED with alternating timelines)
+### Phase 2: Scene Drafting (Sequential 1-17, alternating timelines)
 
-**CRITICAL:** Draft scenes in order. Each task represents one scene file. **NEW STRUCTURE alternates between hunt and investigation for better pacing.**
+**CRITICAL:** Draft scenes in order. Each task represents one scene file. **Structure alternates between hunt and investigation for better pacing.**
 
 ---
 
@@ -170,7 +166,7 @@ All prerequisites completed:
   - Billings describe Cheryl as "handful," want her "contained"
   - They don't fully explain real emotional landmine
   - Doogan fills in assumption, they don't contradict
-  - Itinerary: Saturday morning scavenger hunt at country club
+  - Itinerary: Friday morning scavenger hunt at country club
   - Sylvia: hunt should be "so much fun" (she designed it)
   - Terry will meet Doogan there
   - Button: Plan set
@@ -303,72 +299,28 @@ All prerequisites completed:
 
 ---
 
-#### **T010 — Draft Scene 10: Bookstore to Speakeasy**
+#### **T010 — Draft Scene 10: The Speakeasy**
   - **Dependencies:** T001
 
 ---
 
-#### Act 2 Part 2 — Hunt Accelerates + Investigation Attempts (Scenes 10-13)
+#### Act 2 Part 2 — Hunt Accelerates + Investigation Success (Scenes 10-11)
 
-- [ ] **T010: Draft Scene 10 — Bookstore to Speakeasy** — Draft compressed three-stop hunt montage
-  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/10-bookstore-to-speakeasy.md`
-    - Work through clue, get directed to travel agency
-  - **As they arrive at Prohibition Tacos, Doogan summarizes:**
-    - Started at bookstore with P&P clue
-    - Led to travel agency with Jules Verne quote
-    - Travel agency gave them TKAM line
-  - Baxter says TKAM points to Prohibition Tacos
-  - Doogan: "That doesn't make sense."
-  - Baxter insists they'll see
-  - Cheryl isn't sure either—just a taco place?
-  - Jillian still shadowing
-  - Button: Arrive at very small taco place with couple tables—this can't be right
-- **Cheryl Throughline (Scene 3 of 5):**
-  - Another barbed comment showing wounded pride
-  - Physical exhaustion showing through comedy
-- **Sensory:** Sweat, exhaustion, physical comedy
-- **Beats Source:** elements/outlines/episode-02.md Scene 10
-- **Acceptance:**
-  - File exists with ~1,000-1,200 words
-  - Dialogue-first opening
-  - Doogan POV maintained
-  - Summary structure compresses three stops (bookstore/travel agency/taco arrival)
-  - Cheryl barbed comment present (scene 3/5 throughline)
-  - Opens door: three locations compressed, arrive confused / Closes door: clues resolved
-  - **Timeline alternates:** Back to hunt from investigation (Scene 9)
-
----
-
-#### **T011 — Draft Scene 11: Clinic Montage**
-  - **Dependencies:** T001
-
-- [ ] **T011: Draft Scene 11 — Clinic Montage** — Draft failed infiltration attempts (TIMELINE ALTERNATES)
-  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/11-clinic-montage.md`
-      2. Eddie clean route: new patient, charm—temp shuts down
-    3. Eddie sneaky route: distraction + photo of monitor—useless (cat videos)
-    4. Baxter takes personal offense at cat videos (moral betrayal)
-  - Button: Eddie: "Okay. Abby goes in."
-- **Sensory:** Tension, frustration, boredom of stakeout/infiltration, physical comedy
-- **Beats Source:** elements/outlines/episode-02.md Scene 11
-- **Acceptance:**
-  - File exists with ~1,000-1,200 words
-  - Action or dialogue opening
-  - Eddie or Baxter POV maintained
-  - Montage structure compresses failures for pacing
-  - Opens door: escalating attempts / Closes door: Eddie/Baxter methods exhausted
-  - **Timeline alternates:** From hunt (Scene 10) to investigation
-
----
-
-#### **T012 — Draft Scene 12: Prohibition Speakeasy**
-- **POV:** Doogan
-- **File:** `content/episodes/episode-02-the-wedding-weekend/12-prohibition-speakeasy.md`
-  - **Dependencies:** T001
-
-- [ ] **T012: Draft Scene 12 — Prohibition Speakeasy** — Draft Atticus Finch drinking trick scene
-  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/12-prohibition-speakeasy.md`
-    - Jillian + boyfriend already there with champagne—how are they that fast?
-  - But they look lost, confused
+- [X] **T010: Draft Scene 10 — The Speakeasy** — Draft combined speakeasy scene with conversation
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/10-the-speakeasy.md`
+  - **Action:**
+  - **OPENING NARRATION:** Brief summary: bookstore (P&P clue) → travel agency (Jules Verne) → TKAM clue → Prohibition Tacos (makes no sense)
+  - Prohibition Tacos looks like small taco place with couple tables
+  - Baxter found Reddit post: ask for "mockingbird tacos"
+  - Doogan asks clerk; clerk gestures to hidden door
+  - Enter Prohibition Speakeasy (prohibition-era themed bar)
+  - Jillian + boyfriend already there with champagne—how are they that fast?
+  - They look lost, confused
+  - **CONVERSATION:** While waiting for bartender, Cheryl and Doogan talk
+    - Light conversation, getting to know each other
+    - Topics: where they're from, favorite books (literature-themed), funny wedding stories
+    - Cheryl's competitive nature in lighter way
+    - Keep warm, natural—avoid dwelling on complicated parts
   - **Clue Mechanics (SPECIFIC):**
     1. Bartender offers champagne
     2. Cheryl about to accept (Jillian has champagne, must be right)
@@ -378,217 +330,377 @@ All prerequisites completed:
   - As they leave, Cheryl: "So you don't drink?"
   - Doogan: "Hell no. I drink a lot. Atticus Finch didn't drink in the book."
   - Cheryl impressed—starts warming to him
-  - Turn: Doogan's literary knowledge wins round and earns respect
+  - Turn: Doogan's literary knowledge wins round and earns respect; conversation builds genuine connection
   - Button: They have golden ticket; Jillian stuck with champagne
-- **Cheryl Throughline (Scene 4 of 5):**
+- **Cheryl Throughline (Scene 3 of 5):**
   - Starts to be genuinely impressed by Doogan (TURNING POINT)
   - Competitive fire still present but respect building
-- **Sensory:** Sweat, competition, surprise/discovery of hidden bar
-- **Beats Source:** elements/outlines/episode-02.md Scene 12
+  - Light conversation reveals personality without heavy baggage
+- **Sensory:** Sweat, exhaustion, surprise/discovery of hidden bar
+- **Beats Source:** elements/outlines/episode-02.md Scene 10
 - **Acceptance:**
-  - File exists with ~1,400-1,600 words
-  - Dialogue-first opening
+  - File exists with ~1,600-1,800 words
+  - Opens with brief narration summary, then dialogue-first
   - Doogan POV maintained
+  - Summary compresses bookstore/travel agency stops
+  - Conversation section builds rapport naturally
   - Clue mechanics INTERACTIVE (champagne offer → decline → water with ticket)
-  - Cheryl warming to Doogan (scene 4/5 throughline, TURNING POINT)
-  - Opens door: hidden speakeasy discovered / Closes door: Cheryl warming (relationship arc turns)
-  - **Timeline alternates:** Back to hunt from investigation (Scene 11)
+  - Cheryl warming to Doogan (scene 3/5 throughline, TURNING POINT)
+  - Opens door: hidden speakeasy discovered, connection built / Closes door: Cheryl warming (relationship arc turns)
+  - **Timeline alternates:** Back to hunt from investigation (Scene 9)
 
 ---
 
-#### **T013 — Draft Scene 13: Clinic Success**
-- **POV:** Abby
-- **File:** `content/episodes/episode-02-the-wedding-weekend/13-clinic-success.md`
-- **Action:**
-  - Open with Abby entering or speaking to temp, already engaging
+#### **T011 — Draft Scene 11: Clinic Infiltration**
   - **Dependencies:** T001
 
-- [ ] **T013: Draft Scene 13 — Clinic Success** — Draft Abby's successful clinic infiltration (TIMELINE ALTERNATES)
-  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/13-clinic-success.md`
-    - Temp gives vague answer (kept in dark)
-  - Abby leaves like she ran errand
-  - Immediately texts/calls software name to team
-  - Button: Mission accomplished through competence, not heroics
-- **Character Voice:** Abby doesn't sound like spy—sounds like competent person
-- **Sensory:** Calm, effortless competence (no heroics)
-- **Beats Source:** elements/outlines/episode-02.md Scene 13
+- [X] **T011: Draft Scene 11 — Clinic Infiltration** — Draft successful Baxter infiltration with Abby guiding (TIMELINE ALTERNATES)
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/11-clinic-infiltration.md`
+  - **Action:**
+  - Eddie and Abby sit in car outside clinic
+  - Eddie notices Baxter has another expensive earpiece: "How many of those things does he have? We need to check the IT expenses again."
+  - Abby (their accountant) dismisses suggestion—bigger problems now
+  - Baxter enters in Abby's improvised IT uniform, armed with jargon and fear
+  - Abby in his ear from car, guiding him calmly
+  - Temp receptionist waves him back—it's working
+  - Baxter talks to temp, uses jargon, stays in character
+  - Temp is bored, helpful, gives him what he needs: software names, system details
+  - Baxter checking printer in back when Nurse Nancy appears
+  - Nancy is sharp, impatient—real bitch to him
+  - She snaps at him about printer, questions who authorized this
+  - Baxter stammers, stays in character just enough
+  - Nancy leaves in huff before digging deeper
+  - Baxter gets out with information
+  - Back in car: Eddie relieved, Abby proud, Baxter shaken but successful
+  - Turn: Baxter successfully gets software names; Nurse Nancy foreshadowed as future problem
+  - Button: Baxter: "I got what we need. And I never want to do that again."
+- **Sensory:** Tension of undercover work, physical comedy of Baxter's nervousness, Abby's calm guidance vs Eddie's anxiety
+- **Character Voice:** Abby calm and guiding, Eddie anxious, Baxter nervous
+- **NOTE:** Nurse Nancy is foreshadowing for later episode—don't go too deep or make anything up
+- **Beats Source:** elements/outlines/episode-02.md Scene 11
 - **Acceptance:**
-  - File exists with ~800-1,000 words
-  - Dialogue-first opening (Abby engaging)
-  - Abby POV maintained (first solo Abby POV scene)
-  - Abby voice correct (elevated, pragmatic, effortless)
-  - Opens door: software name acquired / Closes door: Eddie/Baxter failures resolved
-  - **Timeline alternates:** From hunt (Scene 12) to investigation
+  - File exists with ~1,200-1,400 words
+  - Dialogue-first opening (Eddie in car)
+  - Eddie or Baxter POV maintained
+  - Earpiece expense joke present
+  - Baxter gets software names successfully
+  - Nurse Nancy introduced briefly (foreshadowing only)
+  - Opens door: infiltration attempt with guidance / Closes door: software names acquired, Nancy foreshadowed
+  - **Timeline alternates:** From hunt (Scene 10) to investigation
 
 ---
 
-#### **T014 — Draft Scene 14: Finish Line**
+#### Act 2 Part 3 — Hunt Victory + Moral Choice (Scenes 12-13)
+
+#### **T012 — Draft Scene 12: Finish Line**
 - **POV:** Doogan
-- **File:** `content/episodes/episode-02-the-wedding-weekend/14-finish-line.md`
+- **File:** `content/episodes/episode-02-the-wedding-weekend/12-finish-line.md`
 - **Action:**
   - Open with arriving or Terry speaking
   - Doogan and Cheryl arrive back at country club
   - Jillian + boyfriend already there—smug, stumped
   - **Dependencies:** T001
 
----
-
-#### Act 2 Part 3 — Hunt Victory + Moral Choice (Scenes 14-15)
-
-- [ ] **T014: Draft Scene 14 — Finish Line** — Draft scavenger hunt completion scene
-  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/14-finish-line.md`
-    - Baxter (in ear) connects: password/painting/phrase
+- [X] **T012: Draft Scene 12 — Finish Line** — Draft scavenger hunt completion scene
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/12-finish-line.md`
+  - **Action:**
+  - Doogan and Cheryl arrive back at country club
+  - **CRITICAL:** See Jillian + boyfriend getting out of Uber (confirms cheating via ride share)
+  - Cheryl spots them, realizes what's happening, dismisses with sharp comment—moves on fast
+  - Terry asks: "Are you done?"
+  - Golden ticket has "Quid agis?" on back—Latin
+  - Cheryl about to answer, Doogan stops her: "It's a trick."
+  - **CRITICAL:** Sylvia NOT in scene—Doogan asks Cheryl about Sylvia's childhood
+  - Cheryl provides context (Harry Potter reference)—warm conversation, enjoying talking to Doogan
+  - Baxter (in ear) connects: password/painting/phrase
   - Terry asks again
   - Doogan answers: "Not until the fat lady sings."
   - Turn: They win
-  - Button: Jillian furious. Doogan carries flashy golf driver. Cheryl clutching handbag, says she could use ride to rehearsal dinner
-- **Cheryl Throughline (Scene 5 of 5):**
-  - Victory moment shows competitive drive masking something deeper
-  - Invitation to rehearsal dinner = trust building, emotional guard still up
-- **Sensory:** Exhaustion, competition triumph
-- **Beats Source:** elements/outlines/episode-02.md Scene 14
-- **Acceptance:**
-  - File exists with ~1,200-1,400 words
-  - Dialogue-first opening
-  - Doogan POV maintained
-  - Clue mechanics INTERACTIVE (Terry asks "Are you done?" → answer "Not until the fat lady sings")
-  - Cheryl throughline complete (scene 5/5, invitation to dinner)
-  - Opens door: hunt victory, dinner invitation / Closes door: hunt sequence complete
-  - **Timeline alternates:** Back to hunt from investigation (Scene 13)
-
----
-
-#### **T015 — Draft Scene 15: Eddie and Baxter**
-- **POV:** Eddie or Baxter
-- **File:** `content/episodes/episode-02-the-wedding-weekend/15-cross-a-few-lines.md`
-  - **Dependencies:** T001
-
-- [ ] **T015: Draft Scene 15 — Eddie and Baxter** — Draft Eddie/Baxter illegal access decision (TIMELINE ALTERNATES)
-  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/15-cross-a-few-lines.md`
-    - Eddie frames bluntly: unless they want Doogan in prison for life, "clean" isn't option
-  - Baxter agrees reluctantly, sets boundary
-  - Eddie immediately tries to negotiate boundary
-  - Button: Pivot scene—moral line about to be crossed
-- **Character Voice:** Eddie motor-mouth steamrolling Baxter's objections, tangents circle back to "Doogan can't go to prison"
-- **Beats Source:** elements/outlines/episode-02.md Scene 15
-- **Acceptance:**
-  - File exists with ~1,000-1,200 words
-  - Dialogue-first opening (Eddie energized)
-  - Eddie or Baxter POV maintained
-  - Eddie motor-mouth voice present
-  - Opens door: moral stakes (illegal system access) / Closes door: Baxter agrees
-  - **Character moment:** Eddie's loyalty overrides Baxter's caution
-
----
-
-#### **T016 — Draft Scene 16: Rehearsal Dinner**
-- **POV:** Doogan
-- **File:** `content/episodes/episode-02-the-wedding-weekend/16-rehearsal-dinner.md`
-- **Action:**
-  - Open with dinner conversation already in progress
-  - **Dependencies:** T001
-
----
-
-#### Act 3 — Convergence & Cliffhanger (Scenes 16-19)
-
-- [ ] **T016: Draft Scene 16 — Rehearsal Dinner** — Draft Cheryl's emotional reveal scene
-  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/16-rehearsal-dinner.md`
-    - Takes Cheryl home
-  - She's about to invite him in
-  - Doogan spots Martinez in car doing surveillance
-  - Turn: Martinez surveillance costs Doogan the Cheryl connection
-  - Button: Doogan waves to Martinez on way back to car. Martinez smiles, waves back.
-- **Setting:** Trendy coastal restaurant, Malibu old money vibe
-- **Cheryl Reveal:** Must feel inevitable from earlier "younger sister" comments
-- **Beats Source:** elements/outlines/episode-02.md Scene 16
+  - Terry presents prizes (handbag for Cheryl, golf driver for Doogan)
+  - Jillian furious
+  - **CHERYL THROUGHLINE (Scene 4 of 5—CRITICAL):**
+    - Victory moment but MORE focused on genuine interest in Doogan
+    - Don't dig up past about sister—she's not thinking about that
+    - Doogan has done his job: Cheryl is successfully distracted AND interested
+    - Natural conversation continues, Cheryl clearly warming
+  - Button: Cheryl implies she could use ride to rehearsal dinner tonight; Doogan more than happy to oblige
+- **Cheryl Throughline (Scene 4 of 5):**
+  - Victory moment shows successful distraction
+  - Genuine interest in Doogan emerging (job working perfectly)
+  - Invitation to rehearsal dinner = her making a move
+  - Don't reference sister/wedding drama—Cheryl is distracted and happy
+- **Sensory:** Exhaustion, competition triumph, attraction building
+- **Beats Source:** elements/outlines/episode-02.md Scene 12 (UPDATED per user request)
 - **Acceptance:**
   - File exists with ~1,400-1,600 words
   - Dialogue-first opening
   - Doogan POV maintained
-  - Cheryl reveal feels inevitable (payoff from scenes 6/8/9/10/11)
-  - Martinez surveillance costs connection (not forced)
-  - Opens door: true wedding stakes revealed / Closes door: romantic possibility ended
-  - **Discovery:** Job was containment, not distraction
+  - Jillian Uber sighting present (cheating confirmed, dismissed quickly)
+  - Sylvia NOT in scene (Doogan asks Cheryl about Sylvia)
+  - Clue mechanics INTERACTIVE (Terry asks "Are you done?" → answer "Not until the fat lady sings")
+  - Cheryl throughline correct (interested in Doogan, NOT dwelling on sister/past)
+  - Cheryl successfully distracted (Doogan's job working)
+  - Opens door: hunt victory, genuine attraction / Closes door: dinner invitation (relationship progressing)
+  - **Timeline alternates:** Back to hunt from investigation (Scene 11)
 
 ---
 
-#### **T017 — Draft Scene 17: Martinez Ambush**
+#### **T013 — Draft Scene 13: Eddie and Baxter**
+- **POV:** Eddie or Baxter
+- **File:** `content/episodes/episode-02-the-wedding-weekend/13-cross-a-few-lines.md`
   - **Dependencies:** T001
 
-- [ ] **T017: Draft Scene 17 — Martinez Ambush** — Draft Martinez surveillance reveal (CONVERGING TIMELINES)
-  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/17-martinez-ambush.md`
-    - Martinez has pictures of Eddie, Baxter, Abby at clinic
-  - "Are you following us?" / "Yeah, that's how investigations work."
-  - Martinez suggests letting real cops do the work
-  - Doogan asks where Finch is
-  - Martinez dismisses: "what is it with you and buddy cop movies"
-  - Martinez admits things don't add up but Doogan still prime suspect
-  - Button: Martinez: "I am going to have more questions. Don't leave town."
-- **Character Voice:** Martinez deadpan, measured, dry wit, calm authority
-- **Beats Source:** elements/outlines/episode-02.md Scene 17
-- **Acceptance:**
-  - File exists with ~1,000-1,200 words
-  - Dialogue-first opening
-  - Martinez POV maintained (first Martinez POV scene)
-  - Martinez voice correct (deadpan, principled)
-  - Opens door: Martinez aware of team investigation / Closes door: Doogan/Cheryl romance fully ended
-  - **Discovery:** Martinez suspects something else but can't prove innocence
-
----
-
-#### **T018 — Draft Scene 18: Reception**
-- **POV:** Doogan
-- **File:** `content/episodes/episode-02-the-wedding-weekend/18-reception.md`
-  - **Dependencies:** T001
-
-- [ ] **T018: Draft Scene 18 — Reception** — Draft wedding reception job completion
-  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/18-reception.md`
-    - Cheryl threatens catastrophic toast
-  - Doogan talks her off ledge
-  - Cheryl gives sweetest toast she's capable of—it lands
-  - Button: Job complete. Cheryl contained, wedding saved.
-- **Tone:** Funny and fast, not sentimental
-- **Beats Source:** elements/outlines/episode-02.md Scene 18
+- [X] **T013: Draft Scene 13 — Debrief and Dead Ends** — Draft team debrief scene with Doogan joining (TIMELINE ALTERNATES)
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/13-debrief-and-dead-ends.md`
+  - **Action:**
+    - Scene opens with Eddie, Baxter, Abby mid-discussion at Eddie's house
+    - Baxter working on laptop in room (not basement), trying to access medical software
+    - Eddie and Abby discussing what they've learned about Annabelle
+    - Doogan arrives partway through scene (has time between hunt and picking up Cheryl)
+    - Team catches Doogan up on progress:
+      - More info on Annabelle (clinic connection, background)
+      - Sebastian doesn't make sense—no connection to clinic found
+      - Baxter can't find Sebastian anywhere in systems
+      - Eddie admits: didn't get company name for Sebastian's fake company—dead end
+    - Baxter still working on medical software—it's complicated
+    - Eddie responds: "Yeah...we covered that...not like the movies"
+    - Abby present, contributing observations from infiltration
+    - Scene ends with Sebastian as dead end, medical software as ongoing work
+  - Button: Sebastian is a ghost—and that's Eddie's mistake
+  - **Timeline Note:** Doogan has time gap between winning hunt and picking up Cheryl for rehearsal dinner
+  - **Character Dynamics:** 
+    - Baxter NOT resistant—just doing complex technical work
+    - Eddie admits his mistake (no company name)
+    - Abby pragmatic, helping analyze what they know
+    - Doogan checking in before returning to job
+- **Character Voice:** Eddie motor-mouth when explaining, Abby sharp observations, Baxter focused on technical work
+- **Beats Source:** elements/outlines/episode-02.md Scene 13 (UPDATED)
 - **Acceptance:**
   - File exists with ~1,200-1,400 words
-  - Dialogue-first opening
-  - Doogan POV maintained
-  - Tone: funny/fast, not sentimental
-  - Opens door: reception chaos, toast threat / Closes door: job complete
-  - **Payoff:** Doogan succeeds at containment despite losing connection
+  - Scene opens with team already in progress (dialogue-first)
+  - Doogan joins partway through (Eddie or Team POV at start, shifts when Doogan arrives)
+  - Baxter working on laptop in room throughout scene
+  - Sebastian dead end clearly established (no company name = no trace)
+  - Eddie admits mistake (didn't get company name)
+  - Abby present and contributing
+  - Medical software work shown as complex but progressing
+  - "Not like the movies" line present
+  - Opens door: Doogan updated on investigation / Closes door: Sebastian is untraceable
 
 ---
 
-#### **T019 — Draft Scene 19: The File That Vanished**
-- **POV:** Baxter (with Eddie/Abby present)
-- **File:** `content/episodes/episode-02-the-wedding-weekend/19-the-file-that-vanished.md`
+#### Act 3 — Convergence & Cliffhanger (Scenes 14-17)
+
+- [X] **T014: Draft Scene 14 — Rehearsal Dinner** — Draft Cheryl's emotional reveal and surveillance intrusion scene
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/14-rehearsal-dinner.md`
+  - **Action:**
+    - **Pickup at Cheryl's house:**
+      - Doogan arrives at Cheryl's door (nice two-story house, perfectly landscaped, expensive neighborhood)
+      - She's happy to see him but maintains some reserve (not too easy—wounded pride)
+      - Walks her to his car—she sees the 1970 Mercury Cougar XR-7 convertible
+      - Doogan assumes she'd be too fancy for the beat-up car
+      - She falls in love with it: perfectly him, perfectly Southern California
+      - He opens passenger door for her (Father's Rule #1)
+    - **Drive to rehearsal dinner:**
+      - Brief, light, flirty conversation in perfect convertible weather
+      - **Narration bridge:** Cover drive without dwelling—resume mid-sentence pulling into parking lot
+      - Jillian and boyfriend give them side-eye look heading in
+    - **At the rehearsal dinner:**
+      - Wedding party table runs short of space
+      - Cheryl sneaks off to two-person table with Doogan
+      - Both keep eye out for toasts/duties
+      - Cheryl fills Doogan in on earlier rehearsal—ceremony will be obnoxious
+      - Doogan positive and supportive: "It's just one day"
+      - **Reveal:** Cheryl discloses Brad was her boyfriend first, she dumped him, Gabby swooped in
+      - Cheryl adds: "Gabby wouldn't see it that way, though" (self-aware, fair)
+      - Doogan keeps her buoyant, doesn't break Secrecy Rule
+    - **Drive home:**
+      - Drives Cheryl home
+      - Cheryl: "I'd go just about anywhere with you, Doogan...as long as it's in this car."
+      - Doogan spots sedan that followed them from rehearsal dinner
+      - Guesses: people trying to frame him (NOT Martinez—unknown sedan)
+      - Declines to extend evening (big day tomorrow—wedding)
+      - Cheryl visibly disappointed but tries not to show it
+    - Turn: Cheryl reveals Brad/Gabby history—Doogan realizes containment is real job; surveillance intrudes
+    - Button: Doogan pulls away, sedan follows
+  - **Setting Details:**
+    - **Cheryl's house:** Nice, not ostentatious, two-story, perfectly landscaped, expensive neighborhood
+    - **Doogan's Cougar:** 1970 Mercury Cougar XR-7 convertible—faded dark blue paint, cracked leather, patched soft top, perfect SoCal style
+    - **Rehearsal dinner venue:** TBD (coastal, upscale, trendy)
+  - **Character Voice:**
+    - Cheryl: Sharp, competitive edge softening to genuine warmth with Doogan
+    - Doogan: Charming, supportive, reading subtext but not breaking Secrecy Rule
+  - **Emotional Arc:**
+    - Light/flirty → deeper reveal → romantic possibility → surveillance intrusion
+  - **Beats Source:** elements/outlines/episode-02.md Scene 14
+  - **Acceptance Criteria:**
+    - File exists with ~1,800-2,200 words (longer scene with multiple locations)
+    - Dialogue-first opening (Doogan at Cheryl's door OR dialogue in car)
+    - Doogan POV maintained throughout
+    - Cheryl's house described once (established in setting.md)
+    - Cougar described (details match Doogan's character file)
+    - Drive covered with narration bridge (not extended dialogue)
+    - Brad/Gabby reveal feels earned and inevitable
+    - Surveillance sedan (NOT Martinez) follows from dinner
+    - Opens door: Cheryl's deeper wound revealed / Closes door: surveillance costs romantic connection
+    - **Discovery:** Job is containment; surveillance is active threat
   - **Dependencies:** T001
 
-- [ ] **T019: Draft Scene 19 — The File That Vanished** — Draft system breach cliffhanger (CLIMAX)
-  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/19-the-file-that-vanished.md`
-    - Finds file Annabelle flagged on her last day
-  - Annabelle's note: "Something isn't right about this. Need to double check."
-  - As Baxter starts reading, file disappears in real time
-  - Baxter checks active sessions: someone else on system right now deleting files
-  - Button/Cliffhanger: Someone is actively covering tracks RIGHT NOW
-- **NOTE:** Doogan is NOT present (team POV only)
-- **Beats Source:** elements/outlines/episode-02.md Scene 19
+- [X] **T015: Draft Scene 15 — The One-Way Street Trap** — Draft Doogan/Martinez confrontation via car trap (CONVERGING TIMELINES)
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/15-one-way-street-trap.md`
+  - **Action:**
+    - **Opening — Driving away from rehearsal dinner:**
+      - Doogan on phone via earpiece with Eddie and Baxter
+      - Eddie/Baxter ask how rehearsal dinner went
+      - Doogan says it was fine but he's being followed—car too far back to identify faces/plates
+    - **Baxter's trap plan:**
+      - Baxter suggests heading downtown, one-way street near older part of town (about half mile)
+      - Eddie and Doogan confused
+      - Baxter explains: make sure they're following, duck into one-way street and park
+      - It's one-way—they can't turn around, must drive past or park
+    - **The trap execution:**
+      - Doogan executes plan, parks on one-way street
+      - Follower car approaches
+      - Doogan recognizes Detective Martinez (not the people framing him)
+    - **Martinez confrontation:**
+      - Martinez approaches parked Cougar
+      - "Are your friends investigating the clinic?" — Has pictures of Eddie, Baxter, Abby at clinic
+      - "Are you following us?" / "Yeah, that's how investigations work"
+      - Martinez suggests letting real cops do the work
+      - Doogan asks where Finch is
+      - Martinez dismisses: "what is it with you and buddy cop movies"
+      - Martinez admits things don't add up but Doogan still prime suspect
+    - Button: Martinez: "I am going to have more questions. Don't leave town."
+  - **Character Voice:**
+    - Doogan: Sharp, strategic, working with team via earpiece
+    - Baxter: Problem-solver, clear tactical thinking
+    - Eddie: Confused but trusts Baxter's plan
+    - Martinez: Deadpan, measured, dry wit, calm authority
+  - **Setting Details:**
+    - Downtown older section, one-way street (narrow, older buildings)
+    - Doogan's Cougar parked, Martinez's sedan forced to approach
+  - **Beats Source:** elements/outlines/episode-02.md Scene 15
+  - **Acceptance Criteria:**
+    - File exists with ~1,200-1,500 words
+    - Opens with dialogue via earpiece (Doogan driving)
+    - Doogan POV maintained throughout
+    - Baxter's trap explained clearly and logically
+    - Moment of recognition when Doogan sees it's Martinez (not bad guys)
+    - Martinez voice correct (deadpan, principled)
+    - Opens door: Being followed after dinner / Closes door: Martinez warning + still prime suspect
+    - **Discovery:** Martinez is surveilling the whole team, not just Doogan
+
+---
+
+#### **T016 — Draft Scene 16: Reception**
+- **POV:** Doogan
+- **File:** `content/episodes/episode-02-the-wedding-weekend/16-reception.md`
+  - **Dependencies:** T001
+
+- [X] **T016: Draft Scene 16 — Reception** — Draft wedding reception job completion (LIGHT AND FUN VERSION)
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/16-reception.md`
+  - **Action:**
+    - Doogan arrives at wedding venue
+    - Terry and assistant in full wedding mode (running around, managing details with theatrical flair)
+    - Doogan sits on bride's side
+    - Cheryl spots him, gives smile and wink
+    - **Ceremony (narrated):** Breeze through with brief narration—long but not intolerable
+    - **Reception seating:** Cheryl sneaks up behind Doogan, sits at his table
+    - She's in the seat of lovely 80-year-old woman (former school teacher) who went to find a soda
+    - **Flirty exchange:**
+      - Cheryl: "Should I be jealous?"
+      - Doogan: "We'll have to see what type of soda she finds."
+    - **Reception activities (narrated):** Expensive dinner, chefs at each table, full host bar, live band
+    - Doogan polite and present throughout
+    - Bridal party departs main table, Doogan sees Cheryl again
+    - **Cheryl's transformation:** She's not carrying the weight anymore—Doogan's distraction working, she's enjoying herself
+    - **Toast time:** Different Cheryl stands up (not the wounded one from scavenger hunt)
+    - She gives sweet, funny, heartfelt toast to sister and Brad
+    - **Toast content:** Short (3-4 paragraphs)—childhood memory, roast-the-groom moment, genuine sisterly love, wishes them lifetime of laughter
+    - **Toast inspiration:** Classic maid of honor beats but SHORT and genuine (research done via internet for structural inspiration, not copying)
+    - After toast, Cheryl returns to Doogan's table, glowing and relieved
+    - Doogan visibly impressed
+    - Cheryl: "I think my work is done here. If you wouldn't mind taking me home."
+    - Doogan: "What about the hokie pokie?"
+    - Cheryl: "Screw the hokie pokie. You're coming with me." (Grabs his hand, pulls him out)
+  - Button: Playful, romantic exit—job succeeded through connection, not containment
+- **Tone:** LIGHT, FUN, ROMANTIC COMEDY ENERGY—much lighter than original containment version
+- **Character Notes:**
+  - Terry's background chaos adds color and comedy
+  - 80-year-old teacher moment is charming and levity
+  - Cheryl's transformation is the PAYOFF—she let go of the weight
+- **Beats Source:** elements/outlines/episode-02.md Scene 16 (REVISED)
 - **Acceptance:**
-  - File exists with ~1,000-1,200 words
-  - Dialogue-first opening
-  - Baxter POV maintained (Eddie/Abby present but Baxter POV)
-  - Doogan NOT present
-  - Opens door: file discovered with Annabelle's note / Closes door: file deleted (villain active NOW)
-  - **Cliffhanger:** Episode ends on active threat
-  - **Stephen King:** Discovery happens in real time, villain presence revealed through action
+  - File exists with ~1,500-1,800 words (longer to accommodate fun beats)
+  - Dialogue-first opening OR action opening (Doogan arriving)
+  - Doogan POV maintained
+  - Tone: light, fun, romantic energy
+  - Terry's wedding chaos present in background
+  - 80-year-old teacher flirtation moment included
+  - Ceremony breezed through with narration
+  - Reception activities shown through narration
+  - Cheryl's toast SHORT (3-4 paragraphs), sweet, funny, heartfelt
+  - Toast feels earned—Cheryl transformed through genuine connection
+  - Button: "screw the hokie pokie" exit with hand-grab
+  - Opens door: reception in full swing, Cheryl lighter / Closes door: job complete, romantic connection established
+  - **Payoff:** Success through connection, not containment—Doogan gave her reason to let go
+
+---
+
+#### **T017 — Draft Scene 17: The File That Vanished**
+- **POV:** Baxter (with Eddie/Abby present)
+- **File:** `content/episodes/episode-02-the-wedding-weekend/17-the-file-that-vanished.md`
+  - **Dependencies:** T001
+
+- [X] **T017: Draft Scene 17 — The File That Vanished** — Draft system breach cliffhanger (CLIMAX)
+  - **Files/Directories Affected:** `content/episodes/episode-02-the-wedding-weekend/17-the-file-that-vanished.md`
+  - **Action:**
+    - **Opening — Late evening at Eddie's living room:**
+      - Eddie half asleep on the couch
+      - Abby on the couch next to him, online shopping on her phone
+      - Baxter in a chair using the coffee table as a computer desk
+      - Working quietly, late evening vibe
+    - **"Hey, this is weird":** Baxter finds something
+      - Eddie stirs awake slowly
+      - Abby responds immediately
+    - **The flagged file:** Baxter reads what he's found:
+      - Pharmacy called about wrong name getting called in on prescription
+      - When Annabelle looked up the name, there were no billing or prescription records for the prescription at all
+      - Patient record exists but almost no other information
+      - Serious painkiller prescription in wrong name—Annabelle flagged the file for review
+    - **Real-time discovery:** As Baxter is reading the file:
+      - He goes to search for other files Annabelle might have flagged or made notes in
+      - Some results show up—then they're gone
+      - Even the file he was just reading is gone
+      - Someone is deleting files RIGHT NOW
+      - Someone is covering something up
+    - Button/Cliffhanger: Strong beat—villain is active THIS MOMENT, actively erasing evidence
+  - **Setting Details:**
+    - Eddie's living room—late evening, winding down
+    - Baxter working at coffee table (using it as computer desk)
+    - Cozy but tense when discovery happens
+  - **NOTE:** Doogan is NOT present—he's at Cheryl's place for the night
+  - **Emotional Arc:** Casual late-evening work → curiosity → discovery → urgency → realization (active threat)
+  - **Beats Source:** elements/outlines/episode-02.md Scene 17
+  - **Acceptance:**
+    - File exists with ~1,000-1,200 words
+    - Opens with quiet late-evening scene (NOT dialogue-first—allows for casual opening before "hey, this is weird")
+    - Baxter POV maintained (Eddie/Abby present but Baxter POV)
+    - Doogan NOT present (explicitly at Cheryl's place)
+    - Eddie half asleep, Abby online shopping established
+    - Baxter's "hey, this is weird" triggers scene escalation
+    - Pharmacy/wrong name/painkiller details included
+    - Files disappearing in real time shown clearly
+    - Opens door: Annabelle flagged something suspicious / Closes door: active cover-up happening NOW
+    - **Cliffhanger:** Episode ends on active threat—someone deleting files in real time
+    - **Stephen King:** Discovery happens casually then escalates; villain presence revealed through action (files vanishing)
 
 ---
 
 ### Phase 3: QA Pass
 
-**T020 — QA Pass: Pre-Writing Verification Checklist**
-- **Action:** Run full checklist from elements/checklist.md against all 18 scenes
+**T018 — QA Pass: Pre-Writing Verification Checklist**
+- **Action:** Run full checklist from elements/checklist.md against all 17 scenes
 - **Checks:**
   - **Dependencies:** T001
 
@@ -596,7 +708,7 @@ All prerequisites completed:
 
 ### Phase 3: QA Pass
 
-- [ ] **T020: QA Pass — Pre-Writing Verification Checklist** — Verify all scenes meet quality standards
+- [ ] **T018: QA Pass — Pre-Writing Verification Checklist** — Verify all scenes meet quality standards
   - **Files/Directories Affected:** All scene files in `content/episodes/episode-02-the-wedding-weekend/`, `elements/checklist.md`, `elements/pov.md`, `elements/tone.md`, `voice/style.md`, `voice/format.md`
   - **Action:** Run full checklist from elements/checklist.md against all 19 scenes
   - **Acceptance Criteriar earpiece dialogue varied

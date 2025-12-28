@@ -32,6 +32,7 @@ He's the beating heart of the operation, the one who actually connects with the 
 3. **Self-Aware and Cynical** – Knows exactly what he's doing is wrong, makes sardonic observations about his own moral compromises
 4. **Conflict-Averse** – Would rather smooth things over than confront hard truths, especially about his past
 5. **Genuine Despite the Con** – When he falls for someone during a job, it's real—which is both his superpower and his curse
+6. **Work Evasion Expert** – Avoids discussing his actual work with targets at all costs; defaults to "consultant" and redirects conversation immediately. The less women know about what he does, the fewer awkward questions come up later. This is standard operating procedure on every job. *(Established in Episode 2, Scene 10)*
 
 ---
 
@@ -52,7 +53,7 @@ When Doogan was fifteen, his father drove him to his first date and gave him fiv
 Doogan doesn't meet many fathers anymore, but the rules still apply to every date, every job. They're part of who he is. *(Established in Episode 1, Scenes 1 & 4)*
 
 ### The First Job
-One of the few things he kept from that time: a 1970 Mercury Cougar XR-7 convertible he bought in college from an elderly woman whose husband had passed away. The car had been stored in her garage for years, and she sold it to Doogan for almost nothing because he reminded her of her late husband. It's beat to hell—faded gold paint, cracked leather, a soft top with more patches than original fabric, and an engine that requires coaxing—but Doogan refuses to replace it. In Southern California weather with the top down, that rumbling disaster of a car somehow adds to his charm. Eddie constantly tells him they make enough money for an upgrade. Abby makes fun of it relentlessly. Doogan just smiles and keeps driving it.
+One of the few things he kept from that time: a 1970 Mercury Cougar XR-7 convertible he bought in college from an elderly woman whose husband had passed away. The car had been stored in her garage for years, and she sold it to Doogan for almost nothing because he reminded her of her late husband. It's beat to hell—faded dark blue paint, cracked leather, a soft top with more patches than original fabric, and an engine that requires coaxing—but Doogan refuses to replace it. In Southern California weather with the top down, that rumbling disaster of a car somehow adds to his charm. Eddie constantly tells him they make enough money for an upgrade. Abby makes fun of it relentlessly. Doogan just smiles and keeps driving it.
 
 He drifted into this line of work almost by accident. In college, Eddie and Doogan were fraternity brothers—not trust fund kids, but the ones scraping by surrounded by wealth. The VP of their fraternity (a trust fund kid with everything handed to him) had a problem: he'd been hooking up with a girl from the sister sorority all semester while secretly engaged to a family friend's daughter back home. He needed to end things cleanly without risking the engagement or career prospects the wealthy family promised.
 
@@ -106,9 +107,32 @@ He blends Southern charm ("Now, darlin', let me ask you something...") with shar
 
 ---
 
-## The Cooking Superpower
+## Hobbies & Interests
 
-While Doogan is skilled at taking women to dinner at restaurants, the symphony, or even just a great movie, his **real superpower** is cooking for them at his condo. In his kitchen, he's completely in his element.
+Doogan is far more well-rounded than he initially appears. While he's socially adept and professionally skilled, his private life reveals layers that most targets never see:
+
+**Sailing:**
+- His true passion—loves being on the water
+- Owns or has regular access to a sailboat (details TBD)
+- The one place where his mind quiets and he can just exist without performing
+
+**Golf & Tennis:**
+- Plays both regularly and is quite good at them
+- Characteristically humble about his skill level—doesn't brag or lead with these accomplishments
+- Uses them as casual date activities when appropriate, but never to show off
+
+**Reading:**
+- Broad interests beyond what most people assume
+- Doesn't broadcast specific preferences early in relationships
+
+**The Cooking Superpower (The Strategic Secret):**
+While Doogan is an exceptional cook with a professionally outfitted kitchen, he **rarely mentions it early** in relationships. It's something women discover organically—often on their second or third date when he invites them to his condo.
+
+**Why He Doesn't Broadcast It:**
+- Too personal, too vulnerable to lead with
+- Reveals more about him than he wants targets to know upfront
+- More effective as a discovery than a promise
+- Creates genuine surprise and deeper connection when revealed naturally
 
 **What Makes It Work:**
 - **His territory:** The expensive condo with its view of city lights becomes the stage for his most effective dates
@@ -119,7 +143,7 @@ While Doogan is skilled at taking women to dinner at restaurants, the symphony, 
 **Why It's Dangerous:**
 Cooking for someone is inherently more personal than taking them to a restaurant. When Doogan invites a target to his home and cooks for her, the line between performance and reality becomes even thinner. He's not just playing a role—he's sharing his space, his skill, his taste. The women feel special because they are getting something real from him, even if the setup isn't.
 
-Claire mentioned she'd miss his cooking more than dinners out—a sign that his home-cooked meals made a deeper impression than any restaurant ever could. *(Referenced in Episode 1, Scenes 1 & 2)*
+Claire mentioned she'd miss his cooking more than dinners out—a sign that his home-cooked meals made a deeper impression than any restaurant ever could. *(Referenced in Episode 1, Scenes 1 & 2; cooking strategy refined in Episode 2, Scene 10)*
 
 ---
 

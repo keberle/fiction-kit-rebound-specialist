@@ -6,7 +6,7 @@
 **Summary:** Doogan gets hauled through a holding-cell interrogation, "lawyers up" without knowing he even has a lawyer, and gets shoved right back into work: a wealthy couple hires him to keep their older daughter (the maid of honor) from detonating a wedding weekend. The scavenger hunt becomes an obstacle course in loafers—made worse by a rival bridesmaid (Jillian) and her worthless boyfriend tailing them and then cheating to the finish. Intercut: Eddie, Abby, and Baxter chase Annabelle's real employment trail to a strip-mall clinic that won't cooperate socially or physically… until Abby gets one key data point. Baxter finally gets into the clinic system—and watches a file Annabelle flagged delete itself in real time.
 **Hook / Cold Open:** Doogan in a holding cell, reading unhinged wall graffiti, while Martinez and Finch lean on him.
 **End-Button / Cliffhanger:** Baxter opens Annabelle's flagged file — it vanishes while they watch; someone else is logged in deleting records.
-**Structure:** 19 scenes (REORGANIZED to alternate between rebound job and clinic investigation timelines for better pacing and passage of time)
+**Structure:** 17 scenes (REORGANIZED to alternate between rebound job and clinic investigation timelines for better pacing and passage of time)
 ---
 
 ## Episode Arc
@@ -128,7 +128,7 @@ How it plays:
 - Tom corrects them: "Thomas." They clock what kind of wealthy man he is immediately.
 - The Billings describe Cheryl as a "handful" and want her contained for "the social wedding of the season."
 - They don't fully explain the real emotional landmine with the groom; Doogan fills in an obvious assumption and they don't contradict him.
-- They lay out the start of the weekend: a Saturday morning scavenger hunt that begins at their country club; their wedding planner Terry will meet Doogan there.
+- They lay out the start of the weekend: a Friday morning scavenger hunt that begins at their country club; their wedding planner Terry will meet Doogan there.
 - Sylvia adds the scavenger hunt should be so much fun as she designed it herself.
 - Scene ends on the plan — no travel beats here.
 
@@ -136,7 +136,7 @@ Turn:
 Doogan realizes they're not saying the real reason out loud—and that's the real reason.
 
 Button:
-Saturday morning scavenger hunt at the country club. Terry will meet him there.
+Friday morning scavenger hunt at the country club. Terry will meet him there.
 
 ---
 
@@ -249,67 +249,19 @@ Baxter, in an "IT uniform," is an idea everyone agrees to regret later.
 
 ---
 
-## **10. Scavenger Hunt Run — "Bookstore to Speakeasy"**
-**Timeline:** Doogan (Rebound Job — Hunt Accelerates)
-
-Purpose:
-Accelerate the hunt through multiple locations via summary, arrive at Prohibition Tacos with skepticism.
-
-**Cheryl Emotional Throughline:**
-- Competitive tension rising, another barbed comment
-- Physical exhaustion showing through the comedy
-
-Beats:
-- Doogan and Cheryl hit the bookstore with the Pride & Prejudice clue.
-- At the bookstore, they work through the clue and get directed to a travel agency.
-- As they arrive at Prohibition Tacos, Doogan summarizes (to Cheryl or Baxter in his ear) the three prior stops:
-  - Started at the bookstore with the P&P clue
-  - That led them to a travel agency with a Jules Verne quote
-  - The travel agency gave them a To Kill A Mockingbird line
-- Baxter says the TKAM clue points to a place called Prohibition Tacos.
-- Doogan says that doesn't make sense.
-- Baxter insists they'll see when they get there.
-- Cheryl isn't sure either—it's just a taco place?
-- Jillian and her boyfriend are still shadowing them.
-
-Button:
-They arrive at a very small taco place with just a couple tables—this can't be right.
-
----
-
-## **11. Clinic Montage — "No. No. Cats."**
-**Timeline:** Investigation (Eddie/Baxter — Infiltration Attempts Fail)
-
-Purpose:
-Compress clinic infiltration failures into one escalating sequence that stays funny and builds to Abby.
-
-**Sensory Notes:**
-- Tension, frustration, boredom of stakeout/infiltration work
-- Physical comedy of failures
-
-Beats:
-- Baxter shows up in Abby's improvised "IT uniform," armed with jargon and fear.
-- The temp receptionist waves him back… then staff clock him instantly.
-- He gets politely escorted out before he sees anything useful.
-- Eddie tries the clean route: new patient, harmless questions, charm. The temp receptionist shuts everything down.
-- Eddie tries the sneaky route: coordinated distraction + quick photo of the monitor.
-- The photo is useless: the monitor is playing cat videos.
-- Baxter takes personal offense at cat videos like it's a moral betrayal.
-
-Button:
-Eddie: "Okay. Abby goes in."
-
----
-
-## **12. The Speakeasy Reveal — "Prohibition Speakeasy"**
+## **10. The Speakeasy — "Hidden Bar and Getting to Know You"**
 **Timeline:** Doogan (Rebound Job — Hunt Turning Point)
 
 Purpose:
-Deliver the hidden bar reveal, show Doogan's literary knowledge impressing Cheryl, catch Jillian already there.
+Deliver the hidden bar reveal, show Doogan's literary knowledge impressing Cheryl, and give them time to talk and get to know each other without dwelling on the complicated history.
+
+**Opening Summary:**
+Open with brief narration: After solving the Pride & Prejudice clue at the bookstore, they hit a travel agency (Jules Verne quote) and then got the To Kill A Mockingbird reference that led them here—to a taco place called Prohibition Tacos, which makes no sense.
 
 **Cheryl Emotional Throughline:**
 - Starts to be genuinely impressed by Doogan (turning point in her warming to him)
 - Competitive fire still present but respect building
+- Light conversation reveals personality without heavy emotional baggage
 
 **Clue Mechanics (Specific):**
 - Ask clerk for "mockingbird tacos" to access hidden door
@@ -318,12 +270,16 @@ Deliver the hidden bar reveal, show Doogan's literary knowledge impressing Chery
 - Bartender slides them water with golden ticket on coaster
 
 Beats:
+- Narration: Quick summary of bookstore → travel agency → TKAM clue → arrive at Prohibition Tacos.
 - Prohibition Tacos looks like just a small taco place with a couple tables.
 - Baxter says he found "it"—a Reddit post says to ask the clerk for mockingbird tacos.
 - Doogan asks for mockingbird tacos; clerk gestures toward a hidden door in the back.
 - They enter the Prohibition Speakeasy—a prohibition-era themed bar hidden behind the taco place.
 - Jillian and her worthless boyfriend are already there with champagne flutes—how are they running that fast?
 - But Jillian and boyfriend look lost, confused.
+- While they wait for bartender, Cheryl and Doogan talk—light conversation, getting to know each other (avoid dwelling on complicated parts).
+- Topics: where they're from, favorite books (since this is literature-themed), funny stories from past weddings, Cheryl's competitive nature in a lighter way.
+- Keep it warm, natural, building rapport without heavy emotional revelations.
 - Bartender approaches, offers Doogan and Cheryl champagne.
 - Cheryl is about to accept (Jillian has champagne, must be right).
 - Doogan notices the trick—declines. "We're not really drinkers."
@@ -334,166 +290,315 @@ Beats:
 - Cheryl is impressed—this is where she starts warming to him.
 
 Turn:
-Doogan's literary knowledge wins the round and earns Cheryl's respect.
+Doogan's literary knowledge wins the round and earns Cheryl's respect; conversation builds genuine connection.
 
 Button:
 They have the golden ticket; Jillian is still stuck inside with her champagne.
 
 ---
 
-## **13. Clinic Attempt (Success) — "Abby and the Temp"**
-**Timeline:** Investigation (Abby — Gets the Software Name)
+## **11. Clinic Infiltration — "Baxter Gets In (With Help)"**
+**Timeline:** Investigation (Eddie/Baxter/Abby — Infiltration Success)
 
 Purpose:
-Pay off the clinic-access escalation: Abby walks in calm, gets the software name, and proves she's the adult in the room.
+Deliver successful clinic infiltration with Abby guiding Baxter remotely; introduce Nurse Nancy as foreshadowing.
 
-How it plays:
-- Abby goes into the clinic alone, no theatrics.
-- She makes the temp receptionist laugh inside thirty seconds—small talk that feels effortless.
-- Abby uses a simple pretext (billing question, prescription question, "I was told to ask the front desk") and lets the temp do what bored temps do: overshare and swivel the monitor.
-- Abby clocks the clinic's software name on the screen — exactly what Baxter needs.
-- Abby asks, casually, when the regular receptionist is back.
-- The temp gives a vague answer that reveals she's been kept in the dark.
-- Abby leaves like she's just run an errand, then immediately texts/calls the software name to the guys.
+**Sensory Notes:**
+- Tension of undercover work
+- Physical comedy of Baxter's nervousness
+- Abby's calm guidance vs Eddie's anxiety
 
-This scene tells the audience:
-**Abby is quietly the most effective operator in the room.**
+Beats:
+- Eddie and Abby sit in car outside clinic.
+- Eddie notices Baxter has another expensive earpiece: "How many of those things does he have? We need to check the IT expenses again."
+- Abby (their accountant) dismisses the suggestion—there are bigger problems right now.
+- Baxter enters clinic in Abby's improvised "IT uniform," armed with jargon and fear.
+- Abby in his ear from the car, guiding him calmly.
+- Temp receptionist waves him back—it's working.
+- Baxter talks to temp, uses jargon, stays in character.
+- Temp is bored, helpful, gives him what he needs: software names, system details.
+- Baxter checking a printer in the back when Nurse Nancy appears.
+- Nancy is sharp, impatient, clearly doesn't have time for this.
+- She's a real bitch to him—snaps at him about the printer, questions who authorized this.
+- Baxter stammers, stays in character just enough.
+- Nancy leaves in a huff before digging deeper.
+- Baxter gets out with the information they need.
+- Back in car: Eddie relieved, Abby proud, Baxter shaken but successful.
 
-Notes:
-- Keep it quick; no heroics.
-- Abby shouldn't sound like a spy—she should sound like a competent person.
+Turn:
+Baxter successfully gets software names; Nurse Nancy foreshadowed as future problem.
+
+Button:
+Baxter: "I got what we need. And I never want to do that again."
 
 ---
 
-## **14. Finish Line — "Quid Agis?"**
+## **12. Finish Line — "Quid Agis?"**
 **Timeline:** Doogan (Rebound Job — Hunt Victory)
 
 Purpose:
-Make the win condition a trap; pay off Baxter's usefulness; infuriate the cheaters.
+Deliver victory, confirm Jillian's cheating, reveal Cheryl's growing interest in Doogan.
 
 **Cheryl Emotional Throughline:**
-- Victory moment shows her competitive drive clearly masking something deeper
-- Invitation to rehearsal dinner = trust building, but emotional guard still up
+- Victory moment combined with dismissing Jillian (distraction working)
+- Genuine interest in Doogan emerging—successful distraction has turned into actual attraction
+- Invitation to rehearsal dinner = her making a move, not just accepting help
+
+**CRITICAL MECHANICS:**
+- Multiple teams have golden tickets (including Jillian - she copied Cheryl/Doogan at speakeasy)
+- Golden ticket = access to final clue, NOT the prize itself
+- Final clue "Quid agis?" determines actual winner
+- Jillian has ticket but can't solve final clue (exposed as just copying)
+
+**CRITICAL CHANGES (User Request):**
+- Cheryl and Doogan see Jillian and boyfriend getting out of Uber (confirms cheating via ride share)
+- Cheryl recognizes who Jillian is, dismisses it quickly—doesn't dwell, doesn't come up again
+- Sylvia is NOT in this scene—Doogan asks Cheryl for more information about Sylvia
+- Don't dig up past about Cheryl's sister at all—she's not thinking about that
+- Doogan has done his job: Cheryl is successfully distracted and interested
+- Scene ends with Cheryl implying she could use a ride to rehearsal dinner tonight
+- Doogan is more than happy to oblige
 
 Beats:
-- Doogan and Cheryl arrive back at the country club. Jillian and boyfriend are already there—smug, stumped.
-- The golden ticket has "Quid agis?" on the back. Doogan clocks it's Latin… and then: nothing.
-- Terry (wedding planner) asks the finish-line question like it's casual: "Are you done?"
-- Cheryl is about to answer with something profane and victorious.
-- Doogan stops her. "It's a trick."
-- Doogan needles Sylvia for more context: not her degree—her childhood.
-- Sylvia mentions her mom reading Harry Potter to her and her sister.
-- Baxter, in Doogan's ear, finally connects it: the password / the painting / the phrase.
+- Doogan and Cheryl arrive back at country club
+- They see Jillian and boyfriend getting out of Uber—confirms they've been cheating (using ride share to get ahead)
+- Cheryl spots them, realizes what's happening, dismisses it with sharp comment—moves on
+- Inside: Three teams have golden tickets (including Jillian)
+- Terry reveals: golden ticket = access to final question, not the prize
+- Terry asks the finish-line question: "Are you done?"
+- Other teams answer wrong, Jillian answers wrong
+- The golden ticket has "Quid agis?" on the back—Latin
+- Cheryl is about to answer, Doogan stops her: "It's a trick."
+- Doogan needs to ask Cheryl about Sylvia's childhood (Harry Potter reference)
+- Cheryl provides the context—warm conversation, enjoying talking to Doogan
+- Baxter connects it: password/painting/phrase
 - Terry asks again. Doogan answers: "Not until the fat lady sings."
+- They win—Jillian exposed as just copying, Terry delivers burn
+- Terry presents prizes (handbag for Cheryl, golf driver for Doogan)
+- Cheryl clutching handbag, enjoying victory but MORE interested in Doogan
+- Natural conversation continues—Cheryl clearly warming to him, distracted from wedding stress
+- Scene ends with Cheryl implying she needs ride to rehearsal dinner
+- Doogan happy to help
 
 Turn:
-They win.
+They win, but more importantly: Cheryl is genuinely interested in Doogan (job working perfectly). Jillian exposed as fraud.
 
 Button:
-Jillian is furious. Doogan carries a flashy new golf driver. Cheryl, clutching the high-end handbag, says she could use a ride to the rehearsal dinner.
+Cheryl implies she could use a ride to the rehearsal dinner tonight. Doogan's more than happy to oblige.
 
 ---
 
-## **15. Eddie and Baxter — "Cross a Few Lines"**
-**Timeline:** Investigation (Eddie/Baxter — Moral Choice)
+## **13. Eddie's House — "Debrief and Dead Ends"**
+**Timeline:** Investigation (Team — Progress Report + Doogan Update)
 
 Purpose:
-Raise the investigative stakes and define the moral friction: Eddie will push; Baxter will hesitate.
+Bridge Doogan back into the investigation; show what the team has learned about Annabelle while exposing the Sebastian dead end; establish Baxter's ongoing work on medical software.
 
-**Eddie's Voice:**
-- Motor-mouth steamrolling Baxter's objections
-- Tangents circling back to "Doogan can't go to prison"
+**Scene Flow:**
+- Team (Eddie, Baxter, Abby) already in progress when scene opens
+- Discussing what they've found about Annabelle
+- Doogan arrives partway through the scene to get the update
+- Baxter is in the room (not basement), working on medical software on his laptop
+- It's complicated—Eddie responds "yeah...we covered that...not like the movies"
+
+**Key Information Delivered:**
+- They know more about Annabelle (clinic connection, her background)
+- Sebastian doesn't make sense—no connection to clinic they can find
+- Baxter can't find Sebastian anywhere in systems
+- Eddie neglected to get company name for Sebastian's fake company
+- Dead end on Sebastian—they have nothing to go on
+
+**Baxter's Work:**
+- Working on getting into medical software (complex, taking time)
+- Not resistant—this is just hard technical work
+- Progress is slow but he's making headway
 
 How it plays:
-- Coming off Abby's win, Eddie is energized: they finally have the software name.
-- Baxter is less excited than he should be—because now it's possible.
-- Eddie pushes: with Doogan under suspicion, they can't wait for subpoenas and polite requests.
-- Baxter resists on principle and fear; Doogan hates when Baxter crosses lines.
-- Eddie frames it bluntly: unless they want Doogan in prison for life, "clean" isn't an option.
-- Scene ends with Baxter agreeing, reluctantly, and setting a boundary that Eddie immediately tries to negotiate.
+- Scene opens with Eddie, Baxter, and Abby mid-discussion about what they've learned
+- Baxter at laptop in living room, trying to crack medical software
+- Eddie gives status: Annabelle's background, clinic connection confirmed
+- Abby adds observations from infiltration
+- Doogan arrives (between scavenger hunt and rehearsal dinner pickup)
+- Team catches Doogan up: progress on Annabelle, but Sebastian is a ghost
+- Eddie admits he screwed up: didn't get company name from Sebastian
+- Without company name, they have no way to trace him
+- Baxter: still working on medical software access—it's complicated
+- Eddie: "Yeah...we covered that...not like the movies"
+- Scene ends with Sebastian as dead end but medical software as ongoing work
 
 This scene tells the audience:
-**Eddie will break the rules to save his friend — and Baxter is about to, too.**
+**The team is making progress on Annabelle but Sebastian has vanished—and that's Eddie's fault.**
 
 Notes:
-- Keep it short and sharp — a pivot scene.
+- Doogan joins scene already in progress
+- Baxter working throughout scene, not resisting
+- Abby present and contributing
+- Sebastian dead end is frustrating but clear
 
 ---
 
-## **16. Rehearsal Dinner — "The Real Reason"**
+## **14. Rehearsal Dinner — "The Real Reason"**
 **Timeline:** Doogan (Rebound Job — Emotional Reveal)
 
 Purpose:
-Reveal the true wedding landmine and let Doogan do the job at a higher emotional level.
+Reveal the true wedding landmine; show Cheryl and Doogan's developing connection; introduce surveillance threat.
+
+**Setting Notes:**
+- **Cheryl's house:** Nice but not ostentatious—two-story, perfectly landscaped, expensive neighborhood (similar style to Palmer residence but smaller scale, more urban professional than suburban family)
+- **Doogan's Cougar:** 1970 Mercury Cougar XR-7 convertible—faded dark blue paint, cracked leather, patched soft top, temperamental engine. Perfectly Southern California in convertible weather.
+
+**Emotional Arc:**
+- Cheryl happy to see Doogan but not too eager (wounded pride, self-protection)
+- Falls in love with the Cougar—perfectly him, perfectly SoCal
+- Drive is light, flirty, enjoying connection
+- Dinner reveals deeper wound (Brad/Gabby history)
+- Surveillance costs them the evening extension
 
 Beats:
-- Doogan ends up seated with Cheryl; she's warmed up now.
-- Reveal: Cheryl didn't get dumped—she dumped Brad. Gabby swooped in and now she's marrying him.
-- Doogan realizes what he's really being paid for: not distraction, containment.
-- He keeps Cheryl buoyant through dinner without breaking the Secrecy Rule.
-- He takes her home and she's about to invite him in when he spots Martinez in a car, clearly following him and doing surveillance.
+- Doogan arrives at Cheryl's door (nice house, perfectly landscaped, expensive part of town)
+- She's happy to see him but maintains some reserve (not too easy)
+- Walks her to his car—she sees the convertible 1970 Cougar
+- Doogan assumes she'd be too fancy for it
+- She falls in love with it: perfectly him, perfectly Southern California
+- He opens passenger door for her (Father's Rule #1)
+- Drive to rehearsal dinner: brief, light, flirty conversation (perfect convertible weather)
+- **Narration bridge:** Cover drive time without dwelling—resume mid-sentence pulling into parking lot
+- Jillian and boyfriend give them side-eye look heading in
+- Wedding party table runs short of space
+- Cheryl sneaks off to two-person table with Doogan
+- Both keep eye out for toasts/duties
+- Cheryl fills Doogan in on earlier rehearsal—ceremony will be obnoxious
+- Doogan positive and supportive: "It's just one day"
+- **Reveal:** Cheryl discloses Brad was her boyfriend first, she dumped him, Gabby swooped in
+- Cheryl adds: "Gabby wouldn't see it that way, though" (self-aware, fair)
+- Doogan keeps her buoyant, doesn't break Secrecy Rule
+- Drives her home
+- Cheryl: "I'd go just about anywhere with you, Doogan...as long as it's in this car."
+- Doogan spots sedan that followed them from rehearsal dinner
+- Guesses: people trying to frame him
+- Declines to extend evening (big day tomorrow—wedding)
+- Cheryl visibly disappointed but tries not to show it
+- Doogan pulls away, sedan follows
+
+Turn:
+Cheryl reveals the Brad/Gabby history—Doogan realizes containment is the real job. Surveillance intrudes on personal connection.
 
 Button:
-Doogan waves to Martinez on his way back to his car. Martinez smiles and waves back.
+Sedan follows Doogan away from Cheryl's house—surveillance is active and ongoing.
 
 ---
 
-## **17. Martinez Ambush — "Are your friends investigating the clinic?"**
+## **15. The One-Way Street Trap — "Are your friends investigating the clinic?"**
 **Timeline:** Doogan (Investigation Collision)
 
 Purpose:
-Establish the dynamic between Doogan and Martinez.
+Establish the dynamic between Doogan and Martinez through clever cat-and-mouse interaction.
 
 Beats:
-- Arriving at home, Martinez parks and approaches Doogan.
-- "Are your friends investigating the clinic?" Martinez asks about Eddie and has pictures of Baxter and Abby going into the clinic.
-- "Are you following us?" Doogan asks. "Yeah, that's how investigations work" Martinez replies.
-- Martinez suggests letting the real cops do the work.
-- But Martinez does admit to Doogan that things don't add up with Annabelle's murder but that doesn't mean Doogan isn't still the prime suspect.
+- Doogan driving away from rehearsal dinner, calls Eddie and Baxter via phone/earpiece
+- Eddie and Baxter ask how rehearsal dinner went
+- Doogan says it was fine but he's being followed—car staying too far back to make out faces or license plates
+- Baxter suggests heading downtown about half mile to one-way street near older part of town
+- Eddie and Doogan confused—Baxter explains the trap:
+  - Make sure they're following
+  - Duck into one-way street and park
+  - It's one-way—they can't turn around
+  - They'll have no choice but to drive past you or park
+- Doogan executes the plan
+- As follower car approaches, Doogan recognizes it's Detective Martinez (not the people framing him)
+- Martinez has questions anyway, so this is convenient
+- Martinez approaches Doogan's parked car
+- "Are your friends investigating the clinic?" Martinez asks about Eddie and has pictures of Baxter and Abby going into the clinic
+- "Are you following us?" Doogan asks. "Yeah, that's how investigations work" Martinez replies
+- Martinez suggests letting the real cops do the work
+- But Martinez does admit to Doogan that things don't add up with Annabelle's murder but that doesn't mean Doogan isn't still the prime suspect
 
 Button:
 Martinez: "I am going to have more questions for you. Don't leave town."
 
 ---
 
-## **18. Reception — "Toast From Hell (Defused)"**
+## **16. Reception — "The Toast That Landed"**
 **Timeline:** Doogan (Rebound Job — Success)
 
 Purpose:
-Deliver the rebound-job climax and show Doogan successfully steering chaos.
+Deliver the rebound-job climax with lightness and fun—show that Doogan's presence transformed Cheryl, not through containment but through genuine distraction and connection.
+
+**Tone:** Light, fun, romantic comedy energy. A LOT more fun than originally conceived.
 
 How it plays:
-- Ceremony went fine; now it's the reception.
-- Terry and his assistant scramble with last-minute problems.
-- Cheryl is drinking hard; Doogan keeps "losing" her drink whenever he can.
-- Cheryl threatens a catastrophic toast; Doogan talks her off the ledge.
-- Payoff: Cheryl gives the sweetest toast she's capable of — it lands.
-- Button: Cheryl grabs Doogan and pulls him out, promising the hotel room.
+- **Arrival:** Doogan arrives at the wedding venue. Terry and his assistant are in full wedding mode—running around with checklists, adjusting centerpieces, managing mini-crises with theatrical flair.
+- Doogan sits on the bride's side. Cheryl spots him from across the venue, gives him a smile and a wink (she's happy he's there).
+- **Ceremony (narrated):** Breeze through the ceremony with brief narration—it's long but not intolerable. Doogan sits politely through readings, vows, the works.
+- **Reception seating:** Doogan is seated at a table nearby when Cheryl sneaks up behind him and sits down.
+- **The 80-year-old's seat:** She's taken the seat of a lovely 80-year-old woman (former school teacher) who just left to find a soda.
+- **Flirty exchange:**
+  - Cheryl jokes: "Should I be jealous?"
+  - Doogan: "We'll have to see what type of soda she finds."
+  - They flirt, light and easy.
+- **Reception activities:** Pass time through narration—Doogan is polite through what must be a very expensive dinner (chefs assigned to each table), full host bar, live band playing standards, the works.
+- **Bridal party departs:** As the evening proceeds, the bridal party leaves the main table. Doogan gets another chance to see Cheryl.
+- **Cheryl's transformation:** Doogan hasn't forgotten the parents' concern about the "toast from hell." But Cheryl isn't carrying that weight anymore. The distraction of Doogan is working—she's enjoying herself, lighter.
+- **The Toast:** When it's time for the maid of honor toast, a different version of Cheryl stands up than the one Doogan met at the scavenger hunt the morning before. She's not carrying anything around like she was. She gives her sister and Brad a sweet, funny, heartfelt toast—genuine emotion, humor, no bitterness.
+  - **Toast content:** Short and beautiful. Something about sisterhood, about how her sister always knew what she wanted (even when it wasn't convenient), about Brad being exactly the right kind of stubborn to keep up with Gabby, about wishing them a lifetime of making each other laugh.
+  - **Inspiration notes:** Think classic maid of honor beats—childhood memory, roast-the-groom moment, genuine emotion—but keep it SHORT (3-4 paragraphs max).
+- **Button:** After the toast, Cheryl returns to Doogan's table. She's glowing, relieved, transformed.
+  - Doogan is visibly impressed.
+  - Cheryl: "I think my work is done here. If you wouldn't mind taking me home."
+  - Doogan (teasing): "What about the hokie pokie?"
+  - Cheryl: "Screw the hokie pokie. You're coming with me." (She grabs his hand and pulls him out of the reception.)
 
 This scene tells the audience:
-**Doogan can keep someone from detonating their own life — and sometimes that's the whole job.**
+**Sometimes the job isn't containment—it's giving someone a reason to let go of what's weighing them down.**
 
 Notes:
-- Keep it funny and fast; don't turn it sentimental.
+- Light, fun, romantic energy—a LOT more fun than the original containment version.
+- Terry's wedding planner chaos adds color and comedy in background.
+- The 80-year-old school teacher moment is charming and adds levity.
+- Cheryl's toast transformation is the PAYOFF—Doogan's work succeeded not through talking her down but by being there.
+- Button is playful and romantic, not dramatic.
 
 ---
 
-## **19. Final Scene — "The File That Vanished"**
+## **17. Final Scene — "The File That Vanished"**
 **Timeline:** Investigation (Baxter/Eddie/Abby — Cliffhanger)
+**Time:** Late evening (Doogan is at Cheryl's place for the night)
 
 Purpose:
-Close with the mystery hook: Annabelle flagged something real, and someone is actively erasing the evidence.
+Close with the mystery hook: Annabelle flagged something real, and someone is actively erasing the evidence in real time.
+
+**Setting:**
+- Eddie's living room
+- Eddie half asleep on the couch
+- Abby on the couch next to him, online shopping on her phone
+- Baxter in a chair using the coffee table as a computer desk
 
 How it plays:
-- Eddie and Abby are in their living room; Baxter is with them on a laptop.
-- Baxter finally gets into the clinic's medical software; he's frustrated, then triumphant.
-- He finds a file Annabelle flagged on her last day.
-- Annabelle's note reads: "Something isn't right about this. Need to double check."
-- As Baxter starts reading, the file disappears in real time.
-- Baxter checks active sessions: someone else is on the system right now deleting files.
+- **Opening:** Late evening, Eddie and Abby winding down
+- Eddie is half asleep on the couch
+- Abby is online shopping on her phone, sitting next to him
+- Baxter is working at the coffee table, laptop open, clicking through files
+- **"Hey, this is weird":** Baxter finds something
+- Eddie stirs awake slowly
+- Abby responds immediately
+- **The flagged file:** Baxter reading aloud what he's found:
+  - Pharmacy called about wrong name on prescription
+  - Annabelle looked up the name—no billing or prescription records at all
+  - Patient record exists but almost no other information
+  - Serious painkiller prescription in wrong name—Annabelle flagged the file
+- **The discovery:** As Baxter is reading, he goes to search for other files Annabelle might have flagged
+- Some show up, but then they're gone
+- Even the file he was just reading is gone
+- **Real-time realization:** Someone is deleting files RIGHT NOW
+- Someone is covering something up
+- Button: Strong beat—villain is active THIS MOMENT
 
 This scene tells the audience:
-**Annabelle wasn't the story — what she found is.**
+**Annabelle wasn't the story — what she found is. And someone is trying to erase it.**
 
 Notes:
-- Doogan is not present in this scene.
+- Doogan is NOT present—he's at Cheryl's place for the night
+- Late evening setting, team winding down
+- Discovery happens casually, escalates to urgency
+- Files disappearing in real time creates immediate tension
+- End on cliffhanger: active threat, active cover-up

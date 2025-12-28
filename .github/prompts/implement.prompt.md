@@ -67,9 +67,10 @@ This stage is the execution engine of the draft flow.
          - **WAIT for user response before proceeding**
          - DO NOT INVENT details to fill gaps
      12. **OUTPUT CONTEXT VERIFICATION LOG** (see format below - now includes beat verification AND missing details)
-     13. **Invoke scene-writing skill** with full context package INCLUDING verified beat mechanisms
+     13. **OUTPUT SCENE SETUP VERIFICATION** (MANDATORY - BLOCKING REQUIREMENT - see format below)
+     14. **Invoke scene-writing skill** with full context package INCLUDING verified beat mechanisms AND confirmed scene setup
    
-   **CRITICAL: The scene-writing skill will NOT accept incomplete context.**
+   **CRITICAL: The scene-writing skill will NOT accept incomplete context OR unverified scene setup.**
    - Missing prior scene reads = continuity violations (invented store names, wrong car models, etc.)
    - Missing element files = contradictions to canon
    - Missing voice files = style violations
@@ -129,9 +130,58 @@ This stage is the execution engine of the draft flow.
    ⚠️ AWAITING USER RESPONSE BEFORE PROCEEDING
    (If missing details section has entries, STOP and wait for user input)
    
-   Context package complete. Ready to invoke scene-writing skill.
+   Context package complete. Ready for scene setup verification.
    ================================
    ```
+   
+   **Scene Setup Verification (MANDATORY - BLOCKING REQUIREMENT):**
+   
+   Before writing ANY prose, output this verification by reading the episode outline:
+   
+   ```
+   === SCENE SETUP VERIFICATION ===
+   Scene: Episode X, Scene Y — [Scene Title]
+   Source: elements/outlines/episode-XX.md, Section ##
+   
+   **QUOTE FROM OUTLINE (exact text):**
+   "[Paste the relevant section from the episode outline that describes this scene's setup]"
+   
+   **WHO is physically present in this scene:**
+   - [Character Name] — [their location/position in scene]
+   - [Character Name] — [their location/position in scene]
+   - [List ALL characters who are in the room/location]
+   
+   **WHERE are they (specific location):**
+   - [Physical location from outline: "Eddie's house", "Doogan's condo", "country club", etc.]
+   - [Room/area if specified: "living room", "dining table", "kitchen", etc.]
+   
+   **WHAT is the situation (1-2 sentence setup):**
+   - [Brief description of what's happening at scene start]
+   
+   **KEY LOGISTICS (critical details from outline):**
+   - [Any specific setup like "Baxter at laptop working", "phone call with X", "just arrived from Y", etc.]
+   - [Communication method: in-person conversation, phone call, video call, etc.]
+   - [Props/objects mentioned: laptop, coffee, documents, etc.]
+   - [Character states: exhausted, dressed for wedding, just woke up, etc.]
+   
+   **VERIFICATION CHECKLIST:**
+   - [ ] All characters from outline are listed
+   - [ ] No characters added who aren't in outline
+   - [ ] Physical location matches outline
+   - [ ] Communication method clear (in-person vs phone vs video)
+   - [ ] Critical logistics noted (who has laptop, who's sitting/standing, what objects present)
+   - [ ] Character states/appearances noted if specified
+   
+   **VALIDATION:** [PASS/FAIL]
+   
+   [If FAIL, list what information is missing or unclear from outline]
+   [If missing critical details, STOP and ask user before proceeding]
+   
+   Scene setup confirmed. Ready to invoke scene-writing skill.
+   ================================
+   ```
+   
+   **This verification is NOT optional. If you skip this step or write prose before completing it, you are violating a critical constraint.**
    
    **The scene-writing skill will handle:**
    - McDonald opening validation
@@ -141,11 +191,64 @@ This stage is the execution engine of the draft flow.
    - Scene structure (opening → escalation → turn → button)
    
    **AFTER scene-writing skill completes:**
+   - **Run POST-WRITING SELF-CONTRADICTION AUDIT** (see format below - MANDATORY)
    - **Invoke continuity-checking skill** for post-writing validation
    - Review violation report
    - Fix any detected issues
    - Re-run continuity check until clean
    - Only then mark task complete
+
+   **POST-WRITING SELF-CONTRADICTION AUDIT (MANDATORY):**
+   
+   Before finalizing scene, scan for mechanism contradictions:
+   
+   ```
+   === POST-WRITING SELF-CONTRADICTION AUDIT ===
+   Scene: Episode X, Scene Y
+   
+   **Mechanism Statements Found:**
+   [List every line that explains "how something was discovered/done"]
+   
+   **Audit Results:**
+   
+   1. Line: "She worked there cash under the table, no official records except tax forms"
+      - Mechanism: Tax forms (implies officially reported)
+      - Contradictory detail: "cash under table, no records"
+      - Problem: Tax forms exist BECAUSE it was reported, not "under the table"
+      - Status: ❌ SELF-CONTRADICTION DETECTED
+      - Fix: Remove "cash under table" → "She worked there eight months, filed 1099"
+   
+   2. Line: "Baxter found her through tax records"
+      - Mechanism: Tax records
+      - Supporting details: "She filed a 1099"
+      - Problem: None
+      - Status: ✅ PASS
+   
+   **Red Flag Patterns Checked:**
+   - [ ] "but/except" connecting contradictory facts
+   - [ ] "off books" + "found via records"
+   - [ ] "cash under table" + "tax forms"
+   - [ ] "no paper trail" + "business filing"
+   - [ ] "anonymous" + "credit card"
+   - [ ] "completely hidden" + "social media"
+   
+   **Final Status:** [PASS/FAIL]
+   [If FAIL: List all self-contradictions that need fixing]
+   ================================
+   ```
+   
+   **If audit finds self-contradictions:**
+   1. Fix each contradiction (remove contradictory detail, keep mechanism)
+   2. Re-run audit
+   3. Do NOT proceed to continuity-checking until audit passes
+   
+   **Example fixes:**
+   - ❌ "cash under table + tax forms" → ✅ "filed tax forms"
+   - ❌ "off books + found records" → ✅ "found records"
+   - ❌ "no trail + business filing" → ✅ "business filing"
+
+   **AFTER audit passes:**
+   - Invoke continuity-checking skill for full validation
 
    ### For Character Consistency
    Use the **character-management** skill (`.github/skills/character-management/SKILL.md`):

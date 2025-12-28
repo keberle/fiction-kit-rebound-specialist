@@ -82,10 +82,10 @@ Scene 3 (Eddie's Kitchen) needs Eddie steamrolling Doogan's jail trauma with job
 
 Problem 4: Martinez Surveillance Thread Feels Tacked On
 
-Scene 17 (Martinez Ambush) has Martinez confront Doogan about Eddie/Baxter/Abby investigating the clinic.
+Scene 15 (The One-Way Street Trap) has Martinez confront Doogan about Eddie/Baxter/Abby investigating the clinic.
 
 The Problem:
-This reveal happens after the rehearsal dinner in a separate scene. It reads like procedural housekeeping, not organic character conflict.
+This reveal happens after the rehearsal dinner. (NOTE: Now updated to be more dynamic—Doogan being followed, calls team, Baxter suggests trap, Martinez revealed as follower.)
 
 King's Principle: "Every scene must open a door and close another."
 
@@ -193,8 +193,8 @@ Add micro-beats in Scenes 5, 7, 9, 11, 13 showing Cheryl's wounded pride. Make S
 3. Structural Tightening (Cut 10–20%)
 
 Combine Scenes 10 + 12 into single clinic montage
-Fold Scene 17 into Scene 16 (Martinez ambush during rehearsal dinner exit)
-Result: 17 scenes instead of 19, tighter momentum
+(NOTE: Scene 15 now updated to "The One-Way Street Trap" - more dynamic Martinez confrontation)
+Result: Tighter momentum with car chase/trap sequence
 4. Eddie's Voice (Motor-Mouth Execution)
 Flag Scenes 2, 3, 4, 15 for Eddie-specific dialogue passes. Use Episode 1 Scene 3 as template.
 

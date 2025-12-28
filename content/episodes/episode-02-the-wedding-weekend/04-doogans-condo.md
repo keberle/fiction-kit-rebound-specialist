@@ -46,7 +46,7 @@ Baxter's voice came through clear, slightly tinny but perfectly audible.
 
 "Good."
 
-"Okay. You're all set." Baxter pocketed his phone. Looked at Doogan with that earnest, analytical expression he always had. "Eddie filled me in. On the arrest. And the job tomorrow."
+"Okay. You're all set." Baxter pocketed his phone. Looked at Doogan with that earnest, analytical expression he always had. "Eddie filled me in. On the arrest. And the job Friday."
 
 "Yeah."
 
@@ -74,7 +74,7 @@ The kid nodded. Packed up his equipment case with careful, precise movements. "E
 
 "Thanks."
 
-"Get some sleep. Tomorrow's going to be a long day."
+"Get some sleep. This weekend's going to be intense."
 
 Baxter headed for the door, then paused. Turned back.
 
@@ -90,7 +90,7 @@ Baxter nodded once, then left.
 
 Doogan stood alone in his immaculate condo. The city stretched out beyond the windows. His Cougar was parked in the building's garage. The earpiece sat comfortably in his ear. Essential equipment, back in place.
 
-Tomorrow he'd go to a country club and babysit a bridesmaid and pretend the last twenty-four hours hadn't happened.
+Friday he'd be back on the job and pretending all of this never happened.
 
 And Eddie and Abby would dig into Annabelle's life and figure out who'd set him up.
 

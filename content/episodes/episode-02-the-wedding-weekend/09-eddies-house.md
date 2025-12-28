@@ -1,211 +1,151 @@
 ## Scene 9 — Eddie's House
 
-"—so I'm telling you, I've been sitting on this for three hours now, running every angle I can think of, which is a lot of angles by the way because I've got a pretty extensive toolkit here, but here's the fundamental problem and I need you to understand this before you start asking me to do magic—"
+"—so Baxter, walk me through this one more time because I know you're the genius and I'm just the guy who talks too much but help me understand why you can't just do your thing, you know, the magic computer thing where you hack into systems and pull up files and make databases cry, because Martinez is breathing down our necks, he showed me pictures of you and Abby this morning which means he knows who you are and what you're doing and if we don't figure out what Annabelle was doing at that clinic before he does we're all going down for obstruction or conspiracy or whatever he decides to charge us with, so why can't you just—"
 
-Eddie had his phone on speaker, pacing the living room. Baxter's voice came through tinny but earnest.
+Eddie paced his living room, phone on speaker.
 
-"I can't hack a system I can't identify."
+"I—I can't hack a system I can't identify." Baxter's voice came through tinny and nervous. "Clinics don't—they don't post their IT infrastructure on a sign out front, you know? I need software names or vendor information or network architecture or—I mean, right now it's like trying to pick a lock when I don't even know if the building has doors or—"
 
-"But you're Baxter. You hack everything."
+"Okay but you're Baxter, you hack everything, that's literally your whole thing, I've seen you break into city databases and insurance companies and that time you got into the DMV system which I'm still not sure was legal but—"
 
-"In movies. In bad television shows where the IT guy waves his hands and says 'I'm in.' That's not how this works. That's not how any of this works." Baxter's frustration was audible. Rare for him to push back this hard. "Clinics don't post their IT infrastructure on a sign out front. I need software names, vendor information, network architecture, something. Right now I'm trying to break into a building when I don't even know if it has a door or a window or a—"
+"In movies! In—in bad TV shows where the IT guy just types really fast and says 'I'm in,' that's not—that's not real. That's not how any of this works." Baxter was talking faster now, panicked. "I need to know what system they're running before I can even start and clinics don't exactly advertise that so—"
 
-"Okay, okay, I get it, you need intel before you can work magic, that makes sense, I understand that, but we're running out of time here and Martinez is already breathing down our necks and if we don't figure out what Annabelle was doing at that clinic—"
+"So you need intel before you can work the magic, got it, makes sense, totally understand, but here's the thing, we're running out of time and if we don't figure out what Annabelle was doing before Martinez does—"
 
-"Then we need someone to go inside and look."
+"Then someone has to go inside. Physically. And—and look."
 
-Eddie stopped pacing. "Go inside."
+Eddie stopped pacing.
 
-"Physically. Walk into the building. Look at the monitors. Get me software names, vendor logos, anything I can use to—"
+"Go inside."
 
-"You want me to just walk into a medical clinic and ask to see their computer system?"
+"Physically walk in, look at the monitors, get me software names or vendor logos or anything on a screen that—that tells me what system they're running so I can actually—"
 
-"No. I want *me* to walk in and pretend to be IT support."
+"Right, okay, I can do that, I'll head over there now, tell them I'm from an insurance company doing a—wait. No. I can't." Eddie started pacing again, faster. "Martinez warned me off. Literally told me to stay away from that place. If I walk back in there asking about computer systems he'll arrest me for obstruction and then we're all screwed, Doogan's screwed, you're screwed, I'm—"
 
-Eddie blinked. Looked at his phone like Baxter might be visible through the speaker. "You."
+"So you need—you need someone else."
 
-"Me."
-
-"Baxter, no offense, but you get nervous ordering coffee. You want to impersonate an IT tech at a clinic that Martinez just told me is under investigation?"
-
-"I don't get nervous ordering coffee."
-
-"You asked for a 'medium caffeine beverage' last week."
-
-"That's technically accurate."
-
-"It's also technically weird." Eddie resumed pacing. "Look, I appreciate the initiative, I really do, but we need someone who can walk in there, be confident, not immediately look like they're committing a crime—"
-
-"I can do confident."
-
-"Baxter—"
-
-"I've been researching this. IT techs show up unannounced all the time. Software updates, system checks, vendor maintenance. I just need the right uniform, the right jargon, and thirty seconds at a terminal."
-
-Eddie stopped at the window. Stared out at the street. This was a terrible idea. This was also possibly their only idea.
-
-"What kind of uniform?"
-
-"Polo shirt with a fake company logo. Khakis. Lanyard with an ID badge. Generic enough that it doesn't raise questions."
-
-"And you just happen to have all that?"
-
-"I can make it. I've got a color printer and laminating pouches."
-
-Of course he did.
-
-"And the jargon?"
-
-"I speak fluent IT. That's literally my entire skillset."
-
-Fair point.
-
-Eddie heard footsteps behind him. Turned. Abby walked in from the kitchen, coffee mug in hand, silk blouse in champagne, tailored linen pants. She raised an eyebrow.
-
-"Who are you talking to?"
-
-"Baxter. He wants to impersonate an IT tech to get into the clinic."
-
-Abby took a sip of coffee. Looked at Eddie like he'd just suggested setting fire to the house. "Baxter. The kid who can't make eye contact with a barista. That Baxter."
-
-"That's what I said."
-
-From the phone: "I can hear you both."
-
-"I know, honey." Abby walked closer, peering at the phone. "That's why I'm saying it. You're brilliant with computers. You're absolutely terrible with people. You know this. We all know this. It's not an insult, it's just—"
-
-"A character flaw." Baxter's voice was flat.
-
-"—an observation. A fact. Like saying Eddie talks too much or I shop too much. It's just true."
-
-"I don't talk too much," Eddie said.
-
-Abby looked at him.
-
-"Okay, fine, I talk too much. But that's different. That's a feature, not a bug. Baxter walking into a medical clinic and trying to pass as a confident IT professional is like asking me to shut up for five minutes. It's theoretically possible but highly unlikely."
-
-"I'm still on the line."
-
-"We know." Abby sat on the arm of the couch, still holding her coffee. "Baxter, here's the thing. You're good at what you do. Really good. But what you're describing requires a specific skill set that you don't have. You need to walk in there, make small talk with a receptionist, project authority without being aggressive, navigate social dynamics with people who might be suspicious, and do all of that while committing what is technically a crime."
+"Yeah. Someone who can walk in, look around, get you what you need without—" Eddie stopped. Stared at the phone. "Baxter."
 
 Silence.
 
-Then: "So you're saying I can't do it."
+"Baxter, you could—"
 
-"I'm saying you'd get caught in thirty seconds. And then Martinez would have another reason to dig into our operation, and Doogan would be even more screwed than he already is."
+"No."
 
-Eddie winced. She wasn't wrong. Baxter was brilliant. Baxter was also the kind of person who looked guilty ordering a sandwich.
+"Hear me out—"
 
-"There has to be another way," Eddie said.
+"No no no, absolutely not, I know what you're—the answer is—"
 
-"There is." Abby took another sip of coffee. "I go in."
+"You're the only one who knows what to look for! You know the systems, the vendors, the software—anyone else I'd have to explain it and hope they get it right and hope they don't screw it up but you already know, you could walk in there, pretend you're IT support, say you're there for a software update or a system check or vendor maintenance, whatever, that happens all the time, right? You just said IT techs do this stuff constantly, so you walk in with a polo shirt and a fake company logo and a lanyard and boom, thirty seconds at a terminal, you're out—"
 
-Eddie and Baxter both started talking at once.
+"I—I can't—you want me to *talk* to people?" Baxter's voice cracked. "Eddie, I can barely order coffee without looking guilty. You want me to walk into a medical clinic and lie to a receptionist and pretend to be someone I'm not? They'll call the cops. They'll call Martinez. He'll—"
 
-"Abby, no, that's—"
+"Or you walk in there, you use that massive brain of yours, you remember that IT guys do this every single day and it's completely normal, and in thirty seconds you're out with what we need. Doogan's looking at a murder charge, Baxter. If we don't figure out what Annabelle found—"
 
-"You can't just—"
+"I know, I know that, but I'll get caught, you know I'll—"
 
-"—way too dangerous and—"
+Abby walked in from the kitchen, coffee mug in hand.
 
-"—need actual technical knowledge to—"
+"Who are you bullying?"
 
-She waited. Let them run out of steam. Then, calmly: "I walk in. I ask to use the bathroom. While I'm waiting, I make small talk with whoever's at the desk. I ask about their computer system because mine at home keeps crashing and I'm so frustrated with it and do they ever have problems like that, and what do they use, and—"
+"Baxter." Eddie pointed at the phone. "I'm trying to convince him to impersonate an IT tech and infiltrate the clinic."
 
-"And they tell you." Eddie stared at her. "Just like that."
+Abby stopped. Looked at the phone. Looked at Eddie.
 
-"Just like that. Because I'm not suspicious. I'm not pretending to be IT. I'm just a woman who needs to use a bathroom and happens to be chatty." Abby stood, setting her mug on the side table. "People tell me things. It's a skill."
+"Baxter. The kid who can't make eye contact with a barista."
 
-From the phone: "She's right. That would work."
+"I can hear you," Baxter said, voice small.
 
-"Of course it would work." Abby headed for the kitchen. "I'll go this afternoon. Baxter, what specifically do you need?"
+"I know, honey, that's why I'm saying it loud enough for you to hear." Abby walked closer. "You're brilliant with computers. Genuinely brilliant. But you're absolutely terrible with people. That's not an insult, that's just—"
 
-"Software names. Vendor logos. Network infrastructure details if you can see them. Anything on the monitors that looks like a system dashboard or admin interface."
+"A character flaw." Baxter sounded miserable.
 
-"Easy."
+"—an observation. Like saying Eddie talks too much or I spend too much. It's just true."
 
-Eddie followed her into the kitchen. White quartz counters, brushed nickel fixtures, everything modern and styled. Abby was already pulling out her phone.
+"I don't talk too much."
 
-"Abby, wait. Martinez literally just told me to stay away from that place. If you show up—"
+Abby looked at Eddie.
 
-"He told *you* to stay away. He doesn't know me. And even if he did, what's he going to say? 'That woman used the bathroom and made conversation'? That's not a crime."
+"Okay fine I talk too much but that's different, that's a feature, that's my whole thing. Baxter walking into a medical clinic and trying to project confidence and authority is like asking me to shut up for five minutes. Theoretically possible but—"
 
-"It is if you're doing it to gather intelligence for an investigation."
+"I'm still on the line," Baxter said quietly.
 
-"Then it's a good thing I'm not investigating anything. I'm just a woman with a small bladder and good social skills." She looked up from her phone. Smiled. That smile that meant she'd already made up her mind and Eddie could either get on board or get out of the way. "Besides, if Baxter tries to do this, he'll get caught. If you try to go back, Martinez will arrest you for obstruction. I'm the only one who can walk in there and walk out without raising suspicion."
+"We know." Abby set her mug down. "So here's what you do, Baxter. You walk in there and you do exactly what Eddie said. You impersonate an IT tech."
 
-Eddie looked at his phone. "Baxter?"
+Silence on the phone.
 
-"She's right. I hate that she's right, but she's right."
+Eddie stared at her. "Did you not just hear the part where—"
 
-"Thank you, Baxter." Abby picked up her coffee mug. "See? Even the teenager agrees with me."
+"I heard it. Nervous, uncomfortable with people, looks guilty ordering coffee. All true." Abby picked up her mug again. "Which is exactly why it'll work."
 
-"I'm eighteen."
+"I don't—I don't understand." Baxter's voice was confused.
 
-"Exactly." She headed toward the hallway. "I'll change into something more 'I need a bathroom' and less 'I'm casing your clinic,' and then I'll head over. Baxter, I'll text you photos of anything I see."
+"You think IT techs are all smooth-talking confidence machines? Half of them are just as uncomfortable as you are. Probably more. They walk into offices, mumble about firmware updates, avoid eye contact, fix the thing, and leave. That's the job." Abby took a sip of coffee. "You're not pretending to be James Bond infiltrating a secret facility. You're pretending to be a tech support guy who showed up to check on some software issue. You know more about computers than anyone in that clinic. By a lot."
 
-She disappeared down the hall.
+"But I—what if they ask questions I can't—"
 
-Eddie stood alone in the kitchen. Looked at his phone.
+"Then you mumble some technical jargon and they'll stop asking. Nobody wants a long explanation from IT." Abby leaned against the couch. "Baxter, you're overthinking this. You walk in with a polo shirt that has some fake company logo on it, you've got a lanyard with a badge, you tell the receptionist you're there to do a routine maintenance check on their practice management software, and when she looks confused—because she will—you ask to see one of the terminals. Thirty seconds looking at a screen and you're out."
 
-"This is a terrible idea."
+"That's... that's really all there is to it?"
 
-"Probably." Baxter's voice was quieter now. "But it's also the only idea that might work. And she's good at this stuff. Better than either of us."
+"That's all there is to it. IT techs do this every single day. You're just another guy in a polo shirt checking on software. Nobody's going to interrogate you."
 
-"I know. That's what scares me."
+Eddie watched his wife work. "So you're saying we dress him up like an IT tech and just... send him in."
 
-"Eddie?"
+"I'm saying I come over to Baxter's place in an hour with everything he needs. Polo shirt, fake company logo, lanyard, badge. We make him look like he belongs there." Abby looked at the phone. "Baxter, you've got a color printer, right? Can you make a badge?"
 
-"Yeah?"
+"I—yeah. I can make a badge. I've got laminating pouches and—"
 
-"If she gets caught—"
+"Perfect. I'll bring the shirt and the lanyard. You handle the logo and the badge. Make up a company name. Something boring and forgettable. 'MedTech Solutions' or 'Healthcare Systems Support' or whatever sounds real."
 
-"She won't."
+From the phone, quieter: "And you really think this'll work?"
 
-"But if she does—"
+"I think you'll walk in there, you'll look like every other uncomfortable IT guy who's ever shown up to fix a computer, and nobody will think twice about it. You'll avoid eye contact, you'll mumble some technical jargon, and they'll point you to a terminal because that's what they always do. You're not robbing a bank. You're just looking at a computer screen."
 
-"She won't, Baxter. She's too smart. Too good. And she's right—Martinez doesn't know her, doesn't have any reason to suspect her." Eddie moved to the window. Watched the street. "But yeah. If something goes wrong, we're both in deep trouble. Her, me, you, Doogan. The whole operation."
+Silence.
 
-"Then let's make sure nothing goes wrong."
+Then: "Okay. Okay, I can—I can do that."
 
-"That's the plan."
+"Of course you can." Abby headed toward the kitchen. "I'll pick up a plain polo shirt on the way over to your place. Navy or black. Medium, right?"
 
-Eddie ended the call. Stood in the kitchen alone. Fresh flowers on the counter—Abby swapped them out twice a week, kept the place looking perfect. The house was quiet. Too quiet.
+"Medium. Yeah."
 
-Somewhere across town, Doogan was running a scavenger hunt with a bridesmaid who had issues. Somewhere downtown, Martinez was building a case. And somewhere in this house, Abby was changing clothes so she could walk into a medical clinic and commit light espionage.
+"Perfect. You print a company logo patch right now—something generic—and I'll bring fabric adhesive. We stick it on the shirt, add the lanyard and badge you make, and you're done." She paused. "One hour. Have the logo and badge ready."
 
-This was fine.
+"Okay. I can—yeah. One hour." Baxter's voice was steadier now. "MedTech Solutions or Healthcare Systems Support?"
 
-Everything was fine.
+"Dealer's choice. Just make it boring."
 
-Eddie pulled out his phone. Opened his messages. Typed to Baxter: *If this goes sideways, we never talked about it.*
+She disappeared into the kitchen.
 
-Three dots appeared. Then: *Agreed. No records. No evidence.*
+Eddie picked up the phone. "You good with this?"
 
-Eddie pocketed his phone.
+"I—I don't know. Maybe? It sounds less impossible than before, but I'm still the guy who looks guilty ordering a sandwich, so—"
 
-Abby emerged from the hallway. Different outfit—simple blouse, jeans, less styled. She looked like someone who might genuinely need to use a bathroom at a strip mall clinic.
+"So you'll look guilty checking on a computer. That's fine. IT guys always look uncomfortable. It's part of the aesthetic." Eddie grinned. "Baxter, you've got this. Abby's right—you know more about computers than everyone in that building combined. You're not faking the knowledge. You're just faking the reason you're there."
 
-"How do I look?"
+"And if they ask questions?"
 
-"Like you're about to commit a felony."
+"You mumble about software patches and security updates and firmware versions until they stop listening. Trust me, nobody wants to hear IT guys explain things. That's your superpower."
 
-"Perfect." She grabbed her keys from the counter. "I'll text you when I'm done."
+Long pause. Then, tentatively: "Okay. I'll do it."
 
-"Abby—"
+"Atta boy. Abby'll text you when she's on the way over."
 
-She stopped. Turned.
+Eddie ended the call.
 
-"Be careful."
+Abby reappeared from the kitchen. "One hour. He'll have the logo and badge ready, I'll bring the shirt and supplies."
 
-"Always am."
+"You're really going to turn Baxter into an IT tech."
 
-She walked out.
+"I'm going to turn Baxter into exactly what he already is—a computer nerd in a polo shirt." She smiled. "The only difference is this time he's got a reason to be looking at their screens."
 
-Eddie stood in the kitchen. Alone. Listening to the sound of her car starting in the driveway.
+Eddie pulled out his phone. Texted Baxter: *You're gonna be great. Just remember—mumble the jargon and avoid eye contact. You're already an expert at both.*
 
-This was either going to work perfectly or blow up in all their faces.
+Three dots. Then: *If I get arrested, I'm naming you as an accomplice.*
 
-He really hoped it was the first one.
+Eddie grinned.
+
+Fair.
 
 ---

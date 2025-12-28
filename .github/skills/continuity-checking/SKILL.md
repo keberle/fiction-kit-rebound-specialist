@@ -17,6 +17,40 @@ Use this skill when you need to:
 
 ## What This Skill Detects
 
+### 0. The Secrecy Rule Violations (MOST CRITICAL - STORY-BREAKING)
+
+**Doogan's business model requires targets never know they're part of a paid operation.**
+
+**Documentation:**
+- `elements/checklist.md` → "The Secrecy Rule" section
+- `elements/notes.md` → "The Secrecy Rule" section
+- `elements/characters/doogan-andrews.md` → "Relationships" → Secrecy Rule
+
+**Violation Detection:**
+Scan dialogue for any references to:
+- ❌ Payment ("paid you," "paying you," "how much")
+- ❌ Hiring ("hired you," "whatever you're hired for")
+- ❌ Job/Work ("your job," "this is work for you")
+- ❌ Service ("providing a service," "babysitting me")
+
+**Acceptable Skepticism (NOT violations):**
+- ✅ "You're too perfect"
+- ✅ "This feels like a setup"
+- ✅ "You're really good at this"
+- ✅ Emotional doubt about authenticity
+
+**Context:**
+- Targets may doubt the connection is genuine
+- Targets may be suspicious of timing or convenience
+- But targets NEVER discover it's a paid transaction
+- Discovery would end job immediately (story crisis event)
+
+**Validation Process:**
+1. Scan ALL dialogue in target scene
+2. Flag ANY language suggesting payment/hiring/job
+3. Check if character is a target (not client, not team member)
+4. If target uses payment/job language → **CRITICAL VIOLATION**
+
 ### 1. Invented Details (Most Critical)
 
 **Proper Nouns:**
