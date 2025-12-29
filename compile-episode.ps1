@@ -269,6 +269,38 @@ if (-not $pandocPath) {
             Write-Host "  1. Open $pdfMarkdownFileName in VS Code" -ForegroundColor Yellow
             Write-Host "  2. Right-click and select 'Markdown PDF: Export (pdf)'" -ForegroundColor Yellow
         }
+        
+        # Generate Dark Mode PDF
+        Write-Host "`nGenerating Dark Mode PDF (6x9 inch book format)..." -ForegroundColor Cyan
+        
+        $pdfDarkFileName = "TheReboundSpecialist-Episode$episodeNumFormatted-darkmode.pdf"
+        
+        # Dark mode uses pagecolor for background, color for text
+        $pdfDarkPandocArgs = @(
+            $pdfMarkdownFileName,
+            "-o", $pdfDarkFileName,
+            "--pdf-engine=xelatex",
+            "-V", "geometry:paperwidth=6in",
+            "-V", "geometry:paperheight=9in",
+            "-V", "geometry:margin=0.75in",
+            "-V", "fontsize=11pt",
+            "-V", "linestretch=1.15",
+            "-V", "colorlinks=true",
+            "-V", "linkcolor=6db3f2",
+            "-V", "urlcolor=6db3f2",
+            "--include-in-header=../pdf-dark-mode.tex",
+            "--metadata", "title=The Rebound Specialist: Episode $episodeNumFormatted - $episodeTitle"
+        )
+        
+        Write-Host "Running: pandoc $($pdfDarkPandocArgs -join ' ')" -ForegroundColor Gray
+        
+        & pandoc @pdfDarkPandocArgs 2>&1 | Out-Null
+        
+        if ($LASTEXITCODE -eq 0) {
+            Write-Host "Created: output\$pdfDarkFileName" -ForegroundColor Green
+        } else {
+            Write-Warning "Dark Mode PDF generation failed (exit code $LASTEXITCODE)"
+        }
     }
     finally {
         Pop-Location
@@ -289,6 +321,7 @@ Write-Host "  → $pdfFile (for PDF source)" -ForegroundColor Green
 if ($pandocPath -and $LASTEXITCODE -eq 0) {
     Write-Host "  → output\TheReboundSpecialist-Episode$episodeNumFormatted.epub" -ForegroundColor Green
     Write-Host "  → output\TheReboundSpecialist-Episode$episodeNumFormatted.pdf (6x9 book format)" -ForegroundColor Green
+    Write-Host "  → output\TheReboundSpecialist-Episode$episodeNumFormatted-darkmode.pdf (dark mode)" -ForegroundColor Green
 }
 
 Write-Host ("=" * 60) -ForegroundColor Cyan

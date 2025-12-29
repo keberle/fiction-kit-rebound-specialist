@@ -1,100 +1,76 @@
 # Serial Fiction Format
 
-## Definition
-Serial fiction is a storytelling format where a larger narrative is divided into smaller installments and published sequentially over time. Each installment may be a chapter, short story, or episode, and they are typically released on a regular schedule.
+## Structure
 
-## Core Characteristics
-- **Installment-Based Structure:** Each part contributes to an overarching plot but often includes its own mini-arc.
-- **Continuity:** Every installment builds on previous ones.
-- **Cliffhangers & Suspense:** Commonly used to keep readers returning.
-- **Character Development:** Extended format allows for deeper arcs.
-- **Length & Consistency:** Installments usually range from 2,000–6,000 words, with consistent release schedules.
-
-## Structure & Planning
-- **Series Arc:** Define the overarching narrative and themes.
-- **Segment Arcs:** Break the story into smaller arcs or “seasons.”
-- **Pacing & Engagement:** Each installment should advance the plot and include tension or resolution cycles.
-- **Reader Feedback:** Digital platforms enable real-time interaction.
-
-## Publishing Strategies
-- **Historical Roots:** Initially published in newspapers and magazines.
-- **Modern Platforms:** Wattpad, Webtoon, and subscription apps dominate today.
-- **Release Strategies:** Sequential releases encourage sustained engagement.
-- **Community Building:** Serialized fiction fosters fandoms and discussion.
-
-## Tips for Authors
-- Plan the overarching plot and major arcs before starting.
-- End installments with hooks or cliffhangers.
-- Maintain a consistent release schedule.
-- Engage with readers for feedback and loyalty.
-
-
-## Dialogue Clarity in Serial Fiction
-
-- In scenes with rapid exchanges or multiple speakers, insert brief action beats or unique identifiers every 4–6 lines to anchor the reader.
-- Use micro-actions (e.g., “Sloane’s fingers traced the stem of her glass”) or signature phrases to reinforce who is speaking without resorting to dialogue tags.
-- For group scenes, consider a “reset” line (e.g., “Doogan glanced at the valet”) when the speaker changes or a new character enters.
-## Off-Screen Event Handling in Serial Fiction
-
-### The Team-Centric Fair-Play Rule
-- Serial mysteries must maintain **fair play**: the reader discovers clues when a **POV character** discovers them.
-- **Ensemble third-person close POV:** Each scene is anchored to one character (often Doogan; sometimes Eddie/Abby/Baxter). Never first-person ("I," "my").
-- Never cut away to villain scenes or omniscient reveals of antagonist actions.
-- Maintain tension by keeping the team (and reader) in the dark until information arrives naturally.
-
-### Indirect Information Delivery
-When important events occur off-screen (no POV character present), deliver them through:
-- **Eddie/Baxter briefings:** Background research, intel updates, surveillance reports
-- **Dialogue recounting:** Characters report what happened (incompletely, with bias, or humor)
-- **Interviews/interrogations:** Protagonist questions witnesses or suspects
-- **Documents:** Police reports, receipts, texts, emails, files
-- **Messages:** Voicemails, texts, recorded calls
-- **Media:** News clips, social media posts, blogs
-- **Comedic misunderstandings:** Conflicting accounts create humor and misdirection
-
-### Structural Benefits
-- Off-screen events become **surprises** that complicate the protagonist's life.
-- They force **pivots** in strategy and raise stakes.
-- They create **humor** through incomplete or contradictory information.
-- They maintain **mystery** by keeping villain motivations obscured.
-
-### Emergency Cutaways (Rare)
-If a scene absolutely must occur without a core POV character:
-- Keep it 1–3 paragraphs maximum
-- Keep it objective and procedural (no interiority)
-- Never reveal information the team shouldn't know
-- Use only for logistical/bureaucratic necessity 
-## Content Organization
-
-### Episode Structure
-- Each episode has its own directory: `content/episodes/episode-##-kebab-case-title/`
-- Scenes are individual files within the episode directory: `##-kebab-case-scene-name.md`
-- Scene files are numbered sequentially (01, 02, 03, etc.) to maintain correct order
-- Scene filenames use kebab-case for descriptive names
-
-### Compilation Process
-- Scene files in episode directories are working source files for editing
-- When episode is ready for "publication," all scene files are compiled into a single markdown file
-- Compiled output goes to: `output/episode-##-kebab-case-title.md`
-- Compilation preserves scene breaks and metadata
+### Episode Organization
+- Episode directories: `content/episodes/episode-##-kebab-case-title/`
+- Scene files: `##-kebab-case-scene-name.md`
+- Compiled output: `output/episode-##-kebab-case-title.md`
 
 ### Scene File Format
-- Each scene file contains:
-  - Scene heading: `## Scene # — Title`
-  - Scene content (prose)
-  - Scene break marker: `---` (triple dash on its own line)
+```markdown
+## Scene # — Title
 
-## Technical Rules & Formatting
+[Scene content]
 
-- **Dialogue Formatting:** Standard quotation marks; new speaker = new paragraph. Use tags or action beats as needed for clarity; do not tag every line.
-- **Action Beats vs. Tags:** Prefer action beats to clarify speaker and rhythm. Use neutral tags ("said") sparingly when a beat would distract or when a speaker shift is otherwise unclear.
-- **Prose:** Lean, active verbs; present action; minimal adjectives and adverbs in tags.
-- **Limits:** Insert a tag or an action beat if more than three consecutive lines of untagged dialogue occur. For multi-character scenes, avoid more than five consecutive untagged lines.
-- **Avoid:** Long stretches of untagged dialogue in multi-character scenes; avoid tagging every line—find a natural rhythm.
+---
+```
 
-## Voice Test (Formatting)
+---
 
-- Can a reader follow this exchange with no tags or beats? If yes, keep the current formatting.
-- If no, add the minimal tag or action beat needed for clarity; prefer an action beat over a tag unless the beat would distract.
-- For multi-character scenes, ensure there are never more than five consecutive untagged lines.
-``
+## Serial Fiction Principles
+
+### Installment Requirements
+- **Length:** 2,000-6,000 words per installment
+- **Hooks:** Episode openings hook within first paragraph
+- **Cliffhangers:** Episode endings create forward momentum
+- **Scene buttons:** Each scene ends on curiosity, not resolution
+
+### Scene Structure
+Every scene must have:
+1. **Hook** — Opening that pulls reader forward
+2. **Turn** — Something changes (revelation, decision, complication)
+3. **Button** — Ending that propels to next scene
+
+---
+
+## Dialogue Clarity
+
+- Insert action beats every 4-6 lines in rapid exchanges
+- Use micro-actions to reinforce speaker identity
+- "Reset" line when speaker changes or new character enters
+- Multi-character scenes: never 5+ consecutive untagged lines
+
+---
+
+## Off-Screen Events (Fair-Play Rule)
+
+**POV Anchor:** Each scene locked to one character's perspective.
+
+**Indirect Delivery Methods:**
+- Briefings from team members
+- Dialogue recounting (incomplete, biased)
+- Documents (reports, texts, emails, files)
+- Messages (voicemails, recordings)
+- Media (news clips, social posts)
+
+**Emergency Cutaways (Rare):**
+- 1-3 paragraphs maximum
+- Objective and procedural only
+- Never reveal info team shouldn't know
+
+---
+
+## Formatting Rules
+
+### Dialogue
+```markdown
+"Dialogue goes in quotes," Doogan said.
+"Action beat." Eddie tapped his tablet. "Continues dialogue."
+*Internal thought in italics.*
+```
+
+### Tags & Beats
+- New speaker = new paragraph
+- Prefer neutral tags ("said")
+- Action beats over dialogue tags when possible

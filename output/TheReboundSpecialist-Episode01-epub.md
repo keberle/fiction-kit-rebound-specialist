@@ -122,7 +122,7 @@ The tiramisu arrived—layers of cream and coffee-soaked cake, cocoa dusted acro
 
 "About the restaurant?  We both know what would happen if you cooked for me again." she said hinting at what had happened every time he had cooked for her.
 
-"About ending it.  Although, dinner at might place would have been more fun."
+"About ending it.  Although, dinner at my place would have been more fun."
 
 "You're agreeing with me dumping you." She pointed her fork at him. "That's either very mature or deeply suspicious."
 

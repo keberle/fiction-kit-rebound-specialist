@@ -1,60 +1,60 @@
-# Tone & Mood: The Rebound Specialist
+# Tone Guidelines
 
-## Overview
+## Genre Position
 
-This combined guide defines the story's tonal and mood signatures: quick, clever, and consistently funny—anchored by Doogan’s sharp, adaptive humor—and a mood that’s breezy, slightly dark, and satirical. Tone and mood work together to keep scenes fast, witty, and emotionally resonant without lingering in sentimentality.
-
----
-
-## Core Tone
-
-- **Smart, Fast, and Witty:** Scenes are driven by intelligent, rapid-fire dialogue that trusts the reader.
-- **Charming Irreverence:** Doogan’s humor is playful and never cruel; it defuses tension and reveals character.
-- **Light Touch with Dark Edges:** The story can get dark but remains buoyant through gallows humor and irony.
+**Primary:** Mystery/crime procedural  
+**Secondary:** Comedy (character-driven, dry wit)  
+**Tertiary:** Romance elements (awkward, grounded)
 
 ---
 
-## Core Mood
+## Humor Style
 
-- **Quick and Witty:** Exchanges move at a brisk pace with characters volleying clever retorts.
-- **Darkly Funny:** Heavy subjects are handled with humor and irony; the mood remains agile.
-- **Cynical but Compassionate:** Skepticism about romance is balanced with a desire to help others heal.
-- **Satirical Edge:** Scenes poke fun at social conventions and the transactional nature of modern relationships.
+### DO
+- Deadpan delivery
+- Earned absurdity (logical escalation)
+- Character contrast comedy
+- Uncomfortable silences
+- Banter that reveals character
 
----
-
-## Tone & Mood in Practice
-
-- **With Women:** Doogan is effortlessly charming, using wit and subtle vulnerability to put others at ease.
-- **With Eddie:** Conversations are shorthand-filled, with callbacks and playful teasing.
-- **With Abby:** Three-way banter creates a lively rhythm where each character can land a punchline.
-
----
-
-## Scene Checklist
-
-- Is the dialogue fast, funny, and character-driven?
-- Does Doogan’s humor adapt to the person he’s with?
-- Is the mood nimble—able to shift from light to dark and back quickly?
-- Does the scene feel satirical without becoming mean-spirited?
-- Is the protagonist’s cynicism earned and not bitter?
+### DON'T
+- Obvious jokes
+- Slapstick
+- Meta/fourth-wall breaks
+- Parody
+- Snark without affection
 
 ---
 
-- **Reader Experience:**  
-  The reader should feel entertained, amused, and occasionally moved. Even when the story touches on heartbreak or betrayal, the mood remains buoyant—never letting the darkness linger too long.
+## Stakes Calibration
 
-## Mood Checklist
-
-- Is the scene funny, even if the topic is serious?
-- Does the dialogue crackle with wit and irony?
-- Is the atmosphere light, with just enough detail to set the stage?
-- Does the protagonist’s cynicism feel earned, not bitter?
-- Is there a satirical edge to the proceedings?
-- Does the mood shift quickly, keeping the reader on their toes?
+| Element | Tone |
+|---------|------|
+| Physical danger | Present but not graphic |
+| Emotional stakes | High—treat seriously |
+| Professional stakes | Medium—team competent but vulnerable |
+| Comedy moments | Never undercut genuine stakes |
 
 ---
 
-*For every scene, aim for a mood that’s fast, funny, and just a little bit dark—where heartbreak is just another setup for a great punchline.*
+## Character Interaction Tones
 
-*Aim for scenes that are entertaining, witty, and occasionally unexpected—where heartbreak becomes fodder for a sharp joke and the reader is always two steps behind Doogan’s next quip.*
+| Pairing | Dynamic |
+|---------|---------|
+| Doogan ↔ Eddie | Brotherly ribbing, mutual respect |
+| Doogan ↔ Abby | Warm, professional, she's sharper |
+| Doogan ↔ Baxter | Mentor/mentee, earned trust |
+| Team ↔ Clients | Professional, never mocking |
+| Team ↔ Antagonists | Tension, careful navigation |
+
+---
+
+## Scene Tone Checklist
+
+Before finalizing any scene:
+
+1. **Humor earned?** Setup exists in scene/character
+2. **Stakes maintained?** Comedy doesn't undercut danger
+3. **Voices distinct?** Each character sounds like themselves
+4. **Tone appropriate?** Matches scene purpose in outline
+5. **McDonald invisibility?** Author absent from page

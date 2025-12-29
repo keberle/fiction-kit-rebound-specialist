@@ -87,16 +87,28 @@ Jillian is the perfect stereotype of a wannabe SoCal (southern california) socia
 ## Episode 3
 
 ### Mara Kingsley
-Mara is an aging professional woman golfer on the LPGA tour.
+<!-- Reference: characters/mara-kingsley.md -->
+LPGA professional golfer, age 34, Hawaiian heritage from Maui. Three-time major champion before taking three years off for pregnancy and C-section recovery. Has son Alex (age 3) who lives with her parents on Maui during tournaments. Playing the best golf of her life since comeback two years ago but hasn't won a major since returning. Serious, focused, struggling to show personality for sponsors. Father is groundskeeper at Kapalua. Regular caddy is Jenny Traverse (away during Pro-Am). Episode 3 rebound target.
 
 ### Candace (Candy) Hoover
-Candy Hoover is a social media sensation.  She's a cute blonde with a curvy posterior that she's not afraid to show off, even wearing skirts that are too short based on LPGA rules and just pays the fines.  Its worth it to be the top "thirst trap" on the tour and her number of followers and endorsements show it.
+<!-- Reference: characters/candy-hoover.md -->
+LPGA professional golfer and social media influencer, age 22, from Scottsdale, Arizona. Blonde, curvy, 3.5M Instagram followers. Powerhouse drive but weak short game - wins tournaments anyway because her drives get her close enough. Wears short skirts (pays LPGA fines), creates golf lifestyle content. Legitimately skilled player, not just pretty face. Oblivious to how she annoys traditional players. Mara's rival in final tournament round.
+
+### Jake Townsend
+<!-- Reference: characters/jake-townsend.md -->
+Mara's sports manager/agent, age 46. Has managed Mara for 13 years (since she turned pro). Runs boutique sports management firm in Orange County. Married with two high school kids. Met Eddie at charity golf tournament and hired him to help Mara show personality for sponsors. Arranged for Jenny Traverse to visit family so Doogan could caddy. Genuinely believes in Mara but feels guilty about the deception.
+
+### Jenny Traverse
+<!-- Reference: characters/jenny-traverse.md -->
+Mara's regular professional caddy, age 38. Has caddied for Mara for 5 years, knows her game inside and out. From Massachusetts, lives in Florida. Jake asked her to visit family during Pro-Am so Doogan could fill in as caddy and get close to Mara. Feels guilty about deception but agreed because she's worried about Mara's stress level. Cover story: mother's minor surgery (mother is actually fine).
 
 ### Brenda Atwood
-Brenda is a comedic actress who has been paired up with Mara for the Pro Am tournament. She's sweet and extremely funny but not much of a golfer.  She took some lessons leading up to the tournament but she's still struggling.
+<!-- Reference: characters/brenda-atwood.md -->
+Comedic actress, age 42, former SNL cast member, current sitcom star. Paired with Mara for Pro-Am. Genuinely terrible at golf but took 6 weeks of lessons. Self-deprecating humor, warm and genuine. Doing Pro-Am for women's empowerment/STEM cause (has 10-year-old daughter). Makes Mara smile despite herself. Provides contrast to Candy/Tilly - shows how to be funny without being annoying.
 
 ### Tilly London
-Tilly is the star of a reality TV show about her life as an influencer so it makes sense that she's paired up with Candy Hoover.  Together they are an influencing powerhouse and beyond annoying.  They are a constant target for the jabs of Mara and Doogan.
+<!-- Reference: characters/tilly-london.md -->
+Reality TV star, age 25, star of "London Calling" show about her life as influencer. 5.6M Instagram followers. Paired with Candy for Pro-Am. Essentially zero golf skills. Everything is content for her reality show cameras. Vapid, self-absorbed, treats everyone as props. More annoying than Candy. She and Candy together create insufferable influencer bubble. Constant target for Mara and Doogan's bonding through shared eye-rolls.
 
 ## Episode 4
 
