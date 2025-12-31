@@ -43,11 +43,18 @@ Use this skill when you need to:
 
 ### 2. Load ALL Voice & Style Documents
 
-- `voice/style.md` - McDonald-style prose rules, third-person close POV
+- `voice/style.md` - McDonald-style prose rules, third-person close POV, **cinematic techniques**
 - `voice/format.md` - Format structure (episodes, scenes, serial fiction rules)
 - `elements/pov.md` - POV rules (third-person close, one per scene)
 - `elements/tone.md` - Tone requirements (fast, witty, darkly funny)
 - `elements/checklist.md` - Non-negotiable quality standards
+
+**CRITICAL: voice/style.md now includes:**
+- Em-dash cold opens (mid-sentence scene openings)
+- Action beats as exposition (show don't tell character details)
+- Background activity as cinematic atmosphere (Sorkin/West Wing techniques)
+- Trust the reader (no hand-holding)
+- Accidental meetings (characters encounter naturally, not by arrangement)
 
 ### 3. Load ALL Prior Content for Continuity
 
@@ -90,7 +97,47 @@ Use this skill when you need to:
   - Calculate actual timeline from Scene 1 forward to THIS scene
   - Document timeline in continuity notes to prevent contradictions
 
-### 5. Verify Scene Context & Timeline (EXPANDED)
+### 5. Extract Referenced Facts (MANDATORY - NEW)
+
+**CRITICAL: Prevent factual contradictions when referencing prior events.**
+
+See: `.github/skills/scene-writing/references/fact-verification.md` for full protocol.
+
+**Before writing Scene N:**
+
+1. **Identify what will be referenced:**
+   - Review outline beats for this scene
+   - List any prior conversations characters will mention
+   - Note any amounts, times, or details from earlier scenes
+   - Identify any "you said" or "we discussed" moments
+
+2. **Create Fact Reference Table:**
+
+```markdown
+**FACT REFERENCE TABLE**
+
+Reference #1: [Description]
+- Will appear as: [planned dialogue or narrative]
+- Source: Scene X, lines Y-Z
+- Established detail: [exact quote or specific fact]
+- Constraint: [what this scene MUST NOT contradict]
+```
+
+**Example:**
+```markdown
+Reference #1: Jake comments on auction bid
+- Will appear as: Jake's reaction to $3,000 bid
+- Source: Scene 1, lines 85-86
+- Established detail: Jake said "Whatever it takes. Three or four thousand should do it."
+- Constraint: Jake CANNOT say it was more than expected. $3,000 is low end of range.
+```
+
+3. **Keep table visible during writing**
+4. **Before writing any reference phrase, verify against table**
+
+**See checklist:** `.github/skills/scene-writing/checklists/fact-verification-checklist.md`
+
+### 6. Verify Scene Context & Timeline
 
 **Before writing, answer:**
 - What happened immediately before this scene?
@@ -701,6 +748,271 @@ After 3 lines, re-tag speaker.
 3. **Turn** (something shifts—information, emotion, decision)
 4. **Button** (scene ending that propels to next scene)
 
+## Scene Ending Discipline (CRITICAL - HARD STOP RULE)
+
+**STOP WRITING AT THE BUTTON. DO NOT CONTINUE.**
+
+### The Problem: Scene Epilogue Bloat
+
+**Common violation:** After the scene's purpose is complete (decision made, information revealed, action taken), writers continue with:
+- ❌ Reflective epilogues (character thinking about what just happened)
+- ❌ Rehashing conversations that already occurred
+- ❌ "One more thing" beats that belong in next scene
+- ❌ Extended goodbyes or transitions
+- ❌ Internal monologue wrapping up themes
+- ❌ Characters discussing what they just decided
+- ❌ Walking to next location (that's next scene's opening)
+
+### The Rule: Button = Hard Stop
+
+**Once the scene's functional purpose is complete, END THE SCENE.**
+
+**Scene purpose examples:**
+- Decision made → END (don't show them discussing the decision again)
+- Information revealed → END (don't show them processing it at length)
+- Agreement reached → END (don't show them confirming it repeatedly)
+- Action taken → END (don't show aftermath unless that's this scene's purpose)
+
+### Real Example from Episode 3, Scene 1
+
+**Original ending (312 lines):** Scene continued for ~186 lines after the decision was made, including:
+- Multiple "are you sure?" exchanges
+- Jake's additional warnings about Mara
+- Cart ride with Eddie monologuing
+- Doogan's internal reflections about hoping "this stayed simple"
+- Extended goodbye sequences
+
+**Corrected ending (126 lines):** Scene ends immediately after logistics established:
+```markdown
+"Making my point for me. The humility. You can't fake that, Jake."
+
+They reached Eddie's ball. He pulled a club, studied the distance.
+
+Doogan walked to his own ball, crouched, read the lie. Good position. Clean shot to the green. "Then I'll see you Monday night."
+
+---
+```
+
+**What was cut:** 186 lines of epilogue material that didn't advance the scene's purpose.
+
+### Scene Ending Checklist
+
+**Before writing past the button, ask:**
+
+1. **Has the scene's purpose been fulfilled?**
+   - ✅ Decision made? → STOP
+   - ✅ Information delivered? → STOP
+   - ✅ Agreement reached? → STOP
+   - ✅ Stakes established? → STOP
+
+2. **Am I writing beats that belong in the next scene?**
+   - ❌ Character traveling to next location? → Next scene's opening
+   - ❌ Character processing information alone? → Next scene (if needed at all)
+   - ❌ "One more thing" revelations? → Next scene or cut entirely
+
+3. **Am I rehashing what already happened?**
+   - ❌ Characters discussing the decision they just made? → REDUNDANT
+   - ❌ Character thinking about what was just said? → REDUNDANT
+   - ❌ Confirming agreements already confirmed? → REDUNDANT
+
+4. **Would cutting the next 50 lines hurt the scene's purpose?**
+   - ✅ If NO → CUT THEM
+   - ❌ If YES → Those lines probably belong in earlier in the scene
+
+### Hard Stop Signals
+
+**When you see these patterns forming, STOP IMMEDIATELY:**
+
+- Character enters vehicle to travel → STOP (next scene opens at destination)
+- Character alone with thoughts about what happened → STOP (reader was there, they know)
+- "One more thing" after agreement reached → STOP (save for next scene or cut)
+- Characters saying goodbye → STOP (goodbye is the button)
+- "Let me think about this" / reflection → STOP (next scene shows the result)
+
+### Button Types & How to End
+
+**Agreement/Decision Button:**
+```
+"Then I'll see you Monday night."
+---
+[STOP - don't show them leaving, don't show drive home, don't show processing]
+```
+
+**Information Reveal Button:**
+```
+"She worked at the clinic. Same one we're investigating."
+---
+[STOP - don't show team discussing implications, that's next scene]
+```
+
+**Action Taken Button:**
+```
+He started the car and pulled into traffic.
+---
+[STOP - don't show the drive, next scene opens at destination]
+```
+
+**Cliffhanger Button:**
+```
+The phone rang. Martinez.
+---
+[STOP - next scene is the phone conversation]
+```
+
+### Word Count Guideline
+
+**Target scene length:** 800-1,200 words for most scenes
+
+**Warning signs you've written too long:**
+- Scene exceeds 1,500 words → Check for epilogue bloat
+- Scene exceeds 2,000 words → Almost certainly has 500+ words of unnecessary ending
+- Multiple "farewell" beats → Cut to first goodbye
+- Character reflection paragraphs at end → Cut entirely
+
+### Enforcement
+
+**This is a HARD RULE. If you write past the button:**
+- ❌ Scene is too long
+- ❌ Pacing suffers
+- ❌ Next scene's opening is stolen
+- ❌ Reader gets bored
+
+**When in doubt:** End the scene 100 words earlier than feels natural. The reader's imagination will fill the gap.
+
+### Confrontation Scenes: Cut Them Short (CRITICAL - NEW)
+
+**Problem:** Writers tend to over-explain confrontations, dragging out tension with repetitive dialogue exchanges.
+
+**The McDonald Principle:** One sharp line carries more weight than five lines of interrogation.
+
+**Real Example from Episode 3, Scene 2:**
+
+**❌ WRONG (over-explained, 30+ lines):**
+```markdown
+Nancy's gaze flicked to the filing cabinet, then back to Abby. "This room is clearly marked 'Staff Only.'"
+
+"I know, I just—"
+
+"The bathroom is down the hall. In the opposite direction." Nancy stepped fully into the room, blocking the doorway. "You were in Exam 4. That's three doors past the bathroom. You'd have to walk past it to get here."
+
+Abby forced an apologetic expression. "I'm sorry. I wasn't paying attention."
+
+"You seem to have trouble following basic directions." Nancy's tone could cut glass. "First you're wandering the hallways when you should be waiting for the doctor. Now you're in restricted areas. Is there a reason you're so... curious about our clinic layout?"
+
+"I'm not—I was just looking for—"
+
+"The bathroom. Right." Nancy's eyes narrowed. "What's in your purse?"
+
+Abby's hand moved instinctively to her purse, protective. "Excuse me?"
+
+"You heard me. What's in your purse?"
+
+"That's none of your business."
+
+"Actually, when patients start snooping through staff areas, it becomes my business." Nancy took a step closer. "I could call security. Have them check. Or you could show me yourself."
+
+Abby met her eyes. Nancy wasn't bluffing. But she also had no actual authority to search a patient's belongings without cause. It was a power play.
+
+"I'd like to return to my exam room now."
+
+"Not until you explain why you're back here."
+
+"I got lost."
+
+"Twice."
+
+They stood there, locked in silent confrontation. Nancy's perfectly manicured nails—French tips, flawless—tapped against her clipboard. Expensive nails. Expensive scrubs. Everything about this woman screamed money that a nurse's salary shouldn't afford.
+
+Finally, Abby broke the standoff. "I'll wait for the doctor in the lobby. I don't feel comfortable continuing this appointment."
+
+She moved toward the door. Nancy didn't step aside immediately. For a moment, Abby thought she'd actually block her. Then Nancy shifted, just enough.
+
+Abby walked past, feeling Nancy's eyes boring into her back. She returned to Exam 4, grabbed her jacket, left the room. Walked down the hallway toward the lobby, Nancy trailing ten feet behind like a prison guard.
+```
+
+**✅ CORRECT (trust the reader, cut short, 8 lines):**
+```markdown
+Nancy's gaze flicked to the filing cabinet, then back to Abby. "This room is clearly marked 'Staff Only.'"
+
+"I know, I just—"
+
+"The bathroom is down the hall. In the opposite direction." Nancy stepped fully into the room, blocking the doorway. "You were in Exam 4. That's three doors past the bathroom. You'd have to walk past it to get here."
+
+Abby forced an apologetic expression. "I'm sorry. I wasn't paying attention."
+
+"The bathroom. Right." Nancy's eyes narrowed.
+
+Abby slipped back into the exam room, closed the door but just shy of latching. She waited for a beat or two before cracking the door to confirm Nancy was no longer in the hallway.
+```
+
+**What Was Cut:** 22+ lines of:
+- Repetitive accusations ("You're snooping," "You're curious")
+- Purse search threat (over-explaining Nancy's hostility)
+- Power struggle choreography (blocking, confronting, trailing)
+- Multiple "I'm leaving" beats
+- Detailed physical descriptions mid-confrontation
+
+**What Carries the Scene:**
+- "Right." — One word. Nancy doesn't believe her. Reader gets it.
+- Reader already knows: Nancy caught Abby in restricted area, both know it's suspicious
+- Trust the reader to understand the tension without spelling it out
+
+### Confrontation Cutting Rules
+
+**STOP writing when:**
+1. **Suspicion is established** - Don't belabor it with multiple accusations
+2. **Power dynamic is clear** - Don't choreograph every blocking move
+3. **Character makes decision** - Don't show them explaining/justifying it repeatedly
+
+**Cut these patterns:**
+- ❌ "You're lying" / "No I'm not" / "Yes you are" exchanges
+- ❌ Repeated threats that escalate ("I could do X" / "Or I could do Y")
+- ❌ Character explaining their lie multiple times
+- ❌ Detailed physical description of opponent mid-confrontation
+- ❌ Internal monologue about whether opponent is bluffing
+- ❌ Multiple "I'm leaving" attempts with blocking/yielding choreography
+
+**Keep only:**
+- ✅ Initial accusation/suspicion
+- ✅ One deflection/excuse
+- ✅ One sharp line that shows disbelief ("Right.")
+- ✅ Exit (immediate, no extended negotiation)
+
+### Trust Single Lines
+
+**One dismissive word carries more weight than ten lines of interrogation:**
+
+- "Right." — Establishes Nancy doesn't believe Abby
+- "Sure." — Skepticism without explanation
+- "Interesting." — Implies suspicion without stating it
+- "I see." — Communicates doubt clearly
+
+**The reader is smart.** They were present for the scene. They know:
+- Why the character is lying
+- Why the antagonist is suspicious
+- What the stakes are
+- What both parties are protecting
+
+**Don't explain it again through extended confrontation dialogue.**
+
+### Before/After Comparison
+
+**BEFORE (typical AI over-writing):**
+- 30-50 lines of confrontation
+- Multiple back-and-forth exchanges
+- Detailed power struggle choreography
+- Reader bored by line 15
+
+**AFTER (McDonald-style cut):**
+- 8-12 lines maximum
+- One accusation, one deflection, one sharp dismissal
+- Exit immediately
+- Reader engaged, tension preserved
+
+**Length Guideline:** If your confrontation scene exceeds 15 lines of dialogue, cut it in half.
+
+**When in doubt:** End confrontation after the first suspicious "Right." or "I see." Everything after that is over-explanation.
+
 ## Output Format
 
 Output scene content as markdown:
@@ -713,6 +1025,86 @@ Output scene content as markdown:
 ---
 ```
 
+## Scene Opening Techniques (CRITICAL - UPDATED)
+
+### The Em-Dash Cold Open (Preferred)
+
+**Start mid-sentence with dialogue or action already in progress:**
+
+```markdown
+## Scene 3 — Welcome Gala
+
+"—come on, John. If you'll go to fifteen, I'll see if I can get an hour driving the ball return cart..."
+```
+
+**Why this works:**
+- Drops reader directly into active scene
+- No setup, no explanation
+- Reader catches up through context
+- Creates immediate energy and momentum
+
+**When to use:**
+- Scenes with active dialogue/events (auctions, meetings, arguments)
+- High-energy openings
+- When scene picks up mid-conversation or mid-action
+
+### Action Beat Opens (Alternative)
+
+**Start with character mid-action:**
+
+```markdown
+Doogan crossed the parking lot toward Eddie's truck.
+
+"You bring coffee?"
+```
+
+**When to use:**
+- Quieter scenes
+- Physical movement openings
+- When establishing location is important
+
+### What NEVER to Open With
+
+❌ Weather descriptions
+❌ Time of day setup ("The morning sun...")
+❌ Atmospheric descriptions ("The kitchen smelled of...")
+❌ Character introspection
+❌ Summaries of what's happening ("The MC had the room eating out...")
+❌ "Establishing shot" prose
+
+### Trust the Reader
+
+**Don't explain who's speaking—show through action:**
+
+❌ WRONG: "The MC, a well-known comedian, had the room eating out of his hand"
+✅ RIGHT: "—forty-five thousand for a weekend..." [dialogue establishes MC through what they do]
+
+**Character identification through action beats:**
+- First mention: Use action beat that reveals context
+- "A man in a tailored tuxedo nodded while holding up his paddle" (reader learns he's John through MC calling him)
+- Don't frontload "John, the tech CEO wearing..." 
+- Let context reveal identity naturally
+
+### The Sorkin Pace
+
+**Use background activity as cinematic atmosphere:**
+- Auction running while characters talk
+- MC's voice weaving through foreground conversation
+- Environmental layers without stopping action
+- Keep dialogue moving, let background breathe
+
+**Example structure:**
+1. Open with background event (MC at auction)
+2. Quick anchor of POV character (Doogan stood in back)
+3. Background continues (MC makes jokes, crowd reacts)
+4. Foreground action begins (Doogan moves, interacts)
+5. Background weaves through (MC voice continues between beats)
+
+**Balance:**
+- McDonald efficiency (brief, tight)
+- Sorkin atmosphere (layered environment)
+- Trust reader to track multiple threads simultaneously
+
 ## Validation Checklist
 
 After writing, verify:
@@ -721,12 +1113,16 @@ After writing, verify:
 - [ ] **Continuity Preserved:** NO invented details (checked against prior scenes and element files)
 - [ ] **Established Facts Honored:** Store names, car models, pet names, physical traits all match prior content
 - [ ] **Self-Contradiction Check (CRITICAL):** No fabricated details that contradict established mechanisms
+- [ ] **Opening Technique:** Em-dash cold open or action beat (NOT weather/introspection/summary)
+- [ ] **Trust Reader:** No hand-holding, context reveals details organically
+- [ ] **Action Beats as Exposition:** Character details shown through action, not description
 - [ ] McDonald opening (no weather/introspection first)
 - [ ] POV maintained throughout (no head-hopping)
 - [ ] Character voices accurate (reviewed character files)
 - [ ] Sensory details present (specific, not generic)
 - [ ] Emotional truth (behavior feels honest)
 - [ ] Scene opens/closes doors (discovery momentum)
+- [ ] **Stopped at Button:** Did not spill into next scene's beats
 - [ ] Scene break marker `---` at end
 
 ## Post-Writing Self-Contradiction Audit (NEW - MANDATORY)

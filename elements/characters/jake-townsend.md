@@ -43,7 +43,7 @@
 - Sometimes too loyal - keeps clients who aren't profitable because he believes in them
 
 ### Current Client Roster
-- Mara Kingsley (LPGA) - flagship client
+- Mara Palani (LPGA) - flagship client
 - Two male golfers on PGA Champions Tour
 - One professional tennis player (women's)
 - One up-and-coming MLB pitcher

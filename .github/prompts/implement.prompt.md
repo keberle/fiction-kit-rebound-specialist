@@ -51,14 +51,24 @@ This stage is the execution engine of the draft flow.
      7. **For Episode 2+ Scene 2+:** Read ALL previous episodes AND all previous scenes in THIS episode
      8. **Create continuity notes:** established facts (store names, car models, physical details), secrets, character knowledge state
      9. **Gather outline beats** for this scene from episode outline
-     10. **VERIFY BEAT MECHANISMS** (NEW - CRITICAL):
+     10. **VERIFY BEAT MECHANISMS** (CRITICAL):
          - For EACH outline beat, ask: "HOW does this happen?"
          - If beat says "Character X is there" → WHY are they there? HOW do they know to come?
          - If beat says "Character knows Y" → HOW did they learn it? WHEN? FROM WHOM?
          - Check notes.md for established mechanisms (phone calls, procedures, information flow)
          - If mechanism is unclear, FLAG IT before writing (don't invent)
          - Document the mechanism in your continuity notes
-     11. **FLAG MISSING DETAILS** (NEW - CRITICAL):
+     11. **EXTRACT REFERENCED FACTS (MANDATORY - NEW):**
+         - Review outline beats for this scene
+         - Identify what prior events/conversations will be mentioned
+         - Create FACT REFERENCE TABLE with:
+           * Fact description
+           * Source scene + line number
+           * Exact quote or detail
+           * Constraint for this scene
+         - Example: If character will say "like you told me," find what they were told
+         - Keep table visible during writing
+     12. **FLAG MISSING DETAILS** (CRITICAL):
          - If ANY detail needed for the scene is NOT in element files, STOP
          - Create "❓ MISSING DETAILS - USER INPUT NEEDED" section
          - List each missing detail as a question
@@ -66,11 +76,22 @@ This stage is the execution engine of the draft flow.
          - Offer logical options when possible
          - **WAIT for user response before proceeding**
          - DO NOT INVENT details to fill gaps
-     12. **OUTPUT CONTEXT VERIFICATION LOG** (see format below - now includes beat verification AND missing details)
-     13. **OUTPUT SCENE SETUP VERIFICATION** (MANDATORY - BLOCKING REQUIREMENT - see format below)
-     14. **Invoke scene-writing skill** with full context package INCLUDING verified beat mechanisms AND confirmed scene setup
-   
+     13. **OUTPUT CONTEXT VERIFICATION LOG** (see format below - now includes beat verification AND missing details AND fact extraction)
+     14. **OUTPUT SCENE SETUP VERIFICATION** (MANDATORY - BLOCKING REQUIREMENT - see format below)
+     15. **Invoke scene-writing skill** with full context package INCLUDING verified beat mechanisms AND confirmed scene setup AND fact reference table
+
    **CRITICAL: The scene-writing skill will NOT accept incomplete context OR unverified scene setup.**
+   
+   **BLOCKING REQUIREMENTS - DO NOT WRITE PROSE UNTIL:**
+   - [ ] All prior scenes read and timeline documented
+   - [ ] All character bios read thoroughly (not skimmed)
+   - [ ] All strategic documents consulted
+   - [ ] Synthesis document created showing outline + user feedback blend
+   - [ ] Context Verification Log output (visible)
+   - [ ] Fact Reference Table created (visible)
+   - [ ] Scene Setup Verification output (visible)
+   
+   **If ANY checkbox above is unchecked, you are violating the workflow.**
    - Missing prior scene reads = continuity violations (invented store names, wrong car models, etc.)
    - Missing element files = contradictions to canon
    - Missing voice files = style violations
@@ -120,6 +141,16 @@ This stage is the execution engine of the draft flow.
    
    ❓ UNVERIFIED BEATS (flag these):
    - None (or list any beats where mechanism is unclear)
+   
+   **FACT REFERENCE TABLE (NEW - MANDATORY):**
+   
+   Reference #1: [Description]
+   - Will appear as: [planned dialogue or narrative]
+   - Source: Scene X, lines Y-Z
+   - Established detail: [exact quote or specific fact]
+   - Constraint: [what this scene MUST NOT contradict]
+   
+   [Repeat for each prior event that will be referenced in this scene]
    
    **❓ MISSING DETAILS - USER INPUT NEEDED:**
    Detail → Question for User
@@ -180,12 +211,52 @@ This stage is the execution engine of the draft flow.
    Scene setup confirmed. Ready to invoke scene-writing skill.
    ================================
    ```
+   FACT VERIFICATION AUDIT** (see format below - MANDATORY)
+   - **Run POST-WRITING SELF-CONTRADICTION AUDIT** (see format below - MANDATORY)
+   - **Run POST-WRITING CHARACTER KNOWLEDGE CHECK** (see format below - MANDATORY - NEW)
+   - **Invoke continuity-checking skill** for post-writing validation
+   - Review violation report
+   - Fix any detected issues
+   - Re-run continuity check until clean
+   - Only then mark task complete
    
-   **This verification is NOT optional. If you skip this step or write prose before completing it, you are violating a critical constraint.**
+   **POST-WRITING CHARACTER KNOWLEDGE CHECK (MANDATORY - NEW):**
    
-   **The scene-writing skill will handle:**
-   - McDonald opening validation
-   - POV maintenance
+   Before finalizing scene, verify character knowledge boundaries:
+   
+   ```
+   === CHARACTER KNOWLEDGE CHECK ===
+   Scene: Episode X, Scene Y
+   POV Character: [Name]
+   
+   **Knowledge Audit Questions:**
+   
+   1. Does POV character reference any information in this scene?
+      - List each fact/detail mentioned: [list]
+   
+   2. For each fact, verify source:
+      - Fact: [description]
+      - How does POV character know this? [prior scene where learned / obvious from context / ERROR]
+      - Source verification: Scene X, lines Y-Z OR [general knowledge] OR [currently visible]
+   
+   3. Author-knowledge violations check:
+      - Does POV character know anything they shouldn't yet know? ❌ / ✅
+      - Does scene reveal plot information POV character hasn't learned? ❌ / ✅
+      - Are there details included "for the reader" that POV character wouldn't notice? ❌ / ✅
+   
+   4. Character state consistency:
+      - What happened to POV character immediately before this scene?
+      - Does their emotional/physical state match that context? ✅ / ❌
+      - Are they carrying objects from prior scene that should persist? ✅ / ❌
+   
+   **VIOLATIONS FOUND:**
+   [List any instances where character knows something they shouldn't]
+   [List any "author intrusion" details]
+   
+   **Final Status:** [PASS / FAIL]
+   [If FAIL: Fix violations before proceeding]
+   ================================
+   ```
    - Character voice accuracy
    - Sensory detail inclusion
    - Scene structure (opening → escalation → turn → button)
@@ -198,6 +269,45 @@ This stage is the execution engine of the draft flow.
    - Re-run continuity check until clean
    - Only then mark task complete
 
+   **POST-WRITING FACT VERIFICATION AUDIT (MANDATORY - NEW):**
+   
+   After completing scene draft, before finalizing:
+   
+   ```
+   === FACT VERIFICATION AUDIT ===
+   Scene: Episode X, Scene Y
+   
+   **Search Results for Reference Phrases:**
+   - Searched for "you said": [X occurrences found]
+   - Searched for "we discussed": [X occurrences found]
+   - Searched for "like we talked about": [X occurrences found]
+   - Searched for "earlier" / "last time": [X occurrences found]
+   - Searched for comparative phrases ("more than", "less than"): [X occurrences found]
+   
+   **Verification Results:**
+   
+   Line [X]: "[quote from scene]"
+   - References: Scene Y, lines Z
+   - Established detail: [what prior scene actually says]
+   - Match status: ✅ MATCH / ❌ CONTRADICTION
+   - Problem (if any): [description]
+   - Fix (if needed): [corrected version]
+   
+   [Repeat for each reference found]
+   
+   **Final Status:** [PASS with zero violations / FAIL with X violations]
+   
+   [If FAIL: List all contradictions and fixes before proceeding]
+   ================================
+   ```
+   
+   **If audit finds contradictions:**
+   1. Fix each contradiction immediately
+   2. Re-run audit
+   3. Do NOT proceed to continuity-checking until audit passes
+   
+   **See full protocol:** `.github/skills/scene-writing/references/fact-verification.md`
+   
    **POST-WRITING SELF-CONTRADICTION AUDIT (MANDATORY):**
    
    Before finalizing scene, scan for mechanism contradictions:
@@ -303,9 +413,65 @@ This stage is the execution engine of the draft flow.
 ### Add a Scene
 **Use character-management skill, then scene-writing skill** - Two-step process for scene creation.
 
-**Orchestrator's Pre-Skill Checklist:**
-1. ✅ Identify all characters who appear in the scene
-2. ✅ **INVOKE character-management skill:**
+**MANDATORY WORKFLOW - ALL STEPS REQUIRED:**
+
+**Phase 1: Context Loading (BLOCKING)**
+
+1. ✅ **Read ALL prior content:**
+   - **For Episode 1, Scene 1:** No prior content
+   - **For Episode 1, Scene 2+:** Read Scene 1, Scene 2, ... Scene N-1 (ALL previous scenes in THIS episode)
+   - **For Episode 2+, Scene 1:** Read ALL scenes from ALL previous episodes
+   - **For Episode 2+, Scene 2+:** Read ALL previous episodes PLUS all previous scenes in THIS episode
+   - Build timeline: Track time markers (3 AM, 9 AM, "tomorrow", "next day", elapsed time references)
+   - Note established facts: store names, car models, physical descriptions, secrets, character knowledge states
+
+2. ✅ **Read ALL character bios THOROUGHLY:**
+   - For EVERY character appearing in scene:
+     - Check `elements/characters.md` first (supporting character index)
+     - Check `elements/characters/<name>.md` if individual file exists
+     - Note: physical traits, possessions, voice patterns, mannerisms, anti-patterns
+     - Read entire file, not just skim
+   - Include POV character even if they're main character
+
+3. ✅ **Read ALL strategic documents:**
+   - `elements/outlines/episode-##.md` - THIS episode's outline (read scene beats carefully)
+   - `drafts/###-name/plan.md` - Execution strategy for this draft
+   - `drafts/###-name/tasks.md` - Verify task details and acceptance criteria
+   - `elements/plot.md`, `elements/conflict.md`, `elements/theme.md`
+   - `elements/setting.md`, `elements/notes.md`
+   - `voice/style.md`, `voice/format.md`, `elements/pov.md`, `elements/tone.md`, `elements/checklist.md`
+
+**Phase 2: Synthesis Document (BLOCKING - MANDATORY OUTPUT)**
+
+4. ✅ **CREATE SYNTHESIS DOCUMENT** - Blend outline + user feedback:
+
+```markdown
+=== SCENE SYNTHESIS ===
+Scene: Episode X, Scene Y — [Title]
+
+**FROM OUTLINE (beats to include):**
+- [List each beat from episode outline]
+- [Include purpose, turn, button as specified]
+
+**FROM USER FEEDBACK (constraints/guidance):**
+- [List any specific user instructions from prompt]
+- [Note tone guidance, pacing notes, character handling]
+
+**SYNTHESIS PLAN:**
+- [How will you balance outline requirements with user guidance?]
+- [Which outline beats might be adjusted based on user feedback?]
+- [What's the core scene purpose that must be preserved?]
+- [What flexibility exists in execution?]
+
+**POTENTIAL CONFLICTS:**
+- [Any tension between outline and user guidance?]
+- [How will you resolve?]
+================================
+```
+
+**Phase 3: Character Management (BLOCKING)**
+
+5. ✅ **INVOKE character-management skill:**
    - Load ALL character files from `elements/characters/<name>.md`
    - Verify physical traits, possessions, habits, voice patterns
    - Check anti-pattern sections (Fashion Anti-Patterns, Motor-Mouth Rules, etc.)

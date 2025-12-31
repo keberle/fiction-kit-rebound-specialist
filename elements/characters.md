@@ -86,8 +86,8 @@ Jillian is the perfect stereotype of a wannabe SoCal (southern california) socia
 
 ## Episode 3
 
-### Mara Kingsley
-<!-- Reference: characters/mara-kingsley.md -->
+### Mara Palani
+<!-- Reference: characters/mara-palani.md -->
 LPGA professional golfer, age 34, Hawaiian heritage from Maui. Three-time major champion before taking three years off for pregnancy and C-section recovery. Has son Alex (age 3) who lives with her parents on Maui during tournaments. Playing the best golf of her life since comeback two years ago but hasn't won a major since returning. Serious, focused, struggling to show personality for sponsors. Father is groundskeeper at Kapalua. Regular caddy is Jenny Traverse (away during Pro-Am). Episode 3 rebound target.
 
 ### Candace (Candy) Hoover
@@ -113,7 +113,11 @@ Reality TV star, age 25, star of "London Calling" show about her life as influen
 ## Episode 4
 
 ### Nancy Crawford (aka Nurse Nancy)
-She has had a ridiculous amount of plastic surgery and is a genuinely horrible person.  She's attractive but in an edgy way.  To pay for her plastic surgery, she has been doing something illegal they suspect but she's evasive about what.  She does let it slip that they have a deal with the nearby pharmacy to get any prescription she needs in any name.  Letting the "any name" part slip is the mistake.
+She has had a ridiculous amount of plastic surgery and is a genuinely horrible person. She's attractive but in an edgy way. To pay for her plastic surgery, she has been doing something illegal they suspect but she's evasive about what. She does let it slip that they have a deal with the nearby pharmacy to get any prescription she needs in any name. Letting the "any name" part slip is the mistake.
+
+**Exclusive Exam Room:** Nancy has her own exam room (Exam Room 1) at the clinic with no security camera coverage—unusual for the facility. She only sees certain patients there, though the scheduling notes use coded references that aren't immediately clear. The clinic has cameras throughout public areas and hallways, but Nancy's exam room and the corridor leading to it have no surveillance. *(Established in Episode 3, Scene 2)*
+
+**Physical Details:** Blonde, late forties but maintains appearance through visible plastic surgery. Professional French-tip manicures (expensive). Wears tailored scrubs. Lives beyond apparent means for nurse's salary. *(Established in Episode 3, Scene 2)*
 
 ## Episode 5
 

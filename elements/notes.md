@@ -178,10 +178,43 @@ If a target ever learns the truth, it becomes a major plot event:
 ## Nurse Nancy Character Moments
 - At one point, Doogan meets Nurse Nancy for a walk around the park and she brings her dog, who poops while they're walking.  Nancy casually pulls out a poop bag, picks up the poop but as two people are pushing a stroller the other direction she tosses it into the stroller without even breaking looking or breaking her thought while talking.  Doogan of course runs back to fetch the bag, with the people outraged.
 
+### Nancy's Exclusive Exam Room (Episode 3 Mystery Setup)
+- **Exam Room 1:** Nancy has her own exam room at the clinic with no security camera coverage—unusual since rest of clinic has cameras in public areas and hallways. Even the corridor leading to Exam Room 1 has no surveillance.
+- **Selective Patients:** Nancy only sees certain patients in this room. The appointment scheduling system uses coded references that aren't immediately clear what types of patients qualify.
+- **Discovery:** Baxter notices this while hacking clinic security camera feed during Abby's infiltration attempt. Abby spots the room but can't access it (Nancy moving, too exposed).
+- **Implication:** Whatever illegal activity Nancy is running likely happens in that unsurveilled room. This becomes key to understanding the insurance fraud scheme later. *(Established in Episode 3, Scene 2)*
+
 ## Holding Cell Graffiti
 - The first time Doogan is in the holding cell he sees "Julio (heart) Dominique".
 - The second time he's in that same holding cell after Nurse Nancy's death the name "Dominique" is crossed out with thin carved lines from something sharp and the words "cheating whore" are written over it.  Doogan thinks "hmmm...that's too bad.  Poor Julio.
 - The third time he's in that same holding cell after being arrested by Martinez, the "cheating whore" is scratched out and Dominique's name is back, larger and more emphasized.  "Got to love a happy ending".
+
+## Craft Lesson: Confrontation Scenes - Cut Them Short (December 2025)
+
+**Problem:** AI writers tend to over-explain confrontations with repetitive dialogue exchanges, spelling out power dynamics and suspicion that the reader already understands.
+
+**The McDonald Principle:** One sharp line carries more weight than five lines of interrogation. Trust the reader to understand tension without explaining it.
+
+**Real Example from Episode 3, Scene 2 Rewrite:**
+
+**Original (30+ lines):** Extended Nancy/Abby confrontation with repeated accusations ("You're snooping," "What's in your purse?"), purse search threat, power struggle choreography (blocking doorway, trailing like guard), multiple "I'm leaving" beats.
+
+**Rewritten (8 lines):** Nancy accuses ("This is Staff Only"), Abby deflects ("I got lost"), Nancy dismisses with single word ("Right."), Abby exits immediately. Reader understands Nancy is suspicious without spelling it out.
+
+**What Makes This Work:**
+- "Right." — One word establishes Nancy doesn't believe her
+- Reader was present for the scene, knows why Abby is lying
+- No need to belabor suspicion with extended interrogation
+- Trust reader intelligence over writer's impulse to explain
+
+**Cutting Rules:**
+- STOP after: Suspicion established, power dynamic clear, character decides to exit
+- CUT: "You're lying"/"No I'm not" exchanges, repeated threats, multiple exit attempts
+- KEEP: Initial accusation, one deflection, one sharp dismissal line, immediate exit
+
+**Length Guideline:** If confrontation exceeds 15 lines of dialogue, cut it in half. End after first suspicious "Right." or "I see." Everything after is over-explanation.
+
+**Application:** Use this principle for any confrontation, interrogation, or suspicious encounter scene. Tension comes from what's unsaid, not from spelling out every accusation. *(Lesson learned December 30, 2025, Episode 3 Scene 2 rewrite)*
 
 ## Episode 2 Wedding Weekend Continuity
 

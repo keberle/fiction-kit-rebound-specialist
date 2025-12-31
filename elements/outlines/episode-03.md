@@ -112,32 +112,36 @@ Jake: "Don't let Abby hear you say that."
 **Location:** The clinic, then Abby's car
 
 Purpose:
-Establish Nancy early. Show Abby trying to get hard copy files. Introduce Nancy as a character they've encountered but don't yet realize is significant.
+Establish Nancy early. Show Abby trying to get hard copy files. Introduce Nancy as a character they've encountered but don't yet realize is significant. Plant mystery of Nancy's exclusive exam room.
 
 How it plays:
-- Abby enters clinic using fake appointment, hoping to access hard copy files while waiting
-- Checks in at reception with false name and complaint
-- Receptionist directs her to exam room to wait for doctor
-- While waiting, Abby slips out into hallway, looking for records room
-- She's checking door labels, trying to be casual
-- Nancy emerges from around corner, suspicious
-- Nancy, cold and authoritative: "Can I help you? You should be in your exam room."
-- Abby, apologetic: "Sorry, I was looking for the bathroom."
-- Nancy, not buying it but can't prove anything: "Down the hall, on your right. Please return to your exam room after."
-- She watches Abby walk to bathroom, then return to exam room
-- Later: Doctor examines Abby (minor complaint), writes prescriptions
-- Abby leaves with prescription for painkiller and anti-depressant but no files
+- Abby enters clinic using fake appointment with earpiece (Baxter providing surveillance support)
+- Baxter hacks camera feed, reports coverage: cameras everywhere EXCEPT exam rooms and Exam Room 1 (Nancy's exclusive room at end of hall—no camera coverage at all, only sees certain patients, scheduling notes are coded)
+- Abby checks in at reception with false name and complaint (Sarah Mitchell, lower back pain)
+- Receptionist directs her to Exam Room 4 to wait
+- While waiting, Abby slips out into hallway with Baxter guiding
+- She spots Nancy's Exam Room 1 down the hall but Baxter warns Nancy is moving—too exposed
+- Abby pivots to closer "Staff Only" door—unlocked, enters
+- Inside: break room with filing cabinet (5 drawers, barrel locks, all locked)
+- Baxter tries to guide her through lock-picking via Reddit thread
+- Abby: "Do you actually know how to pick locks?"
+- Baxter admits he's reading about it in real-time
+- Abby: "Are we really going to learn lock-picking together while I'm actively breaking into a medical records room?"
+- Baxter: "When you put it that way... less optimal."
+- Nancy approaching—no time for locks
+- Abby spots "TO BE SHREDDED" box, grabs patient list, shoves in purse
+- Nancy enters, catches Abby IN the staff room
+- Aggressive interrogation: "What are you doing in here?"
+- Nancy wants to search Abby's purse (Abby refuses)
+- Power dynamic confrontation, Nancy blocking doorway
+- Abby insists on leaving, Nancy trails her like guard
+- Abby cancels appointment at reception, walks out
 - **In the car, Bluetooth call to Eddie/Baxter:**
-- Abby: "No luck. Couldn't get near the file room."
-- Eddie: "What happened?"
-- Abby: "Got caught by some bitchy nurse. She spotted me in the hallway."
-- Baxter: "Wait, describe her."
-- Abby: "Blonde, probably late forties but clinging to her youth by every medical means possible. Very stereotypical Southern California. Raging bitch."
-- Baxter: "That's her! That's the same nurse who ran me out when I was pretending to be IT."
-- Abby: "Her name tag said Nancy."
-- Baxter, remembering: "Yes! Nancy. I remember now."
-- Abby, in mocking Karen tone: "'Nurse Nancy.' She was a piece of work. Nice nails, though."
-- Eddie: "So we've got a hostile head nurse who's territorial about that clinic."
+- Reports: got patient list but Nancy caught her
+- Baxter confirms: same nurse who kicked him out
+- Abby describes Nancy: "Nice nails though. French tips. Professional. Not cheap."
+- Eddie: "Hostile head nurse living beyond her means."
+- Abby: "Whatever she's hiding, she threatened a patient to protect it."
 - Abby: "Extremely territorial. We're not getting back in there."
 - Eddie: "Then we'll have to find another way."
 
@@ -164,7 +168,7 @@ How it plays:
 - Doogan positioned in back, watching the auction lots roll by
 - Various items go by: golf lessons with pros, spa packages, luxury dinners
 - Doogan is politely bored, sipping champagne
-- Auctioneer announces next lot: "Caddy for the week with three-time major champion Mara Kingsley! Perfect chance to get insider tips from a pro!"
+- Auctioneer announces next lot: "Caddy for the week with three-time major champion Mara Palani! Perfect chance to get insider tips from a pro!"
 - Doogan perks up. This is it.
 - Bidding starts at $500. A couple of wealthy golf enthusiasts raise paddles.
 - $1,000. $1,500.
@@ -438,7 +442,7 @@ How it plays:
 - After final hole: Emotional moment - Mara thanks Brenda for making the week fun
 - "I forgot what it feels like to just... enjoy golf."
 - Brenda, tearing up: "Thank you for being patient with me. My daughter's going to be so proud."
-- Media everywhere - they're eating it up. Mara Kingsley is fun now.
+- Media everywhere - they're eating it up. Mara Palani is fun now.
 
 Turn:
 Mara has fully transformed. Open, warm, funny. Jake watching knows this is exactly what sponsors need to see.
