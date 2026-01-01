@@ -1,12 +1,10 @@
 ## Scene 14 — Tournament Finale
 
-"She's not making content now, is she?" Mara said, trying not to gloat too much.
+"She's not making content now, is she?" Mara said.
 
-"No, she's trying to play golf, possible for the first time this year."
+"No, she's trying to play golf, possibly for the first time this year."
 
 In her brief pro career, she had made it to the U.S. Women's Open but it was as much of a fluke as anything and the number of followers she picked up there was the only real payoff she cared about.
-
-So she had seen a big stage but never really experienced the grind of being tied for the lead on the final day. And as the two women headed up to the tee box on seventeen, she was feeling the pressure.
 
 "I hate this hole." Mara took the driver from Doogan's outstretched hand.
 
@@ -20,11 +18,11 @@ So she had seen a big stage but never really experienced the grind of being tied
 
 "Kind of a make or break drive." Doogan said out loud this time.
 
-"Yeah."
+"Yeah." Mara said, a little in her head.
 
 "So just make the plateau."
 
-"Its two-sixty to the flat part and the uphill will steal distance."
+"Its two-sixty to the flat part and the uphill will steal distance." Mara said looking down the fairway.
 
 "So hit it two-seventy" Doogan said, handing her a tee.
 
@@ -42,11 +40,11 @@ Because Candy had turned in a card before Mara the day before, even though they 
 
 "Don't come up short." Candy said, quietly but not quietly enough. Tilly and her cohort of influencers giggled and were "shushed" by the tournament officials.
 
-Mara breathed in deep through her nose, paused and then wound back slow and smooth, found the apex, paused and mouthed the word "Effortless" before unwinding in one clean motion drove the ball in one arcing movement high and landing gently on the front side of the plateau and settling to a stop.
+Mara breathed in deep through her nose, paused and then wound back slow and smooth, found the apex, paused and mouthed the word "Effortless" before unwinding in one clean motion. The ball arced high and landed on the front side of the plateau, settling to a stop.
 
 A few moments later and Doogan's earpiece erupted "Oh my God! We just saw it on the live stream. That was beautiful!"
 
-"I think your skirt is the only thing coming up short so far but the tee box is yours" Mara said quietly to Candy on her way back to Doogan and her bag.
+"I think your skirt is the only thing coming up short so far but the tee box is yours." Mara said quietly to Candy on her way back to Doogan and her bag.
 
 Candy was feeling the pressure. She looked side eyed at Mara but didn't say a word. Here shot off the tee was solid but it also faded just a bit to the right side of the course where the plateau hadn't started, leaving her ball landing in an uphill spot where it paused before rolling back and even more to the right, stranding itself in the rough.
 
@@ -130,7 +128,7 @@ Mara hit a beautiful drive towards the back end of the dog leg, leaving a mid le
 
 "You better be right or I just sold out." she said to Doogan.
 
-Candy's triumphant stride on to the tee box told exactly what was in her head. She put down the tee and ball and started to line up for the dog leg to the right before looking directly back at Mara and then the media, smiling and shifting to the tree side.
+Candy approached the tee box, put down the tee and ball and started to line up for the dog leg to the right before looking directly back at Mara and then the media, smiling and shifting to the tree side.
 
 Doogan could feel the air, the pressure system.
 
@@ -140,7 +138,7 @@ Candy smiled before winding up and crushing the ball off the tee.  It hung in th
 
 "She's stealing Brenda's line now." Mara said, handing Doogan the three wood.
 
-Since the edge of the trees where Candy found her ball were not in the penalty area, the officials declined to let her take a drop. Candy hadn't hit out of the pine needles much before. It was definitely not Instagram-worthy—an avalanche of strokes and profanity that would probably go viral soon enough anyway.
+Since the edge of the trees where Candy found her ball were not in the penalty area, the officials declined to let her take a drop. Candy hadn't hit out of the pine needles much before. It was definitely not Instagram-worthy—an avalanche of strokes and profanity.
 
 Mara hit a beautiful approach shot on to the green and drained a twelve foot putt to win the pro exhibition.
 
@@ -156,7 +154,7 @@ Jake was introducing her to a number of important looking people and there was l
 
 It was a good fifteen minutes before Mara made it back to Doogan.
 
-"You were right." she said walking to him, full smile.
+"You were right." she said walking to him.
 
 "I got lucky."
 
@@ -182,7 +180,7 @@ It was a good fifteen minutes before Mara made it back to Doogan.
 
 Mara laughed. "I will miss you, Doogan. You were a lot more than some donor from a charity auction."
 
-"Thank you for that." I'll drop the clubs off at the clubhouse and let Jake know.
+"Thank you for that. I'll drop the clubs off at the clubhouse and let Jake know."
 
 "Take care of yourself."
 

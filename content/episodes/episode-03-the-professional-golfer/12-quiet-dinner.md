@@ -8,7 +8,7 @@
 
 "Clearly the fault of the whoever put that porta-potty there."
 
-"My point exactly. Can I make a confession."
+"My point exactly." Mara giggled a little. "Can I make a confession?"
 
 "This is my first date since..."
 
@@ -26,7 +26,7 @@
 
 "And you named your son that anyway?"
 
-"Its not the name's fault."
+"It's not the name's fault."
 
 "Big of you."
 
@@ -36,7 +36,7 @@
 
 "Nice to have family support."
 
-"Its not just nice, its the only way this works."
+"It's not just nice, it's the only way this works."
 
 "Sounds like they're very supportive."
 
@@ -72,17 +72,17 @@
 
 "—not available."
 
-"Right. And this is the date since him?"
+"Right. And this is the first date since him?"
 
 "Can you blame me? Clearly my taste in men is broken."
 
 "I'll try not to take it personally."
 
-She laughed. A real laugh.
+She laughed.
 
 "Nervous about tomorrow?"
 
-"Nah, its not a point event and whatever prize money there, will almost always be donated back to the cause."
+"Nah, it's not a point event and whatever prize money there is, will almost always be donated back to the cause."
 
 "But you have to admit that it would be nice to—"
 
@@ -96,13 +96,13 @@ She laughed again. "She's everything that annoys me about professional golf."
 
 "Exactly. She gets views because she's young and blonde and she can hit the crap out of a driver."
 
-"And I'm pretty sure in some of her video you can her—"
+"And I'm pretty sure in some of her videos you can see her—"
 
 "—yes, yes you can."
 
 "Not your style of golf?"
 
-"Not at all. I came up with women like Michele Wie, Annika Sorenstam, Paula Creamer and sure they were all attrative women but it wasn't about their looks or likes or whatever."
+"Not at all. I came up with women like Michele Wie, Annika Sorenstam, Paula Creamer and sure they were all attractive women but it wasn't about their looks or likes or whatever."
 
 "But you can't let the new generation of influencers destroy what you loved. It's still a game, right?"
 
@@ -110,7 +110,7 @@ She laughed again. "She's everything that annoys me about professional golf."
 
 "How so?"
 
-"Mean can get focused and they are praised for their intensity. That same behavior from women gets you labeled a 'cold bitch'. Its just as hard for us to come back from time away as it is for men but we have to put on a pretty little smile while we do it."
+"Men can get focused and they are praised for their intensity. That same behavior from women gets you labeled a 'cold bitch'. It's just as hard for us to come back from time away as it is for men but we have to put on a pretty little smile while we do it."
 
 "Fair. Maybe don't smile for them."
 
@@ -122,7 +122,7 @@ She smiled. Possibly for Doogan that time.
 
 ---
 
-"—maybe, hard to say."
+"—maybe, hard to say." she said as the elevator doors of her hotel opened.
 
 "Hard to say? If you could, you would and I think you know it."
 
@@ -132,7 +132,7 @@ It was probably the slowest walk from the elevator to a room in the history of t
 
 "Choose Port Royal or some other shorter, more technical course."
 
-"Maybe. Its fun to think about. The money is definitely better in the PGA. One win in a men's event would cover me for a couple of years on the islands with my son, living pretty comfy."
+"Maybe. It's fun to think about. The money is definitely better in the PGA. One win in a men's event would cover me for a couple of years on the islands with my son, living pretty comfy."
 
 "You wouldn't miss it?"
 
@@ -140,7 +140,7 @@ It was probably the slowest walk from the elevator to a room in the history of t
 
 "This is you?"
 
-"Yeah, thank you for walking me." she leaned forward and kissed Doogan gently. He reached a hand to her waist.
+"Yeah, thank you for walking me." she leaned forward and kissed Doogan. He reached a hand to her waist.
 
 "That was nice."
 

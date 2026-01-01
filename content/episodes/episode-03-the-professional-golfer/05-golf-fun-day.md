@@ -1,48 +1,48 @@
 ## Scene 5 — Golf Fun Day
 
-"Mother fu-"
+"Mother fu—"
 
 "She certainly sounds like a seasoned golfer." Doogan had found his crew.
 
-Brenda Atwood stood before a well worn patch of grass, with a driver in hand, still looking as if she was the victim of a conspiracy between the club and the ball, against her.
+Brenda Atwood stood before a worn patch of grass, driver in hand, looking like victim of a conspiracy between club and ball.
 
-"I would say she has the shanks but the shanks might be an improvement." Mara said with a defeated look.
+"I'd say she has the shanks but the shanks might be an improvement." Mara sighed.
 
-"It says that you're supposed to extend down through the ball." her assitant Marcus said, reading from his phone.
+"It says you're supposed to extend down through the ball." Marcus read from his phone.
 
-"Extend?!?!? Are you not looking around me? I am damn near digging a ditch here."
+"Extend?!" Brenda gestured at the ground. "I am damn near digging a ditch here."
 
-"Coffee?" Doogan asked, holding a cardboard tray with four cups.
+"Coffee?" Doogan held up a cardboard tray with four cups.
 
-"There's a video." He turned the phone. "See? This guy—"
+"There's a video." Marcus turned the phone. "See? This guy—"
 
 "Marcus, that's a kid. He's like twelve."
 
 "He has two million followers."
 
-Mara stood there, arms crossed, watching Brenda's and Marcus look for answers on YouTube.
+Mara stood, arms crossed, watching Brenda and Marcus hunt for answers on YouTube.
 
-"Morning." Doogan gestured the coffees towards her.
+"Morning." Doogan gestured coffees toward her.
 
-Mara turned. "You're early. A day early. The best ball tournament isn't until tomorrow."
+Mara turned. "You're early. A day early. Best Ball isn't until tomorrow."
 
 "Figured you might need coffee."
 
 "If this keeps up, I might need something stronger."
 
-He handed one to Mara. She took it, sipped, made a face that wasn't quite approval but wasn't rejection either.
+He handed one to Mara. She sipped, made a face—not quite approval, not rejection either.
 
 "Not what you usually drink?"
 
 "It's fine."
 
-Brenda spotted him. "Oh thank god. You're the caddy, right?"
+Brenda spotted him. "Oh thank God. You're the caddy, right?"
 
 "Doogan."
 
 "Brenda. This is Marcus." Mara introduced them.
 
-"Thank God! Marcus is going to be my caddy tomorrow but I think we need some advice about that."
+"Thank God. Marcus is caddying tomorrow but I think we need advice about that."
 
 Marcus looked up from his phone. "Hi. Do you know anything about hip rotation?"
 
@@ -54,13 +54,13 @@ Marcus blinked. "How did you—"
 
 Brenda took it like he'd handed her gold. "Okay, you're officially my favorite person here."
 
-Marcus sipped his latte. Paused. "This is actually perfect."
+Marcus sipped his latte. Paused. "This is perfect."
 
 "I aim to please."
 
-Mara watched this exchange with something between suspicion and curiosity. "You didn't ask what anyone wanted."
+Mara watched this with something between suspicion and curiosity. "You didn't ask what anyone wanted."
 
-"Coffee shops have patterns. Brenda strikes me as a caramel person. Marcus has that extra-shot energy even at six AM. And you—" He gestured at her cup. "—you drink whatever's in front of you because you're thinking about something else."
+"Coffee shops have patterns. Brenda strikes me as a caramel person. Marcus has that extra-shot energy even at six AM. And you—" He gestured at her cup. "—drink whatever's in front of you because you're thinking about something else."
 
 "Golf."
 
@@ -72,95 +72,75 @@ Brenda broke the tension. "Can one of you please tell me why this is happening?"
 
 "May I?" Doogan asked Mara.
 
-"Be my guest," she gestured the invite towards Brenda.
+"Be my guest."
 
-Doogan walked over, put both hands on Marcus' shoulders and moved him out of the way gently.  He then approached Brenda, looking her up and down and then positioned himself right in front of her, crouched down, a little closer to the tee and her club than someone with her lack of control was comfortable with at all.
+Doogan walked over, moved Marcus aside gently, positioned himself right in front of Brenda, crouched down close to the tee.
 
 "I tend to think of the golf swing as a poem."
 
-"Oh..My..God!" Mara rolled her eyes so hard it almost made noise.
+"Oh. My. God." Mara rolled her eyes hard.
 
-"The opening phrase of this poem will always be the grip."
+"The opening phrase will always be the grip."
 
-"Stop it-"
+"Stop it—"
 
-Doogan laughed while waving his hand as if to erase those words from the air.
+Doogan laughed, waved his hand like erasing words.
 
-"No, that seems nice," Brenda's body language loosened.
+"No, that seems nice," Brenda said.
 
-"It from a movie.  Good Lord!" Mara said, rolling her eyes.
+"It's from a movie. Good Lord." Mara rolled her eyes.
 
-"Let all the advice you've found online go," Doogan said, still laughing off his little movie quote joke.
+"Let all the advice you found online go," Doogan said.
 
-"What do you mean?" Brenda was confused.
+"What do you mean?"
 
-"Let it go. Its all junk."  Doogan picked her ball up off the tee and offered it up to her.  She took it with a confused look.  "What do you notice about it?"
+"Let it go. It's junk." Doogan picked her ball off the tee, offered it. She took it, confused. "What do you notice?"
 
-"Its a ball." she said, still confused.
+"It's a ball."
 
 "Is it heavy?"
 
 "No."
 
-"Is it squishy, like a rubber ball?"
+"Squishy?"
 
-"No. Its hard with these dimples."
+"No. Hard with dimples."
 
-"Right, so its light, has a hard shell and dimples on it. Its made to go far with limited effort and the physics of those dimples will take care of spin and loft. The ball is made for your success."
+"Right. Light, hard shell, dimples. Made to go far with limited effort. Physics handles spin and loft. The ball wants you to succeed. You don't need hip rotation, shoulder drive, follow-through, wrist snap, any of that."
 
-"I don't get it."
+"But YouTube—" Marcus interrupted.
 
-"You don't need hip rotation. You don't need shoulder drive or follow-through or wrist snap or any of that."
+"—is a graveyard of bad advice."
 
-"But YouTube..." Marcus interrupted.
+"So then what?" Brenda asked.
 
-"Is a graveyard of bad advice. Ignore it."
+"First, shorter club." He swapped her driver for an eight iron.
 
-"So then what?" Brends asked.
+"It's so much shorter."
 
-"First of all, lets get you a shorter club."
+"More forgiving. Stance: shoulder width, stable. Like a tripod on a camera. Less your base moves, less you compensate up top."
 
-"But I want the 'big dog to eat'." Brenda impersonated.
+"But don't I turn into—"
 
-"Not just yet," Doogan was laughing.
+"No. Keep your base stable and still. Address the ball."
 
-"Shorter clubs are a bit more forgiving. Let's try this." he said swapping her driver for the eight iron.
+"Hello, ball." Marcus chuckled.
 
-"Its so much shorter."
+"Line up in the exact position you want when you strike." Doogan crouched. "What do you notice about the club head?"
 
-"Let's start with the stance, shoulder width, stable. Its like the tripod on a stationary camera on your TV set. What happens if its too loose and flimsy?"
+"It's flush with the ball."
 
-"The shot giggles and the camera has to compensate."
+"Exactly. Hit it twisted this way, ball slices. Twisted that way, hooks. Get the club back to this point, every time. Loosen shoulders, don't strangle the grip. Just tight enough it doesn't fly out. Nothing more."
 
-"Exactly. The less your base moves, the less you'll have to compensate for it on the top part of your body. Keep your base still."
+"But don't I have to power it up, 'grip it and rip it'?"
 
-"But don't I have to turn into my..."
-
-"No. At least not yet or for a very long time. Keep your base stable and still."
-
-"Address the ball."
-
-"Hello, ball," Brenda said, Marcus chuckled.
-
-"Line up to the ball in the exact position you want to be when you strike it." Doogan said, trying not to laugh too much.  "OK, perfect. What do you notice about the club head?"
-
-"Its flush with the ball."
-
-"Yeah, exactly.  If you hit it like this," he said twisting it away slightly, "it will go that way or possibly slice. If you hit it like this," he said twisting it the other way, "it will go that way or hook. So you want to get the club back to this point, every time."
-
-"That's it."
-
-"That's it. Loosen up your shoulders, don't try strangle the grip. Just tight enough that it doesn't fly out of your hands. Nothing more."
-
-"But don't I have to power it up, what's the term...'grip it and rip it'," she said waving a tightened club handle.
-
-"We'll cover the John Daly lesson later at the bar," Doogan said bringing her club back down to the ball. "For now, we just stay loose and easy. The ball is light, its got a hard shell with lots of engineering. All you have to do is get the club back to this point. The less you move your base, your shoulders, your hips, the better. Take a swing."
+"We'll cover John Daly at the bar. For now, loose and easy. Ball is light, engineered. Just get the club back to this point. The less you move base, shoulders, hips, the better. Take a swing."
 
 "Don't you have to move?"
 
 "You're not going to hit me. You're going to hit that ball."
 
-Brenda tried to relax, looked down the driving range fairway and found the spot on the ball. At the last minute, she looked down the range.
+Brenda tried to relax. At the last minute, looked down the range.
 
 "Hold on!"
 
@@ -168,47 +148,47 @@ Brenda tried to relax, looked down the driving range fairway and found the spot 
 
 "What are you looking at?"
 
-"Where the ball is going?"
+"Where the ball's going?"
 
-"We'll watch that way for you. You watch the ball. Every time you hit the ball, I want you to be able to describe what the club head looked like when it hit the ball. Every time. To do that, what will you need to do?"
+"We'll watch for you. You watch the ball. Every time you hit it, describe what the club head looked like when it made contact. To do that, what will you need?"
 
 "Focus on the ball. Right."
 
 "But how will I hit my target?"
 
-"When you walk up the ball, watch your target. When you're setting your stance, watch your target. Even when lining up the club head, watch your target. But after that, the aiming is all done. If you did all of that right and the club head makes it back to that spot, you'll be right on target. And most importantly, relax!"
+"When you walk up, watch your target. Setting stance, watch target. Lining up club head, watch target. After that, aiming's done. If you did it right and club head makes it back to that spot, you'll be on target. Most importantly, relax."
 
-Doogan didn't move, despite it making Brenda uncomfortable for him to be that close,
+Doogan didn't move, despite making Brenda uncomfortable being that close.
 
-Brenda took a deep inhale, relaxed her hands and shoulders and lined up the club.
+Brenda took a deep inhale, relaxed hands and shoulders, lined up the club.
 
-"Breath."
+"Breathe."
 
-She exhaled. Wound back her club, head down until her arms couldn't comfortably go further back and then with one smooth motion, swung the head down and back to the ball. A crisp slicing sound broke the air and Brenda's arms flung out straight towards the fairway. The ball ball made a long curving arc in the air before coming to a soft landing about 90 yards away.
+She exhaled. Wound back, head down until arms couldn't go comfortably further, then one smooth motion down. Crisp slicing sound. Arms flung straight toward the fairway. Ball arced long, landed soft about ninety yards away.
 
 "That felt..."
 
 "Effortless?"
 
-"Yeah, effortless."
+"Yeah."
 
-"I got it!", Marcus said, hopping a little gesturing to his phone.
+"I got it!" Marcus hopped, gesturing to his phone.
 
-"Nice! Post it, hashtag it, the works!" Brenda said back to him.
+"Nice! Post it, hashtag it!" Brenda said back.
 
-"Hit a few more. But every time, before you start your backswing, I want you to say that word."
+"Hit a few more. Before you start your backswing, say that word."
 
 "Which word?"
 
-"Effortless." he smiled back.
+"Effortless."
 
 "Out loud?"
 
-"For now, yes. Out loud."
+"For now, yes."
 
-Doogan headed back over to Mara.
+Doogan headed back to Mara.
 
-"Caddy and swing coach?" she asked, still examining Brenda's stance.
+"Caddy and swing coach?" she asked.
 
 "The second one's on the house."
 
@@ -216,35 +196,35 @@ Doogan headed back over to Mara.
 
 "You don't need to warm up?"
 
-"Effortless," Brenda repeated as another clean, lofting shot.
+"Effortless," Brenda repeated. Another clean shot.
 
-"If she's going to hit like that tomorrow, maybe I should. Before you got here, I assumed we'd be in the bottom of the pack but now..."
+"If she's going to hit like that tomorrow, maybe I should. Before you got here, I assumed bottom of the pack but now..."
 
-"Tomorrow's a best ball so she'll just follow you around. But the next day is a scramble."
+"Tomorrow's Best Ball so she'll just follow you around. But the day after is a scramble."
 
-"This is a celebrity Pro Am so its a pretty forgiving scramble but it was looking pretty hopeless about a half hour ago. Nice work."
+"This is a celebrity Pro-Am so it's pretty forgiving, but it looked hopeless half an hour ago. Nice work."
 
 "Thank you."
 
-"I'm going to hit a few. Should I expect some pointers."
+"I'm going to hit a few. Should I expect pointers?"
 
-"I've seen your drive on TV. You're not going to need any advice from me."
+"I've seen your drive on TV. You won't need advice from me."
 
-In that moment, a commotion rose up behind them. They turned to see a crowd of people, mostly press and fans moving in a clump.  In the center of it, Candy Williams wearing a cherry red skirt that was definitely too short for LPGA standards was heading to the driving range area, with a thin, blonde woman following along.
+Commotion behind them. They turned. Crowd of press and fans moving in a clump. Center: Candy Williams in a cherry red skirt too short for LPGA standards, thin blonde woman following.
 
 "Who's the matching blonde with Candy?"
 
-"Oh, that's Tilly London, the reality TV star. She has SO MANY followers that she's almost a Kardashian." Marcus interrupted.
+"That's Tilly London, reality TV star. Almost a Kardashian." Marcus interrupted.
 
 "What kind of golf bag is that?"
 
-"Louis Vuitton. And I think her golf shoes are Manolos."
+"Louis Vuitton. Golf shoes are Manolos."
 
 "I don't think I've seen those in the pro shop."
 
-"You need to hang out at better pro shops, I guess." Mara fired back.
+"You need to hang out at better pro shops." Mara fired back.
 
-"She has nearly five million followers across TikTok and insta.  Between her and Candy, they probably have 8 million followers. This is the influencer event right now." Marcus added.
+"She has nearly five million followers. Between her and Candy, eight million. This is the influencer event right now." Marcus added.
 
 "Lovely." Mara said flatly.
 
@@ -252,17 +232,13 @@ In that moment, a commotion rose up behind them. They turned to see a crowd of p
 
 "Unlikely."
 
-Tilly handed her bag to her assistant and pulled a driver from the bag, very high end and clearly brand new. It had never even been practice swung from that Doogan could see.
-
-"Keep watching."
-
-She fetched a sparkling white ball from a wire bucket at the back of the driving ara and dropped it on the turf before lining up in front of it and posing for a shot.
+Tilly handed her bag to her assistant, pulled a driver—high-end, brand new, never practice-swung. Fetched a sparkling white ball from a wire bucket, dropped it on turf, lined up, posed for a shot.
 
 "Keep watching." Doogan reassured.
 
-Tilly wound up, left knee drifting in like she was about to try to hit a homerun at the batting cages and then she unwound, a thrush of air and a thud as turf and dirt sprung from the tee area but the ball just dribbled forward.
+Tilly wound up, left knee drifting in like batting cages, unwound. Thrush of air, thud. Turf and dirt sprung from tee. Ball just dribbled forward.
 
-"Mother fu-"
+"Mother fu—"
 
 "This is good coffee." Doogan took a sip.
 

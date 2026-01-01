@@ -251,6 +251,7 @@ if (-not $pandocPath) {
             "-V", "geometry:margin=0.75in",
             "-V", "fontsize=11pt",
             "-V", "linestretch=1.15",
+            "-V", "parskip=0.75em",
             "--metadata", "title=The Rebound Specialist: Episode $episodeNumFormatted - $episodeTitle"
         )
         

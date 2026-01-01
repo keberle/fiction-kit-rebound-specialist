@@ -14,7 +14,7 @@ Doogan entered through the unlocked front door.
 
 Eddie spotted him. "There he is! The big spender."
 
-Abby appeared from the kitchen, wine glass in hand. "How much did did actually spend? That we now have to bill Jake?"
+Abby appeared from the kitchen, wine glass in hand. "How much did you actually spend? That we now have to bill Jake?"
 
 "Three or four thousand. Something like that."
 
@@ -54,7 +54,7 @@ Abby set her wine down. "How many patients?"
 
 "For what?" Abby leaned closer.
 
-"For healthy people. Alice Chen—fourty-eight. Fiften prescriptions in one year. All expensive. But before this clinic? No indications that I can find that she was sick."
+"For healthy people. Alice Chen—forty-eight. Fifteen prescriptions in one year. All expensive. But before this clinic? No indication I can find that she was sick."
 
 "You're saying that's a lot for a healthy person?"
 
@@ -66,13 +66,15 @@ Abby pulled the folded patient list from her purse. "I've got twenty-three names
 
 She unfolded it, showed the camera. "Blue pen. Eight names. Like someone checking off—"
 
-"Crossed of?" Doogan asked.  "Like...deceased?"
+"Crossed off?" Doogan asked. "Like... deceased?"
 
-"Baxter. No, they're not marked deceased in the patient summaries. No insurance or billing so I can't be sure but usually clinics track that."
+"No, they're not marked deceased in the patient summaries. No insurance or billing so I can't be sure but usually clinics track that." Baxter added.
+
+"So why are they crossed out?"
 
 "Can you read the names?" Baxter asked.
 
-"They're not crossed out for privacy," Abby added. "Its like it was some checklist."
+"They're not crossed out for privacy," Abby added. "It's like it was some checklist."
 
 Baxter typed. Waited. "Okay. So those eight crossed-off names? None of them show up in pharmacy records."
 

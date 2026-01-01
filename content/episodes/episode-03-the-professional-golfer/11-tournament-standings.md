@@ -2,11 +2,11 @@
 
 "—absolutely. Brenda kept me laughing all day."
 
-Mara was surrounded by a cluster of reporters near the eighteenth green, smiling genuinely as she recounted the round. Doogan stood off to the side with Winston, watching her work the small press gathering with an ease that hadn't been there three days ago.
+Mara was surrounded by a cluster of reporters near the eighteenth green. Doogan stood off to the side with Winston.
 
 "Ms. Palani, you're tied for first despite the two-stroke penalty on four. How did you recover?"
 
-"Honeslty, I think we were having too much fun to even notice."
+"Honestly, I think we were having too much fun to even notice."
 
 Laughter rippled through the reporters. One of them called out to Brenda.
 
@@ -38,7 +38,7 @@ He looked back over at the media frenzy taking place. "Always leave 'em wanting 
 
 "I am meeting with a shoe company tomorrow and a sportswear company tonight. I have to admit—"
 
-"Don't go getting all mushy on me now, Jake" Doogan didn't take his eye off of Mara to respond to her manager who had appeard to his left.
+"Don't go getting all mushy on me now, Jake." Doogan didn't take his eye off Mara to respond to her manager who had appeared to his left.
 
 "If she can win tomorrow—"
 
@@ -48,11 +48,7 @@ He looked back over at the media frenzy taking place. "Always leave 'em wanting 
 
 "Yeah."
 
-Jake patted Doogan on the shoulder before disppearing into the crowd of spectators now very interested in the Brenda and Mara show unfolding before him.
-
-Out of the corner of his eye, he noticed a man and woman. They were dressed like the rest of the tourists at the tournament but stood out because they were the only people not focused on Brenda and Mara.
-
-Their eyes darted away from Doogan.  Why?
+Jake patted Doogan on the shoulder before disappearing into the crowd.
 
 "Still here?" Mara was walking towards him.
 
@@ -74,7 +70,7 @@ Their eyes darted away from Doogan.  Why?
 
 "—I'm not going on tour with you."
 
-Mara laughed. "How about dinner then?"
+Mara laughed. "How about dinner?"
 
 "Where did Brenda pull influence and get us into this time? That place last time could have doubled as the White House press briefing room. I've never seen so many cameras."
 
@@ -82,14 +78,14 @@ Mara laughed. "How about dinner then?"
 
 "Oh?" she had Doogan's attention now.
 
-"Some place quiet.  Just us?"
+"Some place quiet. Just us?"
 
 "You said the magic words."
 
-"Pick me up?  Seven?"
+"Pick me up? Seven?"
 
 "Perfect."
 
-From the clubhouse, surrounded by celebrity journalists he could make out Candy's giving them the side eye. Might as well enjoy a quiet evening. Tomorrow would be war.
+From the clubhouse, surrounded by celebrity journalists, he could make out Candy giving them the side eye. Might as well enjoy a quiet evening. Tomorrow would be war.
 
 ---

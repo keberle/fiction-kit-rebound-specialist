@@ -1,135 +1,129 @@
 ## Scene 2 — The Clinic Visit
 
-"I need you to sign here, here, and initial here."
-
-The receptionist slid the clipboard across the counter. Abby took it, scanned the patient information form. She'd filled out the name—Sarah Mitchell—and a fake address twenty minutes ago. Complaint: persistent lower back pain, difficulty sleeping.
-
 "And you're paying cash today?"
 
 "That's right." Abby returned the clipboard. "No insurance."
 
-The receptionist smiled, polite but indifferent. "The nurse will call you back in a few minutes. Have a seat."
+"The nurse will call you back in a few minutes. Have a seat."
 
-Abby moved to the waiting area. Two other patients: elderly man reading a magazine, young woman scrolling her phone. The clinic smelled like antiseptic and air freshener trying to cover something stale. Fluorescent lights hummed overhead.
+Abby moved to the waiting area. Two other patients: elderly man reading, young woman on her phone. Clinic smelled like antiseptic and air freshener covering something stale. Fluorescent lights hummed.
 
-She adjusted her earpiece. Invisible, bone-conduction, military-grade. Baxter had insisted she wear it.
+She adjusted her earpiece.
 
-"I'm in." She kept her voice low, pretended to check her phone.
+"I'm in." Low voice, pretended to check her phone.
 
-Baxter's voice crackled in her ear. "Copy that. I've got the clinic's security camera feed. Two cameras in the lobby, one in the hallway. No cameras in exam rooms or the staff area."
+Baxter's voice crackled. "Copy that. I've got the clinic's security camera feed. Two cameras in the lobby, one in the hallway. No cameras in exam rooms or staff area."
 
 "What about coverage in the back?"
 
-"Pretty standard. Cameras cover public areas, reception, main hallway. Nothing in treatment areas for privacy. But there's one room that's interesting—Exam Room 1, down at the end of the hall past the nurses' station. No camera anywhere near it. Not even in the hallway leading to it."
+"Pretty standard. Cameras cover public areas, reception, main hallway. Nothing in treatment areas for privacy. But there's one room that's interesting—Exam Room 1, down at the end past the nurses' station. No camera anywhere near it. Not even in the hallway."
 
 "That's unusual."
 
-"Yeah. And according to the appointment system I'm looking at, that room is only used by Nancy. She sees specific patients there, but I can't tell what kind yet. The scheduling notes are coded."
-
-Five minutes passed. Then ten.
+"Yeah. According to the appointment system, that room's only used by Nancy. She sees specific patients there, but I can't tell what kind yet. Scheduling notes are coded."
 
 "Sarah Mitchell?"
 
-A medical assistant appeared in the doorway. Abby stood, followed her down the hallway. Beige walls, generic watercolor prints, doors labeled with exam room numbers. The assistant stopped at Room 4.
+Medical assistant at the doorway. Abby stood, followed her down the hallway. Beige walls, generic watercolors, exam room numbers. The assistant stopped at Room 4.
 
-"Go ahead and have a seat. Doctor will be with you shortly."
+"Have a seat. Doctor will be with you shortly."
 
-The door closed. Abby waited thirty seconds, listening.
+Door closed. Abby waited thirty seconds.
 
 "Baxter, what do you see?"
 
-"Hallway's clear. Nancy's at the nurses' station near the front. Two other staff members in exam rooms with patients. You've got maybe three minutes before someone checks on you."
+"Hallway's clear. Nancy's at the nurses' station. Two other staff in exam rooms. You've got maybe three minutes before someone checks."
 
-Abby cracked the door open, slipped into the hallway. Empty to the left. Another corridor branching right. She moved quickly, checking door labels. Exam 5. Exam 6. Supply closet.
+Abby cracked the door, slipped out. Empty left. Another corridor right. She moved quickly. Exam 5. Exam 6. Supply closet.
 
-At the far end of the hallway, past where it branched, she spotted Exam Room 1. Nancy's room. The one with no camera coverage. She started toward it.
+Far end of the hallway, past the branch: Exam Room 1. Nancy's room. No camera coverage. She started toward it.
 
-"Abby, wait—Nancy just stood up from her desk. She's looking at something."
+"Abby, wait—Nancy just stood up. She's looking at something."
 
-Abby froze. Too exposed. She pivoted, spotted another door closer.
+Abby froze. Too exposed. She pivoted, spotted another door.
 
 "Staff Only."
 
-She tried the handle. It turned. Unlocked.
+Handle turned. Unlocked.
 
-She slipped inside, eased the door shut. The room was small—break table, microwave, lockers along one wall. And against the far wall, a large beige metal filing cabinet. Five drawers, each labeled with alphabet ranges. The kind with horizontal drawer pulls and small circular locks.
+She slipped inside, eased the door shut. Small room—break table, microwave, lockers. Against the far wall: large beige metal filing cabinet. Five drawers, alphabet labels. Horizontal pulls, circular locks.
 
 "Baxter, I'm in. Filing cabinet. Five drawers."
 
 "Good. Try the top drawer."
 
-Abby pulled. Locked. She tried the second. Also locked.
+Abby pulled. Locked. Second drawer. Also locked.
 
 "All locked."
 
-"Okay, okay, hold on." Typing sounds in her ear. "You're going to need two paperclips. Can you find paperclips?"
+"Okay, okay, hold on." Typing sounds. "You need two paperclips. Can you find paperclips?"
 
-Abby scanned the room. Spotted a cup on the break table filled with pens and—yes—paperclips. She grabbed two, straightened them. "Got them."
+Abby scanned. Cup on the break table—pens and paperclips. She grabbed two, straightened them. "Got them."
 
 "Okay, these are barrel locks so you need to bend one into an L-shape for tension, and the other—"
 
 "Wait." Abby froze. "Do you actually know how to pick locks?"
 
-"Um...kind of..."
+"Um... kind of..."
 
 "What does 'kind of' mean?"
 
 Pause. "I'm... reading about it. Right now."
 
-"You're reading a about it?!?!"
+"You're reading about it?"
 
-"Yeah, on reddit.  It has very detailed instructions! And pictures!"
+"Yeah, on Reddit. Very detailed instructions! And pictures!"
 
-"Baxter!" she said as loudly as she could in a hushed voice.
+"Baxter!" Hushed but sharp.
 
 "Look, it's not that different from hacking, conceptually. You're just manipulating physical pins instead of digital—"
 
-"Are we really going to learn lock-picking together while I'm actively breaking into a medical records room?"
+"Are we really learning lock-picking together while I'm actively breaking into a medical records room?"
 
-Longer pause. Then, quieter: "When you put it that way, it does sound... less optimal."
+Longer pause. Quieter: "When you put it that way, it does sound... less optimal."
 
-Footsteps in the hallway outside. Abby's pulse spiked.
+Footsteps outside.
 
 "Someone's coming."
 
-"Nancy just left the nurses' station. She's heading your way."
+"Nancy just left the nurses' station. Heading your way."
 
-Abby's eyes swept the room. Locked drawers. No time. Then she spotted it—a cardboard box on the floor next to the filing cabinet. Label: "TO BE SHREDDED." She crouched, rifled through. Patient intake forms. Appointment logs. And—there—a printed patient list. Names, dates, brief notes. Several names were crossed off in blue pen.
+Abby's eyes swept. Locked drawers. No time. Then she spotted it—cardboard box on the floor next to the cabinet. Label: "TO BE SHREDDED." She crouched, rifled through. Patient intake forms. Appointment logs. And—there—printed patient list. Names, dates, notes. Several names crossed off in blue pen.
 
-"Grab it!" Baxter blurted out.
+"Grab it!" Baxter blurted.
 
 She shoved it into her purse, stood, moved toward the door.
 
 Too late.
 
-The door opened. Nancy stepped through, clipboard in hand, eyes already cold and suspicious before they landed on Abby.
+Door opened. Nancy stepped through, clipboard in hand, eyes cold and suspicious.
 
 "What are you doing in here?"
 
-Abby's mind raced. "I'm so sorry. I got turned around looking for the bathroom."
+"I'm so sorry. I got turned around looking for the bathroom."
 
-Nancy's gaze flicked to the filing cabinet, then back to Abby. "This room is clearly marked 'Staff Only.'"
+Nancy's gaze flicked to the filing cabinet, then back. "This room is clearly marked 'Staff Only.'"
 
 "I know, I just—"
 
-"The bathroom is down the hall. In the opposite direction." Nancy stepped fully into the room, blocking the doorway. "You were in Exam 4. That's three doors past the bathroom. You'd have to walk past it to get here."
+"The bathroom's down the hall. Opposite direction." Nancy stepped fully in, blocking the doorway. "You were in Exam 4. That's three doors past the bathroom. You'd have to walk past it to get here."
 
 Abby forced an apologetic expression. "I'm sorry. I wasn't paying attention."
 
-"The bathroom. Right." Nancy's eyes narrowed.
+"Right." Nancy's eyes narrowed.
 
-Abby slipped back into the exam room closed the door but just shy of latching.  She waited for a beat or two before cracking the door to confirm Nancy was no longer in the hallway.
+Abby slipped back into the exam room, closed the door shy of latching. Waited a beat, cracked it to confirm Nancy was gone.
 
-On her way out the door the receptionist noticed her "Ma'am?".
+On her way out, the receptionist noticed. "Ma'am?"
 
-"Don't you have to check in with her on the way out or something?"
+"Don't you have to check out or something?"
 
-"No." she said in a hushed voice. "All the information is fake, remember? And its not like I want to pay a bill."
+"No." Hushed voice. "All the information's fake, remember? And I'm not paying a bill."
 
 "Good point."
 
-The receptionist looked confused. "But the doctor will be ready in just—"
+Receptionist looked confused. "But the doctor will be ready in just—"
 
-Abby walked out through the front door, into the evening air. She didn't look back.
+Abby walked out the front door into evening air. Didn't look back.
 
 ---

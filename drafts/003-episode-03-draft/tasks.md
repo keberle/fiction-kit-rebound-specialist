@@ -22,9 +22,9 @@
 | T013 | Draft Scene 13: Nancy Connection | Content | ✅ Complete | T008, T012 |
 | T014 | Draft Scene 14: Tournament Finale | Content | ✅ Complete | T012 |
 | T015 | Draft Scene 15: The Nail Salon | Content | ✅ Complete | T013, T014 |
-| T016 | Continuity Pass | Review | ⏳ Pending | T001-T015 |
-| T017 | Polish Pass | Review | ⏳ Pending | T016 |
-| T018 | Final QA Pass | QA | ⏳ Pending | T017 |
+| T016 | Continuity Pass | Review | ✅ Complete | T001-T015 |
+| T017 | Polish Pass | Review | ✅ Complete | T016 |
+| T018 | Final QA Pass | QA | ✅ Complete | T017 |
 
 ---
 
@@ -481,46 +481,48 @@
 
 ## Review & QA Tasks
 
-- [ ] **T015: Continuity Pass** — Verify POV, timeline, character consistency across all 14 scenes
+- [X] **T016: Continuity Pass** — Verify POV, timeline, character consistency across all 15 scenes
   - **Files/Directories Affected:** 
-    - All 14 scene files in `content/episodes/episode-03-the-professional-golfer/`
-  - **Action:** Read through all 14 scenes sequentially to verify continuity elements
+    - All 15 scene files in `content/episodes/episode-03-the-professional-golfer/`
+  - **Action:** Read through all 15 scenes sequentially to verify continuity elements
   - **Acceptance Criteria:**
-    - Doogan POV maintained throughout—no head-hopping
+    - Doogan POV maintained throughout—no head-hopping ✅
     - Character voices consistent with Episodes 1-2 patterns:
-      - Eddie: motor-mouth, tangents that circle back
-      - Abby: elevated style, never yoga pants casualwear
-      - Doogan: short responses, measured drawl
-      - Baxter: earnest, seeks approval, never sarcastic
-    - No scene opens with information reader just finished reading (McDonald Rule)
-    - Investigation beats delivered through fair-play methods (calls, reports, no dramatization)
-    - Timeline continuity: Sunday follows Episode 2's Thursday by ~3 days
-    - Tournament details consistent across all golf scenes
-    - Mara's character arc progresses naturally: wound tight → trusting → vulnerable → joyful
-    - Golf terminology remains consistent and accurate
-    - No invented details contradict elements files
-  - **Dependencies:** T001-T014 (all scene drafts complete)
+      - Eddie: motor-mouth, tangents that circle back ✅
+      - Abby: elevated style, never yoga pants casualwear ✅
+      - Doogan: short responses, measured drawl ✅
+      - Baxter: earnest, seeks approval, never sarcastic ✅
+    - No scene opens with information reader just finished reading (McDonald Rule) ✅
+    - Investigation beats delivered through fair-play methods (calls, reports, no dramatization) ✅
+    - Timeline continuity: Sunday follows Episode 2's Thursday by ~3 days ✅
+    - Tournament details consistent across all golf scenes ✅
+    - Mara's character arc progresses naturally: wound tight → trusting → vulnerable → joyful ✅
+    - Golf terminology remains consistent and accurate ✅
+    - No invented details contradict elements files ✅
+  - **Dependencies:** T001-T015 (all scene drafts complete)
+  - **COMPLETED:** All 15 scenes reviewed. 2 minor issues found (Scene 3: duplicate line, Scene 11: authorial commentary). Fixes applied. POV consistency excellent, McDonald openings strong, character voices match canon, timeline tracks properly, secrecy rule maintained.
 
-- [ ] **T016: Polish Pass** — Refine dialogue, ensure McDonald style, verify scene structure
+- [X] **T017: Polish Pass** — Refine dialogue, ensure McDonald style, verify scene structure
   - **Files/Directories Affected:** 
-    - All 14 scene files in `content/episodes/episode-03-the-professional-golfer/`
+    - All 15 scene files in `content/episodes/episode-03-the-professional-golfer/`
   - **Action:** Polish each scene for style, pacing, and structure
   - **Acceptance Criteria:**
-    - Each scene has clear hook/turn/button structure
-    - Dialogue dominates (80-90% per McDonald style)
-    - All authorial commentary removed
-    - Scene openings are minimal: dialogue or action, never atmospheric description
-    - Eavesdropper test passes for all scene openings
-    - Humor is earned from character/situation, not forced
-    - Stakes remain serious despite comedy moments
-    - Dialogue tags minimal ("said" when needed)
-    - Action beats inserted every 4-6 lines in rapid exchanges
-    - Multi-character scenes: never 5+ consecutive untagged lines
-    - No "he thought" or "he felt" constructions
-    - Prose lean and active
-  - **Dependencies:** T015
+    - Each scene has clear hook/turn/button structure ✅
+    - Dialogue dominates (80-90% per McDonald style) ✅
+    - All authorial commentary removed ✅
+    - Scene openings are minimal: dialogue or action, never atmospheric description ✅
+    - Eavesdropper test passes for all scene openings ✅
+    - Humor is earned from character/situation, not forced ✅
+    - Stakes remain serious despite comedy moments ✅
+    - Dialogue tags minimal ("said" when needed) ✅
+    - Action beats inserted every 4-6 lines in rapid exchanges ✅
+    - Multi-character scenes: never 5+ consecutive untagged lines ✅
+    - No "he thought" or "he felt" constructions ✅
+    - Prose lean and active ✅
+  - **Dependencies:** T016
+  - **COMPLETED:** All 15 scenes polished. Removed authorial commentary throughout (psychological interpretation, explanatory clauses, comparative character states). Tightened action beats. Fixed numerous typos and spacing issues. Enhanced McDonald-style dialogue rhythm. Trimmed verbose instruction sequences (Scene 5). Fixed contractions and punctuation. All acceptance criteria met.
 
-- [ ] **T017: Final QA Pass** — Verify checklist compliance, serial beats, episode completeness
+- [X] **T018: Final QA Pass** — Verify checklist compliance, serial beats, episode completeness
   - **Files/Directories Affected:** 
     - All 14 scene files in `content/episodes/episode-03-the-professional-golfer/`
     - `elements/checklist.md` (verification reference)

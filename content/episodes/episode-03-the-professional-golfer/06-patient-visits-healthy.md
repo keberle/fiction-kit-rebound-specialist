@@ -14,7 +14,7 @@ Eddie nodded. "Sounds good."
 
 "Pardon?"
 
-"There are two types of investors, Eddie. predstors and prey."
+"There are two types of investors, Eddie. Predators and prey."
 
 "I mean—"
 
@@ -24,7 +24,7 @@ Eddie nodded. "Sounds good."
 
 "They are dinner. You know what a guy like me loves?"
 
-Eddie scanned cabinet on the wall next to his desk.  Ironman triathlon finish shot, sail boat, golf tournament trophy, shots of the man with his trophy family. "Outdoor sports?"
+Eddie glanced over at Phil's bookcase, Ironman Triathlon finish, accepting a local golf tournament trophy mixed in with the occasional overly posed family pic. "Outdoor sports?"
 
 "Day traders."
 
@@ -54,21 +54,21 @@ Eddie stepped into the hallway, answered. "Hey."
 
 ---
 
-Abby had her bluetooth earpiece in and was pulling on to the main road from a small, suburban neighborhood.
+Abby pulled onto the main road.
 
 "I just left."
 
 "How'd it go?"
 
-"Sad." She looked back into the rearview at the neighborhood. Small, older homes, chain link fences, small yards.
+"Sad."
 
 "What happened?"
 
-"The patient's...dead. His mother answered the door."
+"The patient's dead. His mother answered the door."
 
 "Jesus."
 
-"Yeah." Abby reached her car, unlocked it, slid into the driver's seat. "She invited me in. Showed me pictures."
+"Yeah. She invited me in. Showed me pictures."
 
 "What'd you tell her?"
 
@@ -76,7 +76,7 @@ Abby had her bluetooth earpiece in and was pulling on to the main road from a sm
 
 Eddie's voice: "What'd she say?"
 
-"He'd been sick for a while. Cancer, I think. Their insurance wasn't great." Abby started the engine, pulled away from the curb. "But she showed me this picture—him in Ireland, near the coast. He looked awful. Gaunt, hollow. But happy."
+"He'd been sick for a while. Cancer. Their insurance wasn't great. But she showed me this picture—him in Ireland, near the coast. He looked awful. Gaunt, hollow. But happy."
 
 "Ireland?"
 
@@ -94,7 +94,7 @@ Silence on the line.
 
 "What do you mean?"
 
-"I mean he's not sick. At all. Guy's a finance bro. Investment advisor. Runs marathons. Does Crossfit at five AM. His doctor says he's got the bloodwork of a twenty-five-year-old."
+"I mean he's not sick. At all. Guy's a finance bro. Kind of a douchebag but definitely not sick."
 
 Abby frowned. "But he's on Baxter's list?"
 
@@ -126,17 +126,17 @@ Baxter's voice: "—can you both hear me?"
 
 "Not in their system. And there should be. Clinics are supposed to flag deceased patients."
 
-Eddie's voice: "What about mine? Phil...something." Eddie's car door closing abruptly.
+Eddie's voice: "What about mine? Phil...something."
 
-More typing. "Blakely. Shows... thirteen prescriptions in the last year. Blood pressure, cholesterol, diabetes medication, anti-anxiety, sleep aids. But no major diagnoses. Just a bunch of prescriptions without supporting medical records."
+More typing. "Blakely. Shows... thirteen prescriptions in the last year. Pain killers, anti-anxiety, sleep aids. But no major diagnoses. Just a bunch of prescriptions without supporting medical records."
 
-"There's no way that guy is dying, at least not from anything he see's coming."
+"There's no way that guy is dying, at least not from anything he sees coming."
 
 "Then why is he on all this medication?" Baxter asked.
 
 Silence.
 
-Abby turned onto the main road. "What if the crossed-out names are all dead?"
+"What if the crossed-out names are all dead?"
 
 "Then why aren't they marked deceased in the system?" Baxter's voice, quiet now.
 

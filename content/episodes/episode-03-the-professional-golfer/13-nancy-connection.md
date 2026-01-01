@@ -1,6 +1,6 @@
 ## Scene 13 — Nancy Connection
 
-Two minutes into the elevator ride and Doogan's phone buzzed.  Eddie.
+Two minutes into the elevator ride and Doogan's phone buzzed. Eddie.
 
 "Strike out, slugger."
 
@@ -10,7 +10,7 @@ Two minutes into the elevator ride and Doogan's phone buzzed.  Eddie.
 
 "—you're still stalking me. Got it."
 
-"So you got her to her door like a gentleman, just leave it at that, Doogan." Abby's voice came over the earpiece.
+"So you got her to her door like a gentleman, just leave it at that, Doogan." Abby said.
 
 "Thanks, Abby."
 
@@ -42,13 +42,13 @@ Two minutes into the elevator ride and Doogan's phone buzzed.  Eddie.
 
 "Nancy?"
 
-"Right. Nurse Nancy. The angel of death. And they see her in this one exam room with not cameras."
+"Right. Nurse Nancy. The angel of death. And they see her in this one exam room with no cameras."
 
 "Right. Exam room one or something like that."
 
-"Exactly. And its loaded with palliative care devices, respirators, morphine buttons and crazy stuff like that."
+"Exactly. And it's loaded with palliative care devices, respirators, morphine buttons and crazy stuff like that."
 
-"Tha's not illegal though." Doogan approached his car in the basement parking garage.
+"That's not illegal though." Doogan approached his car in the basement parking garage.
 
 "Yeah, I think we're still not seeing the whole picture. But we are thinking we need to look into Nurse Nancy a bit more."
 
@@ -102,4 +102,4 @@ Two minutes into the elevator ride and Doogan's phone buzzed.  Eddie.
 
 "OK, we'll look into it tomorrow. Good luck on the pro round of the tournament, buddy."
 
-"Thanks. Good luck at the nail salaon."
+"Thanks. Good luck at the nail salon."
