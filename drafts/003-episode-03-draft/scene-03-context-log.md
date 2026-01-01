@@ -7,7 +7,7 @@ Scene: Episode 3, Scene 3 — Welcome Gala & Auction
 - elements/characters/mara-palani.md ✅ (full read: 213 lines, target character, keep reserved on first meeting)
 - elements/characters/jake-townsend.md ✅ (full read: 243 lines, job broker, mostly spectator role)
 - elements/characters/brenda-atwood.md ✅ (full read: 237 lines, comedian, warm/self-deprecating)
-- elements/characters/candy-hoover.md ✅ (full read: 252 lines, rival golfer, social media influencer)
+- elements/characters/candy-williams.md ✅ (full read: 252 lines, rival golfer, social media influencer)
 
 **Element Files Loaded:**
 - elements/plot.md ✅

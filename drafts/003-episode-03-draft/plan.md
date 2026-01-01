@@ -15,7 +15,7 @@
 - `elements/characters/mara-palani.md` — Mara characterization reference
 - `elements/characters/jake-townsend.md` — Jake as job broker
 - `elements/characters/brenda-atwood.md` — Comedian partner
-- `elements/characters/candy-hoover.md` — Rival golfer
+- `elements/characters/candy-williams.md` — Rival golfer
 - `elements/characters/paul-martinez.md` — Detective escalation
 - Existing Episode 1 & 2 scenes for voice consistency
 
@@ -58,7 +58,7 @@ Create episode directory:
 content/episodes/episode-03-the-professional-golfer/
 ```
 
-### New Scene Files (14 Total)
+### New Scene Files (15 Total)
 
 All scenes maintain Doogan POV except where investigation beats are delivered through calls/reports to Doogan.
 
@@ -71,28 +71,32 @@ All scenes maintain Doogan POV except where investigation beats are delivered th
 4. `04-the-patient-list.md` — Doogan at Eddie's house while Baxter presents incomplete patient data; investigation begins
 
 **Tuesday:**
-5. `05-golf-fun-day.md` — Skills competition day, Mara/Doogan chemistry starts, Alex video call moment
+5. `05-golf-fun-day.md` — Skills competition day, Mara/Doogan chemistry starts
 6. `06-patient-visits-healthy.md` — Doogan learns Eddie/Abby's findings via group call (healthy patients, extensive records)
 
 **Wednesday:**
-7. `07-pro-am-round-one.md` — Best Ball format, tournament pressure, Mara starts trusting Doogan
-8. `08-patient-visits-dying.md` — Doogan learns second pattern via call (dying patients, minimal records)
+7. `07-the-driving-range-winston-arrives.md` — Winston introduced as Brenda's caddy, Doogan's strategic thinking shown
+8. `08-post-tournament-dinner-invitation.md` — After Pro-Am Round 1 (off-screen), investigation updates via earpiece, Mara dinner invitation, Martinez parking lot confrontation returns earpiece
+9. `09-baxter-goes-undercover.md` — Baxter infiltrates clinic as IT tech, discovers palliative care equipment in Nancy's exam room
 
 **Thursday:**
-9. `09-pro-am-round-two.md` — Modified Scramble, Mara/Brenda emotional moment, sponsors calling Jake
-10. `10-martinez-parking-lot.md` — Martinez returns earpiece, reveals deeper investigation, warns Doogan
-11. `11-quiet-dinner.md` — Mara opens up about Alex, vulnerability with Doogan, emotional connection
+10. `10-fourth-hole-incident.md` — Pro-Am Round 2 fourth hole: Brenda mocks Candy, Mara drives into Candy's position
+11. `11-tournament-standings.md` — After Pro-Am Round 2, Mara/Brenda tied with Candy/Tilly for first place, rivalry escalates
+12. `12-quiet-dinner.md` — Mara opens up about Alex; woman watching them has mug shot
+
+**Thursday Night:**
+13. `13-nancy-connection.md` — Doogan on call with team, Nancy identified, nail salon plan formed
 
 **Friday:**
-12. `12-nancy-connection.md` — Doogan on call with team, Nancy identified, nail salon plan formed
-13. `13-tournament-finale.md` — Exhibition round, Mara vs Candy, weather gambit, Mara wins and shows personality
-14. `14-the-nail-salon.md` — Doogan learns from Abby about Nancy's lifestyle, episode ends with setup for Episode 4
+14. `14-tournament-finale.md` — Exhibition round, Mara vs Candy, weather gambit, Mara wins and shows personality
+15. `15-the-nail-salon.md` — Doogan learns from Abby about Nancy's lifestyle, episode ends with setup for Episode 4
 
 ### Scene Length Targets
 - Target episode length: 12,000-15,000 words total
 - Individual scenes: 800-1,200 words each
 - Tournament scenes may run longer (1,200-1,500 words) for atmosphere
 - Investigation scenes conveyed through dialogue can be shorter (600-800 words)
+- 15 scenes total
 
 ---
 
@@ -125,13 +129,15 @@ All scenes maintain Doogan POV except where investigation beats are delivered th
 - **Hook success criteria:** Reader immediately engaged by job pitch; stakes clear; Doogan's motivation (needs normalcy) established
 
 **Escalation Points:**
-- **Scene 5 (Tuesday):** Mara's Alex video call moment; Doogan helps her refocus
-- **Scene 7 (Wednesday):** Tournament pressure; Mara starts trusting Doogan's advice
-- **Scene 8 (Wednesday):** Pattern emerges — dying patients with minimal records (backwards from expected)
-- **Scene 10 (Thursday):** Martinez confronts Doogan, returns earpiece, reveals deeper investigation
-- **Scene 11 (Thursday):** Mara's vulnerability about Alex and parenting guilt; emotional connection deepening
-- **Scene 12 (Thursday night):** Nancy identified as connecting thread; nail salon plan formed
-- **Scene 13 (Friday):** Tournament climax — Mara wins through trust in Doogan's advice
+- **Scene 5 (Tuesday):** Mara's skills competition day; chemistry with Doogan develops
+- **Scene 7 (Wednesday morning):** Winston introduced; Doogan's strategic thinking impresses Mara
+- **Scene 8 (Wednesday afternoon):** Post-tournament (off-screen Best Ball); investigation updates; Mara invites Doogan to dinner
+- **Scene 9 (Wednesday evening):** Baxter discovers palliative care equipment in Nancy's exam room
+- **Scene 10 (Thursday):** Fourth hole incident creates Candy/Mara rivalry
+- **Scene 11 (Thursday):** Martinez confronts Doogan, returns earpiece, reveals deeper investigation
+- **Scene 12 (Thursday evening):** Mara's vulnerability about Alex; woman watching them (has mug shot)
+- **Scene 13 (Thursday night):** Nancy identified as connecting thread; nail salon plan formed
+- **Scene 14 (Friday):** Tournament climax — Mara wins through trust in Doogan's advice
 
 **End-Button / Cliffhanger (Scene 14):**
 - Abby reports Nancy living beyond her means
@@ -145,16 +151,17 @@ Each scene must end with forward momentum (not resolution):
 - Scene 2: Abby commits to visiting patients directly
 - Scene 3: Jake watches nervously as Doogan meets Mara
 - Scene 4: Eddie and Abby divide patient list
-- Scene 5: Jake nods from distance — plan is working
-- Scene 6: Eddie complaining about bunions (comic relief but pattern noted)
+- Scene 5: Professional partnership established with Mara
+- Scene 6: Pattern emerges (healthy over-prescribed, dying under-recorded)
 - Scene 7: Jake tells Eddie it's working better than expected
-- Scene 8: Baxter suggests clinic did something that made patients sick
-- Scene 9: Jake says sponsors already calling
-- Scene 10: Doogan drops earpiece in trash, realizes Martinez is building a file
-- Scene 11: Doogan realizes Mara just asked him on a date (she doesn't know he's a con man)
-- Scene 12: Abby commits to undercover nail salon visit
-- Scene 13: Sponsors calling Jake before Mara even leaves course
-- Scene 14: Abby's final line about Doogan investigating Nancy
+- Scene 8: Martinez returns earpiece, "question mark" speech, Radio Shack callback
+- Scene 9: Sponsors already calling Jake
+- Scene 10: Fourth hole incident - rivalry escalates
+- Scene 11: Candy's glare from across the green - tomorrow is war
+- Scene 12: Baxter reveals woman watching them has mug shot
+- Scene 13: Abby commits to undercover nail salon visit
+- Scene 14: Mara wins, shows personality, sponsors calling
+- Scene 15: Abby's final line about Doogan investigating Nancy
 
 ---
 
@@ -168,7 +175,7 @@ Each scene must end with forward momentum (not resolution):
 5. Verify checklist constraints (secrecy rule, character voices, POV rules)
 
 ### Phase 2: Scene Drafting (Sequential)
-Draft scenes in story order (1-14) to maintain continuity:
+Draft scenes in story order (1-15) to maintain continuity:
 
 **Sunday Block (Scenes 1-2):**
 - Scene 1: Golf course meeting
@@ -184,19 +191,20 @@ Draft scenes in story order (1-14) to maintain continuity:
 
 **Wednesday Block (Scenes 7-8):**
 - Scene 7: Pro-Am Round 1 (Best Ball)
-- Scene 8: Dying patient pattern revealed (group call)
+- Scene 8: Dying patient pattern revealed (referenced)
 
-**Thursday Block (Scenes 9-11):**
+**Thursday Block (Scenes 9-12):**
 - Scene 9: Pro-Am Round 2 (Modified Scramble)
-- Scene 10: Martinez parking lot confrontation
-- Scene 11: Dinner with Mara
+- Scene 10: Fourth hole incident
+- Scene 11: Martinez parking lot confrontation
+- Scene 12: Quiet dinner with Mara (surveillance woman)
 
-**Thursday Night (Scene 12):**
-- Scene 12: Team call identifying Nancy
+**Thursday Night (Scene 13):**
+- Scene 13: Team call identifying Nancy
 
-**Friday Block (Scenes 13-14):**
-- Scene 13: Tournament finale (Exhibition round)
-- Scene 14: Nail salon results and Episode 4 setup
+**Friday Block (Scenes 14-15):**
+- Scene 14: Tournament finale (Exhibition round)
+- Scene 15: Nail salon results and Episode 4 setup
 
 ### Phase 3: Continuity Pass
 1. Verify POV never head-hops
@@ -249,18 +257,18 @@ Draft scenes in story order (1-14) to maintain continuity:
 
 ## POV Distribution & Off-Screen Information
 
-### POV Anchor: Doogan Andrews (All 14 Scenes)
+### POV Anchor: Doogan Andrews (All 15 Scenes)
 
 **Doogan Present (Direct Experience):**
-- Scenes 1, 3, 5, 7, 9, 10, 11, 13 — Doogan physically present for events
+- Scenes 1, 3, 5, 7, 9, 10, 11, 12, 14 — Doogan physically present for events
 
 **Doogan Receives Information (Indirect Delivery):**
 - Scene 2: Learns about Abby's clinic visit via phone call/check-in
 - Scene 4: Present at Eddie's house while Baxter briefs team on patient data
 - Scene 6: Group call while he's between tournament activities — Eddie/Abby report patient visit findings
-- Scene 8: Group call — Abby reports dying patient pattern
-- Scene 12: Group video call — team identifies Nancy connection, plans nail salon visit
-- Scene 14: Abby calls/reports nail salon findings to Doogan (and Eddie/Baxter)
+- Scene 8: Referenced but condensed — pattern already established
+- Scene 13: Group video call — team identifies Nancy connection, plans nail salon visit
+- Scene 15: Abby calls/reports nail salon findings to Doogan (and Eddie/Baxter)
 
 **Fair-Play Mechanism:**
 All investigation beats reach Doogan through:
@@ -272,7 +280,7 @@ All investigation beats reach Doogan through:
 **Never:**
 - Dramatizing scenes where Doogan isn't present
 - Head-hopping to Abby's patient visits
-- Showing Eddie's bunion encounter directly
+- Showing Eddie's encounters directly
 - Revealing Nancy's internal thoughts or motivations
 
 ---

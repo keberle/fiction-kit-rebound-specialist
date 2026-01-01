@@ -70,9 +70,13 @@ Scan dialogue for any references to:
 - Technology specs (phone models, laptop brands)
 - Food/drink specifics not mentioned before
 
-### 2. Character Knowledge Violations (CRITICAL)
+### 2. Character Knowledge Violations (CRITICAL - FUNDAMENTAL TO ALL FICTION)
 
-**Two types of knowledge violations:**
+**Core Principle: Characters can ONLY know what they've experienced or been told UP TO THIS MOMENT.**
+
+This is not a style choice. This is fundamental to writing believable characters.
+
+**Three types of knowledge violations:**
 
 **Type 1: Factual Knowledge (Specific Details)**
 - Character knowing information they haven't learned yet (**common violation**)
@@ -80,10 +84,17 @@ Scan dialogue for any references to:
 - Character forgetting information they learned earlier
 - POV character knowing off-screen events without being told
 
-**Type 2: Contextual Knowledge (Situational Framework) - MOST CRITICAL**
+**Type 2: Contextual Knowledge (Situational Framework)**
 - Character assumes situation is about X when they only know about Y
 - Character asks questions that reveal contextual understanding they lack
 - Character operates in wrong interpretive framework
+
+**Type 3: Future Knowledge (MOST COMMON VIOLATION - NEW)**
+- Character references events from future scenes
+- Character anticipates plot points they have no reason to expect
+- Character "sets up" callbacks they couldn't know about
+- Character mentions details that haven't been revealed yet
+- Character displays knowledge of future beats in the outline
 
 **Example: Context vs Facts**
 ```
@@ -95,9 +106,58 @@ Martinez operates in Context A because that's what he was told.
 Martinez CANNOT ask questions from Context B without new information.
 ```
 
+**Example: Future Knowledge Violations**
+```
+❌ VIOLATION (Scene 7): "Save that Britney impression for later"
+   Analysis: Character references event from Scene 10
+   Source check: When did character see/hear about Britney impression? NO SOURCE.
+   Fix: Remove reference entirely. Let Scene 10 be spontaneous.
+   
+❌ VIOLATION (Scene 3): "This will be important for the investigation"
+   Analysis: Character knows investigation will happen (future plot)
+   Source check: Why would character anticipate investigation? NO REASON.
+   Fix: Character acts in present moment without foreshadowing.
+   
+❌ VIOLATION (Scene 5): "I'll need this golf club setup for Thursday"
+   Analysis: Character prepares for specific future scene
+   Source check: Why would character know Thursday matters? OUTLINE ONLY.
+   Fix: Character deals with present situation, not future plot beats.
+
+✅ CORRECT (Scene 7): "My wife watches her show"
+   Analysis: References plausible background knowledge
+   Source check: Character could be fan of comedian. Plausible.
+   
+✅ CORRECT (Scene 8): "You mentioned the tournament starts tomorrow"
+   Analysis: References prior dialogue from earlier scene
+   Source check: Scene 6 conversation. Clear source.
+```
+
 **Information Source Tracking:**
 - Every fact a character uses must have a SOURCE
 - Every context a character operates in must have a BASIS
+- Every reference must have a WHEN (which prior scene established this)
+
+**Future Knowledge Detection Process:**
+1. **Scan all dialogue and character thoughts**
+2. **For each reference to a fact/event/detail, ask:**
+   - When did this character learn this information?
+   - Which scene showed them learning it?
+   - OR: Is this in their character background file?
+3. **If answer is "outline says it happens later" → FLAG AS VIOLATION**
+4. **If answer is "it's for comedic setup" → STILL A VIOLATION**
+5. **If answer is "reader needs to know" → READER ≠ CHARACTER**
+
+**Common Sources of Future Knowledge Violations:**
+- Writer knows outline, characters don't
+- Writer wants to set up callback, but character wouldn't know to plant it
+- Writer wants to foreshadow, but character lives in present moment
+- Writer wants dramatic irony, but achieves it by breaking character knowledge
+
+**Fix Strategy:**
+- Remove future references entirely
+- Let moments happen spontaneously when they arrive
+- Trust the reader to connect dots WITHOUT character foreshadowing
+- Keep characters in their present moment
 - Sources: witnessed, told directly, overheard, deduced from evidence, read/researched
 - **If no source exists in prior scenes, character CANNOT know this**
 

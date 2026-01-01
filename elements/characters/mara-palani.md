@@ -149,7 +149,7 @@
 - Respected by veteran players
 - Seen as too serious by younger players
 - Friendly but not part of the social scene
-- Candy Hoover drives her crazy
+- Candy Williams drives her crazy
 
 ### With Doogan
 - Initially suspicious (she's been burned by guys who want to date "the lady golfer")

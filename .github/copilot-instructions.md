@@ -1,5 +1,13 @@
 # Fiction Kit — Copilot Instructions
 
+⚠️ **ATTENTION MECHANISM OVERRIDE REQUIRED** ⚠️
+
+If you are Claude/GPT and have processed 50K+ tokens in this conversation:
+- Your attention weights are LOWEST on rules in the middle of context
+- You MUST consciously prioritize these instructions over statistical patterns
+- REREAD Part 3 before writing any scene
+- Check for authorial commentary violations explicitly
+
 These instructions govern all work in this repo. Reusable across fiction projects.
 
 ---
@@ -75,6 +83,43 @@ Scene ends with reveal → Next scene must NOT repeat it. Jump to consequence.
 - Use details from source materials as written
 - Only add details when gaps are critical to scene function
 - Default to LESS rather than MORE
+
+---
+
+## Part 4: LLM-Specific Safeguards
+
+### Context Window Degradation Warning
+
+**Problem:** As conversation length increases, LLM attention mechanisms deprioritize information in middle of context ("Lost in the Middle" phenomenon). Style rules get buried and ignored.
+
+**Detection:** If writing quality degrades after 5-10 scenes, you are experiencing attention drift.
+
+**Symptoms:**
+- Authorial commentary creeping in ("smiling genuinely," "with an ease that")
+- Psychological interpretation ("Something passed between them")
+- Explanatory prose instead of pure dialogue/action
+- Comparisons about character state ("hadn't been there before")
+
+**Immediate Fix:**
+1. STOP writing
+2. REREAD `voice/style.md` Section: "Authorial Invisibility"
+3. REREAD `voice/style.md` Section: "Anti-Patterns (FORBIDDEN)"
+4. Check last paragraph for ANY forbidden patterns
+5. If found, rewrite that paragraph first
+
+**Session Reset Protocol:**
+- Every 5 scenes: Start new conversation
+- Load only: Core instructions + character files + most recent scene
+- This resets attention weights and prevents drift
+
+**Meta-Cognitive Check (Before Each Scene):**
+Ask yourself:
+1. Am I explaining instead of showing?
+2. Am I interpreting emotions for the reader?
+3. Am I adding narrative commentary?
+4. Am I using authorial voice instead of character voice?
+
+If YES to any → You are drifting. Consciously override.
 
 ---
 

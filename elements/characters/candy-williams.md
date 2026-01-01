@@ -1,4 +1,4 @@
-# Candy Hoover
+# Candy Williams
 
 **Role:** Episode 3 rival/foil to Mara  
 **Age:** 22  

@@ -255,7 +255,7 @@ This contrast shows there's a right way and wrong way to be a non-golfer at a Pr
 **CONTINUITY CRITICAL:**
 - Age 25, reality TV star
 - Show: "LONDON CALLING"
-- Paired with CANDY HOOVER for Pro-Am
+- Paired with CANDY WILLIAMS for Pro-Am
 - 5.6M Instagram, 3.8M TikTok followers
 - Essentially ZERO golf skills
 - Has reality show cameras following her

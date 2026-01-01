@@ -90,8 +90,8 @@ Jillian is the perfect stereotype of a wannabe SoCal (southern california) socia
 <!-- Reference: characters/mara-palani.md -->
 LPGA professional golfer, age 34, Hawaiian heritage from Maui. Three-time major champion before taking three years off for pregnancy and C-section recovery. Has son Alex (age 3) who lives with her parents on Maui during tournaments. Playing the best golf of her life since comeback two years ago but hasn't won a major since returning. Serious, focused, struggling to show personality for sponsors. Father is groundskeeper at Kapalua. Regular caddy is Jenny Traverse (away during Pro-Am). Episode 3 rebound target.
 
-### Candace (Candy) Hoover
-<!-- Reference: characters/candy-hoover.md -->
+### Candace (Candy) Williams
+<!-- Reference: characters/candy-williams.md -->
 LPGA professional golfer and social media influencer, age 22, from Scottsdale, Arizona. Blonde, curvy, 3.5M Instagram followers. Powerhouse drive but weak short game - wins tournaments anyway because her drives get her close enough. Wears short skirts (pays LPGA fines), creates golf lifestyle content. Legitimately skilled player, not just pretty face. Oblivious to how she annoys traditional players. Mara's rival in final tournament round.
 
 ### Jake Townsend
@@ -109,6 +109,12 @@ Comedic actress, age 42, former SNL cast member, current sitcom star. Paired wit
 ### Tilly London
 <!-- Reference: characters/tilly-london.md -->
 Reality TV star, age 25, star of "London Calling" show about her life as influencer. 5.6M Instagram followers. Paired with Candy for Pro-Am. Essentially zero golf skills. Everything is content for her reality show cameras. Vapid, self-absorbed, treats everyone as props. More annoying than Candy. She and Candy together create insufferable influencer bubble. Constant target for Mara and Doogan's bonding through shared eye-rolls.
+
+### Marcus
+Brenda Atwood's bumbling, dramatic male assistant. Provides comic relief during the Pro-Am. Initially attempts to be Brenda's caddy wearing a caddy vest with her name on it, but the clubs are too heavy. Relieved when Winston takes over caddy duties, allowing Marcus to focus on capturing social media content with his phone. Over-the-top reactions and constant phone filming. Age mid-20s.
+
+### Winston Reilly
+Elderly Black man, late 60s, who Doogan recruits as Brenda's caddy for the Pro-Am. Frequents a nearby 9-hole municipal course. Wears country club casual attire with golf spikes. Uses a PGA-legal hand cart for clubs. Decades of golf experience have taught him conservative, efficient play—doesn't have 300-yard drives anymore, stays tactical. Short game specialist. Perfect strategic match for Brenda's needs. Shoots Doogan a look when introduced as "old friend" (they just met) but doesn't contradict him publicly. Embarrassed by attention and praise. Has a wife waiting at home. *(Established in Episode 3, Scenes 7-8)*
 
 ## Episode 4
 

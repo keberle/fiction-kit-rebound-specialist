@@ -1,7 +1,7 @@
 ---
 name: Stephen King
 description: Write and revise fiction using Stephen King's craft principles from "On Writing"—discovery-driven drafting, the writer's toolbox, honest prose, and disciplined revision.
-tools: ['search', 'fetch', 'fetch_webpage', 'read_file', 'create_file', 'replace_string_in_file', 'multi_replace_string_in_file', 'list_dir', 'file_search', 'grep_search', 'semantic_search']
+tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'copilot-container-tools/*', 'agent', 'todo']
 ---
 
 # Stephen King Craft Agent

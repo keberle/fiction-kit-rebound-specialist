@@ -85,7 +85,13 @@ Use this skill when you need to:
 
 **Document these before writing:**
 - **Established Facts:** What details have been set in stone? (store names, car models, pet names, addresses, jobs, etc.)
-- **Character Knowledge:** What does POV character know at THIS point in timeline?
+- **Character Knowledge (CRITICAL):** What does POV character know at THIS point in timeline?
+  - Build knowledge timeline from Scene 1 forward
+  - Document WHEN each piece of information was learned (which scene, which dialogue)
+  - Document WHAT character has experienced up to this moment
+  - Document WHO character has met and WHAT they know about them
+  - **Characters can ONLY reference information they've learned by this scene**
+  - **Characters CANNOT know future events, plot points, or details from later scenes**
 - **Secrets:** What must stay hidden from certain characters?
 - **Physical Descriptions:** What have we established about appearance, clothing, vehicles, homes?
 - **Relationship Status:** Where do character relationships stand right now?
@@ -96,6 +102,47 @@ Use this skill when you need to:
   - Track elapsed time references ("six hours later," "the next morning," "two days ago")
   - Calculate actual timeline from Scene 1 forward to THIS scene
   - Document timeline in continuity notes to prevent contradictions
+
+### 4a. Build Character Knowledge Timeline (NEW - MANDATORY)
+
+**For EVERY character in this scene, document:**
+
+**What They Know:**
+- Facts learned in prior scenes (list scene numbers)
+- People they've met (when/where)
+- Events they've experienced or been told about
+- Skills/knowledge from character background file
+
+**What They DON'T Know:**
+- Events that happen in FUTURE scenes
+- Details from other characters' POV scenes they weren't present for
+- Information no one has told them yet
+- Plot points the READER knows but character hasn't learned
+
+**Source Every Reference:**
+Before writing ANY character dialogue/thought that references information:
+1. Ask: "When did this character learn this?"
+2. Cite: "Scene X, Character Y told them" OR "Character file background"
+3. If NO SOURCE exists → character CANNOT reference it
+
+**Example Knowledge Timeline:**
+```
+Scene 7 - Winston's Knowledge:
+✅ Knows: Brenda is a comedian (Doogan told him)
+✅ Knows: They're at golf course for tournament (observable)
+✅ Knows: Mara is a golfer (introduced to her)
+❌ Does NOT know: Brenda does Britney impression (hasn't seen it, no one mentioned it)
+❌ Does NOT know: Fourth hole incident will happen (future event)
+❌ Does NOT know: Doogan's rebound business (no one told him)
+
+Scene 7 - Doogan's Knowledge:
+✅ Knows: Winston is experienced golfer (Eddie's contact info)
+✅ Knows: Brenda is comedian (character background)
+✅ Knows: Mara needs help with sponsors (Jake told him Scene 1)
+❌ Does NOT know: Brenda does Britney impression (hasn't seen her perform)
+❌ Does NOT know: Fourth hole incident will happen (future event)
+❌ Does NOT know: Candy will be on fourth hole (hasn't happened)
+```
 
 ### 5. Extract Referenced Facts (MANDATORY - NEW)
 
@@ -702,6 +749,324 @@ Before writing ANY "how we know this" or "how we found this" line:
 
 **Rule:** When in doubt, stay VAGUE. "She drove away" not "She drove away in her BMW." Generic is safe.
 
+### Environment as Character Exposition (CRITICAL)
+
+**Use visible objects in a character's environment to convey background, accomplishments, lifestyle, and health status. NEVER have characters talk about their own résumé.**
+
+**The Rule:**
+POV character observes objects → Infers information → Reader learns through observation
+
+**Examples:**
+
+❌ **WRONG: Career Exposition in Dialogue**
+```
+"I've been doing this seventeen years."
+"Now I manage north of two hundred million."
+"Started on the floor of the exchange."
+```
+
+✅ **RIGHT: Environment Shows Background**
+```
+"Ironman triathlon finish shot, sail boat, golf tournament trophy, shots of the man with his trophy family."
+— POV character (Eddie) observes photos on credenza
+— Reader infers: healthy, active, affluent, accomplished
+— Zero dialogue about career/accomplishments
+```
+
+**What to Show Through Environment:**
+- **Health:** Sports trophies, race medals, athletic photos, gym equipment
+- **Wealth:** Office quality, artwork, furniture, neighborhood, vehicle
+- **Background:** Diplomas, certificates, family photos, memorabilia
+- **Personality:** Desk organization, book selection, décor style, personal items
+
+**POV Character's Role:**
+- Notices specific objects ("Ironman finish photo")
+- Makes wry observations ("Outdoor sports?")
+- Infers without asking directly
+- Lets reader draw conclusions
+
+**FORBIDDEN:**
+- ❌ Characters stating years of experience
+- ❌ Characters listing credentials or degrees
+- ❌ Characters announcing income/assets managed
+- ❌ Characters describing their own accomplishments
+- ❌ POV asking "how long have you been doing this?"
+- ❌ POV asking "do you exercise much?"
+
+**Why This Matters:**
+- Respects reader intelligence (show, don't tell)
+- Keeps dialogue focused on scene's actual purpose
+- Creates natural characterization through observation
+- Prevents exposition dump interruptions
+- Maintains third-person close POV discipline
+
+**Scene-Writing Application:**
+When POV character enters a space, describe 2-4 specific visible objects that reveal character background. Let POV character notice them, possibly comment wryly, then move on to scene's actual purpose.
+
+### Character Worldview Over Biography (CRITICAL)
+
+**One-scene characters must be PEOPLE with worldviews and ethics, not résumés with dialogue. Reveal character through philosophy/values, NEVER through career stats.**
+
+**The Rule:**
+Character's ETHICS and WORLDVIEW define them → Creates dramatic content → Biography emerges as byproduct
+
+**Examples:**
+
+❌ **WRONG: Career Biography**
+```
+"Seventeen years in finance."
+"Manage portfolios north of two hundred million."
+"Clients across three states."
+```
+PROBLEM: This is a résumé, not a person. Creates no dramatic tension. Just data delivery.
+
+✅ **RIGHT: Character Philosophy/Worldview**
+```
+"There are two types of investors. Predators and prey. Predators see the shift coming before anyone else. They don't wait for consensus. They move."
+```
+REVEALS: Ethics (social-Darwinist), personality (aggressive), worldview (competitive), potential conflict with Eddie's values
+
+**What Worldview Reveals:**
+- **Ethics:** How they view right/wrong, rules, other people
+- **Values:** What they prioritize (money, status, fairness, loyalty)
+- **Personality:** Aggressive, cautious, cynical, optimistic
+- **Potential Conflict:** Where they might clash with protagonist
+
+**How POV Character Responds:**
+- Reacts to the PHILOSOPHY, not the information
+- Makes wry observation ("Outdoor sports?")
+- Engages with the worldview or deflects
+- Learns information as BYPRODUCT of interaction
+
+**Scene Structure:**
+1. Character states philosophy/worldview
+2. POV character responds to WHO this person is
+3. Information emerges naturally through interaction
+4. Scene has dramatic content (clash of values, personality friction)
+
+**FORBIDDEN:**
+- ❌ Characters stating years in profession
+- ❌ Characters listing credentials
+- ❌ Characters announcing revenue/clients/accomplishments
+- ❌ POV asking "how long have you been doing this?"
+- ❌ POV asking about career history
+- ❌ Treating one-scene characters as information sources only
+
+**Why This Matters:**
+- Creates actual dramatic content (personality, ethics, potential conflict)
+- Respects that even one-scene characters are PEOPLE
+- Makes scenes ABOUT something beyond data delivery
+- Generates natural dialogue instead of interview format
+- Reveals information as byproduct, not purpose
+
+**Scene-Writing Application:**
+When introducing any speaking character (even one-scene), establish their worldview/philosophy within first 3-5 lines. Let POV character respond to WHO they are. Information about their role/background emerges through interaction, not interrogation.
+
+### Name Every Speaking Character (CRITICAL)
+
+**Every character who speaks must have a name. NEVER use generic labels like "the broker," "the nurse," "the clerk." Naming creates presence and respect.**
+
+**The Rule:**
+If character speaks → Character has name → Use it consistently
+
+**Examples:**
+
+❌ **WRONG: Generic Label**
+```
+"The broker leaned back."
+"The finance guy nodded."
+"He gestured to the chart."
+```
+PROBLEM: Reduces person to function. Creates distance. Feels like NPC in video game.
+
+✅ **RIGHT: Named Character**
+```
+"Phil Blakely leaned back."
+"Blakely nodded."
+"He gestured to the chart."
+```
+REVEALS: This is a PERSON who exists in this world. Has identity beyond role.
+
+**Naming Conventions:**
+- **First Introduction:** Full name ("Phil Blakely")
+- **Subsequent References:** Last name ("Blakely") or pronoun ("he")
+- **Dialogue Tags:** Use name in first tag, then pronouns if clear
+
+**How to Generate Names:**
+1. Check if character file exists in `elements/characters/`
+2. If not, check notes.md for any mentioned names
+3. If creating new one-scene character, choose name that:
+   - Fits setting/genre (professional environment → professional name)
+   - Isn't similar to existing character names
+   - Feels real (not placeholder like "Bob Smith")
+   - Has appropriate ethnicity/cultural background for setting
+
+**FORBIDDEN:**
+- ❌ "the broker," "the finance guy," "the man"
+- ❌ "the nurse," "the receptionist," "the clerk"
+- ❌ "the waiter," "the driver," "the trainer"
+- ❌ Using profession as label for speaking characters
+- ❌ Leaving character unnamed because they're "minor"
+
+**Exception:**
+Non-speaking background characters CAN remain unnamed ("a waiter refilled water glasses"). But if they speak, they need a name.
+
+**Why This Matters:**
+- Shows respect for every character as a person
+- Creates sense of populated, real world
+- Prevents "NPC" feeling in scenes
+- Makes dialogue tags clearer and more natural
+- Establishes that even one-scene characters matter
+
+**Scene-Writing Application:**
+Before writing ANY scene with new speaking character, determine their name. Add to notes.md after scene complete if they might appear again. For true one-scene characters, name is sufficient—no need to create full character file unless they become recurring.
+
+### Every Scene Must Be ABOUT Something (CRITICAL)
+
+**Scenes are dramatic encounters between people, NOT information-delivery mechanisms. The scene must be ABOUT character interaction, worldview clash, or emotional stakes—information emerges as byproduct.**
+
+**The Rule:**
+Scene's PURPOSE ≠ Delivering information
+Scene's PURPOSE = Dramatic content (clash, tension, personality, decision)
+Information = Byproduct of dramatic interaction
+
+**Examples:**
+
+❌ **WRONG: Scene as Data Delivery**
+```
+Purpose: "Eddie needs to learn if broker is healthy"
+Structure: Eddie asks health questions → Broker answers → Eddie gets information → Scene ends
+Result: Interview format. No dramatic content. Feels mechanical.
+```
+
+✅ **RIGHT: Scene as Dramatic Encounter**
+```
+Purpose: "Eddie encounters predatory finance-bro philosophy and responds to WHO this person is"
+Structure: Blakely states worldview (predators/prey) → Eddie responds with wry observation → Eddie infers health from environment → Scene is ABOUT the personality clash
+Byproduct: Eddie learns broker is healthy (through photos, trophies)
+Result: Actual dramatic content. Character-driven. Information emerges naturally.
+```
+
+**What Makes Scene "ABOUT Something":**
+- **Personality Clash:** POV character encounters different worldview/ethics
+- **Values Conflict:** Characters have competing priorities
+- **Emotional Stakes:** Decision, revelation, or realization with weight
+- **Character Choice:** Someone makes decision that reveals who they are
+- **Power Dynamic:** Status, control, or influence shifts between characters
+
+**Scene Structure (Proper):**
+1. **Opening:** Drop into existing interaction (McDonald rule)
+2. **Dramatic Content:** Character philosophies, ethics, personalities interact
+3. **POV Response:** Protagonist reacts to WHO the other person is
+4. **Information Byproduct:** Necessary plot info emerges through interaction
+5. **Button:** Scene ends on turn or decision, propels to next scene
+
+**FORBIDDEN:**
+- ❌ Scene exists ONLY to deliver plot information
+- ❌ POV character asks direct questions to extract data
+- ❌ Other character answers in exposition mode
+- ❌ Dialogue feels like interrogation or interview
+- ❌ No actual dramatic content (personality, conflict, decision)
+- ❌ Scene could be replaced with "Eddie researched the broker and learned he was healthy"
+
+**The "Could This Be a Paragraph?" Test:**
+If scene could be replaced with single paragraph of summary without losing anything important, scene ISN'T about something—it's just data delivery. Fix it.
+
+**Why This Matters:**
+- Respects reader expectation (scenes are for drama, not just info)
+- Creates actual story content (characters, conflict, stakes)
+- Makes protagonist ACTIVE (responding to people, not extracting data)
+- Generates organic dialogue (interaction, not interrogation)
+- Information lands better when it's byproduct of drama
+
+**Scene-Writing Application:**
+BEFORE writing scene, ask: "What is this scene ABOUT (dramatically)?" If answer is only "character learns X information," stop and redesign. Find the dramatic content: whose worldview appears? What personality does POV encounter? What's the actual human interaction? Then let information emerge as byproduct.
+
+### POV Character Responds to WHO, Not Information Need (CRITICAL)
+
+**POV character responds to the OTHER CHARACTER'S personality, energy, and philosophy—NOT to the plot's need for information. This creates realistic interaction instead of mechanical interrogation.**
+
+**The Rule:**
+POV reacts to WHO the person is → Makes observations about personality → Information learned indirectly
+NOT: POV thinks "I need to know X" → Asks question to get X → Gets X
+
+**Examples:**
+
+❌ **WRONG: Responding to Information Need**
+```
+Eddie thought: I need to know if he's healthy.
+Eddie asked: "Do you exercise much?"
+Eddie thought: I need to know about time off.
+Eddie asked: "Ever take time off? For health stuff?"
+```
+PROBLEM: Eddie is a robot extracting data. No human personality. Interview format.
+
+✅ **RIGHT: Responding to WHO Character Is**
+```
+Blakely stated philosophy: "Predators and prey. Predators move first."
+Eddie observed environment: Ironman photos, trophies, sailboat shots
+Eddie responded to personality: "Outdoor sports?" (wry, observing the aggressive-achiever type)
+Result: Eddie learned health status by responding to WHO Blakely is (trophy-collecting predator)
+```
+
+**What POV Character Notices:**
+- **Personality:** Aggressive? Cautious? Arrogant? Nervous?
+- **Energy:** High-energy motor-mouth? Measured and controlled? Scattered?
+- **Ethics:** Ruthless? Principled? Cynical? Idealistic?
+- **Environment:** What objects reveal about them?
+- **Contradictions:** Do words match environment? Actions match philosophy?
+
+**How POV Character Responds:**
+- Makes wry observation
+- Comments on personality ("You sound like Terry")
+- Deflects or engages philosophy
+- Notices objects and infers
+- Reacts emotionally to WHO they're encountering
+
+**Scene Interaction Flow:**
+1. Other character reveals personality/worldview
+2. POV character NOTICES who they're dealing with
+3. POV responds to personality (not extracting information)
+4. Information emerges as natural byproduct
+5. Scene is about the PEOPLE, not the data
+
+**FORBIDDEN:**
+- ❌ POV thinking "I need to learn X" then asking for X
+- ❌ POV asking direct questions to extract plot information
+- ❌ POV in interrogation mode (question → answer → question)
+- ❌ POV ignoring personality to focus on data extraction
+- ❌ Dialogue structured as: Need info → Ask for info → Receive info → Move to next info need
+
+**Character-Specific Applications:**
+
+**Eddie Palmer (motor-mouth investigator):**
+- Responds to personality with rapid observations
+- Makes connections between what he sees and who they remind him of
+- Infers rather than asks directly
+- Example: "Outdoor sports?" (observing photos) not "Do you exercise?"
+
+**Doogan Andrews (measured observer):**
+- Notices personality, responds minimally
+- Lets others talk, observes contradictions
+- Asks follow-up questions about PHILOSOPHY, not facts
+- Example: "That how you see yourself?" (engaging worldview) not "What's your background?"
+
+**Abby Palmer (sharp analyst):**
+- Cuts through bullshit, responds to what's REALLY being said
+- Notices gaps between words and actions
+- Challenges philosophy if it's suspect
+- Example: "So you're a predator who preys on people's fear?" not "How do you make money?"
+
+**Why This Matters:**
+- Creates realistic human interaction (people respond to personality, not plot)
+- Keeps POV character feeling like actual person, not robot
+- Makes dialogue natural (conversation, not interview)
+- Information emerges organically (byproduct of interaction)
+- Respects reader intelligence (show character responding like human would)
+
+**Scene-Writing Application:**
+BEFORE POV character speaks, ask: "What personality trait is POV responding to HERE?" Not "What information does POV need?" If you can't answer the personality question, redesign the beat. POV should always respond to WHO the other person is showing themselves to be.
+
 ## Character Voice Patterns
 
 **Doogan Andrews:**
@@ -1124,6 +1489,11 @@ After writing, verify:
 - [ ] Scene opens/closes doors (discovery momentum)
 - [ ] **Stopped at Button:** Did not spill into next scene's beats
 - [ ] Scene break marker `---` at end
+- [ ] **Environment as Exposition (CRITICAL):** Background shown through visible objects, NOT dialogue about career/accomplishments
+- [ ] **Character Worldview (CRITICAL):** One-scene characters reveal philosophy/ethics, NOT résumé details
+- [ ] **Named Characters (CRITICAL):** Every speaking character has name, not generic label
+- [ ] **Scene ABOUT Something (CRITICAL):** Scene has dramatic content (personality clash, values conflict), information is byproduct
+- [ ] **POV Responds to WHO (CRITICAL):** POV character responds to personality/philosophy, NOT extracting information through interrogation
 
 ## Post-Writing Self-Contradiction Audit (NEW - MANDATORY)
 

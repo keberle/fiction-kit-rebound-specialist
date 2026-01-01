@@ -28,7 +28,7 @@ Draft Episode 3 ("The Professional Golfer") from the existing outline. This epis
   - Nurse Nancy (antagonist introduction)
   - Brenda Atwood (comedian, Mara's Pro-Am partner)
   - Marcus (Brenda's assistant)
-  - Candy Hoover (rival golfer)
+  - Candy Williams (rival golfer)
   - Paul Martinez (detective, escalating pressure)
   - Rodney Baxter (tech support, data analysis)
 - **Settings involved:** 

@@ -2,15 +2,17 @@
 
 "—come on, John.  If you'll go to fifteen, I'll see if I can get you an hour driving the ball return cart on the range while Candy is warming up." Harry Halligan said to a captive audience chuckled along.
 
-A man in a tailored tuxedo nodded while holding up his paddle.
+A paddle went up from the table of evening gowns and tuxedos.
 
 "Fifteen!  There it is.  Connie!  Where are you, Connie?"
 
-A woman in a red chanel dress seated two tables over shook her head and mouthed "too rich for me."
+"Too rich for me." mouthed a red chanel gown.
 
-"Then 15 has it, folks! The drink cart for Wednesday's best ball tournament will be manned by our own and only John Malcolm. The cart girls will make sure you don't get lost, John."
+"Then fifteen has it, folks! The drink cart for Wednesday's best ball tournament will be manned by our own and only John Malcolm. The cart girls will make sure you don't get lost, John."
 
-A loud applause broke out across a who's who of Southern California hollywood and LPGA royalty, all dressed to the nines and well lubricated.
+Applause broke out. Hollywood and LPGA royalty represented, well dressed and well served.
+
+Applause broke out. A who's who of Southern California hollywood and LPGA royalty, all dressed to the nines and well lubricated.
 
 Doogan spotted Mara sitting at a table with two members of a hit tv show and their spouses along with her manager Jake and a few people he didn't recognize. Attractive and elegant, Mara was making small talk and easy to spot.
 
@@ -18,7 +20,7 @@ Doogan spotted Mara sitting at a table with two members of a hit tv show and the
 
 Laughter and applause broke out again as an attractive blonde girl, wearing a dress slit entirely too far up one side walked out with two bottles of champagne and a grin that everyone noticed.  Doogan glanced over to see Mara roll her eyes.
 
-"Ah, giving our lovely assistants a break is tour leader, Candy Hoover." Harry said bowing to let Candy take center stage. "And I think its safe to assume that the winning bid for this alcohol upgrade will be delivered to your table by the lovely Candy?"
+"Ah, giving our lovely assistants a break is tour leader, Candy Williams." Harry said bowing to let Candy take center stage. "And I think its safe to assume that the winning bid for this alcohol upgrade will be delivered to your table by the lovely Candy?"
 
 "Absolutely." she leaned over to say into the microphone.
 

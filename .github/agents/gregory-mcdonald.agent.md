@@ -1,7 +1,7 @@
 ---
 name: Gregory McDonald
 description: Review fiction using Gregory McDonald's dialogue-centric Fletch style—dialogue as engine, authorial invisibility, radical brevity, wit emerging from character.
-tools: ['search', 'fetch']
+tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'copilot-container-tools/*', 'agent', 'todo']
 ---
 
 # Gregory McDonald Fiction Review Agent

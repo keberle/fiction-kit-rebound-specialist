@@ -14,12 +14,13 @@
 4. Baxter reveals incomplete patient data; investigation begins
 5. Pro Am fun day; Mara starts warming to Doogan
 6. Abby finds healthy patient with extensive records; Eddie reports bunion incident
-7. Best Ball format; Mara/Doogan chemistry builds
-8. Two dead, one dying - all with minimal records; pattern backwards
-9. Modified Scramble; Mara having fun, sponsors calling
-10. Martinez probes deeper, returns earpiece, warns he's watching
-11. Mara opens up about Alex; vulnerability with Doogan
-12. Team realizes Nancy saw all unusual patients; Eddie recalls nail salon
+7. Winston arrives at driving range; becomes Brenda's caddy
+8. Post-tournament: investigation update via earpiece; Mara invites Doogan to dinner
+9. Baxter undercover as IT tech; discovers palliative care equipment in Exam Room 1; caught by Nancy
+10. Fourth hole: Brenda mocks Candy; Mara accidentally drives into Candy's position; "Hashtag that, bitches!"
+11. Martinez confronts Doogan in parking lot; returns earpiece; knows about Baxter
+12. Quiet dinner with Mara; opens up about Alex; woman watching them has mug shot
+13. Team realizes Nancy saw all unusual patients; Eddie recalls nail salon
 13. Mara vs Candy; weather gambit; Mara wins by one stroke
 14. Abby goes undercover at salon; learns Nancy lives beyond means
 
@@ -35,11 +36,11 @@
 - Friday: Professional Exhibition Round (all 40 pros, no cut)
 
 **Story Arc:** 
-**A-Plot (Mara):** Week-long celebrity Pro-Am. Mara paired with comedian Brenda Atwood (and her bumbling dramatic assistant Marcus). Doogan as substitute caddy (auction winner cover story). Sunday: Doogan meets Jake/Eddie, gets briefing. Monday evening gala introduces team. Tuesday skills day, Doogan impresses Mara. Wednesday-Thursday Pro-Am rounds, team chemistry builds. Friday exhibition finale: Mara vs Candy, 18th hole weather gambit, Mara wins by one stroke. Shows personality in victory interview, sponsors call Jake.
+**A-Plot (Mara):** Week-long celebrity Pro-Am. Mara paired with comedian Brenda Atwood (and her bumbling dramatic assistant Marcus). Doogan as substitute caddy (auction winner cover story). Sunday: Doogan meets Jake/Eddie, gets briefing. Monday evening gala introduces team. Tuesday skills day, Doogan impresses Mara. Wednesday Pro-Am Round 1 (Best Ball), Winston becomes Brenda's caddy, team chemistry builds. Thursday Pro-Am Round 2 (Modified Scramble), fourth hole incident - Brenda mocks Candy, Mara accidentally drives into Candy's position on fairway (Marcus: "Hashtag that, bitches!"). Friday exhibition finale: Mara vs Candy, 18th hole weather gambit, Mara wins by one stroke. Shows personality in victory interview, sponsors call Jake.
 
-**B-Plot (Investigation):** Before files disappeared, Baxter exported incomplete patient data (names, no diagnoses). Eddie and Abby divide list, visit patients undercover. Eddie keeps getting elderly patients who want to hang out (conveyed through dialog in group calls). Abby discovers pattern: patients with minimal medical history are dead/dying; patients with extensive medical history are healthy (some are douchebags). Comparing notes: Eddie's patients saw different nurses, unusual patients all saw Nurse Nancy. After tournament ends Friday, Abby goes to clinic, spots Nancy's distinctive nails. Remembers Eddie complaining about nail salon near clinic. Abby goes undercover to salon, gets dirt on Nancy (plastic surgery, expensive lifestyle, cash-only, doesn't tip, real bitch). Baxter runs background while listening - Nancy living beyond her means. Abby realizes Doogan is perfect to investigate Nancy. Episode ends with this setup.
+**B-Plot (Investigation):** Before files disappeared, Baxter exported incomplete patient data (names, no diagnoses). Eddie and Abby divide list, visit patients undercover. Pattern discovered: patients with minimal medical history are dead/dying; patients with extensive medical history are healthy. Wednesday evening, Baxter goes undercover as IT tech at clinic, discovers palliative care equipment in Nancy's Exam Room 1, gets caught by Nancy but exits cleanly. Comparing notes: Eddie's patients saw different nurses, unusual patients all saw Nurse Nancy. Friday evening, Abby goes to nail salon near clinic, gets dirt on Nancy (plastic surgery, expensive lifestyle, cash-only, doesn't tip, real bitch). Baxter runs background while listening - Nancy living beyond her means. Abby realizes Doogan is perfect to investigate Nancy. Episode ends with this setup.
 
-**Martinez Subplot:** Thursday after Pro-Am Round 2, Martinez confronts Doogan in parking lot. Returns earpiece from Episode 2, questions the high-end surveillance equipment. Points out he's investigated Doogan more than he's let on (expensive building, Eddie's business). Reminds Doogan not to leave town. Episode ends with Baxter already tracking Martinez.
+**Martinez Subplot:** Thursday after Pro-Am Round 2, Martinez confronts Doogan in parking lot. Returns earpiece from Episode 2, questions the high-end surveillance equipment. Points out he's investigated Doogan more than he's let on (expensive building, Eddie's business). Reminds Doogan not to leave town.
 
 **Nancy Introduction:** Sunday evening/Monday morning after Jake meeting, Abby attempts to access hard copy files at clinic. Nancy catches her wandering. Abby leaves with prescriptions but no files. Reports encounter to team—same nurse who kicked Baxter out. Detail about nice nails goes unnoticed until Eddie recalls nail salon Friday evening.
 
@@ -51,7 +52,7 @@
 
 ## Episode Arc
 - **Act 1 (Sunday-Monday):** Setup. Doogan takes Mara job at Sunday meeting. Abby tries to access clinic files, encounters Nancy. Monday evening gala, Doogan wins auction. Baxter reveals incomplete patient data; Eddie/Abby divide list, start visits.
-- **Act 2 (Tuesday-Thursday):** Complication. Tuesday skills day builds chemistry. Wednesday-Thursday Pro-Am rounds, Mara/Doogan bond through pressure. Eddie/Abby continue patient interviews through dialog/group calls. Martinez confronts Doogan Thursday. Pattern emerges Thursday night: Nancy identified as connection AND nail salon plan formed.
+- **Act 2 (Tuesday-Thursday):** Complication. Tuesday skills day builds chemistry. Wednesday Pro-Am Round 1, Winston becomes Brenda's caddy, Mara/Doogan bond. Wednesday evening: Baxter infiltrates clinic as IT tech, discovers palliative care equipment in Nancy's Exam Room 1, caught by Nancy but exits clean. Thursday Pro-Am Round 2, Mara shows personality. Martinez confronts Doogan in parking lot Thursday. Quiet dinner with Mara Thursday evening—opens up about Alex; mysterious woman with mug shot watching them. Pattern emerges Thursday night: Nancy identified as connection AND nail salon plan formed.
 - **Act 3 (Friday):** Climax. Friday tournament finale, weather gambit, Mara wins, shows personality. Friday evening: Abby executes nail salon plan, gets dirt on Nancy, realizes Doogan is perfect for the job. Setup for Episode 4.
 
 ---
@@ -60,50 +61,21 @@
 **Day:** Sunday afternoon  
 **Location:** Willow Creek Country Club, Pacific Point — 14th hole tee box
 
-Purpose:
-Establish the job parameters through Eddie's pitch to Jake while they're playing golf. Show Doogan's interest—this sounds like a nice change of pace.
-
-How it plays:
-- Eddie, Doogan, and Jake Townsend are playing golf at Willow Creek Country Club in Pacific Point (Jake's local club, not the tournament venue)
-- 14th hole tee box. Eddie's turn. He addresses his ball, mid-thought.
-- Eddie: "—and that's exactly what I'm saying, Jake. We're the ones to handle this situation. The basics will be figured out over time. We can get straight to the inner details."
-- Jake watching Eddie's setup, curious but cautious
-- Doogan off to the side, picking up on something in Eddie's tone
-- Eddie swings. Clean contact. Ball sails toward the fairway.
-- Jake: "You make it sound simple. But Mara's... complicated."
-- Eddie, collecting his tee: "Complicated is our specialty. Right, Doogan?"
-- Doogan, watching Jake's body language: "This is about more than just her disposition, isn't it?"
-- Beat. Jake hesitates.
-- Eddie: "Come on, Jake. We've been walking this course for forty-five minutes. Just tell us."
-- Jake exhales: "Fine. Yes. It's about endorsements. She can't get deals."
-- Doogan exchanges a look with Eddie
-- Jake continues: "Three-time major champion. Playing the best golf of her life right now. Incredible comeback story—single mom, Hawaiian heritage, C-section recovery. But sponsors won't touch her."
-- Eddie: "Because?"
-- Jake: "Because she's too dry in interviews. Too focused. Too technical. She doesn't smile. She doesn't show personality. They want warm, relatable, inspirational. She gives them robot."
-- Doogan leans against his driver, interested now
-- Jake: "I've got less-talented players landing six-figure endorsements because they're fun in press conferences. Mara can barely get a meeting."
-- Eddie grins: "That's our specialty."
-- Doogan has to agree: "That is what we do best."
-- Jake looks between them, hopeful: "You really think you can help her?"
-- Eddie: "We've done harder. Right, Doogan?"
-- Doogan: "A week at a golf resort helping someone find their confidence? Honestly, Jake, this sounds like a nice change of pace."
-- Jake, cautiously optimistic: "It's the Hidden Hills Celebrity Pro-Am. Charity tournament, no tour pressure. Her regular caddy's visiting family. You'd fill in as substitute."
-- Doogan: "How do we explain me suddenly being her caddy?"
-- Jake: "Monday night gala has a charity auction. One of the lots is caddying for Mara all week. You win it."
-- Eddie: "Perfect cover story."
-- Doogan, warming to it: "When does it start?"
-- Jake: "Gala's Monday evening. Tournament runs Tuesday through Friday."
-- Eddie, to Doogan: "This is the fastest you've ever said yes to a job."
-- Doogan: "After the last few weeks? I need normal. This sounds normal."
-- Jake: "Normal and beautiful. Mara's... well, you'll see. But one thing—she's got walls up. Thick ones. Don't take it personally."
-- Doogan smiles: "Walls are kind of my specialty."
+**AS WRITTEN:**
+- Opens with Eddie mid-pitch to Jake on 14th tee
+- Jake discusses inequality in women's golf (endorsement pay gap vs PGA)
+- Key reveal: Mara playing BETTER golf now than before pregnancy, but can't get endorsements due to being "too focused"
+- Jake explains: Tiger praised for focus, Mara called "cold bitch" (double standard)
+- Doogan interested: "A week at a golf resort helping someone remember why she loves this? That sounds like a nice change of pace."
+- Auction cover story established: $3-4K bidding range
+- Gala Monday evening, tournament Tuesday-Friday
+- Doogan accepts quickly (needs distraction from murder investigation)
 
 Turn:
-Jake reveals the real problem isn't Mara's golf—it's her marketability. Doogan's genuinely interested—this is exactly the kind of job they excel at.
+Jake reveals the real problem isn't Mara's golf—it's her marketability. The gender double standard in sports marketing.
 
 Button:
-Eddie, grinning as they walk toward their balls: "A legit LPGA pro, buddy. Charity golf tournament, oceanside resort. This might be the first job I'm actually jealous about."
-Jake: "Don't let Abby hear you say that."
+Doogan walks toward his ball, ready to commit. Short, clean ending.
 
 ---
 
@@ -158,65 +130,27 @@ Abby: "And I'll start visiting patients. If we can't get the files, we'll go dir
 **Day:** Monday evening  
 **Location:** Hidden Hills Clubhouse
 
-Purpose:
-Establish tournament setting, introduce Brenda and her assistant, show Candy/Tilly chaos, Jake watching nervously. Establish Doogan's "auction winner" cover story through actual auction win.
-
-How it plays:
-- Black-tie gala, speeches about women's empowerment and STEM scholarships
-- Live charity auction in progress - various lots for the cause
-- Mara arrives alone, professional but isolated, greeting sponsors with forced smiles
-- Doogan positioned in back, watching the auction lots roll by
-- Various items go by: golf lessons with pros, spa packages, luxury dinners
-- Doogan is politely bored, sipping champagne
-- Auctioneer announces next lot: "Caddy for the week with three-time major champion Mara Palani! Perfect chance to get insider tips from a pro!"
-- Doogan perks up. This is it.
-- Bidding starts at $500. A couple of wealthy golf enthusiasts raise paddles.
-- $1,000. $1,500.
-- Doogan raises his paddle. $2,000.
-- Another bidder. $2,500.
-- Doogan again. $3,000.
-- The room notices the competition. Jake, watching from across the room, looks nervous.
-- Final bidder drops out. "Sold for $3,000 to bidder number 47!"
-- Applause. Doogan nods, trying to look pleased like an enthusiastic golf fan.
-- After the auction winds down, Jake intercepts him with JAKE TOWNSEND's manager (or tournament coordinator)
-- Manager leads them to where Mara stands near the bar
-- Manager: "Mara, this is Doogan Andrews. He's your caddy for the week—just won the lot!"
-- Mara: "The auction winner. Right." (Matter-of-fact, for charity)
-- Mara sizes him up: "Have you ever caddied before?"
-- Doogan, with a slight grin: "I've seen 'Tin Cup.' Does that count?"
-- Mara actually cracks a smile—first genuine one all evening. "That's a no, then."
-- Doogan: "I know my way around a course. I'll carry your clubs, read the greens, and stay out of your way."
-- Mara: "We'll be at the driving range tomorrow. Eight AM. Don't be late."
-- Pairing announcement made by emcee: Mara is matched with BRENDA ATWOOD (comedic actress) and Brenda's assistant MARCUS (bumbling, dramatic)
-- Brenda, nearby, overhears and perks up: "Wait, is that eight AM for us too? That's early for actresses."
-- Mara gives her a look. "Yes. Eight AM."
-- Brenda is warm, self-deprecating: "I should warn you, I'm terrible. But Marcus is worse, so at least I look good by comparison."
-- Marcus, over-dramatically: "I once hit the same water hazzard from two holes. Not joking."
-- Mara almost smiles again. Almost.
-- Across the room: CANDY makes entrance with TILLY. Photographers swarm. Everything is content.
-- Mara watches them with thinly veiled disdain
-- Press moment: Reporter approaches Mara. "Your comeback has taken longer than many expected. How do you respond to critics who say you've lost a step?"
-- Mara, defensive: "Well, Phil Mickelson never had to recover from a C-section, did he?"
-- The room goes quiet. Jake visibly cringes across the room.
-- Reporter backs away awkwardly. Sponsors notice. Not the vibe.
-- Doogan appears with champagne: "That was... bold."
-- Mara: "I'm tired of apologizing for having a child."
-- Doogan: "You shouldn't have to. But maybe there's a way to say it that doesn't sound like you're at war with the world."
-- Mara looks at him sharply, but he's moved on to introduce himself to Brenda
+**AS WRITTEN:**
+- Opens mid-auction with Harry Halligan as MC (theatrical energy)
+- Candy Williams appears with champagne upgrade lot (photographers swarm, Mara rolls eyes)
+- Doogan approaches Mara at bar before caddy auction
+- Banter: "Can I buy the lady a drink?" / "It's a hosted bar" / Golf glove tan gives him away
+- Women in STEM connection established
+- Caddy auction: Bidding goes $1K → $1.5K → Priscilla Chan (with Zuckerberg) at $3K → Doogan at $4K
+- Doogan wins at $4,000 (not $3K as in original outline)
+- Mara returns to bar after auction, they talk
+- Tin Cup reference joke lands
+- Brenda Atwood pairing announced (Cher impressions, Studio 60)
+- Marcus mentioned briefly
+- Doogan comments on Candy: "Could be worse" / Mara: "She's a pro... kind of"
+- No Phil Mickelson C-section comment (cut from this scene)
+- Ends with Jake checking in: "What's your approach?" / Doogan: "I'm a professional too, Jake."
 
 Turn:
-The teams are set. The week begins. Mara is wound tight, defensive, and about to spend a week with a caddy who might change that.
+Doogan establishes connection with Mara before the auction, making his win feel less random.
 
 Button:
-Eddie (phone): "How did it go?"
-Doogan: "Made it through the auction, met her. She's nice."
-Eddie: "How much did the caddy job end up costing?"
-Doogan: "3 grand."
-Eddie: "I'll let Abby know. Add it to the expense report. What's next."
-Doogan: "Driving range tomorrow."
-Eddie: "Don't do the authentic swing speech, ok?"
-Doogan: "Anyone ever tell you that you watch too many movies?"
-Eddie: "It's come up."
+Doogan reassures Jake he knows what he's doing. Professional confidence, not bragging.
 
 ---
 
@@ -251,281 +185,350 @@ Abby: "If someone deleted these files, they're hiding something. Let's find out 
 
 ## **5. Tuesday — "Golf for Fun Day"**
 **Day:** Tuesday (Fun Day)  
-**Location:** Hidden Hills Golf Course - fun day
+**Location:** Hidden Hills driving range and clubhouse
 
-Purpose:
-Build Doogan/Mara chemistry. Show Brenda/Marcus comedy. Show Candy/Tilly being insufferable. Incorporate Mara's emotional moment with Alex.
-
-How it plays:
-- Morning: Golf for Fun Day skills competitions - longest drive, closest to pin, putting contests
-- Before it begins: Mara at driving range, her phone buzzes. Video call.
-- Her son ALEX (3) appears on screen, excited. Her mother's voice: "Alex, say hi to Mommy!"
-- Alex waves. "Hi Mama! Tutu made pancakes!" (Tutu = Hawaiian for grandmother)
-- Mara smiles, strained. "That's wonderful, baby. Are you being good for Tutu and Papa?"
-- Her mother: "He's perfect. You focus on your tournament. We've got him."
-- Call ends. Mara stares at blank screen, missing home.
-- She swings. Shanks it badly. Another. Worse.
-- Doogan appears: "You're collapsing your trailing elbow."
-- Mara bristles. "Thanks. I'm aware."
-- Doogan: "You're also gripping like you're trying to strangle something. Rough morning?"
-- Mara exhales: "My son's back in Hawaii. First big tournament since I came back, and I can't even—" She stops.
-- Doogan: "Hit one more. But this time, pretend you're showing him how it's done. Like he's watching."
-- Mara hesitates. Sets up. Swings. Pure contact. The ball sails.
-- She stares at it, then back at Doogan. He just nods and walks toward the skills competition area.
-- During skills competitions: Doogan demonstrates solid golf knowledge - impresses Mara with wind reads
-- Marcus makes every shot dramatic theater: "Oh my GOD, Brenda, did you SEE that?!"
-- Brenda is genuinely terrible but trying so hard
-- First half of day: Mara is still tense, frustrated when Brenda shanks shots
-- **TURNING POINT - Halfway through:**
-- Brenda apologizes again for a bad shot. Mara starts to snap at her.
-- Doogan interrupts smoothly: "You know what Brenda reminds me of? Every pro golfer's first tournament. We all sucked once."
-- Mara pauses. Looks at Brenda's earnest face.
-- Doogan, flirting subtly: "Plus, watching you try to teach her is actually impressive. Not everyone can break down mechanics like that. It's kind of... attractive."
-- Mara blinks. Is he flirting with her? On a golf course?
-- Something shifts. She laughs. Actually laughs.
-- From that point on: Mara is lighter, warmer with Brenda
-- Shows her how to fix her grip instead of sighing when she messes up
-- Candy and Tilly nearby, filming everything for content
-- Doogan to Mara quietly: "Do they ever just... play golf?"
-- Mara laughs again: "No. And it used to drive me crazy. Now I kind of feel sorry for them."
-- By end of day, Mara has smiled more than she has in months
+**AS WRITTEN:**
+- Opens with Brenda mid-profanity as patch of grass flies out ("Mother fu-")
+- Brenda struggling badly, Marcus googling YouTube advice
+- Mara defeated, doesn't know how to help
+- Doogan arrives with coffee tray (nails everyone's order without asking)
+- Caramel macchiato for Brenda, vanilla latte oat milk for Marcus, whatever for Mara
+- Doogan's golf instruction to Brenda: DETAILED, REAL-TIME teaching scene
+  - "Let all the online advice go. It's all junk."
+  - Ball demonstration (light, hard shell, dimples)
+  - "The ball is made for your success"
+  - Tripod/camera analogy for stable base
+  - Shorter club (8-iron instead of driver)
+  - "Get the club back to this point" philosophy
+  - Physical positioning (Doogan crouches close, uncomfortably close for Brenda)
+  - "Watch the ball, not the target. Describe what the club head looked like when it hit the ball."
+  - Breath. Relax.
+  - Success: 90 yards, crisp slicing sound
+  - "Effortless"
+- Marcus posts video with hashtags
+- Doogan has Brenda say "effortless" before each swing
+- Tin Cup movie reference callback (poem line joke, Mara rolls eyes)
+- NO Alex phone call (cut from this version)
+- NO flirting from Doogan (user guidance: competence, not charm)
+- Focus on DEMONSTRATING golf knowledge through teaching, not telling
 
 Turn:
-Mara realizes Doogan knows golf, respects her game, and doesn't need her to be anything but herself. She starts having fun. First real crack in her armor.
+Mara sees Doogan actually knows golf AND can teach effectively. Earns respect through competence.
 
 Button:
-Walking off course. Brenda: "Thank you for being patient with me today."
-Mara, genuinely: "You're actually getting better. And you make this fun."
-Doogan catches Jake's eye from distance. Jake nods—it's working.
+Scene cuts with Brenda practicing, establishing she's improving. (Scene incomplete in file, ends mid-scene)
 
 ---
 
-## **6. Tuesday Afternoon — "Abby's First Visit"**
-**Day:** Tuesday afternoon (while Doogan is at Golf for Fun Day)  
-**Location:** Patient home in Glendale, then Abby's car
+## **6. Tuesday Afternoon — "Patient Visits (Healthy Pattern)"**
+**Day:** Tuesday afternoon  
+**Location:** Investment firm office, residential home in modest neighborhood, three-way phone call
 
-Purpose:
-Show first half of investigation pattern. Healthy patient with extensive medical history doesn't make sense.
+**AS WRITTEN (MAJOR CHANGES FROM OUTLINE):**
 
-How it plays:
-- Abby arrives at modest home in Glendale. Knocks.
-- Mrs. Chen, 68, answers. Looks healthy, energetic.
-- Abby introduces herself as community health liaison doing wellness checks on clinic patients
-- Mrs. Chen invites her in. House is clean, active lifestyle evident (yoga mat, walking shoes)
-- Abby checks her notes: Mrs. Chen should have diabetes, high blood pressure, chronic heart condition
-- Abby asks about her health. Mrs. Chen: "Never felt better! I walk three miles every day."
-- Abby: "And your medications? How are those going?"
-- Mrs. Chen shows her pill organizer: Five different prescriptions from the clinic
-- Abby: "Do you take all of these?"
-- Mrs. Chen: "Every day, like they said. Though honestly, I don't know what half of them do."
-- Abby asks who her primary nurse was. Mrs. Chen: "Oh, I saw different nurses. Patricia, I think? And Linda once."
-- Abby thanks her, leaves
-- **In the car, calling Eddie/Baxter (video call on dashboard):**
-- Abby: "Mrs. Chen is healthier than I am. Takes three-mile walks daily. But she's on five prescriptions for conditions I don't think she has."
-- Eddie appears on screen, looks exhausted: "How'd your visit go, Eddie?"
-- Eddie: "Mrs. Yamamoto. Lovely woman. Ninety-two years old. Made me tea. Then asked if I could help with her feet."
-- Abby: "Her feet?"
-- Eddie: "Bunions, Abby. I'm not good at sanding bunions. I am not qualified for bunions."
-- Baxter laughs off-screen
-- Eddie: "But she's healthy. Really healthy. And she's got a whole pharmacy in her cabinet."
-- Abby: "Who was her nurse?"
-- Eddie checks notes: "Someone named Grace."
-- Abby: "Mrs. Chen saw Patricia and Linda. All different nurses."
-- Baxter: "What about the patients with minimal records? The ones I flagged as unusual?"
-- Abby: "That's tomorrow's list."
+**Part 1: Eddie visits Trevor Hastings (finance broker, NOT elderly patient)**
+- Opens with Eddie mid-appointment posing as potential investment client
+- Trevor Hastings: Alpha dog investment broker stereotype
+  - Corner office, yacht/marathon photos, expensive watch
+  - "Aggressive growth with managed downside exposure"
+  - Marathons, Crossfit at 5 AM, manages $200M portfolio
+  - "Bloodwork of a 25-year-old"
+  - COMPLETELY HEALTHY despite 13 prescriptions in clinic records
+- Eddie confused by how healthy this guy is
+
+**Part 2: Abby visits Richard Pemberton's home (DECEASED patient)**
+- Son is DEAD (died 3 months ago)
+- Mother answers door, invites Abby in
+- Sweet, sad scene: mother shows pictures
+- Son had cancer, poor insurance
+- IRELAND TRIP detail: Son took mother to Ireland to see grandparents' homeland before he died
+- Photo: son gaunt but happy near Irish coast
+- Mother comforted by trip memory
+- Visit is sweet but short
+
+**Part 3: Three-way phone call (Abby + Eddie + Baxter)**
+- Compare findings as Abby leaves house
+- Pattern emerges:
+  - Crossed-out names = DEAD patients (not marked deceased in clinic system)
+  - High-prescription patients = HEALTHY people (shouldn't need medication)
+- Questions raised:
+  - Why no death certificates in clinic records?
+  - Where are the pills going if healthy people have prescriptions?
+  - What is Nancy doing?
+- Insurance/Medicare fraud suspected
+- More questions than answers
+
+**NO elderly patients comedy. NO bunion story. NO Mrs. Chen or Mrs. Yamamoto.**
 
 Turn:
-Healthy patients with extensive prescription records. Something's wrong but they don't know what yet.
+Pattern crystallizes: backwards fraud (healthy over-prescribed, dying under-recorded). Mystery deepens.
 
 Button:
-Eddie: "I'm going home. My hands smell like foot cream."
-Baxter: "You're a professional, Eddie."
-Eddie: "Nobody's that professional."
+"Her son shouldn't be dead. If someone at that clinic had actually treated him instead of crossing his name off a list..." (Emotional weight, not comedy)
 
 ---
 
-## **7. Wednesday Afternoon — "Pro-Am Day 1"**
-**Day:** Wednesday afternoon  
-**Location:** Hidden Hills Golf Course - full 18 holes, tournament conditions
+## **7. Wednesday Morning — "The Driving Range / Winston Arrives"**
+**Day:** Wednesday morning (before Pro-Am Round 1)  
+**Location:** Hidden Hills Golf Course - driving range
 
 Purpose:
-Show Mara under tournament pressure with amateur partner. Doogan as caddy.
+Introduce Winston Reilly as Brenda's caddy substitute. Show Doogan's strategic thinking about Brenda's needs. Demonstrate Mara's skepticism turning to understanding. Marcus relieved of caddy duties.
 
 How it plays:
-- **Format:** Best Ball - both play own ball, team takes better score per hole
-- Tournament pressure. Galleries watching. Media coverage.
-- Doogan caddies for Mara - carries bag, reads greens, gives club selections
-- Mara is tense. This counts for real now.
-- Brenda struggles but has occasional good shots that count for team
-- Marcus provides constant comic relief from sidelines (he's her partner but not playing seriously)
-- But Best Ball format means Mara can mostly carry the team
-- They're middle of the pack but surviving
-- Candy/Tilly team doing well (Candy's drives dominating, Tilly just having fun)
-- Key moment: Mara faces difficult approach shot. Doogan suggests laying up. She trusts him. It works.
-- After the round: Press approaches. Same reporter from Monday.
-- Reporter: "Better round today. How are you feeling about your game?"
-- Mara, smiling instead of defensive: "I'm feeling great. My partner Brenda's been amazing, and my caddy actually knows what he's doing."
-Jake on phone with Eddie: "That was better. Much better. She smiled. She joked. She sounded like a human being."
-Eddie: "Progress."
-Jake: "Don't jinx it."
+- **Setup:** Brenda and Mara already at range with Marcus wearing caddy vest with Brenda's name on it (research PGA caddy vest details for accuracy)
+- Marcus is clearly struggling with the weight of the golf clubs
+- Doogan arrives pulling a hand cart (PGA-legal equipment), accompanied by elderly Black man (late 60s) wearing country club casual attire with golf spikes
+- **Introductions:** Doogan introduces him to Brenda as "Winston Reilly, an old friend"
+- Winston shoots Doogan a look (they just met, not old friends) but doesn't contradict him publicly
+- **The Pitch:** Doogan suggests Marcus being the caddy would prevent him from capturing all the moments for social media effectively
+- Winston could step in as caddy instead - better for content creation
+- Marcus immediately grateful (clubs are too heavy)
+- Brenda uncertain about Winston carrying clubs until Doogan points out the hand cart (allowed by rules)
+- **Mara's Skepticism:** When Doogan returns to Mara, she's skeptical about this arrangement
+- Doogan explains Winston's background:
+  - Frequents a nearby 9-hole municipal course
+  - Old guys like Winston have been playing golf for decades
+  - They know they don't have 300-yard drives on par 5s anymore
+  - They stay conservative and efficient
+  - They don't have power, they need tactics
+  - They're almost always short game assassins
+  - "This is exactly what Brenda needs"
+- Mara less skeptical now - sees the strategic thinking
+- **Subtext:** Establishes Doogan thinks several moves ahead
+- Shows Doogan's understanding of golf strategy beyond just his own game
+- Winston as tactical asset, not just equipment carrier
+
+Turn:
+Mara realizes Doogan isn't just competent—he's strategic and thinks about what people actually need.
+
+Button:
+Winston settles in with Brenda, demonstrating immediate calm influence. Short, efficient ending.
 
 ---
 
-## **8. Wednesday Evening — "Abby's Second Visit"**
+## **8. Wednesday Afternoon — "Post-Tournament / The Dinner Invitation / Martinez Returns"**
+**Day:** Wednesday afternoon (immediately after Best Ball tournament concludes)  
+**Location:** Hidden Hills Golf Course - 18th green area → parking lot
+
+Purpose:
+Show results of Best Ball round. Investigation update via earpiece. Mara invites Doogan to dinner (turning point). Martinez returns earpiece, establishes surveillance.
+
+How it plays:
+- **Opening:** Tournament has just concluded. Brenda has done surprisingly well with Winston's coaching.
+- Marcus has extensive Instagram/TikTok content
+- Mara has played well, warming to Doogan noticeably
+- **Doogan on earpiece:** Away from the scene, out of earshot, getting updates
+- **Eddie's update:** Interviewed patient - suburban wife of car dealership owner (five dealerships), perfectly healthy
+- **Abby's update:** Deceased woman (pancreatic cancer, three months ago), dying man (liver failure, weeks left, minimal records at clinic)
+- Pattern: healthy over-prescribed, dying under-documented
+- **Baxter plan:** Going into clinic tonight to see Exam Room 1
+- **Meanwhile:** Mara and Brenda with media, Winston in background embarrassed
+- Jake watching, nods approvingly at Doogan
+- **The Invitation:**
+- Mara: Brenda got table at trendy restaurant (Nobu), needs ride (LA traffic excuse)
+- Movie quote callback
+- Seven o'clock pickup arranged
+- **Martinez Appears:** Doogan notices sedan in parking lot
+- Doogan to team: "Company" (Martinez here)
+- **Martinez confrontation:** Leaning on Cougar
+  - Jokes about caddying, lawyer bills, Doogan's expensive condo
+  - Returns earpiece in evidence bag (Hank Stilman filed paperwork)
+  - Station IT couldn't match it, can't monitor it
+  - Martinez: "You have a warrant?" / Doogan: "You watch cop shows"
+  - Martinez looks in Doogan's ear: "Hello, Mr. Baxter"
+  - Investigation update: Nobody wanted Anders dead, clinic odd, Doogan is question mark
+  - Martinez: "You're a question mark. I keep asking."
+  - Doogan: "I'm an open book"
+  - Martinez hands back earpiece, leaves
+- **Button:** Baxter on earpiece: "Was Radio Shack really a thing?" / Doogan: "Not now."
+
+Turn:
+Three-fold: (1) Mara actively pursuing time with Doogan, (2) Baxter going into clinic tonight, (3) Martinez knows about team, watching them
+
+Button:
+Radio Shack joke deflates tension. Martinez surveillance established.
+
+---
+
+## **9. Wednesday Evening — "Baxter Goes Undercover"**
 **Day:** Wednesday evening  
-**Location:** Three patient homes in East LA, then Abby's car
+**Location:** The clinic (Exam Room 1 focus)
 
 Purpose:
-Show other half of the pattern. Patients with minimal records are sick or dead. Pattern is backwards.
+Baxter infiltrates clinic as IT tech. Discovers palliative care equipment in Nancy's exam room. Gets caught but exits cleanly.
 
 How it plays:
-- **First address:** Small apartment building. Neighbor answers.
-- Abby: "I'm looking for Mr. Rodriguez?"
-- Neighbor, sad: "He passed. Two weeks ago. Cancer."
-- Abby: "I'm so sorry. Was he sick long?"
-- Neighbor: "Six months, maybe. Went downhill fast. Strange thing—he barely went to the doctor. Kept saying he was fine until he wasn't."
-- **Second address:** Hospice facility. Receptionist checks list.
-- Receptionist: "Ms. Tran is in palliative care. Family only."
-- Abby: "Can you tell me how long she's been ill?"
-- Receptionist: "Stage four lung cancer. She's been here three months."
-- Abby thanks her, leaves
-- **Third address:** Run-down house. A woman answers, looks exhausted.
-- Abby: "I'm looking for Michael Foster?"
-- Woman: "That's my husband. What's this about?"
-- Abby: "Wellness check from the clinic."
-- Woman's face hardens: "Wellness check? He's dying. Liver failure. The clinic didn't do shit for him."
-- Abby: "Which nurse did he see?"
-- Woman: "I don't know. Some nurse with fancy nails. Didn't care, just rushed him through."
-- **In the car, Abby calls Eddie and Baxter (video call):**
-- Abby, shaken: "Two are dead. One's in hospice. One's dying at home."
-- Eddie: "Jesus."
-- Abby: "According to Baxter's records, these patients had minimal medical history. Almost no prescriptions. Nothing."
-- Eddie: "But they're dying?"
-- Abby: "Or already dead. This doesn't make sense. Your patients are healthy but have extensive records. Mine are dying but have no records."
-- Baxter: "That's completely backwards."
-- Abby: "Unless someone's hiding what they did to the sick patients and inventing treatments for the healthy ones."
-- Eddie: "Insurance fraud for the healthy ones—billing Medicare for treatments they don't need."
-- Abby: "But what about the dying patients? Why hide their records?"
-- Long silence.
-- Baxter: "Maybe because they did something wrong. Something that made them sick."
+- **Setup:** Baxter arrives at clinic posing as IT tech
+- Eddie and Abby in his ear, watching video feed remotely
+- They guide him through building, helping him avoid Nancy
+- Nancy leaves clinic to get lunch at nearby sushi place (Eddie confirms on feed)
+- **Exam Room 1:** Door is locked
+- Baxter approaches temp receptionist, convinces her he needs to check network connection in that room
+- Temp lets him in
+- **Inside the room:** Full of equipment NOT in other exam rooms
+  - Breathing equipment
+  - Machines intended for palliative care
+  - Baxter starts reading manufacturer names aloud (for Eddie/Abby listening)
+- **Patient files:** Two files open on counter
+  - Baxter can read both names but nothing more
+- **Nancy returns:** Opens door suddenly
+  - "Why is this door unlocked?"
+  - Sees Baxter inside
+  - Tears into him immediately (aggressive, hostile)
+- **Exit:** Baxter apologetically exits room and clinic (keep brief)
+- Nancy annoyed but doesn't suspect too much - she's just a bitch
+- Baxter gets out clean
 
 Turn:
-Pattern is clear now but deeply disturbing. Healthy patients over-billed, dying patients have hidden records.
+Discovery: Nancy's exam room contains palliative care equipment—not standard medical exam equipment. This is a hospice setup, not a treatment room.
 
 Button:
-Abby: "One of the wives mentioned a nurse with fancy nails."
-Eddie: "That's specific."
-Abby: "We need to look at the nurse records. See if there's a pattern there too."
-10
----
-
-## **9. Thursday Afternoon — "Pro-Am Round 2"**
-**Day:** Thursday afternoon  
-**Location:** Hidden Hills Golf Course
-
-Purpose:
-Show team chemistry peaking. Mara having fun. Emotional payoff with Brenda.
-
-How it plays:
-- **Format:** Modified Scramble - both tee off, team picks best shot, celebrity must be used on 4 holes
-- Doogan caddies for Mara
-- Brenda has genuinely improved over the week - noticeably better swings
-- Mara notices: "Wait, did you actually take lessons this week?"
-- Brenda, sheepish: "I watched YouTube videos in my hotel room. I didn't want to let you down."
-- Mara1is touched. Gives her a genuine tip that helps immediately.
-- Marcus is ridiculous as always but everyone's enjoying it
-- The scramble format lets Brenda contribute meaningfully
-- **Mara is joking on the course:** "Brenda, if you keep improving, I'm hiring you as MY coach."
-- Gallery laughs. Mara plays to it, smiling, clearly enjoying herself.
-- Mara and Doogan's teamwork is clicking perfectly - and the flirting is obvious
-- Key moment: Mara shows real emotion, laughs at Marcus's over-the-top reaction to Brenda's decent putt
-- After final hole: Emotional moment - Mara thanks Brenda for making the week fun
-- "I forgot what it feels like to just... enjoy golf."
-- Brenda, tearing up: "Thank you for being patient with me. My daughter's going to be so proud."
-- Media everywhere - they're eating it up. Mara Palani is fun now.
-
-Turn:
-Mara has fully transformed. Open, warm, funny. Jake watching knows this is exactly what sponsors need to see.
-
-Button:
-Jake on phone with Eddie: "She's joking with the gallery. She hugged Brenda on the 18th green. I've got three voicemails from potential sponsors already."
-Eddie: "Three? That's fast."
-Jake: "Your guy is a miracle worker. Whatever you're paying him, double it."
+Baxter in his car, shaken. Eddie on phone: "What the hell is Nancy doing with palliative care equipment?"
+Baxter: "I don't know. But I saw two patient names on those files. We need to find out who they are."
 
 ---
 
-## **10. Thursday Afternoon — "Martinez Returns the Earpiece"**
-**Day:** Thursday afternoon (immediately after Pro-Am Round 2)  
-**Location:** Hidden Hills parking lot
+## **10. Thursday Afternoon — "The Fourth Hole Incident"**
+**Day:** Thursday afternoon (Pro-Am Round 2 - Modified Scramble)  
+**Location:** Hidden Hills Golf Course - fourth hole tee box
 
 Purpose:
-Increase tension. Show Martinez is actively investigating Doogan. Remind audience of murder investigation thread.
+Show Mara/Brenda vs Candy/Tilly tension. Comedy escalates to "Fore!" incident. Establishes rivalry for Friday.
 
 How it plays:
-- Doogan walking to parking lot after Pro-Am round ends. Exhausted but satisfied—Mara played well.
-- Baxter in Doogan's earpiece: "Good round. Mara's press was excellent."
-- Martinez appears from behind a car. "Mr. Andrews. You've been a little hard to find."
-- Doogan tenses. "Detective. Didn't know I was lost."
-- Martinez pulls evidence bag from pocket—the earpiece from Episode 2. "Lab's done with this. Couldn't link it to the murder. Thought you might want it back."
-- Doogan takes it carefully. "Thanks, I guess."
-- Martinez examines him. "High-end surveillance equipment. Doesn't look like something from Radio Shack."
-- Baxter's voice in Doogan's other earpiece, confused: "What's Radio Shack?"
-- Doogan: "We do consulting work. Sometimes we need to communicate on job sites."
-- Martinez watches him. "So, Mr. Andrews. Auction winner turned caddy? That's quite the prize package."
-- Doogan: "Just trying to pay rent, like everyone else."
-- Martinez: "Right. That building you live in is expensive. I've noticed your rent is probably high." Beat. "Not to mention your friend Eddie Palmer's business expenses. Consulting must be lucrative."
-- Doogan keeps his face neutral but realizes Martinez has been digging.
-- Martinez: "There's more to you than you're letting on. Not sure if it's tied to Annabelle's death but something is off. And I'll figure it out."
-- He taps the evidence bag in Doogan's hand. "And Mr. Andrews? I told you not to leave town."
-- Doogan: "I didn't. You found me, didn't you? I wasn't that far away."
-- Martinez studies him, then nods. "Stay close, Mr. Andrews. I'll be watching."
-- Martinez walks away. Doogan exhales, drops the earpiece in a trash can.
-- Doogan, quietly to his earpiece: "Eddie, we need Baxter to update the Martinez file."
-- Baxter's voice: "Already on it."
+- **Setup:** Fourth tee box. Mara/Brenda group arrives after Candy/Tilly group
+- Candy and Tilly on tee area with large media contingent, answering questions, making content
+- Mara/Brenda's smaller media contingent blends in
+- **Mara clears throat:** Reminds Candy that a tour is going on
+- Candy shoots nasty look but heads to tee box
+- Tilly has already made her drive (celebrities go first in scramble format - their shots likely disregarded)
+- **Brenda's mockery:** Uses fake blonde stereotype voice: "Tour card or OnlyFans? Tour card or OnlyFans? How does a girl decide?"
+- Mara laughs
+- Candy shoots evil look, winds up, crushes drive right down middle of fairway
+- Winston remarks: "That little blonde girl can really swing...275 easily."
+- Mara flatly: "280."
+- **Candy and Tilly leave:** Their media contingent follows
+- Smaller media contingent assembles behind tee box
+- **Winston breaks tension:** Tells Brenda his wife loves the Britney Spears impersonation she does on her show
+- Marcus follows lead, suggests Brenda do it during shot - "TikTok gold"
+- Brenda obliges, does Britney impression, makes disappointing drive into rough on right side
+- **Mara up next:** Still laughing from Britney impression
+- Light distraction from Doogan - just what she needed
+- Tournament assistant realizes Candy/Tilly still on fairway taking selfies
+- Tries to catch Mara in time - too late
+- **On the fairway:** Candy hears something she's not used to hearing: "Fore!"
+- Looks around confused
+- Ball lands 5 yards in front of her shot, rolls another 10 yards
+- Candy and Tilly look back at tee box, enraged
+- Barely hear Marcus calling out: "Hashtag that, bitches!"
 
 Turn:
-Doogan realizes Martinez is building a file on him—and Eddie. The investigation isn't going away.
+Comedy escalates to actual conflict. Mara accidentally drives into Candy's position. Rivalry now personal.
 
 Button:
-Doogan's phone buzzes. Text from Mara: "Dinner tonight? My treat. You earned it."
-He looks back at Martinez's car driving away, then at the text. Two worlds colliding.
+Candy's face - pure rage. This is war now. Strong visual ending.
 
 ---
 
-## **11. Thursday Evening — "The Quiet Dinner"**
+## **11. Thursday Afternoon — "The Fourth Hole Incident (continued) / Scramble Results"**
+**Day:** Thursday afternoon (Pro-Am Round 2 conclusion)  
+**Location:** Hidden Hills Golf Course - 18th green area
+
+Purpose:
+Tournament standings established. Mara/Brenda tied with Candy/Tilly for first place going into Friday.
+
+How it plays:
+- **Opening:** Scramble round just concluded
+- Mara and Brenda now tied with Candy and Tilly for first place
+- Tilly even worse than Brenda (helped their position)
+- Doogan watching Brenda and Mara working media
+- Press crowd larger than earlier
+- Mara joking, enjoying attention—Jake pleased with personality shift
+- **Button:** Candy's glare from across the green. Tomorrow is war.
+
+Turn:
+Tournament becomes genuine competition. Personal rivalry now affects professional standing.
+
+Button:
+Candy's rage established. Friday's exhibition round has stakes.
+
+---
+
+## **12. Thursday Evening — "Quiet Dinner"**
 **Day:** Thursday evening (after Pro-Am Round 2)  
-**Location:** Clubhouse restaurant
+**Location:** Doogan's car → Mara's hotel lobby → quiet Italian restaurant → hotel entrance
 
-Purpose:
-Deepen Doogan/Mara connection. Show her vulnerability about Alex. Emotional scene.
+**AS WRITTEN (USER MODIFICATIONS):**
 
-How it plays:
-- Evening. Clubhouse restaurant, mostly empty. Mara is eating alone, scrolling through photos of Alex on her phone.
-- Doogan appears. "Mind if I join you, or is this a solo brooding session?"
-- Mara laughs despite herself. "Brooding is a strong word. I prefer 'strategic reflection.'"
-- They talk. She's playing well but feels guilty—this is the longest she's been away from Alex.
-- Doogan asks about her parents. Mara opens up about growing up at Kapalua, her dad the groundskeeper, learning golf on one of the world's best courses.
-- She mentions Alex is there now. "He loves it. Runs around the course like I did. My dad's teaching him."
-- A beat of vulnerability: "Sometimes I wonder if I should just stay there. Give up the tour. Be a normal mom."
-- Doogan: "What would Alex want?"
-- Mara thinks. "He'd want me to win. Even at three, he's competitive. Gets it from me."
-- Her phone buzzes. Video from her mother: Alex in pajamas at sunset, waving at the phone with the ocean behind him.
-- Mara watches it twice. Doogan doesn't rush her.
-- Mara: "My mom sends these every night. So I don't miss bedtime."
-- Doogan: "Your parents sound amazing."
-- Mara looks at Doogan—really looks. "You're weirdly good at this. Talking, I mean."
-- Doogan: "I've had practice."
+**Part 1: Car - Investigation Update (McDonald opening)**
+- Opens mid-conversation, em-dash: "—palliative care equipment..."
+- Doogan parked near Mara's hotel, team on earpiece
+- Baxter reports: palliative care equipment in Exam Room 1 (hospice setup, not standard clinic)
+- Team discussion: Pattern theory (healthy over-prescribed, dying under-recorded)
+- Doogan suggests: Focus on Nancy herself
+- Eddie recalls nail salon near clinic (Kim's Nails)
+- Abby commits to go tomorrow after tournament
+- Doogan ends call, removes earpiece, drives to hotel
+
+**Part 2: Hotel Lobby - Mara's Vulnerability**
+- Doogan enters lobby, finds Mara waiting
+- Mara admits: Been waiting 20 minutes
+- Doogan: "I'm not late"
+- Mara: "You're not. I was... excited. I haven't been on a real date in a long time."
+- Vulnerable moment, risk-taking admission
+- Doogan: "Then let's make it a good one."
+
+**Part 3: Drive to Restaurant (Narrated)**
+- Fifteen-minute drive to small Italian place
+- Brenda's recommendation (tourists never find it)
+- No cameras (Mara's relief)
+
+**Part 4: Restaurant - Alex Conversation**
+- Orders: both sparkling water (Mara doesn't drink before tournament rounds)
+- Mara mid-sentence: "It was never planned."
+- Opens up about Alex: unplanned pregnancy, fear, career impact
+- "Women don't recover from this" - but she did come back
+- Father at Kapalua (head groundskeeper, 30 years)
+- Mother retired teacher
+- Alex with them during tournaments
+- Vulnerable: "Choosing career over son?"
+- Doogan reframes: "Providing for him. Being his mother."
+- Surfing scar story (fell learning to surf at 7, hit coral)
+- Father: "That's when he knew I was tough"
+- Fell in love with golf watching pros at Kapalua
+- Doogan: "You're doing something beautiful now"
+- Mara: "You're very good at making people feel seen"
+
+**Part 5: Surveillance Woman (Downplayed)**
+- Doogan notices woman two tables away
+- Unremarkable: mid-40s, plain features, dark hair
+- Glances over occasionally, looks away
+- Doogan discreetly photos her, sends to Baxter
+- Continues conversation with Mara naturally
+- Baxter texts: Can't find anything, then "Wait. Found a mug shot"
+- Doogan pockets phone, stays present
+- Woman watching NOT emphasized - just noticed
+
+**Part 6: Hotel Return - "Walk Me Up?"**
+- Drive back quiet, comfortable
+- Mara: "I'm going to miss this. This week. The distraction. The fun. You."
+- Pull up to hotel entrance, engine idling
+- Valet approaches, backs off
+- Mara reaches for door, stops
+- "Walk me up?"
+- Doogan kills engine
+- Scene ends
 
 Turn:
-Mara is starting to trust Doogan—and maybe feeling something more.
+Mara's vulnerability deepens. Investigation focuses on Nancy. Intimacy escalates.
 
 Button:
-Mara: "Same time tomorrow? I could use the company." 
-Doogan nods. She doesn't know she just asked a con man on a date.
+"Walk me up?" - relationship progressing, invitation accepted. Surveillance mystery planted but not emphasized.
 
 ---
 
-## **12. Thursday Night — "The Nancy Connection"**
+## **13. Thursday Night — "The Nancy Connection"**
 **Day:** Thursday night  
 **Location:** Video call between Eddie/Abby/Baxter
 
@@ -573,7 +576,7 @@ Baxter: "I'll keep digging into her background. See what I can find before you g
 
 ---
 
-## **13. Friday — "The Professional Exhibition"**
+## **14. Friday — "The Professional Exhibition"**
 **Day:** Friday morning/afternoon  
 **Location:** Hidden Hills Golf Course - 18 holes
 
@@ -624,36 +627,8 @@ Jake's phone is already ringing. Sponsors.
 
 ---
 
-## **14. Friday Evening — "The Nail Salon Connection"**
-**Day:** Friday evening  
-**Location:** Eddie's house - video call with Abby/Baxter
-
-Purpose:
-Connect Nancy's nails to the salon Eddie saw during stakeout. Efficient investigation beat.
-
-How it plays:
-- Video call. Abby back home, Eddie at his desk, Baxter on screen.
-- Abby: "Nancy Weller. Definitely head nurse. Definitely a bitch. And she's got these crazy elaborate nails."
-- Eddie thinking: "Wait. Nails? Like... really done up?"
-- Abby: "Yeah, why?"
-- Eddie remembers: "When we were staking out the clinic a couple weeks ago, there was a nail salon down the street. I went in once to use their bathroom, and the nail tech looked at me like I was casing the place."
-- Abby: "What's the salon called?"
-- Eddie checks his notes from the stakeout: "Kim's Nails. Two blocks down from the clinic."
-- Abby grins: "Perfect. I'm going undercover."
-- Baxter: "What's the angle?"
-- Abby: "I'm getting my nails done. And I'm going to ask about Nancy."
-
-Turn:6
-They have a way to get intel on Nancy without raising suspicion.
-
-Button:
-Eddie: "Be careful. If she's involved in this, she's dangerous."
-Abby: "Don't worry. I speak fluent nail salon."
-
----
-
 ## **15. Friday Evening — "Kim's Nails"**
-**Day:** Friday evening (shortly after Scene 14 call)  
+**Day:** Friday evening  
 **Location:** Kim's Nails salon
 
 Purpose:
@@ -702,32 +677,35 @@ Abby: "He's going to love it. He just doesn't know it yet."
 ## Episode Notes
 
 **A-Plot/B-Plot Balance:**
-- Total: 14 scenes (combined Scenes 12 & 14)
-- A-plot (Mara): Scenes 1, 3, 5, 7, 9, 10, 11, 13 (8 scenes)
-- B-plot (Investigation): Scenes 2, 4, 6, 8, 12, 14 (6 scenes)
+- Total: 15 scenes
+- A-plot (Mara): Scenes 1, 3, 5, 7, 10, 11 (Martinez), 12 (Dinner), 14 (Tournament finale) (8 scenes)
+- B-plot (Investigation): Scenes 2, 4, 6, 8, 9, 13, 15 (7 scenes)
 - B-plot scenes are efficient - some conveyed through dialog/calls rather than full dramatization
 
 **Key Story Beats:**
 - Doogan's cover is "auction winner" - fits charity event perfectly
-- Mara's arc: Wound tight → Small cracks (Monday) → Starting to trust (Wednesday) → Emotionally open (Thursday) → Playing loose (Saturday) → Victory with personality
+- Mara's arc: Wound tight → Small cracks (Monday) → Starting to trust (Wednesday) → Emotionally open (Thursday dinner) → Playing loose (Friday) → Victory with personality
 - Investigation arc: Patient visits → Pattern emerges → Nancy identified → Visual confirmation → Nail salon intel → Setup for Doogan
 - Tournament climax happens BEFORE nail salon discovery (as requested)
 - Episode ends with Abby proposing Doogan investigate Nancy
+- Scene 12 introduces surveillance woman with mug shot—mystery thread for future episodes
 
 **Investigation Details:**
 - Scene 2: Abby attempts to access hard copy files at clinic, encounters Nancy, mentions nice nails (detail goes unnoticed)
-- Scene 6: Abby visits healthy patient (Mrs. Chen) with extensive records that don't match reality
-- Eddie visits Mrs. Yamamoto, ends up helping with bunions (comic relief but also confirms pattern)
-- Scene 8: Abby visits three patients with minimal records—two dead, one dying, one in hospice
+- Scene 6: Abby visits deceased patient's mother (Ireland trip detail), Eddie visits finance bro (healthy despite prescriptions)
+- Scene 8: Referenced but not shown - more patient visits confirming pattern
+- Scene 9: Referenced through earpiece during Round 2
 - Pattern emerges: healthy patients over-billed, sick/dying patients have hidden records
-- Scene 12: Baxter cross-references nurse assignments—Nancy Weller identified. Team stuck until Eddie remembers nail salon, Abby recalls Nancy's nice nails from Scene 2. Plan formed.
-- Scene 14: Nail salon investigation reveals Nancy living beyond her means
+- Scene 13: Baxter cross-references nurse assignments—Nancy Weller identified. Team stuck until Eddie remembers nail salon, Abby recalls Nancy's nice nails from Scene 2. Plan formed.
+- Scene 15: Nail salon investigation reveals Nancy living beyond her means
 - Setup for Doogan to investigate Nancy in Episode 4
 
 **Nancy Arc:**
 - Scene 2: Introduced as territorial nurse who catches Abby, nice nails mentioned casually
-- Scene 12: Identified as connecting all dying patients through data analysis; nail detail recalled, becomes key to investigation plan
-- Scene 14: Full intel gathered—expensive lifestyle, plastic surgery, cash-only, doesn't tip
-- Eddie's patients: Elderly, healthy, want to hang out (conveyed through dialog)
-- Abby's patients: Minimal records, sick/dying
+- Scene 13: Identified as connecting all dying patients through data analysis; nail detail recalled, becomes key to investigation plan
+- Scene 15: Full intel gathered—expensive lifestyle, plastic surgery, cash-only, doesn't tip
 - Abby only team member not seen by Martinez at clinic
+
+**Surveillance Mystery:**
+- Scene 12: Woman watching Doogan/Mara at dinner—unremarkable appearance, has mug shot
+- Thread planted for future development

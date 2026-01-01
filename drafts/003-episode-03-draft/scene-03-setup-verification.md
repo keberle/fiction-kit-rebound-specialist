@@ -3,7 +3,7 @@ Scene: Episode 3, Scene 3 — Welcome Gala & Auction
 
 **OUTLINE SOURCE (elements/outlines/episode-03.md):**
 > **Scene 3: The Welcome Gala & Charity Auction (Monday evening)**
-> - WHO: Doogan (POV), Jake, Mara Palani, tournament coordinator, Brenda Atwood, Marcus Shaw, Candy Hoover
+> - WHO: Doogan (POV), Jake, Mara Palani, tournament coordinator, Brenda Atwood, Marcus Shaw, Candy Williams
 > - WHERE: Hidden Hills Clubhouse ballroom, black-tie gala
 > - WHAT: Charity auction in progress, caddy lot comes up
 > - Doogan positioned in back, Jake near bar
@@ -94,7 +94,7 @@ MAY HAPPEN (flexibility):
 - Ballroom details (minimal per McDonald style)
 - Tournament coordinator's name/personality
 - Marcus Shaw appearance (or just name mentioned)
-- Candy Hoover cameo (or save for later)
+- Candy Williams cameo (or save for later)
 
 MUST NOT HAPPEN:
 - Mara mentioning Alex

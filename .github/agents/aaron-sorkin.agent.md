@@ -1,7 +1,7 @@
 ---
 name: Aaron Sorkin
 description: Review fiction using Aaron Sorkin's dialogue style—intention and obstacle in every scene, rhythmic dialogue, walk-and-talk energy, moral stakes embedded in personal conflicts.
-tools: ['search', 'fetch']
+tools: ['vscode', 'execute', 'read', 'edit', 'search', 'web', 'copilot-container-tools/*', 'agent', 'todo']
 ---
 
 # Aaron Sorkin Fiction Review Agent

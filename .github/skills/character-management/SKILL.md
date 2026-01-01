@@ -29,6 +29,67 @@ Use this skill when you need to:
 - **Knowledge or expertise** (don't assume what character knows based on social class)
 - **Dialogue patterns** that contradict character background
 
+## Critical Rule: CHARACTER KNOWLEDGE TIMELINE (FUNDAMENTAL)
+
+**Characters can ONLY know what they've experienced or been told UP TO THIS MOMENT.**
+
+This is not optional. This is fundamental to all fiction writing.
+
+**What This Means:**
+- Characters cannot reference events that haven't happened yet
+- Characters cannot know details they haven't learned through experience or dialogue
+- Characters cannot anticipate plot points or future scenes
+- Characters cannot "save" information for later use unless they know why
+
+**Common Violations:**
+- ❌ Character mentions detail from future scene ("save that Britney impression for later")
+- ❌ Character knows name/fact they weren't told (references person they haven't met)
+- ❌ Character prepares for situation they have no reason to expect
+- ❌ Character displays knowledge/skill not established in their background
+
+**Validation Questions (Ask for EVERY detail a character mentions):**
+1. **When did this character learn this information?**
+   - Which scene? Which dialogue?
+   - Or: Is it in their character file as established background?
+2. **Why would this character know this right now?**
+   - Direct experience?
+   - Someone told them (when/where)?
+   - Established expertise from character file?
+3. **What is the SOURCE of this knowledge?**
+   - If you cannot cite a source → character CANNOT know it
+
+**Example Violations:**
+```
+❌ WRONG (Scene 7): Doogan tells Winston to "save that Britney impression for later"
+   Why wrong: Doogan hasn't seen the impression yet. It happens in Scene 10.
+   Source check: Where did Doogan learn about this impression? NO SOURCE.
+   
+❌ WRONG (Scene 3): Character mentions "the clinic investigation"
+   Why wrong: Investigation hasn't started yet in story timeline.
+   Source check: When did character learn about investigation? NO SOURCE.
+   
+❌ WRONG (Scene 5): Character says "I'll need this later for the tournament"
+   Why wrong: Character knows future plot point they shouldn't anticipate.
+   Source check: Why would character prepare for specific future event? NO REASON.
+
+✅ RIGHT (Scene 7): Winston says "My wife loves her show"
+   Why right: Winston can watch TV. His wife could be a fan. Plausible background knowledge.
+   
+✅ RIGHT (Scene 8): Character says "You mentioned the tournament earlier"
+   Why right: References prior dialogue from Scene 6. SOURCE: Scene 6 conversation.
+```
+
+**Discipline Required:**
+- Write characters IN THE MOMENT they're experiencing
+- Characters live in "now" - they don't know what's coming next
+- Reader knows more than characters (dramatic irony) - that's correct
+- Characters knowing future events breaks the fourth wall
+
+**If character needs information:**
+- Show them learning it (dialogue, experience)
+- OR establish it in character background file
+- OR remove the reference entirely
+
 ## Critical Rule: THE SECRECY RULE (STORY-BREAKING IF VIOLATED)
 
 **Targets NEVER know they're part of a paid rebound operation.**
