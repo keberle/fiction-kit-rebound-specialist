@@ -21,13 +21,24 @@ The team is working to find more details but Doogan is on overload now that it l
 - While Mara has been teamed with a trainwreck of a celebrity, she plays great but more importantly, despite not loving the pairing at first, she ends up bonding with the actress and their chemistry is really what appeals to the advertisers and not the chemistry with Doogan.
 - Doogan uses some obscure PGA tournament memories from Eddie along with a weather report from Baxter to spot a way for Mara to win the pro tournament on the last day against her rival, Cherry.
 
-## Episode 4: The Complicated Nurse
+## Episode 4: Nurse Nancy
+<!-- Reference: outlines/episode-04.md -->
 
-#### Summary
-The team has tracked down the nurse that the suspicious patients have in common but she's a real handful.  Doogan ends up meeting her in a bar that she frequents and she's drawn to Doogan not because he's chasing her but because even though they're talking, when other guys come in to make a move on her, it doesn't make him flinch for a second.  He's not the usual insecure, competitive guy she usually meets at these LA typical bars.  And even though she might have gone home with him that night, his approach of not trying to close makes her even more curious and she agrees to meet him for a walk the next day.  Meanwhile the team is still trying to look for some connection between the suspicious patients but can't seem to figure out why anyone would have prescriptions in someone else's name when there is no other obvious connection.  If it was just someone uses another person's prescription coverage, there would be some kind of connection.  Doogan ends up on a walk with Nurse Nancy the next day and she accidentally lets it slip that they use the same pharmacy for any "creative" prescriptions because its run by and older couple who wouldn't notice if they started prescribing cocaine.  That gives the team the lead they need and they start looking into the pharmacy.  Martinez ends up popping up out of nowhere while Eddie is checking out the pharmacy, with more questions.  How does that guy keep finding him?  Meanwhile, Doogan continues to find out that Nancy is not a good person at all and he can't figure out how she affords all of that plastic surgery (that she won't admit to at all) and her lifestyle.  It just doesn't add up.  After a fun night at the bar where they met, they end up back and her place and Doogan hopes this is his chance to check out her apartment once she's asleep.  After a nightcap of wine she got from her boss, Doogan once again is woken up by police, next to the women he was out with. (intentional prallel)
+### Summary
+The team tracks down Nancy, a nurse at the suspicious clinic, but she's obnoxious, unethical, and a real handful. Doogan meets her at an upscale brunch spot where he witnesses her complete lack of ethics (swapping champagne bottles, later throwing dog poop in a baby stroller). Despite her awful personality, Doogan uses his professional skills to get close to her. During a dog walk, Nancy casually admits the clinic's prescription fraud scheme—nurses forge prescriptions and use a pharmacy that doesn't care if signatures match.
 
+Meanwhile, Martinez inadvertently gives the team a new lead when he asks about Dr. Feldman, who's been missing. The team divides efforts: Eddie investigates the clinic and doctor's house, discovering Feldman hasn't been there in months and the house is packed up for fleeing. Criminal surveillance (Frank Charles with a mugshot) watches the house. Eddie eventually confronts Dr. Feldman, who reveals he was coerced by a criminal organization that now controls his clinic—he's just a signature. Patient files disappear and people he's never met end up dead.
+
+The team attempts a clinic break-in while Doogan distracts Nancy at dinner, but an alarm goes off. Doogan has to drive Nancy to the clinic and sacrifices himself (nurse uniform gambit) to get Eddie and Baxter out safely. Meanwhile, the pharmacy investigation reveals a sweet family business, not criminals—they're unwitting participants.
+
+The episode climaxes when Doogan cooks dinner for Nancy at his condo. She brings a bottle of white wine as a gift—Woodmark Vineyards. Both drink, Doogan blacks out, and wakes to Martinez's tap on his forehead: "We really should stop meeting this way, Mr. Andrews." Nancy is dead beside him. History repeats—Doogan framed for a second murder. The organization is eliminating loose ends while framing Doogan.
 
 ### Episode Arc
+**Day 1 (Sunday):** Brunch with Nancy → Team hits dead ends → Martinez reveals Feldman missing → Strategy session → Eddie investigates clinic (doctor absent) → Dog walk (prescription fraud reveal) → Eddie stakes out doctor's house (packed up, criminal surveillance) → Team plans clinic break-in
+
+**Day 2 (Monday):** Dinner alarm triggers clinic crisis → Doogan drives Nancy to clinic → Close call escape (nurse uniform gambit)
+
+**Day 3 (Tuesday):** Pharmacy investigation (sweet family business) → Frank Charles identified (criminal record) → Baxter's phone trick exposes Frank to Martinez → Eddie confronts Dr. Feldman (criminal organization revelation) → Doogan's dinner with Nancy → Both drugged with Woodmark Vineyards wine → Nancy dies, Doogan framed again
 
 ## Episode 5: The War of the Roses
 
